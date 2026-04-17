@@ -409,6 +409,10 @@
   preferCanvas: true
 }).setView([63.5, 11], 5);
 
+setTimeout(() => {
+  map.invalidateSize();
+}, 300);
+
   const markersLayer = L.markerClusterGroup({
     showCoverageOnHover: false,
     spiderfyOnMaxZoom: true,
