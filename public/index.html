@@ -405,12 +405,9 @@
     relativeUpdatedInterval: null
   };
 
-  const map = L.map('map').setView([63.5, 11], 5);
-
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors',
-    maxZoom: 19
-  }).addTo(map);
+  const map = L.map('map', {
+  preferCanvas: true
+}).setView([63.5, 11], 5);
 
   const markersLayer = L.markerClusterGroup({
     showCoverageOnHover: false,
