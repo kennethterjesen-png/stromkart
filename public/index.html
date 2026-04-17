@@ -2,6 +2,7 @@
 <html lang="no">
 <head>
   <meta charset="utf-8" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Strømkart</title>
 
@@ -406,8 +407,9 @@
 
   const map = L.map('map').setView([63.5, 11], 5);
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors'
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors',
+    maxZoom: 19
   }).addTo(map);
 
   const markersLayer = L.markerClusterGroup({
