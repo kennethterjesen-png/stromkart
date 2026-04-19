@@ -4,6 +4,8 @@ const tensio = require('./tensio');
 const bkk = require('./bkk');
 const linja = require('./linja');
 const lnett = require('./lnett');
+const arva = require('./arva');
+const fagne = require('./fagne');
 const norgesnett = require('./norgesnett');
 
 const providers = [
@@ -13,7 +15,9 @@ const providers = [
   bkk,
   linja,
   lnett,
-  norgesnett
+  norgesnett,
+  arva,
+  fagne,
 ];
 
 function isValidCoordinate(value) {

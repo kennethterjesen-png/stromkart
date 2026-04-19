@@ -4,6 +4,10 @@ const path = require('path');
 const { fetchAllOutages } = require('./providers/registry');
 
 const app = express();
+console.log('SERVER FILE:', __filename);
+console.log('SERVER DIR:', __dirname);
+console.log('STATIC PATH:', path.join(__dirname, 'public'));
+
 const PORT = process.env.PORT || 3000;
 const REFRESH_INTERVAL_MS = 60000;
 
@@ -69,6 +73,10 @@ app.get('/api/status', (req, res) => {
     lastRefreshOk,
     providers: providerStatus
   });
+});
+
+app.get('/ping', (req, res) => {
+  res.send('PING OK');
 });
 
 app.listen(PORT, async () => {
