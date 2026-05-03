@@ -3,19 +3,44 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Strømkart test</title>
+  <title>Strømkart</title>
 
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
 
   <style>
     html, body {
       margin: 0;
-      width: 100%;
       height: 100%;
+      font-family: Arial, sans-serif;
+      color: #222;
+      background: #f3f4f6;
+    }
+
+    .app {
+      display: flex;
+      height: 100vh;
+      width: 100%;
+      overflow: hidden;
+    }
+
+    #sidebar {
+      width: 420px;
+      min-width: 420px;
+      max-width: 420px;
+      overflow-y: auto;
+      padding: 12px;
+      background: #f5f5f5;
+      box-sizing: border-box;
+      border-right: 1px solid #ddd;
     }
 
     #map {
       flex: 1;
+      min-width: 0;
+      height: 100vh;
+      position: relative;
     }
 
     .panel {
@@ -35,7 +60,6 @@
     }
 
     .controls select,
-    .controls input,
     .controls button {
       width: 100%;
       padding: 8px;
@@ -56,7 +80,20 @@
       background: #fafafa;
     }
 
-    .stats,
+    .checkbox-row {
+      display: flex !important;
+      align-items: center;
+      gap: 8px;
+      margin: 10px 0 8px 0 !important;
+      font-weight: 600;
+    }
+
+    .checkbox-row input[type="checkbox"] {
+      width: auto;
+      margin: 0;
+      padding: 0;
+    }
+
     .status-line {
       font-size: 14px;
       color: #333;
@@ -120,7 +157,7 @@
     }
 
     .outage-item {
-      padding: 12px;
+      padding: 10px 12px;
     }
 
     .outage-header {
@@ -133,27 +170,28 @@
 
     .outage-company {
       font-weight: 700;
-      font-size: 15px;
+      font-size: 16px;
+      line-height: 1.2;
     }
 
     .outage-meta {
       display: flex;
       flex-wrap: wrap;
       gap: 6px;
-      margin: 6px 0;
+      margin: 8px 0 4px 0;
     }
 
     .outage-line {
-      font-size: 13px;
-      margin-top: 4px;
+      font-size: 14px;
+      margin-top: 2px;
       color: #333;
     }
 
     .outage-description {
-      margin-top: 8px;
-      font-size: 13px;
-      color: #555;
-      line-height: 1.35;
+      margin-top: 6px;
+      font-size: 12px;
+      color: #666;
+      line-height: 1.4;
     }
 
     .provider-ok {
@@ -262,6 +300,32 @@
       font-size: 13px;
     }
 
+    .toggle-sidebar-btn {
+      position: absolute;
+      top: 80px;
+      left: 12px;
+      z-index: 1000;
+      background: white;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 18px;
+      cursor: pointer;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+
+    .toggle-sidebar-btn:hover {
+      background: #f5f5f5;
+    }
+
+    .sidebar-hidden #sidebar {
+      display: none;
+    }
+
+    .sidebar-hidden #map {
+      width: 100%;
+    }
+
     h2, h3 {
       margin-top: 0;
       margin-bottom: 8px;
@@ -274,6 +338,8 @@
 
       #sidebar {
         width: 100%;
+        min-width: 100%;
+        max-width: 100%;
         height: 45vh;
         border-right: none;
         border-bottom: 1px solid #ddd;
@@ -281,6 +347,14 @@
 
       #map {
         height: 55vh;
+      }
+
+      .sidebar-hidden #sidebar {
+        display: none;
+      }
+
+      .sidebar-hidden #map {
+        height: 100vh;
       }
     }
   </style>
@@ -319,14 +393,19 @@
     </div>
 
     <div class="panel controls">
-      <h3>Filtre</h3>
+      <h3>Min posisjon</h3>
+      <button id="useMyLocationButton" type="button">Bruk min posisjon</button>
+      <label for="radiusFilter">Radius</label>
+      <select id="radiusFilter">
+        <option value="10">10 km</option>
+        <option value="20" selected>20 km</option>
+        <option value="30">30 km</option>
+      </select>
+      <div class="status-line" id="locationStatus">Posisjon ikke valgt</div>
+    </div>
 
-      <label for="searchFilter">Søk</label>
-      <input
-        type="text"
-        id="searchFilter"
-        placeholder="Søk etter selskap, område eller sted"
-      />
+    <div class="panel controls">
+      <h3>Filtre</h3>
 
       <label for="companyFilter">Nettselskap</label>
       <select id="companyFilter">
@@ -348,6 +427,11 @@
         <option value="area_asc">Område A–Å</option>
       </select>
 
+      <label for="hidePlannedFilter" class="checkbox-row">
+        <input type="checkbox" id="hidePlannedFilter" />
+        <span>Ikke vis planlagte brudd</span>
+      </label>
+
       <button id="resetFilters" type="button">Nullstill filtre</button>
     </div>
 
@@ -364,10 +448,14 @@
     <div id="list"></div>
   </div>
 
-  <div id="map"></div>
+  <div id="map">
+    <button id="toggleSidebarButton" class="toggle-sidebar-btn" type="button">☰</button>
+  </div>
 </div>
 
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+
 <script>
   const STORAGE_KEY = 'strombruddFilters';
 
@@ -377,17 +465,26 @@
     filters: {
       company: 'all',
       type: 'all',
-      search: '',
-      sort: 'customers_desc'
+      sort: 'customers_desc',
+      hidePlanned: false
     },
     hasAutoFitRun: false,
-    relativeUpdatedInterval: null
+    relativeUpdatedInterval: null,
+    userLocation: null,
+    radiusKm: 20,
+    locationFilterEnabled: false
   };
+
+  const markerMap = {};
+  let userLocationMarker = null;
+  let userLocationCircle = null;
 
   const map = L.map('map').setView([63.5, 11], 5);
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors'
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    subdomains: 'abcd',
+    maxZoom: 20,
+    attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
   }).addTo(map);
 
   const markersLayer = L.markerClusterGroup({
@@ -398,10 +495,17 @@
 
   map.addLayer(markersLayer);
 
+  const appContainer = document.querySelector('.app');
+  const toggleSidebarButton = document.getElementById('toggleSidebarButton');
+
+  const useMyLocationButton = document.getElementById('useMyLocationButton');
+  const radiusFilter = document.getElementById('radiusFilter');
+  const locationStatusDiv = document.getElementById('locationStatus');
+
   const companyFilter = document.getElementById('companyFilter');
   const typeFilter = document.getElementById('typeFilter');
   const sortFilter = document.getElementById('sortFilter');
-  const searchFilter = document.getElementById('searchFilter');
+  const hidePlannedFilter = document.getElementById('hidePlannedFilter');
   const resetFiltersButton = document.getElementById('resetFilters');
 
   const listDiv = document.getElementById('list');
@@ -450,11 +554,7 @@
   function getDescriptionSnippet(outage, maxLength = 160) {
     const description = getDescriptionText(outage);
     if (!description) return '';
-
-    if (description.length <= maxLength) {
-      return description;
-    }
-
+    if (description.length <= maxLength) return description;
     return `${description.slice(0, maxLength)}...`;
   }
 
@@ -479,17 +579,102 @@
     `;
   }
 
+  function getDistanceKm(lat1, lng1, lat2, lng2) {
+    const toRad = (deg) => (deg * Math.PI) / 180;
+    const R = 6371;
+    const dLat = toRad(lat2 - lat1);
+    const dLng = toRad(lng2 - lng1);
+
+    const a =
+      Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+      Math.cos(toRad(lat1)) *
+        Math.cos(toRad(lat2)) *
+        Math.sin(dLng / 2) *
+        Math.sin(dLng / 2);
+
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    return R * c;
+  }
+
+  function renderUserLocation() {
+    if (userLocationMarker) {
+      map.removeLayer(userLocationMarker);
+      userLocationMarker = null;
+    }
+
+    if (userLocationCircle) {
+      map.removeLayer(userLocationCircle);
+      userLocationCircle = null;
+    }
+
+    if (!state.locationFilterEnabled || !state.userLocation) return;
+
+    const { lat, lng } = state.userLocation;
+    const radiusMeters = state.radiusKm * 1000;
+
+    userLocationMarker = L.circleMarker([lat, lng], {
+      radius: 8,
+      color: '#1565c0',
+      fillColor: '#1565c0',
+      fillOpacity: 1,
+      weight: 2
+    }).addTo(map);
+
+    userLocationMarker.bindPopup('Din posisjon');
+
+    userLocationCircle = L.circle([lat, lng], {
+      radius: radiusMeters,
+      color: '#1565c0',
+      fillColor: '#1565c0',
+      fillOpacity: 0.08,
+      weight: 2
+    }).addTo(map);
+  }
+
+  function useMyLocation() {
+    if (!navigator.geolocation) {
+      locationStatusDiv.textContent = 'Posisjon støttes ikke i denne nettleseren';
+      return;
+    }
+
+    locationStatusDiv.textContent = 'Henter posisjon...';
+
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const lat = position.coords.latitude;
+        const lng = position.coords.longitude;
+
+        state.userLocation = { lat, lng };
+        state.locationFilterEnabled = true;
+        state.radiusKm = Number(radiusFilter.value) || 20;
+
+        locationStatusDiv.textContent = `Posisjon valgt (${state.radiusKm} km radius)`;
+        renderUserLocation();
+        map.setView([lat, lng], 10);
+        render();
+      },
+      (error) => {
+        locationStatusDiv.textContent = 'Kunne ikke hente posisjon';
+        console.error('Geolocation-feil:', error);
+      },
+      {
+        enableHighAccuracy: true,
+        timeout: 10000,
+        maximumAge: 60000
+      }
+    );
+  }
+
   function loadSavedFilters() {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return;
 
     try {
       const parsed = JSON.parse(raw);
-
       state.filters.company = parsed.company || 'all';
       state.filters.type = parsed.type || 'all';
-      state.filters.search = parsed.search || '';
       state.filters.sort = parsed.sort || 'customers_desc';
+      state.filters.hidePlanned = parsed.hidePlanned || false;
     } catch (error) {
       console.warn('Kunne ikke lese lagrede filtre:', error);
     }
@@ -502,11 +687,13 @@
   function applyFiltersToControls() {
     companyFilter.value = state.filters.company;
     typeFilter.value = state.filters.type;
-    searchFilter.value = state.filters.search;
     sortFilter.value = state.filters.sort;
+    hidePlannedFilter.checked = state.filters.hidePlanned;
   }
 
   function populateCompanyFilter(outages) {
+    const currentValue = state.filters.company || 'all';
+
     const companies = [...new Set(outages.map(o => o.company).filter(Boolean))].sort((a, b) =>
       String(a).localeCompare(String(b), 'no')
     );
@@ -520,7 +707,9 @@
       companyFilter.appendChild(option);
     });
 
-    if (state.filters.company !== 'all' && !companies.includes(state.filters.company)) {
+    if (currentValue !== 'all' && companies.includes(currentValue)) {
+      state.filters.company = currentValue;
+    } else if (currentValue !== 'all') {
       state.filters.company = 'all';
       saveFilters();
     }
@@ -539,22 +728,24 @@
       result = result.filter((o) => o.type === state.filters.type);
     }
 
-    const q = state.filters.search.trim().toLowerCase();
-    if (q) {
-      result = result.filter((o) => {
-        const haystack = [
-          o.company,
-          o.areaName,
-          o.customers,
-          o.start,
-          o.end,
-          o.raw?.description
-        ]
-          .filter(Boolean)
-          .join(' ')
-          .toLowerCase();
+    if (state.filters.hidePlanned) {
+      result = result.filter((o) => o.type !== 'planned');
+    }
 
-        return haystack.includes(q);
+    if (state.locationFilterEnabled && state.userLocation) {
+      result = result.filter((o) => {
+        const lat = Number(o.lat);
+        const lng = Number(o.lng);
+        if (!Number.isFinite(lat) || !Number.isFinite(lng)) return false;
+
+        const distanceKm = getDistanceKm(
+          state.userLocation.lat,
+          state.userLocation.lng,
+          lat,
+          lng
+        );
+
+        return distanceKm <= state.radiusKm;
       });
     }
 
@@ -580,17 +771,10 @@
   function renderActiveFilters() {
     const filters = [];
 
-    if (state.filters.company !== 'all') {
-      filters.push(`Nettselskap: ${state.filters.company}`);
-    }
-
-    if (state.filters.type !== 'all') {
-      filters.push(`Type: ${state.filters.type === 'planned' ? 'Planlagt' : 'Pågående'}`);
-    }
-
-    if (state.filters.search.trim() !== '') {
-      filters.push(`Søk: "${state.filters.search.trim()}"`);
-    }
+    if (state.filters.company !== 'all') filters.push(`Nettselskap: ${state.filters.company}`);
+    if (state.filters.type !== 'all') filters.push(`Type: ${state.filters.type === 'planned' ? 'Planlagt' : 'Pågående'}`);
+    if (state.filters.hidePlanned) filters.push('Skjul planlagte brudd');
+    if (state.locationFilterEnabled && state.userLocation) filters.push(`Nær meg: ${state.radiusKm} km`);
 
     if (filters.length === 0) {
       filterActiveIndicator.style.display = 'none';
@@ -604,12 +788,16 @@
   function renderProviderStatus(providers) {
     providerListDiv.innerHTML = '';
 
-    if (!providers.length) {
+    const sortedProviders = [...providers].sort((a, b) =>
+      String(a.name || '').localeCompare(String(b.name || ''), 'no')
+    );
+
+    if (!sortedProviders.length) {
       providerListDiv.innerHTML = '<div class="muted">Ingen providerstatus tilgjengelig</div>';
       return;
     }
 
-    providers.forEach((provider) => {
+    sortedProviders.forEach((provider) => {
       const item = document.createElement('div');
       item.className = `provider-item ${provider.ok ? 'provider-ok' : 'provider-fail'}`;
 
@@ -619,26 +807,16 @@
       const filteredOut = Number(provider.filteredOut || 0);
 
       let details = `${formatNumber(safeCount)} vist`;
-      if (rawCount > 0) {
-        details += ` av ${formatNumber(rawCount)} hentet`;
-      }
+      if (rawCount > 0) details += ` av ${formatNumber(rawCount)} hentet`;
 
       item.innerHTML = `
         <div><b>${safeName}</b></div>
         <div class="muted">${details}</div>
-        ${
-          filteredOut > 0
-            ? `<div class="muted">Filtrert bort: ${formatNumber(filteredOut)}</div>`
-            : ''
-        }
+        ${filteredOut > 0 ? `<div class="muted">Filtrert bort: ${formatNumber(filteredOut)}</div>` : ''}
         <div class="badge ${provider.ok ? 'badge-ok' : 'badge-fail'}">
           ${provider.ok ? 'OK' : 'FEIL'}
         </div>
-        ${
-          provider.warning
-            ? '<div class="error-text">Ingen brukbare hendelser etter filtrering</div>'
-            : ''
-        }
+        ${provider.warning ? '<div class="error-text">Ingen brukbare hendelser etter filtrering</div>' : ''}
         ${provider.error ? `<div class="error-text">${provider.error}</div>` : ''}
       `;
 
@@ -673,7 +851,7 @@
       item.innerHTML = `
         <b>${safeText(o.company)}</b><br>
         <span class="muted">${safeText(o.areaName)}</span><br>
-        👥 ${formatNumber(o.customers)}
+        ${formatNumber(o.customers)} kunder
       `;
 
       item.onclick = () => {
@@ -682,6 +860,8 @@
 
         if (Number.isFinite(lat) && Number.isFinite(lng)) {
           map.setView([lat, lng], 12);
+          const marker = markerMap[o.id];
+          if (marker) marker.openPopup();
         }
       };
 
@@ -719,20 +899,19 @@
           <div class="outage-company">${safeText(o.company)}</div>
           <span class="badge badge-type ${getTypeBadgeClass(o.type)}">${formatTypeLabel(o.type)}</span>
         </div>
-
-        <div class="outage-line"><strong>Område:</strong> ${safeText(o.areaName)}</div>
-
+        <div class="outage-line">${safeText(o.areaName)}</div>
         <div class="outage-meta">
-          <span class="badge badge-customers">👥 ${formatNumber(o.customers)} kunder</span>
-          <span class="badge badge-time">🕒 ${safeText(o.start)}</span>
+          <span class="badge badge-customers">${formatNumber(o.customers)} kunder</span>
+          <span class="badge badge-time">${safeText(o.start)}</span>
         </div>
-
         ${descriptionSnippet ? `<div class="outage-description">${safeText(descriptionSnippet)}</div>` : ''}
       `;
 
       item.onclick = () => {
         if (Number.isFinite(lat) && Number.isFinite(lng)) {
           map.setView([lat, lng], 12);
+          const marker = markerMap[o.id];
+          if (marker) marker.openPopup();
         }
       };
 
@@ -744,27 +923,27 @@
     const { autoFit = false } = options;
 
     markersLayer.clearLayers();
+    Object.keys(markerMap).forEach((key) => delete markerMap[key]);
 
     const bounds = [];
 
     filtered.forEach((o) => {
       const lat = Number(o.lat);
       const lng = Number(o.lng);
-
       if (!Number.isFinite(lat) || !Number.isFinite(lng)) return;
 
       const color = o.type === 'planned' ? 'orange' : 'red';
 
       const marker = L.circleMarker([lat, lng], {
-        radius: 8,
+        radius: o.type === 'planned' ? 6 : 9,
         color,
         fillColor: color,
-        fillOpacity: 1,
+        fillOpacity: o.type === 'planned' ? 0.6 : 1,
         weight: 2
       });
 
+      markerMap[o.id] = marker;
       marker.bindPopup(buildPopupHtml(o));
-
       markersLayer.addLayer(marker);
       bounds.push([lat, lng]);
     });
@@ -781,6 +960,7 @@
     renderTopList(filtered);
     renderList(filtered);
     renderMap(filtered, options);
+    renderUserLocation();
   }
 
   function getRelativeTimeText(value) {
@@ -824,7 +1004,7 @@
 
   async function loadStatus() {
     try {
-      const response = await fetch('/api/status');
+      const response = await fetch('data/status.json');
       state.latestStatus = await response.json();
 
       if (state.latestStatus.lastUpdated) {
@@ -854,7 +1034,7 @@
     try {
       refreshStatusDiv.textContent = 'Oppdaterer data...';
 
-      const response = await fetch('/api/outages');
+      const response = await fetch('data/outages.json');
       const data = await response.json();
 
       if (Array.isArray(data)) {
@@ -865,6 +1045,8 @@
         state.outages = [];
       }
 
+      await loadStatus();
+
       populateCompanyFilter(state.outages);
       applyFiltersToControls();
 
@@ -874,20 +1056,42 @@
       if (shouldAutoFit) {
         state.hasAutoFitRun = true;
       }
-
-      await loadStatus();
     } catch (error) {
       console.error('Feil ved henting av data:', error);
       state.outages = [];
       statsDiv.textContent = 'Kunne ikke hente data';
       listDiv.innerHTML = '<div class="empty-state">Kunne ikke hente strømbrudd akkurat nå.</div>';
       topListDiv.innerHTML = '<div class="muted">Ingen hendelser</div>';
+      providerListDiv.innerHTML = '<div class="muted">Kunne ikke hente providerstatus</div>';
       markersLayer.clearLayers();
       refreshStatusDiv.textContent = 'Siste oppdatering: FEIL';
     }
   }
 
   function bindFilterControls() {
+    if (toggleSidebarButton && appContainer) {
+      toggleSidebarButton.addEventListener('click', () => {
+        appContainer.classList.toggle('sidebar-hidden');
+        setTimeout(() => {
+          map.invalidateSize();
+        }, 200);
+      });
+    }
+
+    useMyLocationButton.addEventListener('click', () => {
+      useMyLocation();
+    });
+
+    radiusFilter.addEventListener('change', () => {
+      state.radiusKm = Number(radiusFilter.value) || 20;
+
+      if (state.locationFilterEnabled && state.userLocation) {
+        locationStatusDiv.textContent = `Posisjon valgt (${state.radiusKm} km radius)`;
+        renderUserLocation();
+        render();
+      }
+    });
+
     companyFilter.addEventListener('change', () => {
       state.filters.company = companyFilter.value;
       saveFilters();
@@ -906,8 +1110,8 @@
       render();
     });
 
-    searchFilter.addEventListener('input', () => {
-      state.filters.search = searchFilter.value;
+    hidePlannedFilter.addEventListener('change', () => {
+      state.filters.hidePlanned = hidePlannedFilter.checked;
       saveFilters();
       render();
     });
@@ -916,9 +1120,15 @@
       state.filters = {
         company: 'all',
         type: 'all',
-        search: '',
-        sort: 'customers_desc'
+        sort: 'customers_desc',
+        hidePlanned: false
       };
+
+      state.userLocation = null;
+      state.radiusKm = 20;
+      state.locationFilterEnabled = false;
+      radiusFilter.value = '20';
+      locationStatusDiv.textContent = 'Posisjon ikke valgt';
 
       saveFilters();
       applyFiltersToControls();
