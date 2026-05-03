@@ -7,6 +7,8 @@ const lnett = require('./lnett');
 const arva = require('./arva');
 const fagne = require('./fagne');
 const norgesnett = require('./norgesnett');
+const vestmar = require('./vestmar');
+const eidefoss = require('./eidefoss');
 
 const providers = [
   elvia,
@@ -18,6 +20,8 @@ const providers = [
   norgesnett,
   arva,
   fagne,
+  vestmar, 
+  eidefoss,
 ];
 
 function isValidCoordinate(value) {
@@ -32,6 +36,57 @@ function normalizeString(value, fallback = '') {
 function normalizeNumber(value, fallback = 0) {
   const num = Number(value);
   return Number.isFinite(num) ? num : fallback;
+}
+
+function normalizeDateValue(value) {
+  if (value == null || value === '') {
+    return null;
+  }
+
+  if (value instanceof Date) {
+    if (Number.isNaN(value.getTime())) return null;
+    return value.toLocaleString('no-NO');
+  }
+
+  if (typeof value === 'number') {
+    const date = new Date(value);
+    if (Number.isNaN(date.getTime())) return null;
+    return date.toLocaleString('no-NO');
+  }
+
+  const str = String(value).trim();
+  if (!str) return null;
+
+  // ISO/UTC og andre gyldige datoformater
+  const parsed = new Date(str);
+  if (!Number.isNaN(parsed.getTime())) {
+    return parsed.toLocaleString('no-NO');
+  }
+
+  return null;
+}
+
+function normalizeType(value) {
+  const raw = normalizeString(value, 'outage').toLowerCase();
+
+  if (
+    raw === 'planned' ||
+    raw.includes('plan') ||
+    raw.includes('utkobling')
+  ) {
+    return 'planned';
+  }
+
+  if (
+    raw === 'outage' ||
+    raw.includes('driftsforstyrrelse') ||
+    raw.includes('feil') ||
+    raw.includes('avbrudd')
+  ) {
+    return 'outage';
+  }
+
+  return 'outage';
 }
 
 function isValidOutage(outage) {
@@ -51,18 +106,30 @@ function normalizeOutage(outage) {
     return null;
   }
 
+  const raw = outage.raw && typeof outage.raw === 'object' ? outage.raw : {};
+
+  const areaName =
+    normalizeString(outage.areaName) ||
+    normalizeString(raw.MUNICIPAL_TXT) ||
+    normalizeString(raw.municipal) ||
+    normalizeString(raw.PURCHAREA_TXT) ||
+    normalizeString(raw.purcharea) ||
+    normalizeString(raw.NAME) ||
+    normalizeString(raw.name) ||
+    'Ukjent område';
+
   const normalized = {
     id: normalizeString(outage.id),
     company: normalizeString(outage.company),
-    type: normalizeString(outage.type, 'outage'),
+    type: normalizeType(outage.type),
     customers: normalizeNumber(outage.customers, 0),
     lat: Number(outage.lat),
     lng: Number(outage.lng),
-    start: outage.start || null,
-    end: outage.end || null,
-    areaName: normalizeString(outage.areaName),
+    start: normalizeDateValue(outage.start),
+    end: normalizeDateValue(outage.end),
+    areaName,
     sourceUrl: normalizeString(outage.sourceUrl),
-    raw: outage.raw && typeof outage.raw === 'object' ? outage.raw : {}
+    raw
   };
 
   if (!isValidOutage(normalized)) {

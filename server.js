@@ -52,9 +52,13 @@ async function refreshOutages() {
     lastRefreshOk = true;
 
     console.log(`Oppdatert totalt: ${outagesCache.length} hendelser`);
+
+    return outagesCache;
   } catch (error) {
     lastRefreshOk = false;
     console.error('Feil i refreshOutages:', error.message);
+
+    return [];
   }
 }
 
@@ -79,12 +83,32 @@ app.get('/ping', (req, res) => {
   res.send('PING OK');
 });
 
-app.listen(PORT, async () => {
-  console.log(`Server kjører på http://localhost:${PORT}`);
+async function main() {
+  console.log("Henter strømbrudd-data...");
 
-  await refreshOutages();
+  const data = await refreshOutages();
 
-  setInterval(() => {
-    refreshOutages();
-  }, REFRESH_INTERVAL_MS);
-});
+  const fs = require("fs");
+  const path = require("path");
+
+  const filePath = path.join(__dirname, "public", "data", "outages.json");
+
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+
+const statusPath = path.join(__dirname, "public", "data", "status.json");
+
+const status = {
+  ok: true,
+  updatedAt: new Date().toISOString(),
+  count: Array.isArray(data) ? data.length : 0
+};
+
+fs.writeFileSync(statusPath, JSON.stringify(status, null, 2));
+
+console.log("Lagret til public/data/outages.json");
+console.log("Lagret til public/data/status.json");
+}
+
+if (require.main === module) {
+  main();
+}
