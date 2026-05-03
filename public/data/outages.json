@@ -55,29 +55,6 @@
     }
   },
   {
-    "id": "elvia-23926",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.820094492429476,
-    "lng": 10.804389343769573,
-    "start": "3.5.2026, 22:01:47",
-    "end": "4.5.2026, 01:37:47",
-    "areaName": "Nordre Follo / Kolbotn / O0229",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23926,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nordre Follo",
-      "nettstasjon": "O0229",
-      "poststed": "Kolbotn",
-      "strombruddoppdaget": 1777845707000,
-      "utkoblingslutt": 1777858667000,
-      "utkoblingstart": 1777845707000
-    }
-  },
-  {
     "id": "linja-planned-3242048",
     "company": "Linja",
     "type": "planned",
