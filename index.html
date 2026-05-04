@@ -985,10 +985,10 @@
     return `Oppdatert for ${diffDays} dager siden`;
   }
 
-  function updateRelativeUpdated() {
-    const timestamp = state.latestStatus?.lastUpdated || null;
-    relativeUpdatedDiv.textContent = getRelativeTimeText(timestamp);
-  }
+ function updateRelativeUpdated() {
+  const timestamp = state.latestStatus?.updatedAt || null;
+  relativeUpdatedDiv.textContent = getRelativeTimeText(timestamp);
+}
 
   function startRelativeUpdatedTimer() {
     if (state.relativeUpdatedInterval) {
@@ -1007,11 +1007,11 @@
       const response = await fetch('data/status.json');
       state.latestStatus = await response.json();
 
-      if (state.latestStatus.lastUpdated) {
-        lastUpdatedDiv.textContent = `Sist oppdatert: ${formatDateTime(state.latestStatus.lastUpdated)}`;
-      } else {
-        lastUpdatedDiv.textContent = 'Sist oppdatert: -';
-      }
+     if (state.latestStatus.updatedAt) {
+  lastUpdatedDiv.textContent = `Sist oppdatert: ${formatDateTime(state.latestStatus.updatedAt)}`;
+} else {
+  lastUpdatedDiv.textContent = 'Sist oppdatert: -';
+}
 
       updateRelativeUpdated();
       startRelativeUpdatedTimer();
