@@ -1004,7 +1004,7 @@
 
   async function loadStatus() {
     try {
-      const response = await fetch('data/status.json');
+      const response = await fetch(`data/status.json?v=${Date.now()}`);
       state.latestStatus = await response.json();
 
      if (state.latestStatus.updatedAt) {
@@ -1034,7 +1034,7 @@
     try {
       refreshStatusDiv.textContent = 'Oppdaterer data...';
 
-      const response = await fetch('data/outages.json');
+      const response = await fetch(`data/outages.json?v=${Date.now()}`)
       const data = await response.json();
 
       if (Array.isArray(data)) {
