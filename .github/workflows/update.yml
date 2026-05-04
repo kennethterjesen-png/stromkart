@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add public/data/outages.json public/data/status.json
+          git add data/outages.json data/status.json
           git commit -m "Update outage data" || echo "No changes"
           git push
