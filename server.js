@@ -1,18 +1,19 @@
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
+const fs = require('fs');
 const { fetchAllOutages } = require('./providers/registry');
 
 const app = express();
+
 console.log('SERVER FILE:', __filename);
 console.log('SERVER DIR:', __dirname);
-console.log('STATIC PATH:', path.join(__dirname, 'public'));
+console.log('STATIC PATH:', __dirname);
 
 const PORT = process.env.PORT || 3000;
-const REFRESH_INTERVAL_MS = 60000;
 
 app.use(cors({ origin: '*' }));
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(__dirname));
 
 let outagesCache = [];
 let lastUpdated = null;
@@ -44,7 +45,9 @@ async function refreshOutages() {
     const result = await fetchAllOutages();
 
     const outages = normalizeOutages(result?.outages);
-    const providers = Array.isArray(result?.providerStatus) ? result.providerStatus : [];
+    const providers = Array.isArray(result?.providerStatus)
+      ? result.providerStatus
+      : [];
 
     outagesCache = sortOutages(outages);
     providerStatus = providers;
@@ -72,9 +75,9 @@ app.get('/api/outages', (req, res) => {
 
 app.get('/api/status', (req, res) => {
   res.json({
+    ok: lastRefreshOk,
     count: outagesCache.length,
-    lastUpdated,
-    lastRefreshOk,
+    updatedAt: lastUpdated,
     providers: providerStatus
   });
 });
@@ -84,29 +87,28 @@ app.get('/ping', (req, res) => {
 });
 
 async function main() {
-  console.log("Henter strømbrudd-data...");
+  console.log('Henter strømbrudd-data...');
 
   const data = await refreshOutages();
 
-  const fs = require("fs");
-  const path = require("path");
+  const dataDir = path.join(__dirname, 'data');
+  fs.mkdirSync(dataDir, { recursive: true });
 
-  const filePath = path.join(__dirname, "public", "data", "outages.json");
+  const outagesPath = path.join(dataDir, 'outages.json');
+  const statusPath = path.join(dataDir, 'status.json');
 
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+  const status = {
+    ok: lastRefreshOk,
+    updatedAt: lastUpdated,
+    count: Array.isArray(data) ? data.length : 0,
+    providers: providerStatus
+  };
 
-const statusPath = path.join(__dirname, "public", "data", "status.json");
+  fs.writeFileSync(outagesPath, JSON.stringify(data, null, 2));
+  fs.writeFileSync(statusPath, JSON.stringify(status, null, 2));
 
-const status = {
-  ok: true,
-  updatedAt: new Date().toISOString(),
-  count: Array.isArray(data) ? data.length : 0
-};
-
-fs.writeFileSync(statusPath, JSON.stringify(status, null, 2));
-
-console.log("Lagret til public/data/outages.json");
-console.log("Lagret til public/data/status.json");
+  console.log('Lagret til data/outages.json');
+  console.log('Lagret til data/status.json');
 }
 
 if (require.main === module) {

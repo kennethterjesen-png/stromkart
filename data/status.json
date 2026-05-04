@@ -1,5 +1,106 @@
 {
   "ok": true,
-  "updatedAt": "2026-05-03T23:23:47.554Z",
-  "count": 38
+  "updatedAt": "2026-05-04T00:35:55.923Z",
+  "count": 38,
+  "providers": [
+    {
+      "name": "Elvia",
+      "ok": true,
+      "count": 1,
+      "rawCount": 1,
+      "filteredOut": 0,
+      "warning": false,
+      "error": null
+    },
+    {
+      "name": "Glitre Nett",
+      "ok": true,
+      "count": 0,
+      "rawCount": 0,
+      "filteredOut": 0,
+      "warning": false,
+      "error": null
+    },
+    {
+      "name": "Tensio",
+      "ok": true,
+      "count": 0,
+      "rawCount": 0,
+      "filteredOut": 0,
+      "warning": false,
+      "error": null
+    },
+    {
+      "name": "BKK",
+      "ok": true,
+      "count": 1,
+      "rawCount": 1,
+      "filteredOut": 0,
+      "warning": false,
+      "error": null
+    },
+    {
+      "name": "Linja",
+      "ok": true,
+      "count": 18,
+      "rawCount": 18,
+      "filteredOut": 0,
+      "warning": false,
+      "error": null
+    },
+    {
+      "name": "Lnett",
+      "ok": true,
+      "count": 0,
+      "rawCount": 0,
+      "filteredOut": 0,
+      "warning": false,
+      "error": null
+    },
+    {
+      "name": "Norgesnett",
+      "ok": true,
+      "count": 18,
+      "rawCount": 19,
+      "filteredOut": 1,
+      "warning": false,
+      "error": null
+    },
+    {
+      "name": "Arva",
+      "ok": true,
+      "count": 0,
+      "rawCount": 0,
+      "filteredOut": 0,
+      "warning": false,
+      "error": null
+    },
+    {
+      "name": "Fagne",
+      "ok": true,
+      "count": 0,
+      "rawCount": 0,
+      "filteredOut": 0,
+      "warning": false,
+      "error": null
+    },
+    {
+      "name": "Vestmar Nett",
+      "ok": true,
+      "count": 0,
+      "rawCount": 0,
+      "filteredOut": 0,
+      "warning": false,
+      "error": null
+    },
+    {
+      "name": "Eidefoss",
+      "ok": true,
+      "count": 0,
+      "rawCount": 0,
+      "filteredOut": 0,
+      "warning": false,
+      "error": null
+    }
+  ]
 }
