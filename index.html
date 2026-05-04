@@ -1017,8 +1017,8 @@
       startRelativeUpdatedTimer();
 
       refreshStatusDiv.textContent = state.latestStatus.ok
-  ? 'Siste oppdatering: OK'
-  : 'Siste oppdatering: FEIL';
+      ? 'Status: OK'
+      : 'Status: FEIL';
 
       renderProviderStatus([]);
     } catch (error) {
