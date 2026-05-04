@@ -1020,7 +1020,7 @@
   ? 'Siste oppdatering: OK'
   : 'Siste oppdatering: FEIL';
 
-      renderProviderStatus(state.latestStatus.providers || []);
+      renderProviderStatus([]);
     } catch (error) {
       state.latestStatus = null;
       lastUpdatedDiv.textContent = 'Sist oppdatert: -';
