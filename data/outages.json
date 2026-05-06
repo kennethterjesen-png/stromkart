@@ -4,38 +4,6 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.59624932735874,
-    "lng": 5.381172560337214,
-    "start": null,
-    "end": null,
-    "areaName": "Alver",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9630670,
-      "MUNICIPAL_TXT": "Alver",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1778099400000,
-      "TIMELIMIT": 1778108400000,
-      "NUM_AB": 36,
-      "CUSTOMER_WEB_TEXT": "5913 EIKANGERVÅG; FYLLINGSNESVEGEN\r\n5915 HJELMÅS; SAUVÅGEN,KNAPPEN\r\n5994 VIKANES; OSTERFJORDVEGEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 3,
-      "LAST_UPDATED": 1778099577000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 6,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
     "lat": 60.40060043778652,
     "lng": 5.3149826885303595,
     "start": null,
@@ -64,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-8419",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 144,
+    "lat": 59.93629014458468,
+    "lng": 10.652847969570383,
+    "start": "6.5.2026, 06:00:00",
+    "end": "8.5.2026, 04:30:00",
+    "areaName": "Oslo / Oslo / 4124",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8419,
+      "antallkunder": 144,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "4124",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1778105155525,
+      "utkoblingslutt": 1778214600000,
+      "utkoblingstart": 1778047200000
+    }
+  },
+  {
     "id": "elvia-26426",
     "company": "Elvia",
     "type": "planned",
@@ -84,6 +75,52 @@
       "strombruddoppdaget": 1778082306000,
       "utkoblingslutt": 1778095266000,
       "utkoblingstart": 1778082306000
+    }
+  },
+  {
+    "id": "elvia-26560",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.53372428124792,
+    "lng": 10.758797560142224,
+    "start": "6.5.2026, 22:01:00",
+    "end": "7.5.2026, 04:00:00",
+    "areaName": "Vestby / Hølen / V0207",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26560,
+      "antallkunder": 6,
+      "avbruddstype": "Planned",
+      "kommune": "Vestby",
+      "nettstasjon": "V0207",
+      "poststed": "Hølen",
+      "strombruddoppdaget": 1778105011660,
+      "utkoblingslutt": 1778126400000,
+      "utkoblingstart": 1778104860000
+    }
+  },
+  {
+    "id": "elvia-26592",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.53673880227108,
+    "lng": 10.760892239540217,
+    "start": "6.5.2026, 22:01:00",
+    "end": "7.5.2026, 04:00:00",
+    "areaName": "Vestby / Hølen / V0245",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26592,
+      "antallkunder": 7,
+      "avbruddstype": "Planned",
+      "kommune": "Vestby",
+      "nettstasjon": "V0245",
+      "poststed": "Hølen",
+      "strombruddoppdaget": 1778105011660,
+      "utkoblingslutt": 1778126400000,
+      "utkoblingstart": 1778104860000
     }
   },
   {
@@ -420,40 +457,6 @@
       "MUNICIPAL_TXT": "STRANDA",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-5",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 32,
-    "lat": 58.94694871778767,
-    "lng": 5.722477832568421,
-    "start": "5.5.2026, 08:00:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 32",
-      "description": "Rettet\nStartet: 2026-05-05 08:00\nSluttid: 2026-05-05 15:22\nPlanlagt strømstans.",
-      "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-outage-7",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 10,
-    "lat": 58.86157314346906,
-    "lng": 5.745201039833682,
-    "start": "6.5.2026, 19:10:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 10",
-      "description": "Driftsforstyrrelse\nStartet: 2026-05-06 19:10\nGraveskade. Montører er i gang med feilretting, estimert at strømmen skal være tilbake innen kl 23:59 i kveld.",
-      "styleUrl": "#red"
     }
   },
   {
