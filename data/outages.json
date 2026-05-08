@@ -87,22 +87,27 @@
     }
   },
   {
-    "id": "fagne-4427980",
-    "company": "Fagne",
+    "id": "linja-outage-3260021",
+    "company": "Linja",
     "type": "outage",
-    "customers": 17,
-    "lat": 59.2261687606943,
-    "lng": 5.199202957107824,
-    "start": "5.8.2026, 15:06:00",
-    "end": "5.8.2026, 18:00:00",
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "customers": 70,
+    "lat": 62.11310152342471,
+    "lng": 5.205195512443007,
+    "start": "8.5.2026, 18:08:00",
+    "end": null,
+    "areaName": "STAD",
+    "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
+      "EVENTID": 3260021,
+      "CUSTOMER_WEB_TEXT": null,
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1778263680000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "STAD",
+      "PURCHAREA_TXT": null,
+      "NUM_NS": 6,
+      "NUM_AB": 70
     }
   },
   {
@@ -882,6 +887,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70439-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2812-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 18,
+    "lat": 59.86246170700002,
+    "lng": 10.666460874999984,
+    "start": "13.5.2026, 07:00:00",
+    "end": "13.5.2026, 13:00:00",
+    "areaName": "TANGEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1216921,
+      "REFNR": "PL2812",
+      "SEKUNDÆRSTASJON": "TANGEN",
+      "AVGANG": "L5",
+      "CNT": 18,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1778655600000,
+      "TIL_DATO": 1778677200000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2812-1",
       "description": ""
     }
   },
