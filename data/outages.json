@@ -87,22 +87,49 @@
     }
   },
   {
-    "id": "fagne-4415125",
-    "company": "Fagne",
+    "id": "elvia-6419",
+    "company": "Elvia",
     "type": "planned",
-    "customers": 11,
-    "lat": 59.27715549396011,
-    "lng": 5.534396504791285,
-    "start": "5.9.2026, 10:00:00",
-    "end": "5.9.2026, 12:00:00",
-    "areaName": "TYSVÆR",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "customers": 12,
+    "lat": 59.922058562635,
+    "lng": 10.726140152279148,
+    "start": "9.5.2026, 11:45:00",
+    "end": "9.5.2026, 15:21:00",
+    "areaName": "Oslo / Oslo / 1075",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "TYSVÆR",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
+      "OBJECTID": 6419,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "1075",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1778327100000,
+      "utkoblingslutt": 1778340060000,
+      "utkoblingstart": 1778327100000
+    }
+  },
+  {
+    "id": "elvia-17310",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 36,
+    "lat": 60.26801253973759,
+    "lng": 12.120799726380856,
+    "start": "9.5.2026, 14:25:44",
+    "end": "9.5.2026, 18:01:44",
+    "areaName": "Kongsvinger / Hokkåsen / ENS07786",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17310,
+      "antallkunder": 36,
+      "avbruddstype": "Unplanned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS07786",
+      "poststed": "Hokkåsen",
+      "strombruddoppdaget": 1778336744000,
+      "utkoblingslutt": 1778349704000,
+      "utkoblingstart": 1778336744000
     }
   },
   {
@@ -439,23 +466,6 @@
       "MUNICIPAL_TXT": "HERØY",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-3",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 5,
-    "lat": 58.858900424996726,
-    "lng": 5.793343998812167,
-    "start": "9.5.2026, 08:07:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 5",
-      "description": "Planlagt strømstans\nStartet: 2026-05-09 08:07\nPlanlagt ferdig: 2026-05-09 15:00",
-      "styleUrl": "#yellow"
     }
   },
   {
