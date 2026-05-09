@@ -87,26 +87,22 @@
     }
   },
   {
-    "id": "elvia-10284",
-    "company": "Elvia",
+    "id": "fagne-4415125",
+    "company": "Fagne",
     "type": "planned",
-    "customers": 10,
-    "lat": 59.95949805205377,
-    "lng": 10.481015394884466,
-    "start": "9.5.2026, 06:51:50",
-    "end": "9.5.2026, 10:27:50",
-    "areaName": "Bærum / Lommedalen / B1452",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "customers": 11,
+    "lat": 59.27715549396011,
+    "lng": 5.534396504791285,
+    "start": "5.9.2026, 10:00:00",
+    "end": "5.9.2026, 12:00:00",
+    "areaName": "TYSVÆR",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
-      "OBJECTID": 10284,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B1452",
-      "poststed": "Lommedalen",
-      "strombruddoppdaget": 1778309510000,
-      "utkoblingslutt": 1778322470000,
-      "utkoblingstart": 1778309510000
+      "description": "",
+      "state": "Pågående",
+      "municipal": "TYSVÆR",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
     }
   },
   {
