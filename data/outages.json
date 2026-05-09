@@ -87,26 +87,26 @@
     }
   },
   {
-    "id": "elvia-28766",
+    "id": "elvia-11530",
     "company": "Elvia",
     "type": "planned",
-    "customers": 10,
-    "lat": 59.44432896933078,
-    "lng": 10.645940101749561,
-    "start": "9.5.2026, 16:40:14",
-    "end": "9.5.2026, 20:16:14",
-    "areaName": "Moss / Moss / Y1085",
+    "customers": 5,
+    "lat": 59.829702208749175,
+    "lng": 10.468043434414263,
+    "start": "9.5.2026, 19:58:08",
+    "end": "9.5.2026, 23:34:08",
+    "areaName": "Asker / Vettre / D0727",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 28766,
-      "antallkunder": 10,
+      "OBJECTID": 11530,
+      "antallkunder": 5,
       "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y1085",
-      "poststed": "Moss",
-      "strombruddoppdaget": 1778344814000,
-      "utkoblingslutt": 1778357774000,
-      "utkoblingstart": 1778344814000
+      "kommune": "Asker",
+      "nettstasjon": "D0727",
+      "poststed": "Vettre",
+      "strombruddoppdaget": 1778356688000,
+      "utkoblingslutt": 1778369648000,
+      "utkoblingstart": 1778356688000
     }
   },
   {
