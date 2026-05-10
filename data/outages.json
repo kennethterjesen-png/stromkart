@@ -958,5 +958,33 @@
       "STROMSTANSID": "V-2810-1",
       "description": ""
     }
+  },
+  {
+    "id": "norgesnett-outage-V-70461-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 2,
+    "lat": 59.215087969000024,
+    "lng": 10.936688769,
+    "start": "10.5.2026, 18:10:21",
+    "end": null,
+    "areaName": "BROGATA",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1216930,
+      "REFNR": "L70461",
+      "SEKUNDÆRSTASJON": "BROGATA",
+      "AVGANG": "H1082",
+      "CNT": 2,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1778436621000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70461-1",
+      "description": ""
+    }
   }
 ]
