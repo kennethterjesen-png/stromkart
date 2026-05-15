@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-7313",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 18,
+    "lat": 59.944192886437136,
+    "lng": 10.840914586366518,
+    "start": "15.5.2026, 19:51:22",
+    "end": "15.5.2026, 23:27:22",
+    "areaName": "Oslo / Oslo / 2406",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7313,
+      "antallkunder": 18,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "2406",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1778874682000,
+      "utkoblingslutt": 1778887642000,
+      "utkoblingstart": 1778874682000
+    }
+  },
+  {
     "id": "linja-planned-3265309",
     "company": "Linja",
     "type": "planned",
