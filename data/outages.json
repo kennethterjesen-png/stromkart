@@ -845,34 +845,6 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-70317-2",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 273,
-    "lat": 59.169605760000024,
-    "lng": 11.075467434000018,
-    "start": "14.5.2026, 22:05:29",
-    "end": "15.5.2026, 04:00:29",
-    "areaName": "SANDEM",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1216851,
-      "REFNR": "P70317",
-      "SEKUNDÆRSTASJON": "SANDEM",
-      "AVGANG": "H1952",
-      "CNT": 273,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1778796329000,
-      "TIL_DATO": 1778817629000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70317-2",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-planned-V-70446-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -953,6 +925,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70439-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70317-2",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 273,
+    "lat": 59.169605760000024,
+    "lng": 11.075467434000018,
+    "start": "14.5.2026, 22:05:29",
+    "end": "15.5.2026, 04:00:29",
+    "areaName": "SANDEM",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1216851,
+      "REFNR": "P70317",
+      "SEKUNDÆRSTASJON": "SANDEM",
+      "AVGANG": "H1952",
+      "CNT": 273,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1778796329000,
+      "TIL_DATO": 1778817629000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70317-2",
       "description": ""
     }
   }
