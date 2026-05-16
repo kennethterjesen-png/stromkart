@@ -1,48 +1,25 @@
 [
   {
-    "id": "elvia-17091",
+    "id": "elvia-30420",
     "company": "Elvia",
     "type": "planned",
-    "customers": 111,
-    "lat": 60.2432106413686,
-    "lng": 11.682174759663216,
-    "start": "16.5.2026, 17:00:41",
-    "end": "16.5.2026, 20:36:41",
-    "areaName": "Sør-Odal / Skarnes / ENS07469",
+    "customers": 19,
+    "lat": 59.352999493074066,
+    "lng": 11.425675946608553,
+    "start": "16.5.2026, 21:14:36",
+    "end": "17.5.2026, 00:50:36",
+    "areaName": "Rakkestad / Degernes / W220",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 17091,
-      "antallkunder": 111,
+      "OBJECTID": 30420,
+      "antallkunder": 19,
       "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS07469",
-      "poststed": "Skarnes",
-      "strombruddoppdaget": 1778950841000,
-      "utkoblingslutt": 1778963801000,
-      "utkoblingstart": 1778950841000
-    }
-  },
-  {
-    "id": "elvia-27934",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 29,
-    "lat": 59.196000833542676,
-    "lng": 11.189678145085304,
-    "start": "16.5.2026, 19:28:09",
-    "end": "16.5.2026, 23:04:09",
-    "areaName": "Sarpsborg / Skjeberg / X0867",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27934,
-      "antallkunder": 29,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0867",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1778959689000,
-      "utkoblingslutt": 1778972649000,
-      "utkoblingstart": 1778959689000
+      "kommune": "Rakkestad",
+      "nettstasjon": "W220",
+      "poststed": "Degernes",
+      "strombruddoppdaget": 1778966076000,
+      "utkoblingslutt": 1778979036000,
+      "utkoblingstart": 1778966076000
     }
   },
   {
