@@ -1,25 +1,48 @@
 [
   {
-    "id": "elvia-14813",
+    "id": "elvia-17091",
     "company": "Elvia",
     "type": "planned",
-    "customers": 12,
-    "lat": 61.09747086733539,
-    "lng": 10.326355617190593,
-    "start": "16.5.2026, 12:40:36",
-    "end": "16.5.2026, 16:16:36",
-    "areaName": "Lillehammer / Lillehammer / ENS03839",
+    "customers": 111,
+    "lat": 60.2432106413686,
+    "lng": 11.682174759663216,
+    "start": "16.5.2026, 17:00:41",
+    "end": "16.5.2026, 20:36:41",
+    "areaName": "Sør-Odal / Skarnes / ENS07469",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 14813,
-      "antallkunder": 12,
+      "OBJECTID": 17091,
+      "antallkunder": 111,
       "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03839",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": 1778935236000,
-      "utkoblingslutt": 1778948196000,
-      "utkoblingstart": 1778935236000
+      "kommune": "Sør-Odal",
+      "nettstasjon": "ENS07469",
+      "poststed": "Skarnes",
+      "strombruddoppdaget": 1778950841000,
+      "utkoblingslutt": 1778963801000,
+      "utkoblingstart": 1778950841000
+    }
+  },
+  {
+    "id": "elvia-28166",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.21423907051716,
+    "lng": 10.792137235675646,
+    "start": "16.5.2026, 16:34:56",
+    "end": "16.5.2026, 20:10:56",
+    "areaName": "Fredrikstad / Gressvik / X2074",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28166,
+      "antallkunder": 11,
+      "avbruddstype": "Unplanned",
+      "kommune": "Fredrikstad",
+      "nettstasjon": "X2074",
+      "poststed": "Gressvik",
+      "strombruddoppdaget": 1778949296000,
+      "utkoblingslutt": 1778962256000,
+      "utkoblingstart": 1778949296000
     }
   },
   {
