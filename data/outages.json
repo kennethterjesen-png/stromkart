@@ -23,26 +23,26 @@
     }
   },
   {
-    "id": "elvia-28166",
+    "id": "elvia-27934",
     "company": "Elvia",
     "type": "planned",
-    "customers": 11,
-    "lat": 59.21423907051716,
-    "lng": 10.792137235675646,
-    "start": "16.5.2026, 16:34:56",
-    "end": "16.5.2026, 20:10:56",
-    "areaName": "Fredrikstad / Gressvik / X2074",
+    "customers": 29,
+    "lat": 59.196000833542676,
+    "lng": 11.189678145085304,
+    "start": "16.5.2026, 19:28:09",
+    "end": "16.5.2026, 23:04:09",
+    "areaName": "Sarpsborg / Skjeberg / X0867",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 28166,
-      "antallkunder": 11,
+      "OBJECTID": 27934,
+      "antallkunder": 29,
       "avbruddstype": "Unplanned",
-      "kommune": "Fredrikstad",
-      "nettstasjon": "X2074",
-      "poststed": "Gressvik",
-      "strombruddoppdaget": 1778949296000,
-      "utkoblingslutt": 1778962256000,
-      "utkoblingstart": 1778949296000
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0867",
+      "poststed": "Skjeberg",
+      "strombruddoppdaget": 1778959689000,
+      "utkoblingslutt": 1778972649000,
+      "utkoblingstart": 1778959689000
     }
   },
   {
