@@ -600,23 +600,6 @@
     }
   },
   {
-    "id": "lnett-outage-1",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 101,
-    "lat": 58.971394803235334,
-    "lng": 5.751867810285949,
-    "start": "17.5.2026, 23:51:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 101",
-      "description": "Driftsforstyrrelse\nStartet: 2026-05-17 23:51",
-      "styleUrl": "#red"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2815-1",
     "company": "Norgesnett",
     "type": "planned",
