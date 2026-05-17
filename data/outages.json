@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-30420",
+    "id": "elvia-11925",
     "company": "Elvia",
     "type": "planned",
-    "customers": 19,
-    "lat": 59.352999493074066,
-    "lng": 11.425675946608553,
-    "start": "16.5.2026, 21:14:36",
-    "end": "17.5.2026, 00:50:36",
-    "areaName": "Rakkestad / Degernes / W220",
+    "customers": 8,
+    "lat": 60.31699073337979,
+    "lng": 11.265829353925488,
+    "start": "17.5.2026, 06:43:51",
+    "end": "17.5.2026, 10:19:51",
+    "areaName": "Eidsvoll / Eidsvoll / E0344",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 30420,
-      "antallkunder": 19,
+      "OBJECTID": 11925,
+      "antallkunder": 8,
       "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W220",
-      "poststed": "Degernes",
-      "strombruddoppdaget": 1778966076000,
-      "utkoblingslutt": 1778979036000,
-      "utkoblingstart": 1778966076000
+      "kommune": "Eidsvoll",
+      "nettstasjon": "E0344",
+      "poststed": "Eidsvoll",
+      "strombruddoppdaget": 1779000231000,
+      "utkoblingslutt": 1779013191000,
+      "utkoblingstart": 1779000231000
     }
   },
   {
@@ -42,6 +42,78 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3264560",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.1432024932186,
+    "lng": 6.071021783959261,
+    "start": "20.5.2026, 21:00:00",
+    "end": null,
+    "areaName": "VOLDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3264560,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnegata onsdag 20.mai fra kl. 23:00 til 06:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1779310800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "VOLDA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3253269",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.02199582398503,
+    "lng": 5.53646778219286,
+    "start": "20.5.2026, 07:00:00",
+    "end": null,
+    "areaName": "VANYLVEN / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3253269,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Borg onsdag 20.mai fra kl. 09:00 til 12.00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1779260400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "VANYLVEN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3260945",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.216894170529095,
+    "lng": 6.91464750388283,
+    "start": "20.5.2026, 06:30:00",
+    "end": null,
+    "areaName": "STRANDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3260945,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Herdal til Rødset onsdag 20.mai fra kl. 08:30 til 16:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1779258600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "STRANDA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -119,30 +191,6 @@
     }
   },
   {
-    "id": "linja-planned-3253269",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.02199582398503,
-    "lng": 5.53646778219286,
-    "start": "20.5.2026, 07:00:00",
-    "end": null,
-    "areaName": "VANYLVEN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3253269,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Borg onsdag 20.mai fra kl. 09:00 til 12.00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1779260400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VANYLVEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3264284",
     "company": "Linja",
     "type": "planned",
@@ -162,30 +210,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "VOLDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3260945",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.216894170529095,
-    "lng": 6.91464750388283,
-    "start": "20.5.2026, 06:30:00",
-    "end": null,
-    "areaName": "STRANDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3260945,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Herdal til Rødset onsdag 20.mai fra kl. 08:30 til 16:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1779258600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "STRANDA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -306,30 +330,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "STRYN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3264560",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.1432024932186,
-    "lng": 6.071021783959261,
-    "start": "20.5.2026, 21:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3264560,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnegata onsdag 20.mai fra kl. 23:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1779310800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
