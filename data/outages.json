@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-5933",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.94774740458509,
-    "lng": 10.693549251526406,
-    "start": "17.5.2026, 19:40:30",
-    "end": "17.5.2026, 23:16:30",
-    "areaName": "Oslo / Oslo / 0383",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5933,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0383",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1779046830000,
-      "utkoblingslutt": 1779059790000,
-      "utkoblingstart": 1779046830000
-    }
-  },
-  {
     "id": "linja-planned-3265309",
     "company": "Linja",
     "type": "planned",
@@ -620,6 +597,23 @@
       "MUNICIPAL_TXT": "HERØY",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-outage-1",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 101,
+    "lat": 58.971394803235334,
+    "lng": 5.751867810285949,
+    "start": "17.5.2026, 23:51:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 101",
+      "description": "Driftsforstyrrelse\nStartet: 2026-05-17 23:51",
+      "styleUrl": "#red"
     }
   },
   {
