@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-11925",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.31699073337979,
-    "lng": 11.265829353925488,
-    "start": "17.5.2026, 06:43:51",
-    "end": "17.5.2026, 10:19:51",
-    "areaName": "Eidsvoll / Eidsvoll / E0344",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11925,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0344",
-      "poststed": "Eidsvoll",
-      "strombruddoppdaget": 1779000231000,
-      "utkoblingslutt": 1779013191000,
-      "utkoblingstart": 1779000231000
-    }
-  },
-  {
     "id": "linja-planned-3265309",
     "company": "Linja",
     "type": "planned",
