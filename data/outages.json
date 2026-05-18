@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-14669",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 61.292686381506655,
-    "lng": 10.165350385875715,
-    "start": "18.5.2026, 17:49:34",
-    "end": "18.5.2026, 21:25:34",
-    "areaName": "Gausdal / Svingvoll / ENS03625",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14669,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Gausdal",
-      "nettstasjon": "ENS03625",
-      "poststed": "Svingvoll",
-      "strombruddoppdaget": 1779126574000,
-      "utkoblingslutt": 1779139534000,
-      "utkoblingstart": 1779126574000
-    }
-  },
-  {
     "id": "elvia-27808",
     "company": "Elvia",
     "type": "planned",
@@ -43,29 +20,6 @@
       "strombruddoppdaget": 1779108094000,
       "utkoblingslutt": 1779121054000,
       "utkoblingstart": 1779108094000
-    }
-  },
-  {
-    "id": "elvia-27824",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.25257486709795,
-    "lng": 11.242079545927629,
-    "start": "18.5.2026, 17:32:04",
-    "end": "18.5.2026, 21:08:04",
-    "areaName": "Sarpsborg / Skjeberg / X0733",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27824,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0733",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779125524000,
-      "utkoblingslutt": 1779138484000,
-      "utkoblingstart": 1779125524000
     }
   },
   {
@@ -328,54 +282,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3264284",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.14578777292875,
-    "lng": 6.063655498518109,
-    "start": "18.5.2026, 21:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3264284,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnegata, Ørstavegen, Storgata, Smithsgata og Nesavegen mandag 18.mai fra kl. 23:00 til 01:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1779138000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3264328",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.1485109939183,
-    "lng": 6.067698251428322,
-    "start": "18.5.2026, 22:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3264328,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Storgata, Ottamarka og Gymnasvegen tirsdag 19.mai fra kl. 00:00 til 02:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1779141600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
