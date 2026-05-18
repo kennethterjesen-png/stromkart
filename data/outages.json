@@ -1,48 +1,25 @@
 [
   {
-    "id": "elvia-11577",
+    "id": "elvia-14669",
     "company": "Elvia",
     "type": "planned",
-    "customers": 1,
-    "lat": 59.79258087865796,
-    "lng": 10.464871326682134,
-    "start": "18.5.2026, 12:38:39",
-    "end": "18.5.2026, 16:14:39",
-    "areaName": "Asker / Heggedal / D0804",
+    "customers": 10,
+    "lat": 61.292686381506655,
+    "lng": 10.165350385875715,
+    "start": "18.5.2026, 17:49:34",
+    "end": "18.5.2026, 21:25:34",
+    "areaName": "Gausdal / Svingvoll / ENS03625",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 11577,
-      "antallkunder": 1,
+      "OBJECTID": 14669,
+      "antallkunder": 10,
       "avbruddstype": "Unplanned",
-      "kommune": "Asker",
-      "nettstasjon": "D0804",
-      "poststed": "Heggedal",
-      "strombruddoppdaget": 1779107919000,
-      "utkoblingslutt": 1779120879000,
-      "utkoblingstart": 1779107919000
-    }
-  },
-  {
-    "id": "elvia-21184",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 60.716329568412526,
-    "lng": 11.228651133212887,
-    "start": "18.5.2026, 14:30:00",
-    "end": "18.5.2026, 17:30:00",
-    "areaName": "Stange / Stange / ENS14529",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21184,
-      "antallkunder": 14,
-      "avbruddstype": "Planned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14529",
-      "poststed": "Stange",
-      "strombruddoppdaget": 1779114681550,
-      "utkoblingslutt": 1779125400000,
-      "utkoblingstart": 1779114600000
+      "kommune": "Gausdal",
+      "nettstasjon": "ENS03625",
+      "poststed": "Svingvoll",
+      "strombruddoppdaget": 1779126574000,
+      "utkoblingslutt": 1779139534000,
+      "utkoblingstart": 1779126574000
     }
   },
   {
@@ -66,6 +43,29 @@
       "strombruddoppdaget": 1779108094000,
       "utkoblingslutt": 1779121054000,
       "utkoblingstart": 1779108094000
+    }
+  },
+  {
+    "id": "elvia-27824",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.25257486709795,
+    "lng": 11.242079545927629,
+    "start": "18.5.2026, 17:32:04",
+    "end": "18.5.2026, 21:08:04",
+    "areaName": "Sarpsborg / Skjeberg / X0733",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27824,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0733",
+      "poststed": "Skjeberg",
+      "strombruddoppdaget": 1779125524000,
+      "utkoblingslutt": 1779138484000,
+      "utkoblingstart": 1779125524000
     }
   },
   {
