@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-8171",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 29,
+    "lat": 59.93799476248765,
+    "lng": 10.874572167177128,
+    "start": "18.5.2026, 06:00:00",
+    "end": "19.5.2026, 04:30:00",
+    "areaName": "Oslo / Oslo / 3690",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8171,
+      "antallkunder": 29,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "3690",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1779141908269,
+      "utkoblingslutt": 1779165000000,
+      "utkoblingstart": 1779084000000
+    }
+  },
+  {
     "id": "elvia-27808",
     "company": "Elvia",
     "type": "planned",
@@ -23,27 +46,27 @@
     }
   },
   {
-    "id": "linja-outage-3264284",
+    "id": "linja-outage-3264328",
     "company": "Linja",
     "type": "outage",
-    "customers": 108,
-    "lat": 62.14578777292875,
-    "lng": 6.063655498518109,
-    "start": "18.5.2026, 21:00:00",
+    "customers": 65,
+    "lat": 62.1485109939183,
+    "lng": 6.067698251428322,
+    "start": "18.5.2026, 22:00:00",
     "end": null,
     "areaName": "VOLDA / Linja Midt",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3264284,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnegata, Ørstavegen, Storgata, Smithsgata og Nesavegen mandag 18.mai fra kl. 23:00 til 01:00.",
+      "EVENTID": 3264328,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Storgata, Ottamarka og Gymnasvegen tirsdag 19.mai fra kl. 00:00 til 02:00.",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1779138000000,
+      "STARTTIME": 1779141600000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
       "MUNICIPAL_TXT": "VOLDA",
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 0,
-      "NUM_AB": 108
+      "NUM_AB": 65
     }
   },
   {
