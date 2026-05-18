@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-16068",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 35,
+    "lat": 60.25502865044842,
+    "lng": 11.672938538148506,
+    "start": "12.5.2026, 20:00:00",
+    "end": "12.5.2026, 21:58:00",
+    "areaName": "Sør-Odal / Skarnes / ENS05833",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 16068,
+      "antallkunder": 35,
+      "avbruddstype": "Planned",
+      "kommune": "Sør-Odal",
+      "nettstasjon": "ENS05833",
+      "poststed": "Skarnes",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1778623080000,
+      "utkoblingstart": 1778616000000
+    }
+  },
+  {
     "id": "elvia-27808",
     "company": "Elvia",
     "type": "planned",
@@ -46,27 +69,27 @@
     }
   },
   {
-    "id": "linja-outage-3264328",
+    "id": "linja-outage-3264372",
     "company": "Linja",
     "type": "outage",
-    "customers": 65,
-    "lat": 62.1485109939183,
-    "lng": 6.067698251428322,
-    "start": "18.5.2026, 22:00:00",
+    "customers": 38,
+    "lat": 62.14608132107841,
+    "lng": 6.070932960202688,
+    "start": "18.5.2026, 23:00:00",
     "end": null,
     "areaName": "VOLDA / Linja Midt",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3264328,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Storgata, Ottamarka og Gymnasvegen tirsdag 19.mai fra kl. 00:00 til 02:00.",
+      "EVENTID": 3264372,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Anders Vassbotnvegen, Industrigata, Røysgata og Rådhusgata tirsdag 19.mai fra kl. 01:00 til 06:00.",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1779141600000,
+      "STARTTIME": 1779145200000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
       "MUNICIPAL_TXT": "VOLDA",
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 0,
-      "NUM_AB": 65
+      "NUM_AB": 38
     }
   },
   {
