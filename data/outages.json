@@ -336,30 +336,6 @@
     }
   },
   {
-    "id": "linja-planned-3265841",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.06365578710285,
-    "lng": 6.065933820568798,
-    "start": "18.5.2026, 07:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3265841,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Årvik og Mek mandag 18.mai fra kl. 09:00 til 14:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1779087600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3263740",
     "company": "Linja",
     "type": "planned",
@@ -379,30 +355,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ULSTEIN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3265773",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.78104753346706,
-    "lng": 6.210824464945596,
-    "start": "18.5.2026, 07:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3265773,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Timberstigen mandag 18.mai fra kl. 09:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1779087600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
