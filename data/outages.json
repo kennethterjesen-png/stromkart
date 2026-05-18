@@ -23,26 +23,26 @@
     }
   },
   {
-    "id": "elvia-18906",
+    "id": "elvia-21184",
     "company": "Elvia",
     "type": "planned",
-    "customers": 79,
-    "lat": 60.88098940122755,
-    "lng": 10.947007069672274,
-    "start": "18.5.2026, 12:13:16",
-    "end": "18.5.2026, 15:49:16",
-    "areaName": "Ringsaker / Brumunddal / ENS10232",
+    "customers": 14,
+    "lat": 60.716329568412526,
+    "lng": 11.228651133212887,
+    "start": "18.5.2026, 14:30:00",
+    "end": "18.5.2026, 17:30:00",
+    "areaName": "Stange / Stange / ENS14529",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 18906,
-      "antallkunder": 79,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS10232",
-      "poststed": "Brumunddal",
-      "strombruddoppdaget": 1779106396000,
-      "utkoblingslutt": 1779119356000,
-      "utkoblingstart": 1779106396000
+      "OBJECTID": 21184,
+      "antallkunder": 14,
+      "avbruddstype": "Planned",
+      "kommune": "Stange",
+      "nettstasjon": "ENS14529",
+      "poststed": "Stange",
+      "strombruddoppdaget": 1779114681550,
+      "utkoblingslutt": 1779125400000,
+      "utkoblingstart": 1779114600000
     }
   },
   {
@@ -66,29 +66,6 @@
       "strombruddoppdaget": 1779108094000,
       "utkoblingslutt": 1779121054000,
       "utkoblingstart": 1779108094000
-    }
-  },
-  {
-    "id": "elvia-29419",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.58177001312793,
-    "lng": 11.156280831585779,
-    "start": "18.5.2026, 12:22:58",
-    "end": "18.5.2026, 15:58:58",
-    "areaName": "Indre Østfold / Askim / Z1245",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29419,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1245",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1779106978000,
-      "utkoblingslutt": 1779119938000,
-      "utkoblingstart": 1779106978000
     }
   },
   {
