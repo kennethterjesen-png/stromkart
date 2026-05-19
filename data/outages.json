@@ -23,6 +23,25 @@
     }
   },
   {
+    "id": "fagne-4449553",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 1,
+    "lat": 59.806697591747096,
+    "lng": 5.529967117565615,
+    "start": null,
+    "end": null,
+    "areaName": "STORD",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "STORD",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
     "id": "linja-planned-3271048",
     "company": "Linja",
     "type": "planned",
@@ -575,30 +594,6 @@
     }
   },
   {
-    "id": "linja-planned-3264444",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.142114403755315,
-    "lng": 6.08371248387499,
-    "start": "19.5.2026, 21:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3264444,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bøen tirsdag 19.mai fra kl. 23:00 til 03:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1779224400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3264560",
     "company": "Linja",
     "type": "planned",
@@ -620,6 +615,23 @@
       "MUNICIPAL_TXT": "VOLDA",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-5",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 2,
+    "lat": 58.91911260002201,
+    "lng": 5.6854007629258065,
+    "start": "19.5.2026, 21:04:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 2",
+      "description": "Planlagt strømstans\nStartet: 2026-05-19 21:04\nPlanlagt ferdig: 2026-05-20 04:00",
+      "styleUrl": "#yellow"
     }
   },
   {
