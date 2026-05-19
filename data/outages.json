@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-8070",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 300,
+    "lat": 59.92636244669732,
+    "lng": 10.72989907819739,
+    "start": "19.5.2026, 08:00:00",
+    "end": "28.5.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 3524",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8070,
+      "antallkunder": 300,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "3524",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1779228309656,
+      "utkoblingslutt": 1779940800000,
+      "utkoblingstart": 1779177600000
+    }
+  },
+  {
     "id": "elvia-13198",
     "company": "Elvia",
     "type": "planned",
@@ -43,29 +66,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1779235200000,
       "utkoblingstart": 1779224400000
-    }
-  },
-  {
-    "id": "elvia-29318",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.57782338701927,
-    "lng": 11.177220830433733,
-    "start": "19.5.2026, 20:30:04",
-    "end": "20.5.2026, 00:06:04",
-    "areaName": "Indre Østfold / Askim / Z1123",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29318,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1123",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1779222604000,
-      "utkoblingslutt": 1779235564000,
-      "utkoblingstart": 1779222604000
     }
   },
   {
@@ -664,7 +664,7 @@
     }
   },
   {
-    "id": "lnett-planned-5",
+    "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
     "customers": 2,
