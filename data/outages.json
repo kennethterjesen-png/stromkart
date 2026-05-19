@@ -88,27 +88,27 @@
     }
   },
   {
-    "id": "linja-outage-3264444",
+    "id": "linja-outage-3264508",
     "company": "Linja",
     "type": "outage",
-    "customers": 32,
-    "lat": 62.142110906145675,
-    "lng": 6.083701930800171,
-    "start": "19.5.2026, 21:00:00",
+    "customers": 54,
+    "lat": 62.14392651774856,
+    "lng": 6.087472052582971,
+    "start": "19.5.2026, 23:00:00",
     "end": null,
     "areaName": "VOLDA / Linja Midt",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3264444,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bøen tirsdag 19.mai fra kl. 23:00 til 03:00.",
+      "EVENTID": 3264508,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Myravegen og Mylnevegen onstad 20.mai fra kl. 01:00 til 06:00.",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1779224400000,
+      "STARTTIME": 1779231600000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
       "MUNICIPAL_TXT": "VOLDA",
       "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 1,
-      "NUM_AB": 32
+      "NUM_NS": 0,
+      "NUM_AB": 54
     }
   },
   {
