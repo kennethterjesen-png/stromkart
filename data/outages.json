@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-10096",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.91216175530628,
+    "lng": 10.471492606339462,
+    "start": "20.5.2026, 22:01:00",
+    "end": "22.5.2026, 04:00:00",
+    "areaName": "Bærum / Vøyenenga / B1156",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 10096,
+      "antallkunder": 3,
+      "avbruddstype": "Planned",
+      "kommune": "Bærum",
+      "nettstasjon": "B1156",
+      "poststed": "Vøyenenga",
+      "strombruddoppdaget": 1779314676281,
+      "utkoblingslutt": 1779422400000,
+      "utkoblingstart": 1779314460000
+    }
+  },
+  {
     "id": "fagne-4441588",
     "company": "Fagne",
     "type": "planned",
@@ -48,6 +71,30 @@
       "municipal": "HAUGESUND",
       "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "linja-outage-3264560",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 13,
+    "lat": 62.14320979807031,
+    "lng": 6.071003148301868,
+    "start": "20.5.2026, 21:00:00",
+    "end": null,
+    "areaName": "VOLDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3264560,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnegata onsdag 20.mai fra kl. 23:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1779310800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "VOLDA",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 1,
+      "NUM_AB": 13
     }
   },
   {
