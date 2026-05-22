@@ -55,29 +55,6 @@
     }
   },
   {
-    "id": "elvia-20895",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 60.715362120781215,
-    "lng": 11.162511369284038,
-    "start": "20.5.2026, 22:23:36",
-    "end": "21.5.2026, 19:54:13",
-    "areaName": "Stange / Stange / ENS14184",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20895,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14184",
-      "poststed": "Stange",
-      "strombruddoppdaget": 1779315816000,
-      "utkoblingslutt": 1779393253000,
-      "utkoblingstart": 1779315816000
-    }
-  },
-  {
     "id": "elvia-25443",
     "company": "Elvia",
     "type": "planned",
