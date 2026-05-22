@@ -36,6 +36,38 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
+    "lat": 60.32138952469127,
+    "lng": 5.3493881045100595,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9614779,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1779404400000,
+      "TIMELIMIT": 1779420600000,
+      "NUM_AB": 91,
+      "CUSTOMER_WEB_TEXT": "5043 BERGEN; HOVDENLIA\r\n5221 NESTTUN; LONEVEGEN,NESTTUNVEGEN,STOREHOVDEN,NESTTUNHALSEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 1,
+      "LAST_UPDATED": 1779404626000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "bkk-2",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
     "lat": 61.45621038512312,
     "lng": 5.884817397503324,
     "start": null,
@@ -244,25 +276,6 @@
     }
   },
   {
-    "id": "fagne-4455141",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 237,
-    "lat": 59.850434413579485,
-    "lng": 6.882294070305588,
-    "start": null,
-    "end": null,
-    "areaName": "Ukjent område",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "fagne-4411740",
     "company": "Fagne",
     "type": "planned",
@@ -278,6 +291,25 @@
       "state": "Pågående",
       "municipal": "BØMLO",
       "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "fagne-4455141",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 237,
+    "lat": 59.850434413579485,
+    "lng": 6.882294070305588,
+    "start": null,
+    "end": null,
+    "areaName": "ULLENSVANG",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "ULLENSVANG",
+      "typeTxt": "Driftsforstyrrelse",
       "issueStateChangeEmail": ""
     }
   },
