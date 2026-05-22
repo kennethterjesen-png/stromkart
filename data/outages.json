@@ -32,6 +32,52 @@
     }
   },
   {
+    "id": "elvia-23743",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 15,
+    "lat": 59.76301977584157,
+    "lng": 10.816304507444444,
+    "start": "22.5.2026, 14:22:51",
+    "end": "22.5.2026, 17:58:51",
+    "areaName": "Nordre Follo / Oppegård / O0003",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 23743,
+      "antallkunder": 15,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nordre Follo",
+      "nettstasjon": "O0003",
+      "poststed": "Oppegård",
+      "strombruddoppdaget": 1779459771000,
+      "utkoblingslutt": 1779472731000,
+      "utkoblingstart": 1779459771000
+    }
+  },
+  {
+    "id": "elvia-25443",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.965439281750214,
+    "lng": 11.070685982440104,
+    "start": "22.5.2026, 16:00:00",
+    "end": "23.5.2026, 10:00:00",
+    "areaName": "Lillestrøm / Lillestrøm / S0815",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 25443,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "S0815",
+      "poststed": "Lillestrøm",
+      "strombruddoppdaget": 1779465392244,
+      "utkoblingslutt": 1779530400000,
+      "utkoblingstart": 1779465600000
+    }
+  },
+  {
     "id": "linja-planned-3278461",
     "company": "Linja",
     "type": "planned",
