@@ -32,26 +32,26 @@
     }
   },
   {
-    "id": "elvia-9354",
+    "id": "elvia-16250",
     "company": "Elvia",
     "type": "planned",
-    "customers": 2,
-    "lat": 59.91938995578307,
-    "lng": 11.38610379833853,
-    "start": "23.5.2026, 05:51:44",
-    "end": "23.5.2026, 09:27:44",
-    "areaName": "Aurskog-Høland / Aurskog / A0037",
+    "customers": 23,
+    "lat": 60.39187022734022,
+    "lng": 12.0729833995992,
+    "start": "23.5.2026, 10:24:54",
+    "end": "23.5.2026, 14:00:54",
+    "areaName": "Grue / Grinder / ENS06217",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 9354,
-      "antallkunder": 2,
+      "OBJECTID": 16250,
+      "antallkunder": 23,
       "avbruddstype": "Unplanned",
-      "kommune": "Aurskog-Høland",
-      "nettstasjon": "A0037",
-      "poststed": "Aurskog",
-      "strombruddoppdaget": 1779515504000,
-      "utkoblingslutt": 1779528464000,
-      "utkoblingstart": 1779515504000
+      "kommune": "Grue",
+      "nettstasjon": "ENS06217",
+      "poststed": "Grinder",
+      "strombruddoppdaget": 1779531894000,
+      "utkoblingslutt": 1779544854000,
+      "utkoblingstart": 1779531894000
     }
   },
   {
@@ -75,29 +75,6 @@
       "strombruddoppdaget": 1779470142000,
       "utkoblingslutt": 1779483102000,
       "utkoblingstart": 1779470142000
-    }
-  },
-  {
-    "id": "elvia-21969",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.45806946440401,
-    "lng": 10.793428533156082,
-    "start": "23.5.2026, 06:46:04",
-    "end": "23.5.2026, 10:22:04",
-    "areaName": "Våler / Sperrebotn / I0175",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21969,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Våler",
-      "nettstasjon": "I0175",
-      "poststed": "Sperrebotn",
-      "strombruddoppdaget": 1779518764000,
-      "utkoblingslutt": 1779531724000,
-      "utkoblingstart": 1779518764000
     }
   },
   {
