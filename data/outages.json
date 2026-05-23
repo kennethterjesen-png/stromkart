@@ -32,6 +32,38 @@
     }
   },
   {
+    "id": "bkk-1",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.37046950811919,
+    "lng": 5.455845953198351,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9692488,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1779572460000,
+      "TIMELIMIT": 1779582600000,
+      "NUM_AB": 746,
+      "CUSTOMER_WEB_TEXT": "5263 TRENGEREID; HARDANGERVEGEN\r\n5267 ESPELAND; LONDALSLIA,LONDALSFLATEN,LONDALEN,UNNELANDSVEGEN,LONÅSEN\r\n5268 HAUKELAND; LANGEDALEN,HAGEVEGEN,SØRHAGEN,LONALEITET,UNNELANDSNESET,KALIHAUGEN,BRATTLANDSVEGEN,SØRE KALIHAUGEN,BORGATRÆET,HAUKELAND,GULLFJELLSVEGEN,UNNELAND,VESTHAGEN,NORDHAGEN,MIDTHAGEN\r\n\r\nFeilretting pågår.",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 19,
+      "LAST_UPDATED": 1779573026000,
+      "SCHEDULED_SMS_DAYS_BEFORE": -1,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-27835",
     "company": "Elvia",
     "type": "planned",
@@ -121,25 +153,6 @@
       "strombruddoppdaget": 1779564333861,
       "utkoblingslutt": 1779577833000,
       "utkoblingstart": 1779564333861
-    }
-  },
-  {
-    "id": "fagne-4456769",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 7,
-    "lat": 59.879599209721604,
-    "lng": 5.319512415978301,
-    "start": null,
-    "end": null,
-    "areaName": "FITJAR",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "FITJAR",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
