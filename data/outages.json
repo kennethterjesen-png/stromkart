@@ -32,60 +32,14 @@
     }
   },
   {
-    "id": "elvia-5226",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.24913148026728,
-    "lng": 11.203665822217083,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
-    "areaName": "Sarpsborg / Klavestadhaugen / X0725",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5226,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0725",
-      "poststed": "Klavestadhaugen",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
-    }
-  },
-  {
-    "id": "elvia-5227",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.230686288509304,
-    "lng": 11.222873286666283,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
-    "areaName": "Sarpsborg / Skjeberg / X0727",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5227,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0727",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
-    }
-  },
-  {
     "id": "elvia-5228",
     "company": "Elvia",
     "type": "planned",
     "customers": 1,
     "lat": 59.276189573611,
     "lng": 11.257981954547478,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Skjeberg / X0737",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -95,9 +49,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0737",
       "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -107,8 +61,8 @@
     "customers": 2,
     "lat": 59.27603279754255,
     "lng": 11.269242815341284,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0738",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -118,9 +72,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0738",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -130,8 +84,8 @@
     "customers": 2,
     "lat": 59.291245064249416,
     "lng": 11.276449428487206,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0743",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -141,9 +95,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0743",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -153,8 +107,8 @@
     "customers": 1,
     "lat": 59.29961686770632,
     "lng": 11.306219071210725,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0744",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -164,9 +118,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0744",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -176,8 +130,8 @@
     "customers": 3,
     "lat": 59.27492952026618,
     "lng": 11.26899453271245,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X1104",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -187,9 +141,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X1104",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -222,8 +176,8 @@
     "customers": 10,
     "lat": 59.28318726753837,
     "lng": 11.28619309854663,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0691",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -233,124 +187,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0691",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
-    }
-  },
-  {
-    "id": "elvia-27817",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.250391114157004,
-    "lng": 11.225121701669142,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
-    "areaName": "Sarpsborg / Skjeberg / X0724",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27817,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0724",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
-    }
-  },
-  {
-    "id": "elvia-27818",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.24320095966815,
-    "lng": 11.212223563475627,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
-    "areaName": "Sarpsborg / Skjeberg / X0726",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27818,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0726",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
-    }
-  },
-  {
-    "id": "elvia-27819",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.2339455770272,
-    "lng": 11.225012344226549,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
-    "areaName": "Sarpsborg / Skjeberg / X0728",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27819,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0728",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
-    }
-  },
-  {
-    "id": "elvia-27820",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.233551040025574,
-    "lng": 11.233924589580765,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
-    "areaName": "Sarpsborg / Skjeberg / X0729",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27820,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0729",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
-    }
-  },
-  {
-    "id": "elvia-27821",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.24185137666506,
-    "lng": 11.235985090225734,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
-    "areaName": "Sarpsborg / Skjeberg / X0730",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27821,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0730",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -360,8 +199,8 @@
     "customers": 5,
     "lat": 59.25125264520595,
     "lng": 11.234746185643408,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Skjeberg / X0731",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -371,9 +210,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0731",
       "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -383,8 +222,8 @@
     "customers": 12,
     "lat": 59.26021801886755,
     "lng": 11.22495551963178,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Skjeberg / X0732",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -394,9 +233,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0732",
       "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -406,8 +245,8 @@
     "customers": 10,
     "lat": 59.25257486709795,
     "lng": 11.242079545927629,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Skjeberg / X0733",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -417,9 +256,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0733",
       "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -429,8 +268,8 @@
     "customers": 4,
     "lat": 59.25886394599551,
     "lng": 11.251708651628231,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Skjeberg / X0734",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -440,9 +279,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0734",
       "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -452,8 +291,8 @@
     "customers": 6,
     "lat": 59.26174596120313,
     "lng": 11.26615651484582,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Skjeberg / X0735",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -463,9 +302,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0735",
       "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -475,8 +314,8 @@
     "customers": 2,
     "lat": 59.276023522039736,
     "lng": 11.234742558614679,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Skjeberg / X0736",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -486,9 +325,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0736",
       "poststed": "Skjeberg",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -498,8 +337,8 @@
     "customers": 6,
     "lat": 59.28591022643768,
     "lng": 11.278750582298258,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0739",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -509,9 +348,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0739",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -521,8 +360,8 @@
     "customers": 9,
     "lat": 59.29508559817871,
     "lng": 11.262840955682035,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0740",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -532,9 +371,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0740",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -544,8 +383,8 @@
     "customers": 11,
     "lat": 59.2938271371431,
     "lng": 11.249043198493196,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0741",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -555,9 +394,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0741",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -567,8 +406,8 @@
     "customers": 3,
     "lat": 59.29460279616774,
     "lng": 11.272044646605242,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0742",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -578,9 +417,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0742",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -590,8 +429,8 @@
     "customers": 3,
     "lat": 59.301787007375914,
     "lng": 11.285421955063892,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0745",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -601,9 +440,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0745",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -613,8 +452,8 @@
     "customers": 2,
     "lat": 59.2800929324103,
     "lng": 11.283044347448683,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0746",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -624,9 +463,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0746",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -636,8 +475,8 @@
     "customers": 7,
     "lat": 59.276490113112956,
     "lng": 11.303273757143895,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0747",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -647,9 +486,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0747",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -659,8 +498,8 @@
     "customers": 4,
     "lat": 59.26713810558278,
     "lng": 11.32220591228552,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0748",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -670,9 +509,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0748",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -682,8 +521,8 @@
     "customers": 2,
     "lat": 59.27635049867942,
     "lng": 11.331447888373303,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0749",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -693,9 +532,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0749",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -705,8 +544,8 @@
     "customers": 19,
     "lat": 59.26610628888481,
     "lng": 11.307625535579557,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0751",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -716,9 +555,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0751",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -728,8 +567,8 @@
     "customers": 7,
     "lat": 59.24672780449269,
     "lng": 11.308639597849702,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X0752",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -739,9 +578,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X0752",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -751,8 +590,8 @@
     "customers": 14,
     "lat": 59.26924186447998,
     "lng": 11.339883538747031,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Sarpsborg / Ise / X1049",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -762,9 +601,9 @@
       "kommune": "Sarpsborg",
       "nettstasjon": "X1049",
       "poststed": "Ise",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
@@ -774,8 +613,8 @@
     "customers": 10,
     "lat": 59.263700790228256,
     "lng": 11.347631096757684,
-    "start": "23.5.2026, 19:09:01",
-    "end": "23.5.2026, 22:54:01",
+    "start": "23.5.2026, 19:25:33",
+    "end": "23.5.2026, 23:10:33",
     "areaName": "Rakkestad / Halden / W499",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -785,9 +624,9 @@
       "kommune": "Rakkestad",
       "nettstasjon": "W499",
       "poststed": "Halden",
-      "strombruddoppdaget": 1779563341000,
-      "utkoblingslutt": 1779576841000,
-      "utkoblingstart": 1779563341000
+      "strombruddoppdaget": 1779564333861,
+      "utkoblingslutt": 1779577833000,
+      "utkoblingstart": 1779564333861
     }
   },
   {
