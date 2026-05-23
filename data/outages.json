@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-16250",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 23,
-    "lat": 60.39187022734022,
-    "lng": 12.0729833995992,
-    "start": "23.5.2026, 10:24:54",
-    "end": "23.5.2026, 14:00:54",
-    "areaName": "Grue / Grinder / ENS06217",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16250,
-      "antallkunder": 23,
-      "avbruddstype": "Unplanned",
-      "kommune": "Grue",
-      "nettstasjon": "ENS06217",
-      "poststed": "Grinder",
-      "strombruddoppdaget": 1779531894000,
-      "utkoblingslutt": 1779544854000,
-      "utkoblingstart": 1779531894000
-    }
-  },
-  {
     "id": "elvia-18248",
     "company": "Elvia",
     "type": "planned",
