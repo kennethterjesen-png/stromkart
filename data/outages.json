@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-9354",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.91938995578307,
+    "lng": 11.38610379833853,
+    "start": "23.5.2026, 05:51:44",
+    "end": "23.5.2026, 09:27:44",
+    "areaName": "Aurskog-Høland / Aurskog / A0037",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9354,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Aurskog-Høland",
+      "nettstasjon": "A0037",
+      "poststed": "Aurskog",
+      "strombruddoppdaget": 1779515504000,
+      "utkoblingslutt": 1779528464000,
+      "utkoblingstart": 1779515504000
+    }
+  },
+  {
     "id": "elvia-18248",
     "company": "Elvia",
     "type": "planned",
@@ -52,6 +75,29 @@
       "strombruddoppdaget": 1779470142000,
       "utkoblingslutt": 1779483102000,
       "utkoblingstart": 1779470142000
+    }
+  },
+  {
+    "id": "elvia-21969",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.45806946440401,
+    "lng": 10.793428533156082,
+    "start": "23.5.2026, 06:46:04",
+    "end": "23.5.2026, 10:22:04",
+    "areaName": "Våler / Sperrebotn / I0175",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21969,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Våler",
+      "nettstasjon": "I0175",
+      "poststed": "Sperrebotn",
+      "strombruddoppdaget": 1779518764000,
+      "utkoblingslutt": 1779531724000,
+      "utkoblingstart": 1779518764000
     }
   },
   {
