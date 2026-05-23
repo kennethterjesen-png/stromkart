@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-5807",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 59.9498130359186,
+    "lng": 10.938535781092416,
+    "start": "23.5.2026, 14:05:46",
+    "end": "23.5.2026, 17:41:46",
+    "areaName": "Oslo / Oslo / 0195",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5807,
+      "antallkunder": 10,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "0195",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1779545146000,
+      "utkoblingslutt": 1779558106000,
+      "utkoblingstart": 1779545146000
+    }
+  },
+  {
     "id": "elvia-18248",
     "company": "Elvia",
     "type": "planned",
