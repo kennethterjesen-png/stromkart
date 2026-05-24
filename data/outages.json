@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-24156",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 21,
-    "lat": 59.762636235595934,
-    "lng": 10.710811942714614,
-    "start": "24.5.2026, 14:48:39",
-    "end": "24.5.2026, 18:24:39",
-    "areaName": "Frogn / Nordre frogn / P0464",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24156,
-      "antallkunder": 21,
-      "avbruddstype": "Unplanned",
-      "kommune": "Frogn",
-      "nettstasjon": "P0464",
-      "poststed": "Nordre frogn",
-      "strombruddoppdaget": 1779634119000,
-      "utkoblingslutt": 1779647079000,
-      "utkoblingstart": 1779634119000
-    }
-  },
-  {
     "id": "elvia-24310",
     "company": "Elvia",
     "type": "planned",
