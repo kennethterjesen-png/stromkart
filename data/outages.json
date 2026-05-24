@@ -32,26 +32,26 @@
     }
   },
   {
-    "id": "elvia-7164",
+    "id": "elvia-24156",
     "company": "Elvia",
     "type": "planned",
-    "customers": 22,
-    "lat": 59.930021207763595,
-    "lng": 10.725882760764456,
-    "start": "24.5.2026, 08:08:44",
-    "end": "24.5.2026, 11:44:44",
-    "areaName": "Oslo / Oslo / 2210",
+    "customers": 21,
+    "lat": 59.762636235595934,
+    "lng": 10.710811942714614,
+    "start": "24.5.2026, 14:48:39",
+    "end": "24.5.2026, 18:24:39",
+    "areaName": "Frogn / Nordre frogn / P0464",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 7164,
-      "antallkunder": 22,
+      "OBJECTID": 24156,
+      "antallkunder": 21,
       "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2210",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1779610124000,
-      "utkoblingslutt": 1779623084000,
-      "utkoblingstart": 1779610124000
+      "kommune": "Frogn",
+      "nettstasjon": "P0464",
+      "poststed": "Nordre frogn",
+      "strombruddoppdaget": 1779634119000,
+      "utkoblingslutt": 1779647079000,
+      "utkoblingstart": 1779634119000
     }
   },
   {
@@ -98,30 +98,6 @@
       "strombruddoppdaget": 1779627395000,
       "utkoblingslutt": 1779640355000,
       "utkoblingstart": 1779627395000
-    }
-  },
-  {
-    "id": "linja-outage-3279497",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 781,
-    "lat": 62.43462694150583,
-    "lng": 6.444651629637294,
-    "start": "24.5.2026, 13:47:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3279497,
-      "CUSTOMER_WEB_TEXT": null,
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1779630420000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 17,
-      "NUM_AB": 781
     }
   },
   {
