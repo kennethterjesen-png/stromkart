@@ -32,38 +32,6 @@
     }
   },
   {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.36366520350992,
-    "lng": 5.478318337996396,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9692488,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1779572460000,
-      "TIMELIMIT": 1779582600000,
-      "NUM_AB": 72,
-      "CUSTOMER_WEB_TEXT": "5263 TRENGEREID; HARDANGERVEGEN\r\n5267 ESPELAND; LONDALSLIA,LONDALSFLATEN,LONDALEN,UNNELANDSVEGEN,LONÅSEN\r\n5268 HAUKELAND; LANGEDALEN,HAGEVEGEN,SØRHAGEN,LONALEITET,UNNELANDSNESET,KALIHAUGEN,BRATTLANDSVEGEN,SØRE KALIHAUGEN,BORGATRÆET,HAUKELAND,GULLFJELLSVEGEN,UNNELAND,VESTHAGEN,NORDHAGEN,MIDTHAGEN\r\n\r\nFeilsøking pågår. ",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 3,
-      "LAST_UPDATED": 1779577606000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 16,
-      "NUM_AB_REGAINED": 674,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-27331",
     "company": "Elvia",
     "type": "planned",
