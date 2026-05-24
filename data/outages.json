@@ -78,29 +78,6 @@
     }
   },
   {
-    "id": "elvia-25762",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.05180455642271,
-    "lng": 10.876266127210634,
-    "start": "24.5.2026, 12:56:35",
-    "end": "24.5.2026, 16:32:35",
-    "areaName": "Nittedal / Nittedal / T4070",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25762,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nittedal",
-      "nettstasjon": "T4070",
-      "poststed": "Nittedal",
-      "strombruddoppdaget": 1779627395000,
-      "utkoblingslutt": 1779640355000,
-      "utkoblingstart": 1779627395000
-    }
-  },
-  {
     "id": "linja-planned-3278461",
     "company": "Linja",
     "type": "planned",
