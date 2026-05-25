@@ -32,6 +32,38 @@
     }
   },
   {
+    "id": "bkk-1",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.540590036446424,
+    "lng": 5.236534202173752,
+    "start": null,
+    "end": null,
+    "areaName": "Alver",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9677058,
+      "MUNICIPAL_TXT": "Alver",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1779742800000,
+      "TIMELIMIT": 1779751800000,
+      "NUM_AB": 68,
+      "CUSTOMER_WEB_TEXT": "5918 FREKHAUG; LITLEBERGEN,ÅDLANDSVEGEN,MIDTSUNDET\r\n5919 FREKHAUG; LITLEBERGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 2,
+      "LAST_UPDATED": 1779743329000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "linja-planned-3278461",
     "company": "Linja",
     "type": "planned",
