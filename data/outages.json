@@ -54,13 +54,36 @@
       "GRIDLEVEL_TXT": "Høy",
       "REASON_TXT": null,
       "NUM_NS": 2,
-      "LAST_UPDATED": 1779743329000,
+      "LAST_UPDATED": 1779747369000,
       "SCHEDULED_SMS_DAYS_BEFORE": 3,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 0,
       "NUM_AB_REGAINED": 0,
       "SCHEDULED_SMS_INHABITANT_TEXT": null,
       "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "elvia-30843",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 100,
+    "lat": 60.18455397968234,
+    "lng": 12.00358483300184,
+    "start": "25.5.2026, 22:01:00",
+    "end": "26.5.2026, 00:00:00",
+    "areaName": "Kongsvinger / Kongsvinger / ENS13671",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 30843,
+      "antallkunder": 100,
+      "avbruddstype": "Planned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS13671",
+      "poststed": "Kongsvinger",
+      "strombruddoppdaget": 1779746555466,
+      "utkoblingslutt": 1779753600000,
+      "utkoblingstart": 1779746460000
     }
   },
   {
