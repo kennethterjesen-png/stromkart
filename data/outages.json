@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-7858",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 43,
-    "lat": 59.96116077000629,
-    "lng": 10.916379456569727,
-    "start": "25.5.2026, 03:27:35",
-    "end": "25.5.2026, 07:03:35",
-    "areaName": "Oslo / Oslo / 3201",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7858,
-      "antallkunder": 43,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "3201",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1779679655000,
-      "utkoblingslutt": 1779692615000,
-      "utkoblingstart": 1779679655000
-    }
-  },
-  {
     "id": "linja-planned-3278461",
     "company": "Linja",
     "type": "planned",
