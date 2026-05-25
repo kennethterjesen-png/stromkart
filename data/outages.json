@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-9401",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.91645787940712,
+    "lng": 11.586310521172127,
+    "start": "25.5.2026, 13:04:41",
+    "end": "25.5.2026, 16:40:41",
+    "areaName": "Aurskog-Høland / Aurskog / A1230",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9401,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Aurskog-Høland",
+      "nettstasjon": "A1230",
+      "poststed": "Aurskog",
+      "strombruddoppdaget": 1779714281000,
+      "utkoblingslutt": 1779727241000,
+      "utkoblingstart": 1779714281000
+    }
+  },
+  {
     "id": "linja-planned-3278461",
     "company": "Linja",
     "type": "planned",
