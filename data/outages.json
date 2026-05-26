@@ -87,26 +87,26 @@
     }
   },
   {
-    "id": "elvia-9950",
+    "id": "elvia-8280",
     "company": "Elvia",
     "type": "planned",
-    "customers": 13,
-    "lat": 59.909249794895025,
-    "lng": 10.472979835797592,
-    "start": "26.5.2026, 22:05:00",
-    "end": "26.5.2026, 22:30:00",
-    "areaName": "Bærum / Vøyenenga / B0926",
+    "customers": 115,
+    "lat": 59.924017617453146,
+    "lng": 10.711611646301138,
+    "start": "26.5.2026, 22:01:00",
+    "end": "27.5.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 3902",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 9950,
-      "antallkunder": 13,
+      "OBJECTID": 8280,
+      "antallkunder": 115,
       "avbruddstype": "Planned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0926",
-      "poststed": "Vøyenenga",
-      "strombruddoppdaget": 1779833208550,
-      "utkoblingslutt": 1779834600000,
-      "utkoblingstart": 1779833100000
+      "kommune": "Oslo",
+      "nettstasjon": "3902",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1779833773290,
+      "utkoblingslutt": 1779854400000,
+      "utkoblingstart": 1779832860000
     }
   },
   {
