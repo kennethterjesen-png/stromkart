@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "updatedAt": "2026-05-26T18:38:21.269Z",
-  "count": 119,
+  "updatedAt": "2026-05-26T20:34:51.493Z",
+  "count": 30,
   "providers": [
     {
       "name": "Elvia",
       "ok": true,
-      "count": 94,
-      "rawCount": 95,
-      "filteredOut": 1,
+      "count": 2,
+      "rawCount": 2,
+      "filteredOut": 0,
       "warning": false,
       "error": null
     },
@@ -33,8 +33,8 @@
     {
       "name": "BKK",
       "ok": true,
-      "count": 1,
-      "rawCount": 1,
+      "count": 2,
+      "rawCount": 2,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -78,8 +78,8 @@
     {
       "name": "Fagne",
       "ok": true,
-      "count": 0,
-      "rawCount": 0,
+      "count": 2,
+      "rawCount": 2,
       "filteredOut": 0,
       "warning": false,
       "error": null
