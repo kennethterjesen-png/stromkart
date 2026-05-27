@@ -4,38 +4,6 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.362915972538886,
-    "lng": 5.348474011009349,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9684647,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1779822000000,
-      "TIMELIMIT": 1779850800000,
-      "NUM_AB": 91,
-      "CUSTOMER_WEB_TEXT": "5063 BERGEN; SVANEVIKSVEIEN,SNARVEIEN,SKOLTEHAUGEN,FINNBERGÅSEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 1,
-      "LAST_UPDATED": 1779822333000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 4,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
     "lat": 60.41115144379279,
     "lng": 5.323556550240051,
     "start": null,
@@ -64,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-7091",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 49,
-    "lat": 59.94388947620969,
-    "lng": 10.760732046990846,
-    "start": "26.5.2026, 21:00:00",
-    "end": "27.5.2026, 01:00:00",
-    "areaName": "Oslo / Oslo / 2092",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7091,
-      "antallkunder": 49,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2092",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1779829265670,
-      "utkoblingslutt": 1779843600000,
-      "utkoblingstart": 1779829200000
-    }
-  },
-  {
     "id": "elvia-8280",
     "company": "Elvia",
     "type": "planned",
@@ -107,44 +52,6 @@
       "strombruddoppdaget": 1779833773290,
       "utkoblingslutt": 1779854400000,
       "utkoblingstart": 1779832860000
-    }
-  },
-  {
-    "id": "fagne-4453996",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.413433178511816,
-    "lng": 5.270450224266579,
-    "start": null,
-    "end": null,
-    "areaName": "HAUGESUND",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "HAUGESUND",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4453992",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 26,
-    "lat": 59.41293348807957,
-    "lng": 5.271131542081884,
-    "start": null,
-    "end": null,
-    "areaName": "HAUGESUND",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "HAUGESUND",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
