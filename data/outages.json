@@ -32,26 +32,26 @@
     }
   },
   {
-    "id": "elvia-8280",
+    "id": "elvia-28726",
     "company": "Elvia",
     "type": "planned",
-    "customers": 115,
-    "lat": 59.924017617453146,
-    "lng": 10.711611646301138,
-    "start": "26.5.2026, 22:01:00",
-    "end": "27.5.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 3902",
+    "customers": 15,
+    "lat": 59.43627465292993,
+    "lng": 10.642567482056855,
+    "start": "27.5.2026, 05:08:48",
+    "end": "27.5.2026, 08:44:48",
+    "areaName": "Moss / Moss / Y1039",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 8280,
-      "antallkunder": 115,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3902",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1779833773290,
-      "utkoblingslutt": 1779854400000,
-      "utkoblingstart": 1779832860000
+      "OBJECTID": 28726,
+      "antallkunder": 15,
+      "avbruddstype": "Unplanned",
+      "kommune": "Moss",
+      "nettstasjon": "Y1039",
+      "poststed": "Moss",
+      "strombruddoppdaget": 1779858528000,
+      "utkoblingslutt": 1779871488000,
+      "utkoblingstart": 1779858528000
     }
   },
   {
@@ -319,30 +319,6 @@
     }
   },
   {
-    "id": "linja-planned-3276000",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.89611851785116,
-    "lng": 5.770959176103468,
-    "start": "27.5.2026, 07:00:00",
-    "end": null,
-    "areaName": "STAD / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3276000,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Torheim til Hamnes onsdag 27.mai. Kunder i område Torheim, Kroken og Torheimsnes vil bli ute fra kl. 09:00 til 12:00. Kunder i område Sørland, Volseth og Hamnes blir ute fra kl. 09:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1779865200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "STAD",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3271048",
     "company": "Linja",
     "type": "planned",
@@ -362,54 +338,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "SULA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3272884",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.445159566056496,
-    "lng": 6.29523835515999,
-    "start": "27.5.2026, 06:30:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3272884,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Humla onsdag 27.mai fra kl. 08:30 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1779863400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3273601",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.50982193594055,
-    "lng": 6.102076000210721,
-    "start": "27.5.2026, 06:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3273601,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Ytterlandsvika og Ytterland onsdag 27.mai fra kl. 08.00 til 11:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1779861600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
