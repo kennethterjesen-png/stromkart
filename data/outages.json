@@ -6,7 +6,7 @@
     "customers": 1,
     "lat": 61.390006114228804,
     "lng": 12.744475579573386,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS00233",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -17,9 +17,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS00233",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -29,7 +29,7 @@
     "customers": 1,
     "lat": 61.29563910274351,
     "lng": 12.60959364479129,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS11034",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -40,9 +40,32 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS11034",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
+    }
+  },
+  {
+    "id": "elvia-4175",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.81003640172333,
+    "lng": 10.80191401673987,
+    "start": "27.5.2026, 22:05:00",
+    "end": "28.5.2026, 04:30:00",
+    "areaName": "Nordre Follo / Kolbotn / O0131",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 4175,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Nordre Follo",
+      "nettstasjon": "O0131",
+      "poststed": "Kolbotn",
+      "strombruddoppdaget": 1779919575300,
+      "utkoblingslutt": 1779942600000,
+      "utkoblingstart": 1779919500000
     }
   },
   {
@@ -69,49 +92,26 @@
     }
   },
   {
-    "id": "elvia-8070",
+    "id": "elvia-9520",
     "company": "Elvia",
     "type": "planned",
-    "customers": 300,
-    "lat": 59.92636244669732,
-    "lng": 10.72989907819739,
-    "start": "19.5.2026, 08:00:00",
-    "end": "28.5.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 3524",
+    "customers": 12,
+    "lat": 59.91727625403759,
+    "lng": 10.624938906400091,
+    "start": "27.5.2026, 22:35:39",
+    "end": "28.5.2026, 02:11:39",
+    "areaName": "Bærum / Jar / B0041",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 8070,
-      "antallkunder": 300,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3524",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1779228309656,
-      "utkoblingslutt": 1779940800000,
-      "utkoblingstart": 1779177600000
-    }
-  },
-  {
-    "id": "elvia-8280",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 115,
-    "lat": 59.924017617453146,
-    "lng": 10.711611646301138,
-    "start": "26.5.2026, 22:01:00",
-    "end": "27.5.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 3902",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8280,
-      "antallkunder": 115,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3902",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1779833773290,
-      "utkoblingslutt": 1779854400000,
-      "utkoblingstart": 1779832860000
+      "OBJECTID": 9520,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Bærum",
+      "nettstasjon": "B0041",
+      "poststed": "Jar",
+      "strombruddoppdaget": 1779921339000,
+      "utkoblingslutt": 1779934299000,
+      "utkoblingstart": 1779921339000
     }
   },
   {
@@ -121,7 +121,7 @@
     "customers": 37,
     "lat": 61.39695532862053,
     "lng": 12.755003273406572,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS00104",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -132,9 +132,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS00104",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -144,7 +144,7 @@
     "customers": 31,
     "lat": 61.39700440775134,
     "lng": 12.760286229035142,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS00113",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -155,9 +155,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS00113",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -167,7 +167,7 @@
     "customers": 17,
     "lat": 61.37825689744348,
     "lng": 12.70158596656843,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS00218",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -178,9 +178,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS00218",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -190,7 +190,7 @@
     "customers": 29,
     "lat": 61.38401926188765,
     "lng": 12.684839398766002,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS00531",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -201,9 +201,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS00531",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -213,7 +213,7 @@
     "customers": 18,
     "lat": 61.38246669100926,
     "lng": 12.676353293758877,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS00532",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -224,9 +224,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS00532",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -236,7 +236,7 @@
     "customers": 21,
     "lat": 61.38089504417066,
     "lng": 12.701317514342879,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS00625",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -247,9 +247,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS00625",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -259,7 +259,7 @@
     "customers": 28,
     "lat": 61.32886762841662,
     "lng": 12.576271106707763,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS02449",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -270,9 +270,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS02449",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -282,7 +282,7 @@
     "customers": 17,
     "lat": 61.32663934653647,
     "lng": 12.582329113620654,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS02450",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -293,9 +293,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS02450",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -305,7 +305,7 @@
     "customers": 36,
     "lat": 61.33100184353518,
     "lng": 12.57797304718144,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS02457",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -316,9 +316,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS02457",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -328,7 +328,7 @@
     "customers": 26,
     "lat": 61.32985409113126,
     "lng": 12.583623493919516,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS02458",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -339,9 +339,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS02458",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -351,7 +351,7 @@
     "customers": 15,
     "lat": 61.33445764238747,
     "lng": 12.583290741238052,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS02685",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -362,9 +362,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS02685",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -374,7 +374,7 @@
     "customers": 11,
     "lat": 61.332529334524104,
     "lng": 12.59125842344462,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS02686",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -385,9 +385,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS02686",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -397,7 +397,7 @@
     "customers": 25,
     "lat": 61.33448875901998,
     "lng": 12.591137687811635,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS02687",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -408,9 +408,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS02687",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -420,7 +420,7 @@
     "customers": 27,
     "lat": 61.335103728189296,
     "lng": 12.59355037371503,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS02781",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -431,32 +431,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS02781",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
-    }
-  },
-  {
-    "id": "elvia-15609",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 61,
-    "lat": 60.90314653110214,
-    "lng": 10.956924005214308,
-    "start": "27.5.2026, 18:14:11",
-    "end": "27.5.2026, 21:50:11",
-    "areaName": "Ringsaker / Brumunddal / ENS05099",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 15609,
-      "antallkunder": 61,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS05099",
-      "poststed": "Brumunddal",
-      "strombruddoppdaget": 1779905651000,
-      "utkoblingslutt": 1779918611000,
-      "utkoblingstart": 1779905651000
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -466,7 +443,7 @@
     "customers": 8,
     "lat": 61.3348353040598,
     "lng": 12.490786735757439,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS07894",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -477,9 +454,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS07894",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -489,7 +466,7 @@
     "customers": 26,
     "lat": 61.32507016823465,
     "lng": 12.606332474025649,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS07895",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -500,9 +477,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS07895",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -512,7 +489,7 @@
     "customers": 22,
     "lat": 61.38733396681651,
     "lng": 12.677407703557924,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS08213",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -523,9 +500,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08213",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -535,7 +512,7 @@
     "customers": 25,
     "lat": 61.3284502959152,
     "lng": 12.603063618687484,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08215",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -546,9 +523,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08215",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -558,7 +535,7 @@
     "customers": 11,
     "lat": 61.323036954751444,
     "lng": 12.45748141147859,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08218",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -569,9 +546,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08218",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -581,7 +558,7 @@
     "customers": 31,
     "lat": 61.327948253338946,
     "lng": 12.598523416718043,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08222",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -592,9 +569,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08222",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -604,7 +581,7 @@
     "customers": 21,
     "lat": 61.32415956327559,
     "lng": 12.602533400362768,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08223",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -615,9 +592,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08223",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -627,7 +604,7 @@
     "customers": 20,
     "lat": 61.31619780366252,
     "lng": 12.6202171455353,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08243",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -638,9 +615,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08243",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -650,7 +627,7 @@
     "customers": 27,
     "lat": 61.3215276615198,
     "lng": 12.605909762056616,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08254",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -661,9 +638,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08254",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -673,7 +650,7 @@
     "customers": 38,
     "lat": 61.31891965754565,
     "lng": 12.609493933093285,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08255",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -684,9 +661,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08255",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -696,7 +673,7 @@
     "customers": 3,
     "lat": 61.36319286955349,
     "lng": 12.66389240211333,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS08259",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -707,9 +684,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08259",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -719,7 +696,7 @@
     "customers": 12,
     "lat": 61.367589101931046,
     "lng": 12.662809666199397,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS08260",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -730,9 +707,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08260",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -742,7 +719,7 @@
     "customers": 5,
     "lat": 61.36537602690661,
     "lng": 12.6671448896838,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS08261",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -753,9 +730,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08261",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -765,7 +742,7 @@
     "customers": 45,
     "lat": 61.32264864872952,
     "lng": 12.614989504337759,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08263",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -776,9 +753,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08263",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -788,7 +765,7 @@
     "customers": 25,
     "lat": 61.322124385378146,
     "lng": 12.611311334978256,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08264",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -799,9 +776,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08264",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -811,7 +788,7 @@
     "customers": 10,
     "lat": 61.38430495034731,
     "lng": 12.699159383958456,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS08269",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -822,9 +799,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08269",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -834,7 +811,7 @@
     "customers": 2,
     "lat": 61.372813090727256,
     "lng": 12.673709888560456,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS08273",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -845,9 +822,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08273",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -857,7 +834,7 @@
     "customers": 18,
     "lat": 61.39196270038485,
     "lng": 12.70204946487898,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS08279",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -868,9 +845,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08279",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -880,7 +857,7 @@
     "customers": 8,
     "lat": 61.310322350138044,
     "lng": 12.580333757185418,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08284",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -891,9 +868,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08284",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -903,7 +880,7 @@
     "customers": 22,
     "lat": 61.32237038159497,
     "lng": 12.49390478689773,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08350",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -914,9 +891,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08350",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -926,7 +903,7 @@
     "customers": 15,
     "lat": 61.297075389738545,
     "lng": 12.469445079809837,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08351",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -937,9 +914,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08351",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -949,7 +926,7 @@
     "customers": 16,
     "lat": 61.30753391118378,
     "lng": 12.610159395182972,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS08353",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -960,9 +937,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08353",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -972,7 +949,7 @@
     "customers": 14,
     "lat": 61.24328673367632,
     "lng": 12.457663516081633,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Nybergsund / ENS08384",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -983,9 +960,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08384",
       "poststed": "Nybergsund",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -995,7 +972,7 @@
     "customers": 6,
     "lat": 61.26162582109975,
     "lng": 12.425861441130344,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Nybergsund / ENS08385",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1006,9 +983,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08385",
       "poststed": "Nybergsund",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1018,7 +995,7 @@
     "customers": 25,
     "lat": 61.39247487877417,
     "lng": 12.689108574894979,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS08393",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1029,9 +1006,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08393",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1041,7 +1018,7 @@
     "customers": 36,
     "lat": 61.39652621727639,
     "lng": 12.750598055012542,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS08783",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1052,9 +1029,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08783",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1064,7 +1041,7 @@
     "customers": 19,
     "lat": 61.398541420874004,
     "lng": 12.745167478357576,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS08784",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1075,9 +1052,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08784",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1087,7 +1064,7 @@
     "customers": 3,
     "lat": 61.390434857069984,
     "lng": 12.74915393501676,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS08785",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1098,9 +1075,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08785",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1110,7 +1087,7 @@
     "customers": 21,
     "lat": 61.27982595927584,
     "lng": 12.475126953931811,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Nybergsund / ENS08792",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1121,9 +1098,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08792",
       "poststed": "Nybergsund",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1133,7 +1110,7 @@
     "customers": 17,
     "lat": 61.2681284597159,
     "lng": 12.394607847201138,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Nybergsund / ENS08793",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1144,9 +1121,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS08793",
       "poststed": "Nybergsund",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1156,7 +1133,7 @@
     "customers": 26,
     "lat": 61.367821311940595,
     "lng": 12.728691055877396,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS09507",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1167,9 +1144,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS09507",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1179,7 +1156,7 @@
     "customers": 57,
     "lat": 61.40969007025716,
     "lng": 12.644552351817541,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS09679",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1190,9 +1167,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS09679",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1202,7 +1179,7 @@
     "customers": 8,
     "lat": 61.45668641586921,
     "lng": 12.566417430270288,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS09690",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1213,9 +1190,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS09690",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1225,7 +1202,7 @@
     "customers": 6,
     "lat": 61.438281457946786,
     "lng": 12.601047383899065,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS09735",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1236,9 +1213,32 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS09735",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
+    }
+  },
+  {
+    "id": "elvia-18584",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 61.528792946120504,
+    "lng": 12.50452141855811,
+    "start": "26.5.2026, 22:07:07",
+    "end": "27.5.2026, 20:13:31",
+    "areaName": "Trysil / Ljørdalen / ENS09736",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 18584,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS09736",
+      "poststed": "Ljørdalen",
+      "strombruddoppdaget": 1779833227000,
+      "utkoblingslutt": 1779912811000,
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1248,7 +1248,7 @@
     "customers": 29,
     "lat": 61.26099672653162,
     "lng": 12.344987783851751,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Nybergsund / ENS09762",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1259,9 +1259,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS09762",
       "poststed": "Nybergsund",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1271,7 +1271,7 @@
     "customers": 23,
     "lat": 61.38107509829562,
     "lng": 12.690300220517814,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS09765",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1282,9 +1282,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS09765",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1294,7 +1294,7 @@
     "customers": 28,
     "lat": 61.38823515552259,
     "lng": 12.714298002305496,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS09767",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1305,9 +1305,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS09767",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1317,7 +1317,7 @@
     "customers": 29,
     "lat": 61.393366633622485,
     "lng": 12.658957583241353,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS09979",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1328,9 +1328,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS09979",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1340,7 +1340,7 @@
     "customers": 30,
     "lat": 61.39084563464329,
     "lng": 12.669813485609422,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS09981",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1351,9 +1351,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS09981",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1363,7 +1363,7 @@
     "customers": 6,
     "lat": 61.333530731302794,
     "lng": 12.551033792859252,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS10125",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1374,9 +1374,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS10125",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1386,7 +1386,7 @@
     "customers": 5,
     "lat": 61.394693575894394,
     "lng": 12.701229615463847,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS10362",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1397,9 +1397,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS10362",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1409,7 +1409,7 @@
     "customers": 2,
     "lat": 61.41266532193036,
     "lng": 12.6184398989592,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS10378",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1420,9 +1420,32 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS10378",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
+    }
+  },
+  {
+    "id": "elvia-19003",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 29,
+    "lat": 61.519698403017124,
+    "lng": 12.501658169975675,
+    "start": "26.5.2026, 22:07:07",
+    "end": "27.5.2026, 20:13:31",
+    "areaName": "Trysil / Ljørdalen / ENS10379",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 19003,
+      "antallkunder": 29,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS10379",
+      "poststed": "Ljørdalen",
+      "strombruddoppdaget": 1779833227000,
+      "utkoblingslutt": 1779912811000,
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1432,7 +1455,7 @@
     "customers": 43,
     "lat": 61.38738985478437,
     "lng": 12.702440121151524,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS10519",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1443,9 +1466,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS10519",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1455,7 +1478,7 @@
     "customers": 35,
     "lat": 61.46597969543899,
     "lng": 12.553156767442747,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS10549",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1466,9 +1489,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS10549",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1478,7 +1501,7 @@
     "customers": 9,
     "lat": 61.47778943373839,
     "lng": 12.534636845715424,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS10581",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1489,9 +1512,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS10581",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1501,7 +1524,7 @@
     "customers": 30,
     "lat": 61.4037897496398,
     "lng": 12.647914196857714,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS10708",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1512,9 +1535,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS10708",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1524,7 +1547,7 @@
     "customers": 24,
     "lat": 61.40742812304081,
     "lng": 12.65009157580866,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS10709",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1535,9 +1558,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS10709",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1547,7 +1570,7 @@
     "customers": 10,
     "lat": 61.40084279466846,
     "lng": 12.64288930703858,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS10745",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1558,9 +1581,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS10745",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1570,7 +1593,7 @@
     "customers": 30,
     "lat": 61.38933822924008,
     "lng": 12.696226098897077,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS10968",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1581,9 +1604,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS10968",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1593,7 +1616,7 @@
     "customers": 6,
     "lat": 61.37557852553343,
     "lng": 12.71894134690811,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS11853",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1604,9 +1627,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS11853",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1616,7 +1639,7 @@
     "customers": 30,
     "lat": 61.40443004042454,
     "lng": 12.6550662187094,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS11943",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1627,9 +1650,78 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS11943",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
+    }
+  },
+  {
+    "id": "elvia-20130",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 61.56134004968752,
+    "lng": 12.49586765349527,
+    "start": "26.5.2026, 22:07:07",
+    "end": "27.5.2026, 20:13:31",
+    "areaName": "Trysil / Ljørdalen / ENS12043",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20130,
+      "antallkunder": 10,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS12043",
+      "poststed": "Ljørdalen",
+      "strombruddoppdaget": 1779833227000,
+      "utkoblingslutt": 1779912811000,
+      "utkoblingstart": 1779833227000
+    }
+  },
+  {
+    "id": "elvia-20131",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 61.550461209151706,
+    "lng": 12.499337599054643,
+    "start": "26.5.2026, 22:07:07",
+    "end": "27.5.2026, 20:13:31",
+    "areaName": "Trysil / Ljørdalen / ENS12045",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20131,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS12045",
+      "poststed": "Ljørdalen",
+      "strombruddoppdaget": 1779833227000,
+      "utkoblingslutt": 1779912811000,
+      "utkoblingstart": 1779833227000
+    }
+  },
+  {
+    "id": "elvia-20148",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 61.5367152639609,
+    "lng": 12.501766744940905,
+    "start": "26.5.2026, 22:07:07",
+    "end": "27.5.2026, 20:13:31",
+    "areaName": "Trysil / Ljørdalen / ENS12077",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20148,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS12077",
+      "poststed": "Ljørdalen",
+      "strombruddoppdaget": 1779833227000,
+      "utkoblingslutt": 1779912811000,
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1639,7 +1731,7 @@
     "customers": 13,
     "lat": 61.39870629646301,
     "lng": 12.74895478206899,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS12113",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1650,9 +1742,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS12113",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1662,7 +1754,7 @@
     "customers": 25,
     "lat": 61.32612346424357,
     "lng": 12.57521136454937,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Østby / ENS12125",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1673,9 +1765,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS12125",
       "poststed": "Østby",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1685,7 +1777,7 @@
     "customers": 2,
     "lat": 61.39597671414607,
     "lng": 12.764786090859072,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS12791",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1696,9 +1788,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS12791",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1708,7 +1800,7 @@
     "customers": 14,
     "lat": 61.394869821482,
     "lng": 12.768799429782623,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS12792",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1719,9 +1811,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS12792",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1731,7 +1823,7 @@
     "customers": 14,
     "lat": 61.395977719955056,
     "lng": 12.773103928475223,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS12822",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1742,9 +1834,9 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS12822",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
     }
   },
   {
@@ -1754,7 +1846,7 @@
     "customers": 22,
     "lat": 61.501974153557725,
     "lng": 12.501759552813189,
-    "start": "27.5.2026, 16:28:31",
+    "start": "26.5.2026, 22:07:07",
     "end": "27.5.2026, 20:13:31",
     "areaName": "Trysil / Ljørdalen / ENS12839",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -1765,9 +1857,33 @@
       "kommune": "Trysil",
       "nettstasjon": "ENS12839",
       "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1779899311526,
+      "strombruddoppdaget": 1779833227000,
       "utkoblingslutt": 1779912811000,
-      "utkoblingstart": 1779899311526
+      "utkoblingstart": 1779833227000
+    }
+  },
+  {
+    "id": "linja-outage-3271048",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 162,
+    "lat": 62.443785005357086,
+    "lng": 6.2107071343628695,
+    "start": "27.5.2026, 22:00:00",
+    "end": null,
+    "areaName": "SULA / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3271048,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Fyllingen Øst, Heidegjerdet, Andersgården og Annø Møbel torsdag 28.mai fra kl. 00:00 til 08:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1779919200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "SULA",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 5,
+      "NUM_AB": 162
     }
   },
   {
