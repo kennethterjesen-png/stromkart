@@ -55,6 +55,52 @@
     }
   },
   {
+    "id": "elvia-5081",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.54918134065914,
+    "lng": 11.343630546484311,
+    "start": "28.5.2026, 22:01:00",
+    "end": "29.5.2026, 04:00:00",
+    "areaName": "Indre Østfold / Mysen / W2090",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5081,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2090",
+      "poststed": "Mysen",
+      "strombruddoppdaget": 1780005730183,
+      "utkoblingslutt": 1780027200000,
+      "utkoblingstart": 1780005660000
+    }
+  },
+  {
+    "id": "elvia-6752",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 96,
+    "lat": 59.94165564887153,
+    "lng": 10.671377869674412,
+    "start": "28.5.2026, 06:00:00",
+    "end": "5.6.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 1593",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6752,
+      "antallkunder": 96,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1593",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1780005948730,
+      "utkoblingslutt": 1780632000000,
+      "utkoblingstart": 1779948000000
+    }
+  },
+  {
     "id": "elvia-7093",
     "company": "Elvia",
     "type": "planned",
@@ -78,6 +124,52 @@
     }
   },
   {
+    "id": "elvia-7233",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 154,
+    "lat": 59.87553388733528,
+    "lng": 10.843532731585055,
+    "start": "28.5.2026, 22:01:00",
+    "end": "29.5.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 2302",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7233,
+      "antallkunder": 154,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2302",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1780005861199,
+      "utkoblingslutt": 1780027200000,
+      "utkoblingstart": 1780005660000
+    }
+  },
+  {
+    "id": "elvia-8419",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 144,
+    "lat": 59.93629014458468,
+    "lng": 10.652847969570383,
+    "start": "28.5.2026, 22:05:00",
+    "end": "29.5.2026, 04:30:00",
+    "areaName": "Oslo / Oslo / 4124",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8419,
+      "antallkunder": 144,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "4124",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1780006095233,
+      "utkoblingslutt": 1780029000000,
+      "utkoblingstart": 1780005900000
+    }
+  },
+  {
     "id": "elvia-17709",
     "company": "Elvia",
     "type": "planned",
@@ -98,6 +190,98 @@
       "strombruddoppdaget": 1779998581433,
       "utkoblingslutt": 1780027200000,
       "utkoblingstart": 1779789600000
+    }
+  },
+  {
+    "id": "elvia-27692",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 78,
+    "lat": 59.27363541092008,
+    "lng": 11.18961921103121,
+    "start": "28.5.2026, 22:01:00",
+    "end": "29.5.2026, 04:30:00",
+    "areaName": "Sarpsborg / Borgenhaugen / X0571",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27692,
+      "antallkunder": 78,
+      "avbruddstype": "Planned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0571",
+      "poststed": "Borgenhaugen",
+      "strombruddoppdaget": 1780005665400,
+      "utkoblingslutt": 1780029000000,
+      "utkoblingstart": 1780005660000
+    }
+  },
+  {
+    "id": "elvia-27693",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 51,
+    "lat": 59.2773090819316,
+    "lng": 11.189294147076664,
+    "start": "28.5.2026, 22:01:00",
+    "end": "29.5.2026, 04:30:00",
+    "areaName": "Sarpsborg / Borgenhaugen / X0572",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27693,
+      "antallkunder": 51,
+      "avbruddstype": "Planned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0572",
+      "poststed": "Borgenhaugen",
+      "strombruddoppdaget": 1780005665400,
+      "utkoblingslutt": 1780029000000,
+      "utkoblingstart": 1780005660000
+    }
+  },
+  {
+    "id": "elvia-28056",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 39,
+    "lat": 59.27161479264232,
+    "lng": 11.18808869638088,
+    "start": "28.5.2026, 22:01:00",
+    "end": "29.5.2026, 04:30:00",
+    "areaName": "Sarpsborg / Borgenhaugen / X1031",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28056,
+      "antallkunder": 39,
+      "avbruddstype": "Planned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X1031",
+      "poststed": "Borgenhaugen",
+      "strombruddoppdaget": 1780005665400,
+      "utkoblingslutt": 1780029000000,
+      "utkoblingstart": 1780005660000
+    }
+  },
+  {
+    "id": "elvia-28545",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 44,
+    "lat": 59.411085167724,
+    "lng": 10.677230699245902,
+    "start": "28.5.2026, 06:00:00",
+    "end": "4.6.2026, 13:00:00",
+    "areaName": "Moss / Moss / Y0141",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28545,
+      "antallkunder": 44,
+      "avbruddstype": "Planned",
+      "kommune": "Moss",
+      "nettstasjon": "Y0141",
+      "poststed": "Moss",
+      "strombruddoppdaget": 1779958593592,
+      "utkoblingslutt": 1780578000000,
+      "utkoblingstart": 1779948000000
     }
   },
   {
