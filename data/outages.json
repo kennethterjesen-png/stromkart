@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.363988400389445,
-    "lng": 5.371582271147466,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9689983,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1779994800000,
-      "TIMELIMIT": 1780023600000,
-      "NUM_AB": 61,
-      "CUSTOMER_WEB_TEXT": "5096 BERGEN; LANDÅSSVINGEN\r\n5097 BERGEN; MEISEVEIEN,RUGDEVEIEN,KANONHAUGEN,LANDÅSLIEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1779994865000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 6,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-4605",
     "company": "Elvia",
     "type": "planned",
@@ -190,6 +158,29 @@
       "strombruddoppdaget": 1779998581433,
       "utkoblingslutt": 1780027200000,
       "utkoblingstart": 1779789600000
+    }
+  },
+  {
+    "id": "elvia-21620",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 18,
+    "lat": 60.07572212371359,
+    "lng": 11.000058479759355,
+    "start": "28.5.2026, 21:15:18",
+    "end": "29.5.2026, 00:51:18",
+    "areaName": "Gjerdrum / Gjerdrum / G0242",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21620,
+      "antallkunder": 18,
+      "avbruddstype": "Unplanned",
+      "kommune": "Gjerdrum",
+      "nettstasjon": "G0242",
+      "poststed": "Gjerdrum",
+      "strombruddoppdaget": 1780002918000,
+      "utkoblingslutt": 1780015878000,
+      "utkoblingstart": 1780002918000
     }
   },
   {
