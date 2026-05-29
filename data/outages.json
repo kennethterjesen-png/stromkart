@@ -1,25 +1,49 @@
 [
   {
-    "id": "elvia-541",
+    "id": "elvia-2649",
     "company": "Elvia",
     "type": "planned",
     "customers": 2,
-    "lat": 59.951896953526756,
-    "lng": 10.762641529262984,
-    "start": "29.5.2026, 12:17:38",
-    "end": "29.5.2026, 15:53:38",
-    "areaName": "Oslo / Oslo / 2610",
+    "lat": 60.59867280406239,
+    "lng": 11.949843497855062,
+    "start": "29.5.2026, 13:07:59",
+    "end": "29.5.2026, 16:43:59",
+    "areaName": "Åsnes / Flisa / ENS06478",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 541,
+      "OBJECTID": 2649,
       "antallkunder": 2,
       "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2610",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1780057058000,
-      "utkoblingslutt": 1780070018000,
-      "utkoblingstart": 1780057058000
+      "kommune": "Åsnes",
+      "nettstasjon": "ENS06478",
+      "poststed": "Flisa",
+      "strombruddoppdaget": 1780060079000,
+      "utkoblingslutt": 1780073039000,
+      "utkoblingstart": 1780060079000
+    }
+  },
+  {
+    "id": "linja-outage-3290357",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 300,
+    "lat": 62.10024174230386,
+    "lng": 7.208661386209313,
+    "start": "29.5.2026, 14:59:00",
+    "end": null,
+    "areaName": "FJORD / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3290357,
+      "CUSTOMER_WEB_TEXT": "16:00 Straumlaust frå Indreeide til Geiranger pga feil. Vi arbeidar med saka. Rettetid uviss\r\n17:24 Personell er på veg og vi reknar med å ha personell i området rundt kl. 18:30. rettetid uviss",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1780066740000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "FJORD",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 26,
+      "NUM_AB": 300
     }
   },
   {
