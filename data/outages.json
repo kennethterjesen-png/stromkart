@@ -26,24 +26,24 @@
     "id": "linja-outage-3290357",
     "company": "Linja",
     "type": "outage",
-    "customers": 300,
-    "lat": 62.10024174230386,
-    "lng": 7.208661386209313,
+    "customers": 1,
+    "lat": 62.2254033569878,
+    "lng": 7.143706544738825,
     "start": "29.5.2026, 14:59:00",
     "end": null,
     "areaName": "FJORD / Linja Nord",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
       "EVENTID": 3290357,
-      "CUSTOMER_WEB_TEXT": "16:00 Straumlaust frå Indreeide til Geiranger pga feil. Vi arbeidar med saka. Rettetid uviss\r\n17:24 Personell er på veg og vi reknar med å ha personell i området rundt kl. 18:30. rettetid uviss",
+      "CUSTOMER_WEB_TEXT": "16:00 Straumlaust frå Indreeide til Geiranger pga feil. Vi arbeidar med saka. Rettetid uviss\r\n17:24 Personell er på veg og vi reknar med å ha personell i området rundt kl. 18:30. rettetid uviss\r\n18:55 Montører er i gang med feilsøking. Vi oppdaterer info så snart vi har mer info om feil og rettetid.\r\n",
       "STATE_TXT": "Pågående",
       "STARTTIME": 1780066740000,
       "TYPE_TXT": "Driftsforstyrrelse",
       "FLAG": 144,
       "MUNICIPAL_TXT": "FJORD",
       "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 26,
-      "NUM_AB": 300
+      "NUM_NS": 1,
+      "NUM_AB": 1
     }
   },
   {
