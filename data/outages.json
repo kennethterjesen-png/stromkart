@@ -23,30 +23,6 @@
     }
   },
   {
-    "id": "linja-outage-3290357",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 1,
-    "lat": 62.2254033569878,
-    "lng": 7.143706544738825,
-    "start": "29.5.2026, 14:59:00",
-    "end": null,
-    "areaName": "FJORD / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3290357,
-      "CUSTOMER_WEB_TEXT": "16:00 Straumlaust frå Indreeide til Geiranger pga feil. Vi arbeidar med saka. Rettetid uviss\r\n17:24 Personell er på veg og vi reknar med å ha personell i området rundt kl. 18:30. rettetid uviss\r\n18:55 Montører er i gang med feilsøking. Vi oppdaterer info så snart vi har mer info om feil og rettetid.\r\n",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1780066740000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "FJORD",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 1,
-      "NUM_AB": 1
-    }
-  },
-  {
     "id": "linja-planned-3281074",
     "company": "Linja",
     "type": "planned",
@@ -138,30 +114,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Sykkylven",
       "MUNICIPAL_TXT": "SYKKYLVEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3288328",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.83823870839277,
-    "lng": 4.92794408017583,
-    "start": "2.6.2026, 07:00:00",
-    "end": null,
-    "areaName": "BREMANGER / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3288328,
-      "CUSTOMER_WEB_TEXT": "Det er planlagt arbeid i det elektriske nettet medfører at det blir avbrudd i strømforsyningen frå Torvanger, Igland, Nautshågane, Iglandsvik, Bremanger Fryseri til og med Grotle. Arbeidet er planlagt 02/06/26 fra kl.09.00 til omlag kl 11",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1780383600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "BREMANGER",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -306,6 +258,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3288328",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.83823870839277,
+    "lng": 4.92794408017583,
+    "start": "2.6.2026, 07:00:00",
+    "end": null,
+    "areaName": "BREMANGER / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3288328,
+      "CUSTOMER_WEB_TEXT": "Det er planlagt arbeid i det elektriske nettet medfører at det blir avbrudd i strømforsyningen frå Torvanger, Igland, Nautshågane, Iglandsvik, Bremanger Fryseri til og med Grotle. Arbeidet er planlagt 02/06/26 fra kl.09.00 til omlag kl 11",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1780383600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "BREMANGER",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -620,6 +596,23 @@
       "MUNICIPAL_TXT": "BREMANGER",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-outage-1",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 1,
+    "lat": 58.93020888206093,
+    "lng": 5.590196539942159,
+    "start": "30.5.2026, 06:23:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 1",
+      "description": "Driftsforstyrrelse\nStartet: 2026-05-30 06:23\n06:24 De fleste kundene ahr fått strømmen tilbake. 1 kunde er fortsatt uten strøm.\n05:36 Strømbrudd. Feilsøking pågår.",
+      "styleUrl": "#red"
     }
   }
 ]
