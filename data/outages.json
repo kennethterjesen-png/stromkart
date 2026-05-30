@@ -597,22 +597,5 @@
       "NUM_NS": 0,
       "NUM_AB": 0
     }
-  },
-  {
-    "id": "lnett-outage-1",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 1,
-    "lat": 58.93020888206093,
-    "lng": 5.590196539942159,
-    "start": "30.5.2026, 06:23:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 1",
-      "description": "Driftsforstyrrelse\nStartet: 2026-05-30 06:23\n06:24 De fleste kundene ahr fått strømmen tilbake. 1 kunde er fortsatt uten strøm.\n05:36 Strømbrudd. Feilsøking pågår.",
-      "styleUrl": "#red"
-    }
   }
 ]
