@@ -36,38 +36,6 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.15303944281618,
-    "lng": 5.442325047130841,
-    "start": null,
-    "end": null,
-    "areaName": "Bjørnafjorden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9687591,
-      "MUNICIPAL_TXT": "Bjørnafjorden",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1780210800000,
-      "TIMELIMIT": 1780228800000,
-      "NUM_AB": 226,
-      "CUSTOMER_WEB_TEXT": "5208 OS; BJØRNAVEGEN,HÅVARSVEGEN,KLASAVEGEN,MONSAVEGEN,LARSAVEGEN,RESET,TORKJELSVEGEN,MARIVEGEN,FERSTADVOLLEN,BAGGAVEGEN,VELUMSBREKKENE\r\n5209 OS; TORKJELSVEGEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 8,
-      "LAST_UPDATED": 1780212191000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-2",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
     "lat": 60.1857672994556,
     "lng": 5.407665111815747,
     "start": null,
@@ -119,30 +87,6 @@
     }
   },
   {
-    "id": "linja-outage-3290537",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 2,
-    "lat": 61.903469083985556,
-    "lng": 5.99681369787676,
-    "start": "30.5.2026, 11:24:00",
-    "end": null,
-    "areaName": "STAD / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3290537,
-      "CUSTOMER_WEB_TEXT": null,
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1780140240000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "STAD",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 2
-    }
-  },
-  {
     "id": "linja-outage-3268901",
     "company": "Linja",
     "type": "outage",
@@ -164,6 +108,30 @@
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 3,
       "NUM_AB": 14
+    }
+  },
+  {
+    "id": "linja-outage-3290537",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 2,
+    "lat": 61.903469083985556,
+    "lng": 5.99681369787676,
+    "start": "30.5.2026, 11:24:00",
+    "end": null,
+    "areaName": "STAD / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3290537,
+      "CUSTOMER_WEB_TEXT": null,
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1780140240000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "STAD",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 2
     }
   },
   {
