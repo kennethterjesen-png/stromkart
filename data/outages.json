@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-25452",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.97230296296774,
+    "lng": 11.009319258115916,
+    "start": "31.5.2026, 22:19:05",
+    "end": "1.6.2026, 01:55:05",
+    "areaName": "Lillestrøm / Skjetten / S0826",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 25452,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "S0826",
+      "poststed": "Skjetten",
+      "strombruddoppdaget": 1780265945000,
+      "utkoblingslutt": 1780278905000,
+      "utkoblingstart": 1780265945000
+    }
+  },
+  {
     "id": "linja-planned-3281074",
     "company": "Linja",
     "type": "planned",
