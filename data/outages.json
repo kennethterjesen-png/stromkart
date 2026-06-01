@@ -1,5 +1,120 @@
 [
   {
+    "id": "elvia-14024",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 60.79363162131603,
+    "lng": 11.051092094379849,
+    "start": "1.6.2026, 22:01:00",
+    "end": "2.6.2026, 05:00:00",
+    "areaName": "Hamar / Hamar / ENS02714",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 14024,
+      "antallkunder": 5,
+      "avbruddstype": "Planned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS02714",
+      "poststed": "Hamar",
+      "strombruddoppdaget": 1780351324558,
+      "utkoblingslutt": 1780376400000,
+      "utkoblingstart": 1780351260000
+    }
+  },
+  {
+    "id": "elvia-15310",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 28,
+    "lat": 60.79347485471921,
+    "lng": 11.064525554156043,
+    "start": "1.6.2026, 22:01:00",
+    "end": "2.6.2026, 05:00:00",
+    "areaName": "Hamar / Hamar / ENS04600",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15310,
+      "antallkunder": 28,
+      "avbruddstype": "Planned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS04600",
+      "poststed": "Hamar",
+      "strombruddoppdaget": 1780351324558,
+      "utkoblingslutt": 1780376400000,
+      "utkoblingstart": 1780351260000
+    }
+  },
+  {
+    "id": "elvia-15311",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 37,
+    "lat": 60.7944633357273,
+    "lng": 11.05601075105471,
+    "start": "1.6.2026, 22:01:00",
+    "end": "2.6.2026, 05:00:00",
+    "areaName": "Hamar / Hamar / ENS04601",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15311,
+      "antallkunder": 37,
+      "avbruddstype": "Planned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS04601",
+      "poststed": "Hamar",
+      "strombruddoppdaget": 1780351324558,
+      "utkoblingslutt": 1780376400000,
+      "utkoblingstart": 1780351260000
+    }
+  },
+  {
+    "id": "elvia-15312",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 58,
+    "lat": 60.79506224921824,
+    "lng": 11.051592409142522,
+    "start": "1.6.2026, 22:01:00",
+    "end": "2.6.2026, 05:00:00",
+    "areaName": "Hamar / Hamar / ENS04602",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15312,
+      "antallkunder": 58,
+      "avbruddstype": "Planned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS04602",
+      "poststed": "Hamar",
+      "strombruddoppdaget": 1780351324558,
+      "utkoblingslutt": 1780376400000,
+      "utkoblingstart": 1780351260000
+    }
+  },
+  {
+    "id": "elvia-20765",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 60.74602917876684,
+    "lng": 11.110750584019188,
+    "start": "1.6.2026, 23:05:26",
+    "end": "2.6.2026, 02:41:26",
+    "areaName": "Stange / Ottestad / ENS14040",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20765,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Stange",
+      "nettstasjon": "ENS14040",
+      "poststed": "Ottestad",
+      "strombruddoppdaget": 1780355126000,
+      "utkoblingslutt": 1780368086000,
+      "utkoblingstart": 1780355126000
+    }
+  },
+  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
@@ -21,30 +136,6 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 0,
       "NUM_AB": 3
-    }
-  },
-  {
-    "id": "linja-outage-3294013",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 62,
-    "lat": 62.21261836822047,
-    "lng": 5.401767286983092,
-    "start": "1.6.2026, 17:30:00",
-    "end": null,
-    "areaName": "VANYLVEN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3294013,
-      "CUSTOMER_WEB_TEXT": "23:40 - Feil viser seg å være mer omfattende enn først antatt, feilretting vil dermed ta noe mer tid\r\n22:30 - Feil lokalisert i linje ved Kvamsøy skule. Forventer normal strømforsyning ca midnatt\r\n22:20 - Feilsøk og omkobling pågår, en del inn og utkoblinger må forventes\r\n19:28 - Strømbrudd Kvamsøy, feilsted foreløpig ukjent, men personell på vei for videre feilsøk. Vi forventer at strømmen vil bli borte i flere timer.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1780335000000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "VANYLVEN",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 7,
-      "NUM_AB": 62
     }
   },
   {
