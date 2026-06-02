@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-1355",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.980962125692564,
-    "lng": 10.445564889608807,
-    "start": "2.6.2026, 17:43:29",
-    "end": "2.6.2026, 21:28:29",
-    "areaName": "Bærum / Lommedalen / B0493",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 1355,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0493",
-      "poststed": "Lommedalen",
-      "strombruddoppdaget": 1780422209880,
-      "utkoblingslutt": 1780435709000,
-      "utkoblingstart": 1780422209880
-    }
-  },
-  {
     "id": "elvia-1363",
     "company": "Elvia",
     "type": "planned",
@@ -39,52 +16,6 @@
       "avbruddstype": "Unplanned",
       "kommune": "Bærum",
       "nettstasjon": "B0616",
-      "poststed": "Lommedalen",
-      "strombruddoppdaget": 1780422209880,
-      "utkoblingslutt": 1780435709000,
-      "utkoblingstart": 1780422209880
-    }
-  },
-  {
-    "id": "elvia-5944",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.92989141342407,
-    "lng": 10.689856288620378,
-    "start": "2.6.2026, 18:06:00",
-    "end": "2.6.2026, 21:42:00",
-    "areaName": "Oslo / Oslo / 0400",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5944,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0400",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1780423560000,
-      "utkoblingslutt": 1780436520000,
-      "utkoblingstart": 1780423560000
-    }
-  },
-  {
-    "id": "elvia-9566",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.978847136673174,
-    "lng": 10.457233983696753,
-    "start": "2.6.2026, 17:43:29",
-    "end": "2.6.2026, 21:28:29",
-    "areaName": "Bærum / Lommedalen / B0137",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9566,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0137",
       "poststed": "Lommedalen",
       "strombruddoppdaget": 1780422209880,
       "utkoblingslutt": 1780435709000,
@@ -131,29 +62,6 @@
       "avbruddstype": "Unplanned",
       "kommune": "Bærum",
       "nettstasjon": "B0301",
-      "poststed": "Lommedalen",
-      "strombruddoppdaget": 1780422209880,
-      "utkoblingslutt": 1780435709000,
-      "utkoblingstart": 1780422209880
-    }
-  },
-  {
-    "id": "elvia-9737",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.98096563843752,
-    "lng": 10.44943348728434,
-    "start": "2.6.2026, 17:43:29",
-    "end": "2.6.2026, 21:28:29",
-    "areaName": "Bærum / Lommedalen / B0494",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9737,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0494",
       "poststed": "Lommedalen",
       "strombruddoppdaget": 1780422209880,
       "utkoblingslutt": 1780435709000,
@@ -292,6 +200,29 @@
       "avbruddstype": "Unplanned",
       "kommune": "Bærum",
       "nettstasjon": "B0790",
+      "poststed": "Lommedalen",
+      "strombruddoppdaget": 1780422209880,
+      "utkoblingslutt": 1780435709000,
+      "utkoblingstart": 1780422209880
+    }
+  },
+  {
+    "id": "elvia-10485",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 32,
+    "lat": 59.98070996449683,
+    "lng": 10.467525770426137,
+    "start": "2.6.2026, 17:43:29",
+    "end": "2.6.2026, 21:28:29",
+    "areaName": "Bærum / Lommedalen / B1813",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 10485,
+      "antallkunder": 32,
+      "avbruddstype": "Unplanned",
+      "kommune": "Bærum",
+      "nettstasjon": "B1813",
       "poststed": "Lommedalen",
       "strombruddoppdaget": 1780422209880,
       "utkoblingslutt": 1780435709000,
@@ -778,30 +709,6 @@
     }
   },
   {
-    "id": "linja-planned-3289765",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.46952659689342,
-    "lng": 6.384198674028962,
-    "start": "2.6.2026, 22:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3289765,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Brusdalsvegen, Porsevegen og Røsslyngvegen onsdag 3.mai fra kl. 00:00 til 05:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1780437600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3288780",
     "company": "Linja",
     "type": "planned",
@@ -1015,23 +922,6 @@
       "MUNICIPAL_TXT": "STRYN",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-outage-5",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 94,
-    "lat": 59.06105478683815,
-    "lng": 5.964328880251168,
-    "start": "2.6.2026, 19:15:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 94",
-      "description": "Driftsforstyrrelse\nStartet: 2026-06-02 19:15\n19:25 Tre på linje v/ Kvam. Montører på vei for å fjerne treet og reparere høyspentlinje.\n19.15: Strømbrudd",
-      "styleUrl": "#red"
     }
   }
 ]
