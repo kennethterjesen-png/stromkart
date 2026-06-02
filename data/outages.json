@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-545",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.94101677401944,
+    "lng": 10.725734580695502,
+    "start": "2.6.2026, 22:01:00",
+    "end": "3.6.2026, 02:00:00",
+    "areaName": "Oslo / Oslo / 2617",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 545,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2617",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1780437745138,
+      "utkoblingslutt": 1780452000000,
+      "utkoblingstart": 1780437660000
+    }
+  },
+  {
     "id": "elvia-1363",
     "company": "Elvia",
     "type": "planned",
@@ -20,6 +43,29 @@
       "strombruddoppdaget": 1780422209880,
       "utkoblingslutt": 1780435709000,
       "utkoblingstart": 1780422209880
+    }
+  },
+  {
+    "id": "elvia-7450",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 203,
+    "lat": 59.92154672088374,
+    "lng": 10.716235635915224,
+    "start": "2.6.2026, 06:00:00",
+    "end": "5.6.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 2602",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7450,
+      "antallkunder": 203,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2602",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1780437673643,
+      "utkoblingslutt": 1780664400000,
+      "utkoblingstart": 1780380000000
     }
   },
   {
@@ -250,6 +296,53 @@
       "strombruddoppdaget": 1780422209880,
       "utkoblingslutt": 1780435709000,
       "utkoblingstart": 1780422209880
+    }
+  },
+  {
+    "id": "elvia-28545",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 44,
+    "lat": 59.411085167724,
+    "lng": 10.677230699245902,
+    "start": "28.5.2026, 06:00:00",
+    "end": "4.6.2026, 13:00:00",
+    "areaName": "Moss / Moss / Y0141",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28545,
+      "antallkunder": 44,
+      "avbruddstype": "Planned",
+      "kommune": "Moss",
+      "nettstasjon": "Y0141",
+      "poststed": "Moss",
+      "strombruddoppdaget": 1780437708287,
+      "utkoblingslutt": 1780578000000,
+      "utkoblingstart": 1779948000000
+    }
+  },
+  {
+    "id": "linja-outage-3289765",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 31,
+    "lat": 62.46952659689342,
+    "lng": 6.384198674028962,
+    "start": "2.6.2026, 22:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3289765,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Brusdalsvegen, Porsevegen og Røsslyngvegen onsdag 3.mai fra kl. 00:00 til 05:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1780437600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "ÅLESUND",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 0,
+      "NUM_AB": 31
     }
   },
   {
