@@ -1,34 +1,163 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.40199434295905,
-    "lng": 5.47098549608476,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
+    "id": "elvia-2093",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 60.75448710299593,
+    "lng": 10.554510357701108,
+    "start": "4.6.2026, 21:00:00",
+    "end": "5.6.2026, 03:00:00",
+    "areaName": "Gjøvik / Hunndalen / ENS01147",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "EVENTID": 9701722,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1780603200000,
-      "TIMELIMIT": 1780614000000,
-      "NUM_AB": 15,
-      "CUSTOMER_WEB_TEXT": "5262 ARNATVEIT; ARNADALSFLATEN,MAGNUSVEGEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 2,
-      "LAST_UPDATED": 1780603511000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
+      "OBJECTID": 2093,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS01147",
+      "poststed": "Hunndalen",
+      "strombruddoppdaget": 1780606791925,
+      "utkoblingslutt": 1780628400000,
+      "utkoblingstart": 1780606800000
+    }
+  },
+  {
+    "id": "elvia-2099",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 60.752768515611386,
+    "lng": 10.576306072883549,
+    "start": "4.6.2026, 21:00:00",
+    "end": "5.6.2026, 03:00:00",
+    "areaName": "Gjøvik / Hunndalen / ENS01214",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 2099,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS01214",
+      "poststed": "Hunndalen",
+      "strombruddoppdaget": 1780606791925,
+      "utkoblingslutt": 1780628400000,
+      "utkoblingstart": 1780606800000
+    }
+  },
+  {
+    "id": "elvia-7233",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.87553388733528,
+    "lng": 10.843532731585055,
+    "start": "4.6.2026, 21:00:00",
+    "end": "5.6.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 2302",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7233,
+      "antallkunder": 3,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2302",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1780632000000,
+      "utkoblingstart": 1780606800000
+    }
+  },
+  {
+    "id": "elvia-12975",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 60.75230365656235,
+    "lng": 10.564934326051235,
+    "start": "4.6.2026, 21:00:00",
+    "end": "5.6.2026, 03:00:00",
+    "areaName": "Gjøvik / Hunndalen / ENS01173",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 12975,
+      "antallkunder": 5,
+      "avbruddstype": "Planned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS01173",
+      "poststed": "Hunndalen",
+      "strombruddoppdaget": 1780606791925,
+      "utkoblingslutt": 1780628400000,
+      "utkoblingstart": 1780606800000
+    }
+  },
+  {
+    "id": "elvia-13010",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 60.75061192969094,
+    "lng": 10.558644067733027,
+    "start": "4.6.2026, 21:00:00",
+    "end": "5.6.2026, 03:00:00",
+    "areaName": "Gjøvik / Hunndalen / ENS01223",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 13010,
+      "antallkunder": 9,
+      "avbruddstype": "Planned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS01223",
+      "poststed": "Hunndalen",
+      "strombruddoppdaget": 1780606791925,
+      "utkoblingslutt": 1780628400000,
+      "utkoblingstart": 1780606800000
+    }
+  },
+  {
+    "id": "elvia-13073",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 60.736658982737175,
+    "lng": 10.538924255409762,
+    "start": "4.6.2026, 21:00:00",
+    "end": "5.6.2026, 03:00:00",
+    "areaName": "Gjøvik / Hunndalen / ENS01306",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 13073,
+      "antallkunder": 7,
+      "avbruddstype": "Planned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS01306",
+      "poststed": "Hunndalen",
+      "strombruddoppdaget": 1780606791925,
+      "utkoblingslutt": 1780628400000,
+      "utkoblingstart": 1780606800000
+    }
+  },
+  {
+    "id": "elvia-13074",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 23,
+    "lat": 60.74766867983098,
+    "lng": 10.544315833166191,
+    "start": "4.6.2026, 21:00:00",
+    "end": "5.6.2026, 03:00:00",
+    "areaName": "Gjøvik / Hunndalen / ENS01307",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 13074,
+      "antallkunder": 23,
+      "avbruddstype": "Planned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS01307",
+      "poststed": "Hunndalen",
+      "strombruddoppdaget": 1780606791925,
+      "utkoblingslutt": 1780628400000,
+      "utkoblingstart": 1780606800000
     }
   },
   {
@@ -52,6 +181,121 @@
       "strombruddoppdaget": 1780596935678,
       "utkoblingslutt": 1780624800000,
       "utkoblingstart": 1780596900000
+    }
+  },
+  {
+    "id": "elvia-17810",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 24,
+    "lat": 61.66991885949161,
+    "lng": 10.54762786829151,
+    "start": "4.6.2026, 20:25:03",
+    "end": "5.6.2026, 00:01:03",
+    "areaName": "Ringebu / Atna / ENS08577",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17810,
+      "antallkunder": 24,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ringebu",
+      "nettstasjon": "ENS08577",
+      "poststed": "Atna",
+      "strombruddoppdaget": 1780604703000,
+      "utkoblingslutt": 1780617663000,
+      "utkoblingstart": 1780604703000
+    }
+  },
+  {
+    "id": "elvia-20119",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 60.762799879650295,
+    "lng": 10.552530742728212,
+    "start": "4.6.2026, 21:00:00",
+    "end": "5.6.2026, 03:00:00",
+    "areaName": "Gjøvik / Hunndalen / ENS12024",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20119,
+      "antallkunder": 5,
+      "avbruddstype": "Planned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS12024",
+      "poststed": "Hunndalen",
+      "strombruddoppdaget": 1780606791925,
+      "utkoblingslutt": 1780628400000,
+      "utkoblingstart": 1780606800000
+    }
+  },
+  {
+    "id": "elvia-20120",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 13,
+    "lat": 60.75600090949238,
+    "lng": 10.54293963097957,
+    "start": "4.6.2026, 21:00:00",
+    "end": "5.6.2026, 03:00:00",
+    "areaName": "Gjøvik / Hunndalen / ENS12025",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20120,
+      "antallkunder": 13,
+      "avbruddstype": "Planned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS12025",
+      "poststed": "Hunndalen",
+      "strombruddoppdaget": 1780606791925,
+      "utkoblingslutt": 1780628400000,
+      "utkoblingstart": 1780606800000
+    }
+  },
+  {
+    "id": "elvia-20464",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 60.75031316968788,
+    "lng": 10.533246053639976,
+    "start": "4.6.2026, 21:00:00",
+    "end": "5.6.2026, 03:00:00",
+    "areaName": "Gjøvik / Hunndalen / ENS12701",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20464,
+      "antallkunder": 9,
+      "avbruddstype": "Planned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS12701",
+      "poststed": "Hunndalen",
+      "strombruddoppdaget": 1780606791925,
+      "utkoblingslutt": 1780628400000,
+      "utkoblingstart": 1780606800000
+    }
+  },
+  {
+    "id": "elvia-20536",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 60.74376633117997,
+    "lng": 10.531072197138654,
+    "start": "4.6.2026, 21:00:00",
+    "end": "5.6.2026, 03:00:00",
+    "areaName": "Gjøvik / Hunndalen / ENS12824",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20536,
+      "antallkunder": 8,
+      "avbruddstype": "Planned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS12824",
+      "poststed": "Hunndalen",
+      "strombruddoppdaget": 1780606791925,
+      "utkoblingslutt": 1780628400000,
+      "utkoblingstart": 1780606800000
     }
   },
   {
@@ -467,6 +711,30 @@
       "PURCHAREA_TXT": "Sykkylven",
       "NUM_NS": 0,
       "NUM_AB": 1
+    }
+  },
+  {
+    "id": "linja-outage-3294641",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 146,
+    "lat": 62.42292567853696,
+    "lng": 6.344748747352241,
+    "start": "4.6.2026, 21:00:00",
+    "end": null,
+    "areaName": "SULA / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3294641,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Lerivåg, Sunde, Kvasnes og Veibust torsdag 4.juni fra kl. 23:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1780606800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "SULA",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 7,
+      "NUM_AB": 146
     }
   },
   {
@@ -1022,53 +1290,53 @@
     }
   },
   {
-    "id": "lnett-outage-3",
+    "id": "lnett-planned-5",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 128,
+    "lat": 59.00015518018019,
+    "lng": 5.745785529820525,
+    "start": "4.6.2026, 22:41:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 128",
+      "description": "Planlagt strømstans\nStartet: 2026-06-04 22:41\nPlanlagt ferdig: 2026-06-05 05:00\nPlanlagt strømstans",
+      "styleUrl": "#yellow"
+    }
+  },
+  {
+    "id": "lnett-planned-7",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 1935,
+    "lat": 59.032135605319795,
+    "lng": 5.932708692285579,
+    "start": "4.6.2026, 21:40:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 1935",
+      "description": "Planlagt strømstans\nStartet: 2026-06-04 21:40\nPlanlagt ferdig: 2026-06-05 06:00\nPlanlagt strømstans",
+      "styleUrl": "#yellow"
+    }
+  },
+  {
+    "id": "lnett-outage-9",
     "company": "Lnett",
     "type": "outage",
-    "customers": 7,
-    "lat": 58.71905747581328,
-    "lng": 5.694933982464166,
+    "customers": 10,
+    "lat": 58.71974612623115,
+    "lng": 5.6908448036670585,
     "start": "4.6.2026, 19:39:00",
     "end": null,
     "areaName": "Driftsforstyrrelse",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 7",
-      "description": "Driftsforstyrrelse\nStartet: 2026-06-04 19:39\n21:30 Feilretting pågår. Estimert ferdig innen kl. 02:00.\n20:30 Feilsøking pågår for resterende område. Strømmen kan komme og gå i forbindelse med seksjonering.\n19:40 Nytt strømbrudd.\n19:30 Alle skal ha fått strømmen tilbake. Sjekk sikringsskap dersom du fortsatt er uten strøm.\n18:40 404 kunder har fått strømmen tilbake. Feilsøking pågår fortsatt for resterende område.\n17:33 Montører er på vei for å lokalisere feilen.\n17:29 Strømbrudd",
-      "styleUrl": "#red"
-    }
-  },
-  {
-    "id": "lnett-outage-5",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 1,
-    "lat": 59.06454407662977,
-    "lng": 5.9324586242059345,
-    "start": "4.6.2026, 21:40:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 1",
-      "description": "Driftsforstyrrelse\nStartet: 2026-06-04 21:40",
-      "styleUrl": "#red"
-    }
-  },
-  {
-    "id": "lnett-outage-7",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 1797,
-    "lat": 59.00368410960803,
-    "lng": 5.733809786579767,
-    "start": "4.6.2026, 22:17:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 1797",
-      "description": "Driftsforstyrrelse\nStartet: 2026-06-04 22:17",
+      "name": "Berørte kunder: 10",
+      "description": "Driftsforstyrrelse\nStartet: 2026-06-04 19:39\n21:30 Feilretting pågår. Estimert ferdig innen kl. 02:00.\n20:30 Feilsøking pågår for resterende område. Strømmen kan komme og gå i forbindelse med seksjonering.\n19:40 Nytt strømbrudd.\n19:30 Alle skal ha fått strømmen tilbake. Sjekk sikringsskap dersom du fortsatt er uten strøm.\n18:40 404 kunder har fått strømmen tilbake. Feilsøking pågår fortsatt for resterende område.\n17:29 Strømbrudd. Montører på vei for feilsøk og feilretting.",
       "styleUrl": "#red"
     }
   }
