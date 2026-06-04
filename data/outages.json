@@ -191,30 +191,6 @@
     }
   },
   {
-    "id": "linja-planned-3299733",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.83987154564592,
-    "lng": 4.977471377495068,
-    "start": "4.6.2026, 06:00:00",
-    "end": null,
-    "areaName": "BREMANGER / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3299733,
-      "CUSTOMER_WEB_TEXT": "Trafo Hauge vert utan straum den 04.06 frå kl 08 til kl 08:30",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1780552800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "BREMANGER",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3242048",
     "company": "Linja",
     "type": "planned",
@@ -335,30 +311,6 @@
     }
   },
   {
-    "id": "linja-planned-3288556",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.659652673513015,
-    "lng": 6.368998498184798,
-    "start": "4.6.2026, 06:30:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3288556,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Mykland torsdag 4.juni fra kl. 08.30 til 14:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1780554600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3289633",
     "company": "Linja",
     "type": "planned",
@@ -407,30 +359,6 @@
     }
   },
   {
-    "id": "linja-planned-3289853",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.32473946839253,
-    "lng": 5.696755419134783,
-    "start": "4.6.2026, 07:00:00",
-    "end": null,
-    "areaName": "HERØY / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3289853,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Frøystad og Skinnesvegen torsdag 4.juni fra kl. 09:00 til 14:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1780556400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "HERØY",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3295496",
     "company": "Linja",
     "type": "planned",
@@ -450,30 +378,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "BREMANGER",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3294765",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.28904076841178,
-    "lng": 4.63183662391342,
-    "start": "4.6.2026, 07:00:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3294765,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nordsjøvegen og Gjørøyna torsdag 4.juni fra kl. 09:00 til 16:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1780556400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "ASKVOLL",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
