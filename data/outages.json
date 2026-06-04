@@ -1,5 +1,60 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.40199434295905,
+    "lng": 5.47098549608476,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9701722,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1780603200000,
+      "TIMELIMIT": 1780614000000,
+      "NUM_AB": 15,
+      "CUSTOMER_WEB_TEXT": "5262 ARNATVEIT; ARNADALSFLATEN,MAGNUSVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 2,
+      "LAST_UPDATED": 1780603511000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "elvia-17137",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 60.17018476892508,
+    "lng": 12.019202578179579,
+    "start": "4.6.2026, 18:15:00",
+    "end": "5.6.2026, 02:00:00",
+    "areaName": "Kongsvinger / Kongsvinger / ENS07534",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17137,
+      "antallkunder": 9,
+      "avbruddstype": "Planned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS07534",
+      "poststed": "Kongsvinger",
+      "strombruddoppdaget": 1780596935678,
+      "utkoblingslutt": 1780624800000,
+      "utkoblingstart": 1780596900000
+    }
+  },
+  {
     "id": "elvia-22068",
     "company": "Elvia",
     "type": "planned",
@@ -204,6 +259,29 @@
       "strombruddoppdaget": 1780575020000,
       "utkoblingslutt": 1780588520000,
       "utkoblingstart": 1780575020000
+    }
+  },
+  {
+    "id": "elvia-30671",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.333976268948284,
+    "lng": 11.472797193711788,
+    "start": "4.6.2026, 20:11:28",
+    "end": "4.6.2026, 23:47:28",
+    "areaName": "Rakkestad / Degernes / W232",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 30671,
+      "antallkunder": 7,
+      "avbruddstype": "Unplanned",
+      "kommune": "Rakkestad",
+      "nettstasjon": "W232",
+      "poststed": "Degernes",
+      "strombruddoppdaget": 1780603888000,
+      "utkoblingslutt": 1780616848000,
+      "utkoblingstart": 1780603888000
     }
   },
   {
@@ -531,30 +609,6 @@
       "FLAG": 128,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "BREMANGER",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3294641",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.422900918152486,
-    "lng": 6.344405014029279,
-    "start": "4.6.2026, 21:00:00",
-    "end": null,
-    "areaName": "SULA / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3294641,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Lerivåg, Sunde, Kvasnes og Veibust torsdag 4.juni fra kl. 23:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1780606800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "SULA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -944,30 +998,6 @@
     }
   },
   {
-    "id": "linja-planned-3288780",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.82006052635949,
-    "lng": 6.538442009224094,
-    "start": "4.6.2026, 22:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3288780,
-      "CUSTOMER_WEB_TEXT": "Kravika (Harøy) Finnøya, Gåsøya, Sæterøya, Sandøya, Orten og Ona: På grunn av arbeid i høgspentnettet vert det straumstans i området natt til fredag 5. juni fram til kl. 06. ",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1780610400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Nordvestnett",
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3294917",
     "company": "Linja",
     "type": "planned",
@@ -995,16 +1025,50 @@
     "id": "lnett-outage-3",
     "company": "Lnett",
     "type": "outage",
-    "customers": 10,
-    "lat": 58.71974612623115,
-    "lng": 5.6908448036670585,
+    "customers": 7,
+    "lat": 58.71905747581328,
+    "lng": 5.694933982464166,
     "start": "4.6.2026, 19:39:00",
     "end": null,
     "areaName": "Driftsforstyrrelse",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 10",
-      "description": "Driftsforstyrrelse\nStartet: 2026-06-04 19:39\n19:40 Nytt strømbrudd. Strømmen kan komme og gå i forbindelse med seksjonering.\n19:30 Alle skal ha fått strømmen tilbake. Sjekk sikringsskap dersom du fortsatt er uten strøm.\n18:40 404 kunder har fått strømmen tilbake. Feilsøking pågår fortsatt for resterende område. Strømmen kan komme og gå i forbindelse med seksjonering.\n17:33 Montører er på vei for å lokalisere feilen.\n17:29 Strømbrudd",
+      "name": "Berørte kunder: 7",
+      "description": "Driftsforstyrrelse\nStartet: 2026-06-04 19:39\n21:30 Feilretting pågår. Estimert ferdig innen kl. 02:00.\n20:30 Feilsøking pågår for resterende område. Strømmen kan komme og gå i forbindelse med seksjonering.\n19:40 Nytt strømbrudd.\n19:30 Alle skal ha fått strømmen tilbake. Sjekk sikringsskap dersom du fortsatt er uten strøm.\n18:40 404 kunder har fått strømmen tilbake. Feilsøking pågår fortsatt for resterende område.\n17:33 Montører er på vei for å lokalisere feilen.\n17:29 Strømbrudd",
+      "styleUrl": "#red"
+    }
+  },
+  {
+    "id": "lnett-outage-5",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 1,
+    "lat": 59.06454407662977,
+    "lng": 5.9324586242059345,
+    "start": "4.6.2026, 21:40:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 1",
+      "description": "Driftsforstyrrelse\nStartet: 2026-06-04 21:40",
+      "styleUrl": "#red"
+    }
+  },
+  {
+    "id": "lnett-outage-7",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 1797,
+    "lat": 59.00368410960803,
+    "lng": 5.733809786579767,
+    "start": "4.6.2026, 22:17:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 1797",
+      "description": "Driftsforstyrrelse\nStartet: 2026-06-04 22:17",
       "styleUrl": "#red"
     }
   }
