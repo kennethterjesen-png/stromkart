@@ -47,30 +47,6 @@
     }
   },
   {
-    "id": "linja-outage-3282218",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 9,
-    "lat": 61.76848227094095,
-    "lng": 5.289118985014177,
-    "start": "3.6.2026, 22:00:00",
-    "end": null,
-    "areaName": "BREMANGER / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3282218,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Granden torsdag 4.juni fra kl. 00:00 til 04:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1780524000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "BREMANGER",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 9
-    }
-  },
-  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
