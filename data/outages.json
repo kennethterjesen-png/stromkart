@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-1514",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.97459495581071,
+    "lng": 10.543336530287737,
+    "start": "4.6.2026, 22:05:00",
+    "end": "5.6.2026, 04:00:00",
+    "areaName": "Bærum / Eiksmarka / B1763",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 1514,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Bærum",
+      "nettstasjon": "B1763",
+      "poststed": "Eiksmarka",
+      "strombruddoppdaget": 1780611522412,
+      "utkoblingslutt": 1780632000000,
+      "utkoblingstart": 1780610700000
+    }
+  },
+  {
     "id": "elvia-2093",
     "company": "Elvia",
     "type": "planned",
@@ -46,6 +69,75 @@
     }
   },
   {
+    "id": "elvia-6395",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 166,
+    "lat": 59.92871545848049,
+    "lng": 10.725402681355579,
+    "start": "3.6.2026, 06:00:00",
+    "end": "5.6.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 1046",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6395,
+      "antallkunder": 166,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1046",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1780483901254,
+      "utkoblingslutt": 1780632000000,
+      "utkoblingstart": 1780466400000
+    }
+  },
+  {
+    "id": "elvia-6442",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 56,
+    "lat": 59.92759512381846,
+    "lng": 10.715016318618984,
+    "start": "4.6.2026, 22:01:00",
+    "end": "5.6.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 1108",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6442,
+      "antallkunder": 56,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1108",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1780632000000,
+      "utkoblingstart": 1780610460000
+    }
+  },
+  {
+    "id": "elvia-6752",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 96,
+    "lat": 59.94165564887153,
+    "lng": 10.671377869674412,
+    "start": "28.5.2026, 06:00:00",
+    "end": "5.6.2026, 04:30:00",
+    "areaName": "Oslo / Oslo / 1593",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6752,
+      "antallkunder": 96,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1593",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1780524325140,
+      "utkoblingslutt": 1780633800000,
+      "utkoblingstart": 1779948000000
+    }
+  },
+  {
     "id": "elvia-7233",
     "company": "Elvia",
     "type": "planned",
@@ -66,6 +158,98 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1780632000000,
       "utkoblingstart": 1780606800000
+    }
+  },
+  {
+    "id": "elvia-8679",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 163,
+    "lat": 59.91190466729313,
+    "lng": 10.773160873527644,
+    "start": "4.6.2026, 06:00:00",
+    "end": "5.6.2026, 04:30:00",
+    "areaName": "Oslo / Oslo / 4549",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8679,
+      "antallkunder": 163,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "4549",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1780545635330,
+      "utkoblingslutt": 1780633800000,
+      "utkoblingstart": 1780552800000
+    }
+  },
+  {
+    "id": "elvia-9900",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.94846084568229,
+    "lng": 10.559298648105843,
+    "start": "4.6.2026, 22:05:00",
+    "end": "5.6.2026, 04:00:00",
+    "areaName": "Bærum / Bekkestua / B0838",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9900,
+      "antallkunder": 6,
+      "avbruddstype": "Planned",
+      "kommune": "Bærum",
+      "nettstasjon": "B0838",
+      "poststed": "Bekkestua",
+      "strombruddoppdaget": 1780611522412,
+      "utkoblingslutt": 1780632000000,
+      "utkoblingstart": 1780610700000
+    }
+  },
+  {
+    "id": "elvia-10193",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.9586330055666,
+    "lng": 10.547384937228864,
+    "start": "4.6.2026, 22:05:00",
+    "end": "5.6.2026, 04:00:00",
+    "areaName": "Bærum / Bekkestua / B1315",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 10193,
+      "antallkunder": 4,
+      "avbruddstype": "Planned",
+      "kommune": "Bærum",
+      "nettstasjon": "B1315",
+      "poststed": "Bekkestua",
+      "strombruddoppdaget": 1780611522412,
+      "utkoblingslutt": 1780632000000,
+      "utkoblingstart": 1780610700000
+    }
+  },
+  {
+    "id": "elvia-10249",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.966925258267544,
+    "lng": 10.543739430043956,
+    "start": "4.6.2026, 22:05:00",
+    "end": "5.6.2026, 04:00:00",
+    "areaName": "Bærum / Bekkestua / B1398",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 10249,
+      "antallkunder": 4,
+      "avbruddstype": "Planned",
+      "kommune": "Bærum",
+      "nettstasjon": "B1398",
+      "poststed": "Bekkestua",
+      "strombruddoppdaget": 1780611522412,
+      "utkoblingslutt": 1780632000000,
+      "utkoblingstart": 1780610700000
     }
   },
   {
@@ -184,29 +368,6 @@
     }
   },
   {
-    "id": "elvia-17810",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 24,
-    "lat": 61.66991885949161,
-    "lng": 10.54762786829151,
-    "start": "4.6.2026, 20:25:03",
-    "end": "5.6.2026, 00:01:03",
-    "areaName": "Ringebu / Atna / ENS08577",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17810,
-      "antallkunder": 24,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ringebu",
-      "nettstasjon": "ENS08577",
-      "poststed": "Atna",
-      "strombruddoppdaget": 1780604703000,
-      "utkoblingslutt": 1780617663000,
-      "utkoblingstart": 1780604703000
-    }
-  },
-  {
     "id": "elvia-20119",
     "company": "Elvia",
     "type": "planned",
@@ -296,29 +457,6 @@
       "strombruddoppdaget": 1780606791925,
       "utkoblingslutt": 1780628400000,
       "utkoblingstart": 1780606800000
-    }
-  },
-  {
-    "id": "elvia-22068",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 59.65846285329658,
-    "lng": 10.998249722791625,
-    "start": "4.6.2026, 17:48:14",
-    "end": "4.6.2026, 21:24:14",
-    "areaName": "Indre Østfold / Tomter / I1087",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22068,
-      "antallkunder": 15,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "I1087",
-      "poststed": "Tomter",
-      "strombruddoppdaget": 1780595294000,
-      "utkoblingslutt": 1780608254000,
-      "utkoblingstart": 1780595294000
     }
   },
   {
@@ -735,6 +873,30 @@
       "PURCHAREA_TXT": "Linja Nord",
       "NUM_NS": 7,
       "NUM_AB": 146
+    }
+  },
+  {
+    "id": "linja-outage-3288780",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 414,
+    "lat": 62.81963778981577,
+    "lng": 6.538328543911727,
+    "start": "4.6.2026, 22:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Nordvestnett",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3288780,
+      "CUSTOMER_WEB_TEXT": "Kravika (Harøy) Finnøya, Gåsøya, Sæterøya, Sandøya, Orten og Ona: På grunn av arbeid i høgspentnettet vert det straumstans i området natt til fredag 5. juni fram til kl. 06. ",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1780610400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "ÅLESUND",
+      "PURCHAREA_TXT": "Nordvestnett",
+      "NUM_NS": 17,
+      "NUM_AB": 414
     }
   },
   {
@@ -1290,7 +1452,7 @@
     }
   },
   {
-    "id": "lnett-planned-5",
+    "id": "lnett-planned-7",
     "company": "Lnett",
     "type": "planned",
     "customers": 128,
@@ -1307,7 +1469,7 @@
     }
   },
   {
-    "id": "lnett-planned-7",
+    "id": "lnett-planned-9",
     "company": "Lnett",
     "type": "planned",
     "customers": 1935,
@@ -1321,23 +1483,6 @@
       "name": "Berørte kunder: 1935",
       "description": "Planlagt strømstans\nStartet: 2026-06-04 21:40\nPlanlagt ferdig: 2026-06-05 06:00\nPlanlagt strømstans",
       "styleUrl": "#yellow"
-    }
-  },
-  {
-    "id": "lnett-outage-9",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 10,
-    "lat": 58.71974612623115,
-    "lng": 5.6908448036670585,
-    "start": "4.6.2026, 19:39:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 10",
-      "description": "Driftsforstyrrelse\nStartet: 2026-06-04 19:39\n21:30 Feilretting pågår. Estimert ferdig innen kl. 02:00.\n20:30 Feilsøking pågår for resterende område. Strømmen kan komme og gå i forbindelse med seksjonering.\n19:40 Nytt strømbrudd.\n19:30 Alle skal ha fått strømmen tilbake. Sjekk sikringsskap dersom du fortsatt er uten strøm.\n18:40 404 kunder har fått strømmen tilbake. Feilsøking pågår fortsatt for resterende område.\n17:29 Strømbrudd. Montører på vei for feilsøk og feilretting.",
-      "styleUrl": "#red"
     }
   }
 ]
