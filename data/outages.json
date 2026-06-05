@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-10205",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.90075945108894,
-    "lng": 10.546970198507529,
-    "start": "5.6.2026, 20:06:29",
-    "end": "5.6.2026, 23:42:29",
-    "areaName": "Bærum / Blommenholm / B1336",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10205,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B1336",
-      "poststed": "Blommenholm",
-      "strombruddoppdaget": 1780689989000,
-      "utkoblingslutt": 1780702949000,
-      "utkoblingstart": 1780689989000
-    }
-  },
-  {
     "id": "elvia-22848",
     "company": "Elvia",
     "type": "planned",
@@ -920,7 +897,7 @@
     }
   },
   {
-    "id": "lnett-planned-5",
+    "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
     "customers": 128,
@@ -937,7 +914,7 @@
     }
   },
   {
-    "id": "lnett-planned-7",
+    "id": "lnett-planned-5",
     "company": "Lnett",
     "type": "planned",
     "customers": 1935,
