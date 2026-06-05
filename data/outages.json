@@ -4,54 +4,31 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.32952619581769,
-    "lng": 5.310145434332391,
+    "lat": 61.02099789880084,
+    "lng": 5.4932892360052215,
     "start": null,
     "end": null,
-    "areaName": "Bergen",
+    "areaName": "Ukjent område",
     "sourceUrl": "https://geonis.bkk.no/",
     "raw": {
-      "EVENTID": 9690631,
-      "MUNICIPAL_TXT": "Bergen",
+      "EVENTID": 9721262,
+      "MUNICIPAL_TXT": null,
       "TYPE_TXT": "Utkobling",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1780641000000,
-      "TIMELIMIT": 1780662600000,
-      "NUM_AB": 4,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
+      "STARTTIME": 1780660800000,
+      "TIMELIMIT": 1780671600000,
+      "NUM_AB": 38,
+      "CUSTOMER_WEB_TEXT": "5961 BREKKE; SOGNEVEGEN,ASHEIM,RISNEFJORDVEGEN,SÆTRE",
+      "GRIDLEVEL_TXT": "Høy",
       "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1780641629000,
+      "NUM_NS": 4,
+      "LAST_UPDATED": 1780660938000,
       "SCHEDULED_SMS_DAYS_BEFORE": 3,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 0,
       "NUM_AB_REGAINED": 0,
       "SCHEDULED_SMS_INHABITANT_TEXT": null,
       "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-3237",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 61.342372431236704,
-    "lng": 9.788268891373828,
-    "start": "5.6.2026, 08:36:11",
-    "end": "5.6.2026, 12:12:11",
-    "areaName": "Gausdal / Svatsum / ENS12266",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 3237,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Gausdal",
-      "nettstasjon": "ENS12266",
-      "poststed": "Svatsum",
-      "strombruddoppdaget": 1780648571000,
-      "utkoblingslutt": 1780661531000,
-      "utkoblingstart": 1780648571000
     }
   },
   {
@@ -75,29 +52,6 @@
       "strombruddoppdaget": 1780652151000,
       "utkoblingslutt": 1780665111000,
       "utkoblingstart": 1780652151000
-    }
-  },
-  {
-    "id": "elvia-11462",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 59.86049122458544,
-    "lng": 10.494829700348829,
-    "start": "5.6.2026, 07:00:00",
-    "end": "5.6.2026, 13:00:00",
-    "areaName": "Asker / Nesbru / D0639",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11462,
-      "antallkunder": 15,
-      "avbruddstype": "Planned",
-      "kommune": "Asker",
-      "nettstasjon": "D0639",
-      "poststed": "Nesbru",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1780664400000,
-      "utkoblingstart": 1780642800000
     }
   },
   {
@@ -144,52 +98,6 @@
       "strombruddoppdaget": 1780561095000,
       "utkoblingslutt": 1780574055000,
       "utkoblingstart": 1780561095000
-    }
-  },
-  {
-    "id": "elvia-27335",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.27284911259246,
-    "lng": 11.040152931890887,
-    "start": "5.6.2026, 07:00:00",
-    "end": "5.6.2026, 13:00:00",
-    "areaName": "Sarpsborg / Greåker / X0123",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27335,
-      "antallkunder": 8,
-      "avbruddstype": "Planned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0123",
-      "poststed": "Greåker",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1780664400000,
-      "utkoblingstart": 1780642800000
-    }
-  },
-  {
-    "id": "elvia-28134",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.209255478735884,
-    "lng": 10.777224803847533,
-    "start": "5.6.2026, 06:00:00",
-    "end": "5.6.2026, 10:00:00",
-    "areaName": "Fredrikstad / Gressvik / X2038",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28134,
-      "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Fredrikstad",
-      "nettstasjon": "X2038",
-      "poststed": "Gressvik",
-      "strombruddoppdaget": 1780646516273,
-      "utkoblingslutt": 1780653600000,
-      "utkoblingstart": 1780639200000
     }
   },
   {
@@ -538,30 +446,6 @@
     }
   },
   {
-    "id": "linja-outage-3294841",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 10,
-    "lat": 61.83837772334626,
-    "lng": 6.470653183476319,
-    "start": "5.6.2026, 07:00:00",
-    "end": null,
-    "areaName": "STRYN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3294841,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Sagehaugen, Lillejordvegen og Blaksæter fredag 5.juni fra kl. 09:00 til 15:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1780642800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "STRYN",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 0,
-      "NUM_AB": 10
-    }
-  },
-  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
@@ -589,9 +473,9 @@
     "id": "linja-outage-3287016",
     "company": "Linja",
     "type": "outage",
-    "customers": 16,
-    "lat": 62.38247148833996,
-    "lng": 6.668790206034823,
+    "customers": 1,
+    "lat": 62.366261591365344,
+    "lng": 6.707943915180951,
     "start": "2.6.2026, 07:00:00",
     "end": null,
     "areaName": "SYKKYLVEN / Sykkylven",
@@ -599,14 +483,14 @@
     "raw": {
       "EVENTID": 3287016,
       "CUSTOMER_WEB_TEXT": "På grunn av arbeid i høyspentnettet blir det strømstans for kunder i området Grebstadstølen og Sunndalssætra. Berørte abonnenter blir varsla på SMS.",
-      "STATE_TXT": "Pågående",
+      "STATE_TXT": "På vent",
       "STARTTIME": 1780383600000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
       "MUNICIPAL_TXT": "SYKKYLVEN",
       "PURCHAREA_TXT": "Sykkylven",
-      "NUM_NS": 1,
-      "NUM_AB": 16
+      "NUM_NS": 0,
+      "NUM_AB": 1
     }
   },
   {
