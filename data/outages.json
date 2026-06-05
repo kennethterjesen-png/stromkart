@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-16204",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.31020788150182,
-    "lng": 12.489763443124215,
-    "start": "5.6.2026, 13:44:49",
-    "end": "5.6.2026, 17:20:49",
-    "areaName": "Grue / Grue finnskog / ENS06029",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16204,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Grue",
-      "nettstasjon": "ENS06029",
-      "poststed": "Grue finnskog",
-      "strombruddoppdaget": 1780667089000,
-      "utkoblingslutt": 1780680049000,
-      "utkoblingstart": 1780667089000
-    }
-  },
-  {
     "id": "elvia-22848",
     "company": "Elvia",
     "type": "planned",
@@ -43,29 +20,6 @@
       "strombruddoppdaget": 1780561095000,
       "utkoblingslutt": 1780574055000,
       "utkoblingstart": 1780561095000
-    }
-  },
-  {
-    "id": "elvia-29355",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.60034760002025,
-    "lng": 11.229426040981439,
-    "start": "5.6.2026, 08:53:16",
-    "end": "5.6.2026, 12:29:16",
-    "areaName": "Indre Østfold / Askim / Z1167",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29355,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1167",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1780649596000,
-      "utkoblingslutt": 1780662556000,
-      "utkoblingstart": 1780649596000
     }
   },
   {
