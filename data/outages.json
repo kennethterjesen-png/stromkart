@@ -141,23 +141,23 @@
     "id": "elvia-7233",
     "company": "Elvia",
     "type": "planned",
-    "customers": 3,
+    "customers": 24,
     "lat": 59.87553388733528,
     "lng": 10.843532731585055,
-    "start": "4.6.2026, 21:00:00",
+    "start": "4.6.2026, 22:01:00",
     "end": "5.6.2026, 04:00:00",
     "areaName": "Oslo / Oslo / 2302",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
       "OBJECTID": 7233,
-      "antallkunder": 3,
+      "antallkunder": 24,
       "avbruddstype": "Planned",
       "kommune": "Oslo",
       "nettstasjon": "2302",
       "poststed": "Oslo",
       "strombruddoppdaget": null,
       "utkoblingslutt": 1780632000000,
-      "utkoblingstart": 1780606800000
+      "utkoblingstart": 1780610460000
     }
   },
   {
@@ -342,29 +342,6 @@
       "strombruddoppdaget": 1780606791925,
       "utkoblingslutt": 1780628400000,
       "utkoblingstart": 1780606800000
-    }
-  },
-  {
-    "id": "elvia-17137",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.17018476892508,
-    "lng": 12.019202578179579,
-    "start": "4.6.2026, 18:15:00",
-    "end": "5.6.2026, 02:00:00",
-    "areaName": "Kongsvinger / Kongsvinger / ENS07534",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17137,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07534",
-      "poststed": "Kongsvinger",
-      "strombruddoppdaget": 1780596935678,
-      "utkoblingslutt": 1780624800000,
-      "utkoblingstart": 1780596900000
     }
   },
   {
