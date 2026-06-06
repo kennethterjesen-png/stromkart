@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 59.85721014465007,
-    "lng": 5.726973900039543,
-    "start": null,
-    "end": null,
-    "areaName": "Kvinnherad",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9709135,
-      "MUNICIPAL_TXT": "Kvinnherad",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1780732800000,
-      "TIMELIMIT": 1780740000000,
-      "NUM_AB": 203,
-      "CUSTOMER_WEB_TEXT": "5450 SUNDE I SUNNHORDLAND; SIRIHAUGEN,BJØRKHAUGVEGEN,KALDESTADVEGEN,PRESTNESVEGEN,KORSVEGEN,KUNESET,RØSSLAND, KUNESET,RØSSLAND,RØSSLAND, KUHOLMEN,SUNDE I SUNNHORDLAND,GRØNSTØLSVEGEN,BOTNAVEGEN,SKOGLYVEGEN\r\n5460 HUSNES; PRESTNESVEGEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 7,
-      "LAST_UPDATED": 1780733036000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 4,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-4983",
     "company": "Elvia",
     "type": "planned",
@@ -667,23 +635,6 @@
     "id": "lnett-planned-7",
     "company": "Lnett",
     "type": "planned",
-    "customers": 12,
-    "lat": 59.14180480041922,
-    "lng": 6.17997849599051,
-    "start": "6.6.2026, 08:18:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 12",
-      "description": "Planlagt strømstans\nStartet: 2026-06-06 08:18\nPlanlagt ferdig: 2026-06-06 13:00",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
-    "id": "lnett-planned-9",
-    "company": "Lnett",
-    "type": "planned",
     "customers": 7,
     "lat": 58.88182472227305,
     "lng": 5.686868763907761,
@@ -694,6 +645,23 @@
     "raw": {
       "name": "Berørte kunder: 7",
       "description": "Planlagt strømstans\nStartet: 2026-06-06 08:42\nPlanlagt ferdig: 2026-06-06 15:00",
+      "styleUrl": "#yellow"
+    }
+  },
+  {
+    "id": "lnett-planned-9",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.14180480041922,
+    "lng": 6.17997849599051,
+    "start": "6.6.2026, 08:18:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 12",
+      "description": "Planlagt strømstans\nStartet: 2026-06-06 08:18\nPlanlagt ferdig: 2026-06-06 13:00",
       "styleUrl": "#yellow"
     }
   }
