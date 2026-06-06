@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-629",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 20,
+    "lat": 59.92015501360933,
+    "lng": 10.720197812385956,
+    "start": "6.6.2026, 00:50:21",
+    "end": "6.6.2026, 04:26:21",
+    "areaName": "Oslo / Oslo / 3111",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 629,
+      "antallkunder": 20,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "3111",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1780707021000,
+      "utkoblingslutt": 1780719981000,
+      "utkoblingstart": 1780707021000
+    }
+  },
+  {
     "id": "elvia-22848",
     "company": "Elvia",
     "type": "planned",
