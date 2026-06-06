@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 59.85721014465007,
+    "lng": 5.726973900039543,
+    "start": null,
+    "end": null,
+    "areaName": "Kvinnherad",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9709135,
+      "MUNICIPAL_TXT": "Kvinnherad",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1780732800000,
+      "TIMELIMIT": 1780740000000,
+      "NUM_AB": 203,
+      "CUSTOMER_WEB_TEXT": "5450 SUNDE I SUNNHORDLAND; SIRIHAUGEN,BJØRKHAUGVEGEN,KALDESTADVEGEN,PRESTNESVEGEN,KORSVEGEN,KUNESET,RØSSLAND, KUNESET,RØSSLAND,RØSSLAND, KUHOLMEN,SUNDE I SUNNHORDLAND,GRØNSTØLSVEGEN,BOTNAVEGEN,SKOGLYVEGEN\r\n5460 HUSNES; PRESTNESVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 7,
+      "LAST_UPDATED": 1780733036000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 4,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-4983",
     "company": "Elvia",
     "type": "planned",
@@ -43,236 +75,6 @@
       "strombruddoppdaget": 1780561095000,
       "utkoblingslutt": 1780574055000,
       "utkoblingstart": 1780561095000
-    }
-  },
-  {
-    "id": "elvia-29990",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 60.61567873590929,
-    "lng": 10.623032686274234,
-    "start": "6.6.2026, 06:00:00",
-    "end": "6.6.2026, 12:00:00",
-    "areaName": "Vestre Toten / Eina / ENS13258",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29990,
-      "antallkunder": 7,
-      "avbruddstype": "Planned",
-      "kommune": "Vestre Toten",
-      "nettstasjon": "ENS13258",
-      "poststed": "Eina",
-      "strombruddoppdaget": 1780725644362,
-      "utkoblingslutt": 1780747200000,
-      "utkoblingstart": 1780725600000
-    }
-  },
-  {
-    "id": "elvia-30416",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.36512547117019,
-    "lng": 11.583335205563484,
-    "start": "6.6.2026, 04:15:30",
-    "end": "6.6.2026, 08:00:30",
-    "areaName": "Rakkestad / Ørje / W296",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30416,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W296",
-      "poststed": "Ørje",
-      "strombruddoppdaget": 1780719330000,
-      "utkoblingslutt": 1780732830000,
-      "utkoblingstart": 1780719330000
-    }
-  },
-  {
-    "id": "elvia-30650",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.341802692896394,
-    "lng": 11.559337008720183,
-    "start": "6.6.2026, 04:15:30",
-    "end": "6.6.2026, 08:00:30",
-    "areaName": "Rakkestad / Degernes / W204",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30650,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W204",
-      "poststed": "Degernes",
-      "strombruddoppdaget": 1780719330000,
-      "utkoblingslutt": 1780732830000,
-      "utkoblingstart": 1780719330000
-    }
-  },
-  {
-    "id": "elvia-30661",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.31969104925114,
-    "lng": 11.561935042134644,
-    "start": "6.6.2026, 04:15:30",
-    "end": "6.6.2026, 08:00:30",
-    "areaName": "Rakkestad / Degernes / W218",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30661,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W218",
-      "poststed": "Degernes",
-      "strombruddoppdaget": 1780719330000,
-      "utkoblingslutt": 1780732830000,
-      "utkoblingstart": 1780719330000
-    }
-  },
-  {
-    "id": "elvia-30662",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.336004193015356,
-    "lng": 11.550000626627204,
-    "start": "6.6.2026, 04:15:30",
-    "end": "6.6.2026, 08:00:30",
-    "areaName": "Rakkestad / Degernes / W219",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30662,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W219",
-      "poststed": "Degernes",
-      "strombruddoppdaget": 1780719330000,
-      "utkoblingslutt": 1780732830000,
-      "utkoblingstart": 1780719330000
-    }
-  },
-  {
-    "id": "elvia-30681",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.343545968851515,
-    "lng": 11.545446152252392,
-    "start": "6.6.2026, 04:15:30",
-    "end": "6.6.2026, 08:00:30",
-    "areaName": "Rakkestad / Degernes / W242",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30681,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W242",
-      "poststed": "Degernes",
-      "strombruddoppdaget": 1780719330000,
-      "utkoblingslutt": 1780732830000,
-      "utkoblingstart": 1780719330000
-    }
-  },
-  {
-    "id": "elvia-30683",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.32223419836957,
-    "lng": 11.577407646166243,
-    "start": "6.6.2026, 04:15:30",
-    "end": "6.6.2026, 08:00:30",
-    "areaName": "Rakkestad / Aremark / W244",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30683,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W244",
-      "poststed": "Aremark",
-      "strombruddoppdaget": 1780719330000,
-      "utkoblingslutt": 1780732830000,
-      "utkoblingstart": 1780719330000
-    }
-  },
-  {
-    "id": "elvia-30712",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.33074314528496,
-    "lng": 11.556021586681304,
-    "start": "6.6.2026, 04:15:30",
-    "end": "6.6.2026, 08:00:30",
-    "areaName": "Rakkestad / Degernes / W287",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30712,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W287",
-      "poststed": "Degernes",
-      "strombruddoppdaget": 1780719330000,
-      "utkoblingslutt": 1780732830000,
-      "utkoblingstart": 1780719330000
-    }
-  },
-  {
-    "id": "elvia-30716",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.3437705470868,
-    "lng": 11.556777999868103,
-    "start": "6.6.2026, 04:15:30",
-    "end": "6.6.2026, 08:00:30",
-    "areaName": "Rakkestad / Degernes / W295",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30716,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W295",
-      "poststed": "Degernes",
-      "strombruddoppdaget": 1780719330000,
-      "utkoblingslutt": 1780732830000,
-      "utkoblingstart": 1780719330000
-    }
-  },
-  {
-    "id": "elvia-30722",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.33721941044035,
-    "lng": 11.574930144259145,
-    "start": "6.6.2026, 04:15:30",
-    "end": "6.6.2026, 08:00:30",
-    "areaName": "Rakkestad / Ørje / W313",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30722,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W313",
-      "poststed": "Ørje",
-      "strombruddoppdaget": 1780719330000,
-      "utkoblingslutt": 1780732830000,
-      "utkoblingstart": 1780719330000
     }
   },
   {
@@ -859,6 +661,40 @@
       "name": "Berørte kunder: 1935",
       "description": "Rettet\nStartet: 2026-06-04 21:40\nSluttid: 2026-06-05 04:19\nPlanlagt strømstans",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-planned-7",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.14180480041922,
+    "lng": 6.17997849599051,
+    "start": "6.6.2026, 08:18:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 12",
+      "description": "Planlagt strømstans\nStartet: 2026-06-06 08:18\nPlanlagt ferdig: 2026-06-06 13:00",
+      "styleUrl": "#yellow"
+    }
+  },
+  {
+    "id": "lnett-planned-9",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 7,
+    "lat": 58.88182472227305,
+    "lng": 5.686868763907761,
+    "start": "6.6.2026, 08:42:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 7",
+      "description": "Planlagt strømstans\nStartet: 2026-06-06 08:42\nPlanlagt ferdig: 2026-06-06 15:00",
+      "styleUrl": "#yellow"
     }
   }
 ]
