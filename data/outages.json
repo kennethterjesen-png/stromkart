@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-4983",
+    "id": "elvia-11747",
     "company": "Elvia",
     "type": "planned",
-    "customers": 2,
-    "lat": 59.58330500160119,
-    "lng": 10.737173170187784,
-    "start": "6.6.2026, 06:00:00",
-    "end": "6.6.2026, 14:00:00",
-    "areaName": "Vestby / Vestby / V0274",
+    "customers": 9,
+    "lat": 60.27403121914875,
+    "lng": 11.197936918865281,
+    "start": "6.6.2026, 18:42:55",
+    "end": "6.6.2026, 22:18:55",
+    "areaName": "Eidsvoll / Råholt / E0105",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 4983,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Vestby",
-      "nettstasjon": "V0274",
-      "poststed": "Vestby",
-      "strombruddoppdaget": 1780725858919,
-      "utkoblingslutt": 1780754400000,
-      "utkoblingstart": 1780725600000
+      "OBJECTID": 11747,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidsvoll",
+      "nettstasjon": "E0105",
+      "poststed": "Råholt",
+      "strombruddoppdaget": 1780771375000,
+      "utkoblingslutt": 1780784335000,
+      "utkoblingstart": 1780771375000
     }
   },
   {
@@ -43,29 +43,6 @@
       "strombruddoppdaget": 1780561095000,
       "utkoblingslutt": 1780574055000,
       "utkoblingstart": 1780561095000
-    }
-  },
-  {
-    "id": "elvia-24292",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 24,
-    "lat": 59.133392985382166,
-    "lng": 11.409633005545814,
-    "start": "6.6.2026, 14:25:30",
-    "end": "6.6.2026, 18:01:30",
-    "areaName": "Halden / Halden / Q0048",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24292,
-      "antallkunder": 24,
-      "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0048",
-      "poststed": "Halden",
-      "strombruddoppdaget": 1780755930000,
-      "utkoblingslutt": 1780768890000,
-      "utkoblingstart": 1780755930000
     }
   },
   {
