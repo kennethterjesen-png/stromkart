@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-24292",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 24,
+    "lat": 59.133392985382166,
+    "lng": 11.409633005545814,
+    "start": "6.6.2026, 14:25:30",
+    "end": "6.6.2026, 18:01:30",
+    "areaName": "Halden / Halden / Q0048",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24292,
+      "antallkunder": 24,
+      "avbruddstype": "Unplanned",
+      "kommune": "Halden",
+      "nettstasjon": "Q0048",
+      "poststed": "Halden",
+      "strombruddoppdaget": 1780755930000,
+      "utkoblingslutt": 1780768890000,
+      "utkoblingstart": 1780755930000
+    }
+  },
+  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
@@ -595,57 +618,6 @@
       "MUNICIPAL_TXT": "BREMANGER",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-3",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 128,
-    "lat": 59.00015518018019,
-    "lng": 5.745785529820525,
-    "start": "4.6.2026, 22:41:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 128",
-      "description": "Rettet\nStartet: 2026-06-04 22:41\nSluttid: 2026-06-05 04:08\nPlanlagt strømstans",
-      "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-5",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 1935,
-    "lat": 59.0321341376268,
-    "lng": 5.932719794243649,
-    "start": "4.6.2026, 21:40:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 1935",
-      "description": "Rettet\nStartet: 2026-06-04 21:40\nSluttid: 2026-06-05 04:19\nPlanlagt strømstans",
-      "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-7",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 7,
-    "lat": 58.88182472227305,
-    "lng": 5.686868763907761,
-    "start": "6.6.2026, 08:42:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 7",
-      "description": "Planlagt strømstans\nStartet: 2026-06-06 08:42\nPlanlagt ferdig: 2026-06-06 15:00",
-      "styleUrl": "#yellow"
     }
   }
 ]
