@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.805428689491706,
-    "lng": 4.822810433387607,
-    "start": null,
-    "end": null,
-    "areaName": "Austrheim",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9725263,
-      "MUNICIPAL_TXT": "Austrheim",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1780815960000,
-      "TIMELIMIT": 1780835400000,
-      "NUM_AB": 181,
-      "CUSTOMER_WEB_TEXT": "Feil funnet, feilretting pågår.",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 10,
-      "LAST_UPDATED": 1780824929000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-17170",
     "company": "Elvia",
     "type": "planned",
