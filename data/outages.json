@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-17170",
+    "id": "elvia-9120",
     "company": "Elvia",
     "type": "planned",
-    "customers": 103,
-    "lat": 60.19712032191668,
-    "lng": 12.009138844360146,
-    "start": "7.6.2026, 09:33:57",
-    "end": "7.6.2026, 13:09:57",
-    "areaName": "Kongsvinger / Kongsvinger / ENS07595",
+    "customers": 12,
+    "lat": 59.939660749213296,
+    "lng": 10.697775775165658,
+    "start": "7.6.2026, 10:59:52",
+    "end": "7.6.2026, 14:35:52",
+    "areaName": "Oslo / Oslo / 5166",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 17170,
-      "antallkunder": 103,
+      "OBJECTID": 9120,
+      "antallkunder": 12,
       "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07595",
-      "poststed": "Kongsvinger",
-      "strombruddoppdaget": 1780824837000,
-      "utkoblingslutt": 1780837797000,
-      "utkoblingstart": 1780824837000
+      "kommune": "Oslo",
+      "nettstasjon": "5166",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1780829992000,
+      "utkoblingslutt": 1780842952000,
+      "utkoblingstart": 1780829992000
     }
   },
   {
