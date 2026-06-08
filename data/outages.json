@@ -1159,34 +1159,6 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-70561-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.69637451,
-    "lng": 10.475193380000007,
-    "start": "8.6.2026, 22:05:09",
-    "end": "9.6.2026, 04:00:09",
-    "areaName": "BØDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217118,
-      "REFNR": "P70561",
-      "SEKUNDÆRSTASJON": "BØDALEN",
-      "AVGANG": "K3_AVGR. R405",
-      "CNT": 4,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1780956309000,
-      "TIL_DATO": 1780977609000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70561-1",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-planned-V-70563-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1295,6 +1267,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70574-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70561-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 4,
+    "lat": 59.69637451,
+    "lng": 10.475193380000007,
+    "start": "8.6.2026, 22:05:09",
+    "end": "9.6.2026, 04:00:09",
+    "areaName": "BØDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217118,
+      "REFNR": "P70561",
+      "SEKUNDÆRSTASJON": "BØDALEN",
+      "AVGANG": "K3_AVGR. R405",
+      "CNT": 4,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1780956309000,
+      "TIL_DATO": 1780977609000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70561-1",
       "description": ""
     }
   }
