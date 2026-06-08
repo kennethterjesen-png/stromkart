@@ -1,5 +1,52 @@
 [
   {
+    "id": "elvia-4992",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.55930903392571,
+    "lng": 10.720707748794943,
+    "start": "8.6.2026, 22:01:00",
+    "end": "9.6.2026, 03:00:00",
+    "areaName": "Vestby / Hølen / V0299",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 4992,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Vestby",
+      "nettstasjon": "V0299",
+      "poststed": "Hølen",
+      "strombruddoppdaget": 1780956020360,
+      "utkoblingslutt": 1780974000000,
+      "utkoblingstart": 1780956060000
+    }
+  },
+  {
+    "id": "linja-outage-3281074",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 21,
+    "lat": 61.7670864540783,
+    "lng": 5.287340090481297,
+    "start": "8.6.2026, 22:00:00",
+    "end": null,
+    "areaName": "BREMANGER / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3281074,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Øyratunet, Kyrkjebakken og Gunnar Scheldups Veg tirsdag 9.juni fra kl. 00:00 til 04:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1780956000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "BREMANGER",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 21
+    }
+  },
+  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
