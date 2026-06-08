@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-08T16:14:37.154Z",
-  "count": 50,
+  "updatedAt": "2026-06-08T18:37:16.733Z",
+  "count": 51,
   "providers": [
     {
       "name": "Elvia",
       "ok": true,
-      "count": 4,
-      "rawCount": 4,
+      "count": 1,
+      "rawCount": 1,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -60,8 +60,8 @@
     {
       "name": "Norgesnett",
       "ok": true,
-      "count": 15,
-      "rawCount": 15,
+      "count": 19,
+      "rawCount": 19,
       "filteredOut": 0,
       "warning": false,
       "error": null
