@@ -32,38 +32,6 @@
     }
   },
   {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.34973431505082,
-    "lng": 5.364844024692509,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9714174,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1781031600000,
-      "TIMELIMIT": 1781060400000,
-      "NUM_AB": 72,
-      "CUSTOMER_WEB_TEXT": "5094 BERGEN; KNAUSEN,HENRIK JÆGERS VEI,GERHARD GRANS VEI,NATTLANDSVEIEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1781031678000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 5,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-4994",
     "company": "Elvia",
     "type": "planned",
@@ -87,6 +55,29 @@
     }
   },
   {
+    "id": "elvia-6856",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 199,
+    "lat": 59.9269891530207,
+    "lng": 10.774771606095802,
+    "start": "9.6.2026, 23:00:00",
+    "end": "10.6.2026, 03:00:00",
+    "areaName": "Oslo / Oslo / 1756",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6856,
+      "antallkunder": 199,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1756",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1781046084984,
+      "utkoblingslutt": 1781060400000,
+      "utkoblingstart": 1781046000000
+    }
+  },
+  {
     "id": "elvia-7450",
     "company": "Elvia",
     "type": "planned",
@@ -107,6 +98,52 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1781064000000,
       "utkoblingstart": 1781042460000
+    }
+  },
+  {
+    "id": "elvia-13444",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 60.577492054091415,
+    "lng": 10.623527087042543,
+    "start": "9.6.2026, 22:05:00",
+    "end": "10.6.2026, 00:00:00",
+    "areaName": "Vestre Toten / Eina / ENS01894",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 13444,
+      "antallkunder": 5,
+      "avbruddstype": "Planned",
+      "kommune": "Vestre Toten",
+      "nettstasjon": "ENS01894",
+      "poststed": "Eina",
+      "strombruddoppdaget": 1781042827623,
+      "utkoblingslutt": 1781049600000,
+      "utkoblingstart": 1781042700000
+    }
+  },
+  {
+    "id": "elvia-13766",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 60.583730548697886,
+    "lng": 10.616686224969209,
+    "start": "9.6.2026, 22:05:00",
+    "end": "10.6.2026, 00:00:00",
+    "areaName": "Vestre Toten / Eina / ENS02374",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 13766,
+      "antallkunder": 10,
+      "avbruddstype": "Planned",
+      "kommune": "Vestre Toten",
+      "nettstasjon": "ENS02374",
+      "poststed": "Eina",
+      "strombruddoppdaget": 1781042827623,
+      "utkoblingslutt": 1781049600000,
+      "utkoblingstart": 1781042700000
     }
   },
   {
@@ -200,6 +237,54 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 0,
       "NUM_AB": 3
+    }
+  },
+  {
+    "id": "linja-outage-3305377",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 15,
+    "lat": 62.46231360591568,
+    "lng": 6.309677870456411,
+    "start": "9.6.2026, 22:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3305377,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Snopenesvegen, Svartskjervegen og Åsehaugen onsdag 10.juni fra kl. 00:00 til 05:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1781042400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "ÅLESUND",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 0,
+      "NUM_AB": 15
+    }
+  },
+  {
+    "id": "linja-outage-3281090",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 14,
+    "lat": 61.764394531295586,
+    "lng": 5.278897329423092,
+    "start": "9.6.2026, 23:00:00",
+    "end": null,
+    "areaName": "BREMANGER / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3281090,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gunnar Scheldrups veg og Fløyna onsdag 10.juni fra kl. 01:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1781046000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "BREMANGER",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 14
     }
   },
   {
@@ -1015,34 +1100,6 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-70580-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 133,
-    "lat": 59.71818623500002,
-    "lng": 10.81720242099999,
-    "start": "9.6.2026, 22:01:41",
-    "end": "10.6.2026, 04:00:41",
-    "areaName": "FINSTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217154,
-      "REFNR": "P70580",
-      "SEKUNDÆRSTASJON": "FINSTAD",
-      "AVGANG": "L81",
-      "CNT": 133,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1781042501000,
-      "TIL_DATO": 1781064041000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70580-1",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2832-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1291,6 +1348,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70574-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70580-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 133,
+    "lat": 59.71818623500002,
+    "lng": 10.81720242099999,
+    "start": "9.6.2026, 22:01:41",
+    "end": "10.6.2026, 04:00:41",
+    "areaName": "FINSTAD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217154,
+      "REFNR": "P70580",
+      "SEKUNDÆRSTASJON": "FINSTAD",
+      "AVGANG": "L81",
+      "CNT": 133,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1781042501000,
+      "TIL_DATO": 1781064041000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70580-1",
       "description": ""
     }
   }
