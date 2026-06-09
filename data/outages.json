@@ -32,26 +32,26 @@
     }
   },
   {
-    "id": "elvia-19123",
+    "id": "elvia-10586",
     "company": "Elvia",
     "type": "planned",
-    "customers": 27,
-    "lat": 60.885934266620616,
-    "lng": 10.952672626796774,
-    "start": "9.6.2026, 10:07:21",
-    "end": "9.6.2026, 13:43:21",
-    "areaName": "Ringsaker / Brumunddal / ENS10534",
+    "customers": 12,
+    "lat": 59.92048185825796,
+    "lng": 10.561089897147314,
+    "start": "9.6.2026, 16:07:33",
+    "end": "9.6.2026, 19:43:33",
+    "areaName": "Bærum / Haslum / B1976",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 19123,
-      "antallkunder": 27,
+      "OBJECTID": 10586,
+      "antallkunder": 12,
       "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS10534",
-      "poststed": "Brumunddal",
-      "strombruddoppdaget": 1780999641000,
-      "utkoblingslutt": 1781012601000,
-      "utkoblingstart": 1780999641000
+      "kommune": "Bærum",
+      "nettstasjon": "B1976",
+      "poststed": "Haslum",
+      "strombruddoppdaget": 1781021253000,
+      "utkoblingslutt": 1781034213000,
+      "utkoblingstart": 1781021253000
     }
   },
   {
