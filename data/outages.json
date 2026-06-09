@@ -32,26 +32,26 @@
     }
   },
   {
-    "id": "elvia-10586",
+    "id": "elvia-18379",
     "company": "Elvia",
     "type": "planned",
-    "customers": 12,
-    "lat": 59.92048185825796,
-    "lng": 10.561089897147314,
-    "start": "9.6.2026, 16:07:33",
-    "end": "9.6.2026, 19:43:33",
-    "areaName": "Bærum / Haslum / B1976",
+    "customers": 7,
+    "lat": 59.98293832727087,
+    "lng": 12.003172190819008,
+    "start": "9.6.2026, 17:56:18",
+    "end": "9.6.2026, 21:32:18",
+    "areaName": "Eidskog / Tobøl / ENS09441",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 10586,
-      "antallkunder": 12,
+      "OBJECTID": 18379,
+      "antallkunder": 7,
       "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B1976",
-      "poststed": "Haslum",
-      "strombruddoppdaget": 1781021253000,
-      "utkoblingslutt": 1781034213000,
-      "utkoblingstart": 1781021253000
+      "kommune": "Eidskog",
+      "nettstasjon": "ENS09441",
+      "poststed": "Tobøl",
+      "strombruddoppdaget": 1781027778000,
+      "utkoblingslutt": 1781040738000,
+      "utkoblingstart": 1781027778000
     }
   },
   {
@@ -530,30 +530,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3281082",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.7698721115989,
-    "lng": 5.294815408955862,
-    "start": "9.6.2026, 19:00:00",
-    "end": null,
-    "areaName": "BREMANGER / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3281082,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gunnar Scheldrups Veg og Elvavegen tirsdag 9.juni fra kl. 21:00 til 01:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1781031600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "BREMANGER",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
