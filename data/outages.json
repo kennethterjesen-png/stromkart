@@ -1,47 +1,5 @@
 [
   {
-    "id": "elvia-7997",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.91566835953759,
-    "lng": 10.643474131885817,
-    "start": "10.6.2026, 15:03:55",
-    "end": "10.6.2026, 18:39:55",
-    "areaName": "Oslo / Oslo / 3419",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7997,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "3419",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1781103835000,
-      "utkoblingslutt": 1781116795000,
-      "utkoblingstart": 1781103835000
-    }
-  },
-  {
-    "id": "fagne-4490537",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 8,
-    "lat": 59.34345542093863,
-    "lng": 5.738904627595831,
-    "start": "6.10.2026, 11:15:00",
-    "end": "6.10.2026, 18:00:00",
-    "areaName": "TYSVÆR",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "TYSVÆR",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
@@ -565,30 +523,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "VANYLVEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3301908",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.14932594598623,
-    "lng": 6.070057022741492,
-    "start": "10.6.2026, 21:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3301908,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Engesetvegen, Gymnasvegen og Vevendelvegen onsdag 10.juni fra kl. 23:00 til 06:00. ",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1781125200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
