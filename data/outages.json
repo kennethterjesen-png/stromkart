@@ -623,6 +623,34 @@
     }
   },
   {
+    "id": "norgesnett-planned-V-2847-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 19,
+    "lat": 60.4707459,
+    "lng": 5.100663940000004,
+    "start": "18.6.2026, 22:01:45",
+    "end": "19.6.2026, 00:00:45",
+    "areaName": "RAVNANGER",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217205,
+      "REFNR": "PL2847",
+      "SEKUNDÆRSTASJON": "RAVNANGER",
+      "AVGANG": "KRÅVIK",
+      "CNT": 19,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1781820105000,
+      "TIL_DATO": 1781827245000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2847-1",
+      "description": ""
+    }
+  },
+  {
     "id": "norgesnett-planned-V-70605-1",
     "company": "Norgesnett",
     "type": "planned",
