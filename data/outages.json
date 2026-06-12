@@ -1,25 +1,21 @@
 [
   {
-    "id": "elvia-2742",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 27,
-    "lat": 61.30686126159245,
-    "lng": 12.243332748200466,
-    "start": "12.6.2026, 14:19:22",
-    "end": "12.6.2026, 18:04:22",
-    "areaName": "Trysil / Trysil / ENS07466",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "id": "fagne-4496388",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 1,
+    "lat": 59.60872740266103,
+    "lng": 5.819112412145497,
+    "start": "6.12.2026, 22:04:30",
+    "end": "6.12.2026, 23:00:00",
+    "areaName": "VINDAFJORD",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
-      "OBJECTID": 2742,
-      "antallkunder": 27,
-      "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS07466",
-      "poststed": "Trysil",
-      "strombruddoppdaget": 1781273962000,
-      "utkoblingslutt": 1781287462000,
-      "utkoblingstart": 1781273962000
+      "description": "",
+      "state": "Pågående",
+      "municipal": "VINDAFJORD",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
@@ -599,7 +595,7 @@
     }
   },
   {
-    "id": "lnett-planned-7",
+    "id": "lnett-planned-5",
     "company": "Lnett",
     "type": "planned",
     "customers": 154,
@@ -616,7 +612,7 @@
     }
   },
   {
-    "id": "lnett-planned-9",
+    "id": "lnett-planned-7",
     "company": "Lnett",
     "type": "planned",
     "customers": 19,
