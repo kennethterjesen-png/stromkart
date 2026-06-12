@@ -1,44 +1,48 @@
 [
   {
-    "id": "elvia-22748",
+    "id": "elvia-2742",
     "company": "Elvia",
     "type": "planned",
-    "customers": 3,
-    "lat": 59.93987713201015,
-    "lng": 10.997032404209241,
-    "start": "12.6.2026, 11:41:31",
-    "end": "12.6.2026, 15:17:31",
-    "areaName": "Lørenskog / Strømmen / L0114",
+    "customers": 27,
+    "lat": 61.30686126159245,
+    "lng": 12.243332748200466,
+    "start": "12.6.2026, 14:19:22",
+    "end": "12.6.2026, 18:04:22",
+    "areaName": "Trysil / Trysil / ENS07466",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 22748,
-      "antallkunder": 3,
+      "OBJECTID": 2742,
+      "antallkunder": 27,
       "avbruddstype": "Unplanned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0114",
-      "poststed": "Strømmen",
-      "strombruddoppdaget": 1781264491000,
-      "utkoblingslutt": 1781277451000,
-      "utkoblingstart": 1781264491000
+      "kommune": "Trysil",
+      "nettstasjon": "ENS07466",
+      "poststed": "Trysil",
+      "strombruddoppdaget": 1781273962000,
+      "utkoblingslutt": 1781287462000,
+      "utkoblingstart": 1781273962000
     }
   },
   {
-    "id": "fagne-4460560",
-    "company": "Fagne",
+    "id": "elvia-14870",
+    "company": "Elvia",
     "type": "planned",
-    "customers": 45,
-    "lat": 59.84344140888738,
-    "lng": 6.258311034995854,
-    "start": "6.12.2026, 06:00:00",
-    "end": "6.12.2026, 14:30:00",
-    "areaName": "ETNE",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "customers": 39,
+    "lat": 60.83309036977223,
+    "lng": 11.09773094072433,
+    "start": "12.6.2026, 14:23:50",
+    "end": "12.6.2026, 17:59:50",
+    "areaName": "Hamar / Ingeberg / ENS03934",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "ETNE",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
+      "OBJECTID": 14870,
+      "antallkunder": 39,
+      "avbruddstype": "Unplanned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS03934",
+      "poststed": "Ingeberg",
+      "strombruddoppdaget": 1781274230000,
+      "utkoblingslutt": 1781287190000,
+      "utkoblingstart": 1781274230000
     }
   },
   {
@@ -469,6 +473,30 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "STRANDA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3318081",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.78720636541484,
+    "lng": 5.9776828768378545,
+    "start": "17.6.2026, 06:00:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3318081,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Kleppenes til Lindeneset onsdag 17.juni fra kl. 08:00 til 15:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1781676000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1044,34 +1072,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70603-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2836-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 24,
-    "lat": 59.80902720300003,
-    "lng": 10.688771814000006,
-    "start": "12.6.2026, 06:03:20",
-    "end": "12.6.2026, 13:00:00",
-    "areaName": "NYSTUEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217112,
-      "REFNR": "PL2836",
-      "SEKUNDÆRSTASJON": "NYSTUEN",
-      "AVGANG": "L5",
-      "CNT": 24,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1781244200000,
-      "TIL_DATO": 1781269200000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2836-1",
       "description": ""
     }
   }
