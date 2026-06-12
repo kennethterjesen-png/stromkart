@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-14870",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 39,
-    "lat": 60.83309036977223,
-    "lng": 11.09773094072433,
-    "start": "12.6.2026, 14:23:50",
-    "end": "12.6.2026, 17:59:50",
-    "areaName": "Hamar / Ingeberg / ENS03934",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14870,
-      "antallkunder": 39,
-      "avbruddstype": "Unplanned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS03934",
-      "poststed": "Ingeberg",
-      "strombruddoppdaget": 1781274230000,
-      "utkoblingslutt": 1781287190000,
-      "utkoblingstart": 1781274230000
-    }
-  },
-  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
