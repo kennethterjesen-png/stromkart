@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.466855274704216,
+    "lng": 5.29199078647035,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9742459,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1781293380000,
+      "TIMELIMIT": 1781303400000,
+      "NUM_AB": 994,
+      "CUSTOMER_WEB_TEXT": "Mannskap på vei for feilsøking",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 12,
+      "LAST_UPDATED": 1781293769000,
+      "SCHEDULED_SMS_DAYS_BEFORE": -1,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-2742",
     "company": "Elvia",
     "type": "planned",
@@ -825,6 +857,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2851-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2853-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 14,
+    "lat": 60.51457544700003,
+    "lng": 5.018674977999979,
+    "start": "22.6.2026, 07:30:00",
+    "end": "22.6.2026, 12:00:00",
+    "areaName": "MERKESVIK",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217434,
+      "REFNR": "PL2853",
+      "SEKUNDÆRSTASJON": "MERKESVIK",
+      "AVGANG": "FAUSKANGER",
+      "CNT": 14,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1782113400000,
+      "TIL_DATO": 1782129600000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2853-1",
       "description": ""
     }
   },
