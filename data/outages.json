@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-14473",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 61.128067802400885,
-    "lng": 10.446528542511096,
-    "start": "13.6.2026, 13:00:00",
-    "end": "13.6.2026, 20:00:00",
-    "areaName": "Lillehammer / Lillehammer / ENS03371",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14473,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03371",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1781380800000,
-      "utkoblingstart": 1781355600000
-    }
-  },
-  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
@@ -606,6 +583,23 @@
       "name": "Berørte kunder: 19",
       "description": "Rettet\nStartet: 2026-06-12 09:28\nSluttid: 2026-06-12 12:58\nPlanlagt strømstans.",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-outage-11",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 4,
+    "lat": 58.93979884631568,
+    "lng": 5.752239482887267,
+    "start": "13.6.2026, 21:15:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 4",
+      "description": "Driftsforstyrrelse\nStartet: 2026-06-13 21:15",
+      "styleUrl": "#red"
     }
   },
   {
