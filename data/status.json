@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-13T13:10:54.203Z",
-  "count": 86,
+  "updatedAt": "2026-06-13T15:13:09.837Z",
+  "count": 48,
   "providers": [
     {
       "name": "Elvia",
       "ok": true,
-      "count": 43,
-      "rawCount": 44,
-      "filteredOut": 1,
+      "count": 5,
+      "rawCount": 5,
+      "filteredOut": 0,
       "warning": false,
       "error": null
     },
@@ -33,8 +33,8 @@
     {
       "name": "BKK",
       "ok": true,
-      "count": 1,
-      "rawCount": 1,
+      "count": 0,
+      "rawCount": 0,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -60,8 +60,8 @@
     {
       "name": "Norgesnett",
       "ok": true,
-      "count": 17,
-      "rawCount": 18,
+      "count": 18,
+      "rawCount": 19,
       "filteredOut": 1,
       "warning": false,
       "error": null
