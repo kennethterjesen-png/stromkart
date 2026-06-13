@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-11341",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.8502052943397,
-    "lng": 10.409318122408003,
-    "start": "13.6.2026, 11:17:34",
-    "end": "13.6.2026, 14:53:34",
-    "areaName": "Asker / Asker / D0464",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11341,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Asker",
-      "nettstasjon": "D0464",
-      "poststed": "Asker",
-      "strombruddoppdaget": 1781349454000,
-      "utkoblingslutt": 1781362414000,
-      "utkoblingstart": 1781349454000
-    }
-  },
-  {
     "id": "elvia-14473",
     "company": "Elvia",
     "type": "planned",
