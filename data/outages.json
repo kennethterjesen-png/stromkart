@@ -1,5 +1,74 @@
 [
   {
+    "id": "elvia-11341",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 59.8502052943397,
+    "lng": 10.409318122408003,
+    "start": "13.6.2026, 11:17:34",
+    "end": "13.6.2026, 14:53:34",
+    "areaName": "Asker / Asker / D0464",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11341,
+      "antallkunder": 10,
+      "avbruddstype": "Unplanned",
+      "kommune": "Asker",
+      "nettstasjon": "D0464",
+      "poststed": "Asker",
+      "strombruddoppdaget": 1781349454000,
+      "utkoblingslutt": 1781362414000,
+      "utkoblingstart": 1781349454000
+    }
+  },
+  {
+    "id": "elvia-16476",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 21,
+    "lat": 60.57224433054171,
+    "lng": 12.051042127531579,
+    "start": "13.6.2026, 10:12:35",
+    "end": "13.6.2026, 13:48:35",
+    "areaName": "Åsnes / Arneberg / ENS06596",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 16476,
+      "antallkunder": 21,
+      "avbruddstype": "Unplanned",
+      "kommune": "Åsnes",
+      "nettstasjon": "ENS06596",
+      "poststed": "Arneberg",
+      "strombruddoppdaget": 1781345555000,
+      "utkoblingslutt": 1781358515000,
+      "utkoblingstart": 1781345555000
+    }
+  },
+  {
+    "id": "elvia-24534",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 24,
+    "lat": 59.12454964313099,
+    "lng": 11.38624848011103,
+    "start": "13.6.2026, 10:48:39",
+    "end": "13.6.2026, 14:24:39",
+    "areaName": "Halden / Halden / Q0318",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24534,
+      "antallkunder": 24,
+      "avbruddstype": "Unplanned",
+      "kommune": "Halden",
+      "nettstasjon": "Q0318",
+      "poststed": "Halden",
+      "strombruddoppdaget": 1781347719000,
+      "utkoblingslutt": 1781360679000,
+      "utkoblingstart": 1781347719000
+    }
+  },
+  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
