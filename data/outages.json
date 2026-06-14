@@ -24,6 +24,30 @@
     }
   },
   {
+    "id": "linja-planned-3313924",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.094924639010706,
+    "lng": 7.217758105135861,
+    "start": "17.6.2026, 07:30:00",
+    "end": null,
+    "areaName": "STRANDA / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3313924,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Geirangervegen onsdag 17.juni fra kl. 09:30 til 13:30.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1781681400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "STRANDA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3315776",
     "company": "Linja",
     "type": "planned",
@@ -40,7 +64,7 @@
       "STATE_TXT": "Godkjent",
       "STARTTIME": 1781694000000,
       "TYPE_TXT": "Utkobling",
-      "FLAG": 128,
+      "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "VOLDA",
       "NUM_NS": 0,
@@ -456,30 +480,6 @@
     }
   },
   {
-    "id": "linja-planned-3313924",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.094924639010706,
-    "lng": 7.217758105135861,
-    "start": "17.6.2026, 07:30:00",
-    "end": null,
-    "areaName": "STRANDA / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3313924,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Geirangervegen onsdag 17.juni fra kl. 09:30 til 13:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1781681400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3242048",
     "company": "Linja",
     "type": "planned",
@@ -549,23 +549,6 @@
       "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-outage-1",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 4,
-    "lat": 58.93979884631568,
-    "lng": 5.752239482887267,
-    "start": "13.6.2026, 21:15:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 4",
-      "description": "Driftsforstyrrelse\nStartet: 2026-06-13 21:15",
-      "styleUrl": "#red"
     }
   },
   {
@@ -685,8 +668,8 @@
     "company": "Norgesnett",
     "type": "planned",
     "customers": 25,
-    "lat": 60.412157982999986,
-    "lng": 5.218247270000006,
+    "lat": 60.412036175000026,
+    "lng": 5.218390469999974,
     "start": "19.6.2026, 00:30:43",
     "end": "19.6.2026, 02:30:43",
     "areaName": "KLEPPE",
@@ -937,8 +920,8 @@
     "company": "Norgesnett",
     "type": "planned",
     "customers": 12,
-    "lat": 60.45148571300001,
-    "lng": 5.15281855500001,
+    "lat": 60.45156078500003,
+    "lng": 5.152862078999988,
     "start": "15.6.2026, 06:30:00",
     "end": "15.6.2026, 11:30:00",
     "areaName": "RAVNANGER",
@@ -1021,8 +1004,8 @@
     "company": "Norgesnett",
     "type": "planned",
     "customers": 7,
-    "lat": 60.44247657599999,
-    "lng": 5.073166379999975,
+    "lat": 60.442340043,
+    "lng": 5.0726877989999934,
     "start": "16.6.2026, 06:30:00",
     "end": "16.6.2026, 12:30:00",
     "areaName": "RAVNANGER",
