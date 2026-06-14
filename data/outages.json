@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-14778",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 19,
-    "lat": 61.160251484023455,
-    "lng": 10.39079088462771,
-    "start": "13.6.2026, 22:54:06",
-    "end": "14.6.2026, 02:30:06",
-    "areaName": "Lillehammer / Fåberg / ENS03777",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14778,
-      "antallkunder": 19,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03777",
-      "poststed": "Fåberg",
-      "strombruddoppdaget": 1781391246000,
-      "utkoblingslutt": 1781404206000,
-      "utkoblingstart": 1781391246000
-    }
-  },
-  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
