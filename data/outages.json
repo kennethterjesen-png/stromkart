@@ -6,8 +6,8 @@
     "customers": 9,
     "lat": 59.94840876355885,
     "lng": 10.893613229036738,
-    "start": "14.6.2026, 18:26:24",
-    "end": "14.6.2026, 22:02:24",
+    "start": "14.6.2026, 20:12:33",
+    "end": "14.6.2026, 23:48:33",
     "areaName": "Oslo / Oslo / 0221",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -17,9 +17,9 @@
       "kommune": "Oslo",
       "nettstasjon": "0221",
       "poststed": "Oslo",
-      "strombruddoppdaget": 1781461584000,
-      "utkoblingslutt": 1781474544000,
-      "utkoblingstart": 1781461584000
+      "strombruddoppdaget": 1781467953000,
+      "utkoblingslutt": 1781480913000,
+      "utkoblingstart": 1781467953000
     }
   },
   {
@@ -43,29 +43,6 @@
       "strombruddoppdaget": 1781455142000,
       "utkoblingslutt": 1781468102000,
       "utkoblingstart": 1781455142000
-    }
-  },
-  {
-    "id": "elvia-12448",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 61.17722378953411,
-    "lng": 12.517233375137783,
-    "start": "14.6.2026, 11:26:40",
-    "end": "14.6.2026, 15:11:40",
-    "areaName": "Trysil / Nybergsund / ENS00406",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12448,
-      "antallkunder": 18,
-      "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS00406",
-      "poststed": "Nybergsund",
-      "strombruddoppdaget": 1781436400542,
-      "utkoblingslutt": 1781449900000,
-      "utkoblingstart": 1781436400542
     }
   },
   {
@@ -108,52 +85,6 @@
       "avbruddstype": "Unplanned",
       "kommune": "Vestre Toten",
       "nettstasjon": "ENS01677",
-      "poststed": "Bøverbru",
-      "strombruddoppdaget": 1781461054795,
-      "utkoblingslutt": 1781474554000,
-      "utkoblingstart": 1781461054795
-    }
-  },
-  {
-    "id": "elvia-13302",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.70709526735487,
-    "lng": 10.72559901599929,
-    "start": "14.6.2026, 18:17:34",
-    "end": "14.6.2026, 22:02:34",
-    "areaName": "Vestre Toten / Bøverbru / ENS01699",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13302,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Vestre Toten",
-      "nettstasjon": "ENS01699",
-      "poststed": "Bøverbru",
-      "strombruddoppdaget": 1781461054795,
-      "utkoblingslutt": 1781474554000,
-      "utkoblingstart": 1781461054795
-    }
-  },
-  {
-    "id": "elvia-13303",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 60.705458677970924,
-    "lng": 10.712361015857681,
-    "start": "14.6.2026, 18:17:34",
-    "end": "14.6.2026, 22:02:34",
-    "areaName": "Vestre Toten / Bøverbru / ENS01700",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13303,
-      "antallkunder": 18,
-      "avbruddstype": "Unplanned",
-      "kommune": "Vestre Toten",
-      "nettstasjon": "ENS01700",
       "poststed": "Bøverbru",
       "strombruddoppdaget": 1781461054795,
       "utkoblingslutt": 1781474554000,
@@ -253,52 +184,6 @@
     }
   },
   {
-    "id": "elvia-13316",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.70595366278932,
-    "lng": 10.705231262036655,
-    "start": "14.6.2026, 18:17:34",
-    "end": "14.6.2026, 22:02:34",
-    "areaName": "Vestre Toten / Bøverbru / ENS01723",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13316,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Vestre Toten",
-      "nettstasjon": "ENS01723",
-      "poststed": "Bøverbru",
-      "strombruddoppdaget": 1781461054795,
-      "utkoblingslutt": 1781474554000,
-      "utkoblingstart": 1781461054795
-    }
-  },
-  {
-    "id": "elvia-13638",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.70282976769671,
-    "lng": 10.727623703427993,
-    "start": "14.6.2026, 18:17:34",
-    "end": "14.6.2026, 22:02:34",
-    "areaName": "Vestre Toten / Bøverbru / ENS02197",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13638,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Vestre Toten",
-      "nettstasjon": "ENS02197",
-      "poststed": "Bøverbru",
-      "strombruddoppdaget": 1781461054795,
-      "utkoblingslutt": 1781474554000,
-      "utkoblingstart": 1781461054795
-    }
-  },
-  {
     "id": "elvia-16142",
     "company": "Elvia",
     "type": "planned",
@@ -319,29 +204,6 @@
       "strombruddoppdaget": 1781441376000,
       "utkoblingslutt": 1781454336000,
       "utkoblingstart": 1781441376000
-    }
-  },
-  {
-    "id": "elvia-16772",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.29540388479814,
-    "lng": 11.640336953189312,
-    "start": "14.6.2026, 15:16:12",
-    "end": "14.6.2026, 18:52:12",
-    "areaName": "Sør-Odal / Skarnes / ENS07018",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16772,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS07018",
-      "poststed": "Skarnes",
-      "strombruddoppdaget": 1781450172000,
-      "utkoblingslutt": 1781463132000,
-      "utkoblingstart": 1781450172000
     }
   },
   {
@@ -457,29 +319,6 @@
       "strombruddoppdaget": 1781461054795,
       "utkoblingslutt": 1781474554000,
       "utkoblingstart": 1781461054795
-    }
-  },
-  {
-    "id": "elvia-22345",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 60.032098932104255,
-    "lng": 11.13256592580708,
-    "start": "14.6.2026, 17:51:50",
-    "end": "14.6.2026, 21:27:50",
-    "areaName": "Lillestrøm / Frogner / K0022",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22345,
-      "antallkunder": 16,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "K0022",
-      "poststed": "Frogner",
-      "strombruddoppdaget": 1781459510000,
-      "utkoblingslutt": 1781472470000,
-      "utkoblingstart": 1781459510000
     }
   },
   {
