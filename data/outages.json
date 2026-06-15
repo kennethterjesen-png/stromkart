@@ -1,25 +1,48 @@
 [
   {
-    "id": "elvia-5947",
+    "id": "elvia-10055",
     "company": "Elvia",
     "type": "planned",
-    "customers": 12,
-    "lat": 59.95671173449695,
-    "lng": 10.74677620129227,
-    "start": "15.6.2026, 14:51:13",
-    "end": "15.6.2026, 18:27:13",
-    "areaName": "Oslo / Oslo / 0404",
+    "customers": 11,
+    "lat": 59.93599012048171,
+    "lng": 10.619536751595316,
+    "start": "15.6.2026, 19:40:58",
+    "end": "15.6.2026, 23:16:58",
+    "areaName": "Bærum / Jar / B1095",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 5947,
-      "antallkunder": 12,
+      "OBJECTID": 10055,
+      "antallkunder": 11,
       "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0404",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1781535073000,
-      "utkoblingslutt": 1781548033000,
-      "utkoblingstart": 1781535073000
+      "kommune": "Bærum",
+      "nettstasjon": "B1095",
+      "poststed": "Jar",
+      "strombruddoppdaget": 1781552458000,
+      "utkoblingslutt": 1781565418000,
+      "utkoblingstart": 1781552458000
+    }
+  },
+  {
+    "id": "elvia-15294",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 40,
+    "lat": 60.80259435639372,
+    "lng": 11.128680624926622,
+    "start": "15.6.2026, 18:16:37",
+    "end": "15.6.2026, 21:52:37",
+    "areaName": "Hamar / Ridabu / ENS04580",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15294,
+      "antallkunder": 40,
+      "avbruddstype": "Unplanned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS04580",
+      "poststed": "Ridabu",
+      "strombruddoppdaget": 1781547397000,
+      "utkoblingslutt": 1781560357000,
+      "utkoblingstart": 1781547397000
     }
   },
   {
@@ -66,30 +89,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Nordvestnett",
       "MUNICIPAL_TXT": "FJORD",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3306153",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.14722163893886,
-    "lng": 6.080290051220187,
-    "start": "15.6.2026, 21:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3306153,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Røystunvegen og Anders Vassbotnvegen mandag 15.juni fra kl. 23:00 til 01:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1781557200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
