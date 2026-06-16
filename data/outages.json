@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.490590384714736,
-    "lng": 4.9425753476248895,
-    "start": null,
-    "end": null,
-    "areaName": "Øygarden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9751305,
-      "MUNICIPAL_TXT": "Øygarden",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1781552640000,
-      "TIMELIMIT": 1781586000000,
-      "NUM_AB": 10,
-      "CUSTOMER_WEB_TEXT": "Omfattende arbeid med å bytte brannskadet kabelskap. Det vil ta lang tid før strømmen kommer tilbake. ",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1781556401000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 21,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
@@ -53,54 +21,6 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 0,
       "NUM_AB": 3
-    }
-  },
-  {
-    "id": "linja-outage-3306205",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 28,
-    "lat": 62.147789754802076,
-    "lng": 6.072712034893817,
-    "start": "15.6.2026, 23:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3306205,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Skjervavegen og Porsemyrvegen tirsdag 16.juni fra kl. 01:00 til 06:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1781564400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "VOLDA",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 0,
-      "NUM_AB": 28
-    }
-  },
-  {
-    "id": "linja-planned-3312112",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.40752525509945,
-    "lng": 7.212647909921679,
-    "start": "16.6.2026, 07:00:00",
-    "end": null,
-    "areaName": "FJORD / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3312112,
-      "CUSTOMER_WEB_TEXT": "Mo - Overøye: På grunn av arbeid i høgspentnettet vert det ein straumstans i om lag to timar. ",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1781593200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Nordvestnett",
-      "MUNICIPAL_TXT": "FJORD",
-      "NUM_NS": 0,
-      "NUM_AB": 0
     }
   },
   {
@@ -315,30 +235,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "VOLDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3315788",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.338445361145396,
-    "lng": 6.041961160667922,
-    "start": "16.6.2026, 07:00:00",
-    "end": null,
-    "areaName": "HAREID / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3315788,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Øvrelid tirsdag 16.juni fra kl. 09:00 til 14:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1781593200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "HAREID",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -836,34 +732,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2845-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2844-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 32,
-    "lat": 59.211267346,
-    "lng": 10.933091401000013,
-    "start": "15.6.2026, 22:26:34",
-    "end": "16.6.2026, 03:00:52",
-    "areaName": "KRÅKERØY",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217186,
-      "REFNR": "PL2844",
-      "SEKUNDÆRSTASJON": "KRÅKERØY",
-      "AVGANG": "H10226",
-      "CNT": 32,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1781562394000,
-      "TIL_DATO": 1781578852000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2844-1",
       "description": ""
     }
   }
