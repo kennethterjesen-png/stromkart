@@ -1,5 +1,29 @@
 [
   {
+    "id": "linja-outage-3306872",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 6,
+    "lat": 62.14512088328233,
+    "lng": 6.073452130493913,
+    "start": "16.6.2026, 21:30:00",
+    "end": null,
+    "areaName": "VOLDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3306872,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Industrigata tirsdag 16.juni fra kl. 23:30 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1781645400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "VOLDA",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 0,
+      "NUM_AB": 6
+    }
+  },
+  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
@@ -91,30 +115,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3306872",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.14512088328233,
-    "lng": 6.073452130493913,
-    "start": "16.6.2026, 21:30:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3306872,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Industrigata tirsdag 16.juni fra kl. 23:30 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1781645400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
