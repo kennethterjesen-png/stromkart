@@ -32,75 +32,6 @@
     }
   },
   {
-    "id": "elvia-7290",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 281,
-    "lat": 59.93145103607897,
-    "lng": 10.77019057248915,
-    "start": "15.6.2026, 06:00:00",
-    "end": "19.6.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 2370",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7290,
-      "antallkunder": 281,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2370",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1781561304203,
-      "utkoblingslutt": 1781841600000,
-      "utkoblingstart": 1781503200000
-    }
-  },
-  {
-    "id": "elvia-7639",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.919958225538885,
-    "lng": 10.723061439757478,
-    "start": "15.6.2026, 22:01:00",
-    "end": "16.6.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 2861",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7639,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2861",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1781582400000,
-      "utkoblingstart": 1781560860000
-    }
-  },
-  {
-    "id": "elvia-7922",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.918814041826806,
-    "lng": 10.721395038313991,
-    "start": "15.6.2026, 22:01:00",
-    "end": "16.6.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 3295",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7922,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3295",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1781582400000,
-      "utkoblingstart": 1781560860000
-    }
-  },
-  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
@@ -122,6 +53,30 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 0,
       "NUM_AB": 3
+    }
+  },
+  {
+    "id": "linja-outage-3306205",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 28,
+    "lat": 62.147789754802076,
+    "lng": 6.072712034893817,
+    "start": "15.6.2026, 23:00:00",
+    "end": null,
+    "areaName": "VOLDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3306205,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Skjervavegen og Porsemyrvegen tirsdag 16.juni fra kl. 01:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1781564400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "VOLDA",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 0,
+      "NUM_AB": 28
     }
   },
   {
@@ -493,6 +448,34 @@
     }
   },
   {
+    "id": "norgesnett-planned-V-70620-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.689511589999995,
+    "lng": 10.477907019999975,
+    "start": "18.6.2026, 20:00:38",
+    "end": "19.6.2026, 01:00:38",
+    "areaName": "BØDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217473,
+      "REFNR": "P70620",
+      "SEKUNDÆRSTASJON": "BØDALEN",
+      "AVGANG": "K3_AVGR. R405",
+      "CNT": 1,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1781812838000,
+      "TIL_DATO": 1781830838000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70620-1",
+      "description": ""
+    }
+  },
+  {
     "id": "norgesnett-planned-V-2847-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -801,34 +784,6 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-2844-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 32,
-    "lat": 59.211267346,
-    "lng": 10.933091401000013,
-    "start": "15.6.2026, 22:05:52",
-    "end": "16.6.2026, 03:00:52",
-    "areaName": "KRÅKERØY",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217186,
-      "REFNR": "PL2844",
-      "SEKUNDÆRSTASJON": "KRÅKERØY",
-      "AVGANG": "H10226",
-      "CNT": 32,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1781561152000,
-      "TIL_DATO": 1781578852000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2844-1",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2846-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -881,6 +836,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2845-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-2844-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 32,
+    "lat": 59.211267346,
+    "lng": 10.933091401000013,
+    "start": "15.6.2026, 22:26:34",
+    "end": "16.6.2026, 03:00:52",
+    "areaName": "KRÅKERØY",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217186,
+      "REFNR": "PL2844",
+      "SEKUNDÆRSTASJON": "KRÅKERØY",
+      "AVGANG": "H10226",
+      "CNT": 32,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1781562394000,
+      "TIL_DATO": 1781578852000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2844-1",
       "description": ""
     }
   }
