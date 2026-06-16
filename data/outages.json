@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-28429",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.41515890241723,
-    "lng": 10.669145897189663,
-    "start": "16.6.2026, 13:13:42",
-    "end": "16.6.2026, 16:49:42",
-    "areaName": "Moss / Moss / Y0007",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28429,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0007",
-      "poststed": "Moss",
-      "strombruddoppdaget": 1781615622000,
-      "utkoblingslutt": 1781628582000,
-      "utkoblingstart": 1781615622000
-    }
-  },
-  {
     "id": "linja-outage-3293825",
     "company": "Linja",
     "type": "outage",
