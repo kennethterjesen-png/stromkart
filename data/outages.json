@@ -48,6 +48,30 @@
     }
   },
   {
+    "id": "linja-outage-3322920",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 4,
+    "lat": 62.17930099898831,
+    "lng": 7.5081460245579,
+    "start": "16.6.2026, 15:34:00",
+    "end": null,
+    "areaName": "FJORD / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3322920,
+      "CUSTOMER_WEB_TEXT": "02:15 Feil på høgspentnettet ved Zakariasdammen. Feil blir rettet i løpet av formiddagen.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1781624040000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "FJORD",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 10,
+      "NUM_AB": 4
+    }
+  },
+  {
     "id": "linja-planned-3242048",
     "company": "Linja",
     "type": "planned",
