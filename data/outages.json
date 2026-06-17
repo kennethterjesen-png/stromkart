@@ -46,26 +46,26 @@
     }
   },
   {
-    "id": "elvia-8120",
+    "id": "elvia-6913",
     "company": "Elvia",
     "type": "planned",
-    "customers": 10,
-    "lat": 59.9226520848383,
-    "lng": 10.629989140868297,
-    "start": "17.6.2026, 07:00:00",
-    "end": "17.6.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 3609",
+    "customers": 11,
+    "lat": 59.916426171184874,
+    "lng": 10.74672417358738,
+    "start": "17.6.2026, 16:00:00",
+    "end": "17.6.2026, 21:55:00",
+    "areaName": "Oslo / Oslo / 1838",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 8120,
-      "antallkunder": 10,
+      "OBJECTID": 6913,
+      "antallkunder": 11,
       "avbruddstype": "Planned",
       "kommune": "Oslo",
-      "nettstasjon": "3609",
+      "nettstasjon": "1838",
       "poststed": "Oslo",
       "strombruddoppdaget": null,
-      "utkoblingslutt": 1781701200000,
-      "utkoblingstart": 1781679600000
+      "utkoblingslutt": 1781733300000,
+      "utkoblingstart": 1781712000000
     }
   },
   {
@@ -89,29 +89,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1781699400000,
       "utkoblingstart": 1781679600000
-    }
-  },
-  {
-    "id": "elvia-10626",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 17,
-    "lat": 59.93915707358539,
-    "lng": 10.600632484756288,
-    "start": "17.6.2026, 08:45:13",
-    "end": "17.6.2026, 12:21:13",
-    "areaName": "Bærum / Østerås / B2047",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10626,
-      "antallkunder": 17,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B2047",
-      "poststed": "Østerås",
-      "strombruddoppdaget": 1781685913000,
-      "utkoblingslutt": 1781698873000,
-      "utkoblingstart": 1781685913000
     }
   },
   {
@@ -158,6 +135,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1781718812000,
       "utkoblingstart": null
+    }
+  },
+  {
+    "id": "elvia-22762",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.93674749924748,
+    "lng": 10.975095966909775,
+    "start": "17.6.2026, 16:49:04",
+    "end": "17.6.2026, 20:25:04",
+    "areaName": "Lørenskog / Fjellhamar / L0136",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22762,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lørenskog",
+      "nettstasjon": "L0136",
+      "poststed": "Fjellhamar",
+      "strombruddoppdaget": 1781714944000,
+      "utkoblingslutt": 1781727904000,
+      "utkoblingstart": 1781714944000
     }
   },
   {
