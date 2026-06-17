@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 61.43203399670997,
+    "lng": 5.902679525650618,
+    "start": null,
+    "end": null,
+    "areaName": "Sunnfjord",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9729683,
+      "MUNICIPAL_TXT": "Sunnfjord",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1781730000000,
+      "TIMELIMIT": 1781755200000,
+      "NUM_AB": 74,
+      "CUSTOMER_WEB_TEXT": "6803 FØRDE; BRULANDSVEGEN\r\n6813 FØRDE; STORELIA,PINNDALEN,BRULANDSVEGEN\r\n6819 FØRDE; BRULANDSVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 3,
+      "LAST_UPDATED": 1781732190000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 2,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-5700",
     "company": "Elvia",
     "type": "planned",
@@ -46,26 +78,26 @@
     }
   },
   {
-    "id": "elvia-6913",
+    "id": "elvia-9664",
     "company": "Elvia",
     "type": "planned",
-    "customers": 11,
-    "lat": 59.916426171184874,
-    "lng": 10.74672417358738,
-    "start": "17.6.2026, 16:00:00",
-    "end": "17.6.2026, 21:55:00",
-    "areaName": "Oslo / Oslo / 1838",
+    "customers": 37,
+    "lat": 59.89350510665417,
+    "lng": 10.489198139207907,
+    "start": "17.6.2026, 21:00:00",
+    "end": "18.6.2026, 04:00:00",
+    "areaName": "Bærum / Sandvika / B0312",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 6913,
-      "antallkunder": 11,
+      "OBJECTID": 9664,
+      "antallkunder": 37,
       "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "1838",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1781733300000,
-      "utkoblingstart": 1781712000000
+      "kommune": "Bærum",
+      "nettstasjon": "B0312",
+      "poststed": "Sandvika",
+      "strombruddoppdaget": 1781730216432,
+      "utkoblingslutt": 1781755200000,
+      "utkoblingstart": 1781730000000
     }
   },
   {
@@ -115,29 +147,6 @@
     }
   },
   {
-    "id": "elvia-13606",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 66,
-    "lat": 60.741696079897466,
-    "lng": 10.755211734770915,
-    "start": null,
-    "end": "17.6.2026, 17:53:32",
-    "areaName": "Østre Toten / Nordre toten / ENS02149",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13606,
-      "antallkunder": 66,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS02149",
-      "poststed": "Nordre toten",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1781718812000,
-      "utkoblingstart": null
-    }
-  },
-  {
     "id": "elvia-23307",
     "company": "Elvia",
     "type": "planned",
@@ -158,6 +167,25 @@
       "strombruddoppdaget": 1781696093000,
       "utkoblingslutt": 1781709053000,
       "utkoblingstart": 1781696093000
+    }
+  },
+  {
+    "id": "fagne-4476761",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 79,
+    "lat": 59.41336778993114,
+    "lng": 5.274710556327894,
+    "start": null,
+    "end": null,
+    "areaName": "HAUGESUND",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "HAUGESUND",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
     }
   },
   {
@@ -1017,6 +1045,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70513-2",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70606-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 19,
+    "lat": 60.47632357399999,
+    "lng": 5.092715976000022,
+    "start": "18.6.2026, 22:01:11",
+    "end": "19.6.2026, 00:00:11",
+    "areaName": "RAVNANGER",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217492,
+      "REFNR": "P70606",
+      "SEKUNDÆRSTASJON": "RAVNANGER",
+      "AVGANG": "KRÅVIK",
+      "CNT": 19,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1781820071000,
+      "TIL_DATO": 1781827211000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70606-1",
       "description": ""
     }
   }
