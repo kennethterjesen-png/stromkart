@@ -138,29 +138,6 @@
     }
   },
   {
-    "id": "elvia-22762",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.93674749924748,
-    "lng": 10.975095966909775,
-    "start": "17.6.2026, 16:49:04",
-    "end": "17.6.2026, 20:25:04",
-    "areaName": "Lørenskog / Fjellhamar / L0136",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22762,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0136",
-      "poststed": "Fjellhamar",
-      "strombruddoppdaget": 1781714944000,
-      "utkoblingslutt": 1781727904000,
-      "utkoblingstart": 1781714944000
-    }
-  },
-  {
     "id": "elvia-23307",
     "company": "Elvia",
     "type": "planned",
