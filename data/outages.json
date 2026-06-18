@@ -4,38 +4,6 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.348082727593074,
-    "lng": 5.3682638392104955,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9728235,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1781809200000,
-      "TIMELIMIT": 1781838000000,
-      "NUM_AB": 117,
-      "CUSTOMER_WEB_TEXT": "5094 BERGEN; NATTLANDSVEIEN\r\n5098 BERGEN; KOLSTIBOTN,NATTLANDSFJELLET",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1781809270000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 6,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
     "lat": 60.42390707525811,
     "lng": 5.202456060614545,
     "start": null,
@@ -64,7 +32,7 @@
     }
   },
   {
-    "id": "bkk-2",
+    "id": "bkk-1",
     "company": "BKK",
     "type": "outage",
     "customers": 0,
@@ -93,29 +61,6 @@
       "NUM_AB_REGAINED": 0,
       "SCHEDULED_SMS_INHABITANT_TEXT": null,
       "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-46",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 59.92568797381514,
-    "lng": 10.793944163926467,
-    "start": "16.6.2026, 06:30:00",
-    "end": "17.6.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 0259",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 46,
-      "antallkunder": 16,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0259",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1781560882870,
-      "utkoblingslutt": 1781701200000,
-      "utkoblingstart": 1781591400000
     }
   },
   {
@@ -185,6 +130,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1781704800000,
       "utkoblingstart": 1781679600000
+    }
+  },
+  {
+    "id": "elvia-7290",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 281,
+    "lat": 59.93145103607897,
+    "lng": 10.77019057248915,
+    "start": "15.6.2026, 06:00:00",
+    "end": "19.6.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 2370",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7290,
+      "antallkunder": 281,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2370",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1781561304203,
+      "utkoblingslutt": 1781841600000,
+      "utkoblingstart": 1781503200000
     }
   },
   {
@@ -277,29 +245,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1781697600000,
       "utkoblingstart": 1781676000000
-    }
-  },
-  {
-    "id": "elvia-21184",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 60.716329568412526,
-    "lng": 11.228651133212887,
-    "start": "18.6.2026, 16:15:00",
-    "end": "19.6.2026, 02:00:00",
-    "areaName": "Stange / Stange / ENS14529",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21184,
-      "antallkunder": 14,
-      "avbruddstype": "Planned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14529",
-      "poststed": "Stange",
-      "strombruddoppdaget": 1781800514180,
-      "utkoblingslutt": 1781834400000,
-      "utkoblingstart": 1781799300000
     }
   },
   {
@@ -850,7 +795,7 @@
     }
   },
   {
-    "id": "lnett-planned-13",
+    "id": "lnett-planned-5",
     "company": "Lnett",
     "type": "planned",
     "customers": 1,
@@ -867,7 +812,7 @@
     }
   },
   {
-    "id": "lnett-planned-15",
+    "id": "lnett-planned-7",
     "company": "Lnett",
     "type": "planned",
     "customers": 8,
@@ -884,7 +829,7 @@
     }
   },
   {
-    "id": "lnett-planned-17",
+    "id": "lnett-planned-9",
     "company": "Lnett",
     "type": "planned",
     "customers": 18,
@@ -901,7 +846,7 @@
     }
   },
   {
-    "id": "lnett-planned-19",
+    "id": "lnett-planned-11",
     "company": "Lnett",
     "type": "planned",
     "customers": 201,
@@ -1254,9 +1199,9 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-70513-2",
+    "id": "norgesnett-outage-V-70513-2",
     "company": "Norgesnett",
-    "type": "planned",
+    "type": "outage",
     "customers": 2,
     "lat": 59.770587379999995,
     "lng": 10.835671219999995,
@@ -1270,7 +1215,7 @@
       "SEKUNDÆRSTASJON": "VEVELSTAD",
       "AVGANG": "105",
       "CNT": 2,
-      "STATUS": "Planlagt",
+      "STATUS": "Påbegynt",
       "BESKRIVELSE": null,
       "FRA_DATO": 1781820339000,
       "TIL_DATO": 1781838039000,
@@ -1282,9 +1227,9 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-70606-1",
+    "id": "norgesnett-outage-V-70606-1",
     "company": "Norgesnett",
-    "type": "planned",
+    "type": "outage",
     "customers": 19,
     "lat": 60.47632357399999,
     "lng": 5.092715976000022,
@@ -1298,7 +1243,7 @@
       "SEKUNDÆRSTASJON": "RAVNANGER",
       "AVGANG": "KRÅVIK",
       "CNT": 19,
-      "STATUS": "Planlagt",
+      "STATUS": "Påbegynt",
       "BESKRIVELSE": null,
       "FRA_DATO": 1781820071000,
       "TIL_DATO": 1781827211000,
@@ -1306,34 +1251,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70606-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70620-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 1,
-    "lat": 59.689511589999995,
-    "lng": 10.477907019999975,
-    "start": "18.6.2026, 20:00:38",
-    "end": "19.6.2026, 01:00:38",
-    "areaName": "BØDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217473,
-      "REFNR": "P70620",
-      "SEKUNDÆRSTASJON": "BØDALEN",
-      "AVGANG": "K3_AVGR. R405",
-      "CNT": 1,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1781812838000,
-      "TIL_DATO": 1781830838000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70620-1",
       "description": ""
     }
   }
