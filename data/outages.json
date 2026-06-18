@@ -4,6 +4,38 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
+    "lat": 60.348082727593074,
+    "lng": 5.3682638392104955,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9728235,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1781809200000,
+      "TIMELIMIT": 1781838000000,
+      "NUM_AB": 117,
+      "CUSTOMER_WEB_TEXT": "5094 BERGEN; NATTLANDSVEIEN\r\n5098 BERGEN; KOLSTIBOTN,NATTLANDSFJELLET",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1781809270000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 6,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "bkk-1",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
     "lat": 60.42390707525811,
     "lng": 5.202456060614545,
     "start": null,
@@ -124,6 +156,29 @@
     }
   },
   {
+    "id": "elvia-11170",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.84687359876967,
+    "lng": 10.449828179546806,
+    "start": "18.6.2026, 18:21:06",
+    "end": "18.6.2026, 21:57:06",
+    "areaName": "Asker / Asker / D0222",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11170,
+      "antallkunder": 3,
+      "avbruddstype": "Unplanned",
+      "kommune": "Asker",
+      "nettstasjon": "D0222",
+      "poststed": "Asker",
+      "strombruddoppdaget": 1781806866000,
+      "utkoblingslutt": 1781819826000,
+      "utkoblingstart": 1781806866000
+    }
+  },
+  {
     "id": "elvia-11787",
     "company": "Elvia",
     "type": "planned",
@@ -167,52 +222,6 @@
       "strombruddoppdaget": 1781800514180,
       "utkoblingslutt": 1781834400000,
       "utkoblingstart": 1781799300000
-    }
-  },
-  {
-    "id": "elvia-23827",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 78,
-    "lat": 59.806766755507795,
-    "lng": 10.794434983155252,
-    "start": "18.6.2026, 11:48:33",
-    "end": "18.6.2026, 15:33:33",
-    "areaName": "Nordre Follo / Kolbotn / O0108",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23827,
-      "antallkunder": 78,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nordre Follo",
-      "nettstasjon": "O0108",
-      "poststed": "Kolbotn",
-      "strombruddoppdaget": 1781783313861,
-      "utkoblingslutt": 1781796813000,
-      "utkoblingstart": 1781783313861
-    }
-  },
-  {
-    "id": "elvia-23968",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 52,
-    "lat": 59.80425971427671,
-    "lng": 10.793543887897513,
-    "start": "18.6.2026, 11:48:33",
-    "end": "18.6.2026, 15:33:33",
-    "areaName": "Nordre Follo / Kolbotn / O5109",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23968,
-      "antallkunder": 52,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nordre Follo",
-      "nettstasjon": "O5109",
-      "poststed": "Kolbotn",
-      "strombruddoppdaget": 1781783313861,
-      "utkoblingslutt": 1781796813000,
-      "utkoblingstart": 1781783313861
     }
   },
   {
@@ -283,30 +292,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Nordvestnett",
       "MUNICIPAL_TXT": "HARAM",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3242048",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.91086114384261,
-    "lng": 6.106679205121851,
-    "start": "18.6.2026, 21:30:00",
-    "end": null,
-    "areaName": "STAD / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3242048,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Stokkenes til Lote og Stokkenes til Navelsaker 18.juni fra kl. 23:30 til 06:00. Kunder i område Lotsberg til Skjæret blir ute fra 23:30 til 00:00 og igjen 05:30 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1781818200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "STAD",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -547,30 +532,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Sykkylven",
       "MUNICIPAL_TXT": "SYKKYLVEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3312004",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.888396751069,
-    "lng": 5.537502756928677,
-    "start": "18.6.2026, 21:00:00",
-    "end": null,
-    "areaName": "BREMANGER / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3312004,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamrevegen, Claus Frimanns Veg og Marie Lindemanns Veg torsdag 18.juni fra kl. 23:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1781816400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "BREMANGER",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1092,6 +1053,34 @@
     }
   },
   {
+    "id": "norgesnett-planned-V-2858-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.68250165799998,
+    "lng": 10.862117796999996,
+    "start": "23.6.2026, 07:00:00",
+    "end": "23.6.2026, 13:00:00",
+    "areaName": "KRÅKSTAD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217509,
+      "REFNR": "PL2858",
+      "SEKUNDÆRSTASJON": "KRÅKSTAD",
+      "AVGANG": "L53",
+      "CNT": 6,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1782198000000,
+      "TIL_DATO": 1782219600000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2858-1",
+      "description": ""
+    }
+  },
+  {
     "id": "norgesnett-planned-V-2857-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1116,6 +1105,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2857-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2859-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.76091690700002,
+    "lng": 10.51347072599998,
+    "start": "22.6.2026, 10:00:00",
+    "end": "22.6.2026, 13:00:00",
+    "areaName": "BØDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217510,
+      "REFNR": "PL2859",
+      "SEKUNDÆRSTASJON": "BØDALEN",
+      "AVGANG": "K8_R386",
+      "CNT": 2,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1782122400000,
+      "TIL_DATO": 1782133200000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2859-1",
       "description": ""
     }
   },
