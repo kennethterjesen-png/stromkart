@@ -32,38 +32,6 @@
     }
   },
   {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.3497461753866,
-    "lng": 5.291045892086088,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9731115,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1781816400000,
-      "TIMELIMIT": 1781839800000,
-      "NUM_AB": 7,
-      "CUSTOMER_WEB_TEXT": "5147 FYLLINGSDALEN; FOLKE BERNADOTTES VEI",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 1,
-      "LAST_UPDATED": 1781816851000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-615",
     "company": "Elvia",
     "type": "planned",
@@ -245,25 +213,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1781697600000,
       "utkoblingstart": 1781676000000
-    }
-  },
-  {
-    "id": "fagne-4495336",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.76328295692315,
-    "lng": 5.465304086896155,
-    "start": null,
-    "end": null,
-    "areaName": "STORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "STORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
@@ -947,62 +896,6 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-2847-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 19,
-    "lat": 60.47632357399999,
-    "lng": 5.092715976000022,
-    "start": "18.6.2026, 22:01:45",
-    "end": "19.6.2026, 00:00:45",
-    "areaName": "RAVNANGER",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217205,
-      "REFNR": "PL2847",
-      "SEKUNDÆRSTASJON": "RAVNANGER",
-      "AVGANG": "KRÅVIK",
-      "CNT": 19,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1781820105000,
-      "TIL_DATO": 1781827245000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2847-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-planned-V-70604-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 25,
-    "lat": 60.412036175000026,
-    "lng": 5.218390469999974,
-    "start": "19.6.2026, 00:30:43",
-    "end": "19.6.2026, 02:30:43",
-    "areaName": "KLEPPE",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217203,
-      "REFNR": "P70604",
-      "SEKUNDÆRSTASJON": "KLEPPE",
-      "AVGANG": "KLEPPESTØ",
-      "CNT": 25,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1781829043000,
-      "TIL_DATO": 1781836243000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70604-1",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2851-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1195,62 +1088,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2859-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70513-2",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 2,
-    "lat": 59.770587379999995,
-    "lng": 10.835671219999995,
-    "start": "18.6.2026, 22:05:39",
-    "end": "19.6.2026, 03:00:39",
-    "areaName": "VEVELSTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217491,
-      "REFNR": "P70513",
-      "SEKUNDÆRSTASJON": "VEVELSTAD",
-      "AVGANG": "105",
-      "CNT": 2,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1781820339000,
-      "TIL_DATO": 1781838039000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70513-2",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70606-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 19,
-    "lat": 60.47632357399999,
-    "lng": 5.092715976000022,
-    "start": "18.6.2026, 22:01:11",
-    "end": "19.6.2026, 00:00:11",
-    "areaName": "RAVNANGER",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217492,
-      "REFNR": "P70606",
-      "SEKUNDÆRSTASJON": "RAVNANGER",
-      "AVGANG": "KRÅVIK",
-      "CNT": 19,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1781820071000,
-      "TIL_DATO": 1781827211000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70606-1",
       "description": ""
     }
   }
