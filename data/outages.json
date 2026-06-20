@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-21845",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.444878843004126,
+    "lng": 10.83197822731296,
+    "start": "20.6.2026, 20:53:00",
+    "end": "21.6.2026, 00:29:00",
+    "areaName": "Våler / Sperrebotn / I0038",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21845,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Våler",
+      "nettstasjon": "I0038",
+      "poststed": "Sperrebotn",
+      "strombruddoppdaget": 1781988780000,
+      "utkoblingslutt": 1782001740000,
+      "utkoblingstart": 1781988780000
+    }
+  },
+  {
     "id": "linja-planned-3328260",
     "company": "Linja",
     "type": "planned",
