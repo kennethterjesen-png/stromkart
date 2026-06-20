@@ -32,52 +32,6 @@
     }
   },
   {
-    "id": "elvia-20063",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 60.23385233545582,
-    "lng": 11.810137818217465,
-    "start": "20.6.2026, 17:34:38",
-    "end": "20.6.2026, 21:10:38",
-    "areaName": "Sør-Odal / Sander / ENS11919",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20063,
-      "antallkunder": 15,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS11919",
-      "poststed": "Sander",
-      "strombruddoppdaget": 1781976878000,
-      "utkoblingslutt": 1781989838000,
-      "utkoblingstart": 1781976878000
-    }
-  },
-  {
-    "id": "elvia-20880",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 60.50380951870617,
-    "lng": 11.25903926929845,
-    "start": "20.6.2026, 17:30:26",
-    "end": "20.6.2026, 21:06:26",
-    "areaName": "Stange / Espa / ENS14169",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20880,
-      "antallkunder": 16,
-      "avbruddstype": "Unplanned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14169",
-      "poststed": "Espa",
-      "strombruddoppdaget": 1781976626000,
-      "utkoblingslutt": 1781989586000,
-      "utkoblingstart": 1781976626000
-    }
-  },
-  {
     "id": "linja-planned-3328260",
     "company": "Linja",
     "type": "planned",
