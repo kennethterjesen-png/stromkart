@@ -78,30 +78,6 @@
     }
   },
   {
-    "id": "linja-outage-3329000",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 37,
-    "lat": 61.67072150946096,
-    "lng": 6.429472029807519,
-    "start": "20.6.2026, 11:18:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3329000,
-      "CUSTOMER_WEB_TEXT": "1317 Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen.\r\n1345 Feilen er mellom Frøystad og Kandal. Vi fortsetter feilsøkingen, og montører er på vei.\r\n1355 Vi har funnet feilen. Foreløpig rettetid er kl. 1530.\r\n1600 Det går dessverre lenger tid enn planlagt. Ny rettetid er 1730.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1781954280000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 4,
-      "NUM_AB": 37
-    }
-  },
-  {
     "id": "linja-planned-3328260",
     "company": "Linja",
     "type": "planned",
