@@ -87,30 +87,6 @@
     }
   },
   {
-    "id": "linja-outage-3329472",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 85,
-    "lat": 61.861739722475996,
-    "lng": 5.0322238876300105,
-    "start": "21.6.2026, 11:15:00",
-    "end": null,
-    "areaName": "BREMANGER / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3329472,
-      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen.\r\n1326 Montører er på vei for feilsøking og seksjonering\r\n1345 Vi har avgrenset feilstedet og fortsetter feilsøking.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782040500000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "BREMANGER",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 14,
-      "NUM_AB": 85
-    }
-  },
-  {
     "id": "linja-planned-3328260",
     "company": "Linja",
     "type": "planned",
@@ -732,23 +708,6 @@
       "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-1",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 92,
-    "lat": 58.95999420982244,
-    "lng": 5.699733046070344,
-    "start": "21.6.2026, 08:30:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 92",
-      "description": "Planlagt strømstans\nStartet: 2026-06-21 08:30\nPlanlagt ferdig: 2026-06-21 16:00",
-      "styleUrl": "#yellow"
     }
   },
   {
