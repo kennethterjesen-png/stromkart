@@ -1,94 +1,26 @@
 [
   {
-    "id": "elvia-7284",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 59.89383050846603,
-    "lng": 10.854359381098256,
-    "start": "22.6.2026, 06:04:08",
-    "end": "22.6.2026, 09:40:08",
-    "areaName": "Oslo / Oslo / 2363",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "id": "linja-outage-3332971",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 4,
+    "lat": 62.46792773658922,
+    "lng": 6.122657902762604,
+    "start": "22.6.2026, 17:01:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "OBJECTID": 7284,
-      "antallkunder": 15,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2363",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1782108248000,
-      "utkoblingslutt": 1782121208000,
-      "utkoblingstart": 1782108248000
-    }
-  },
-  {
-    "id": "elvia-9841",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 26,
-    "lat": 59.88120937455722,
-    "lng": 10.515224785254203,
-    "start": "22.6.2026, 11:19:20",
-    "end": "22.6.2026, 14:55:20",
-    "areaName": "Bærum / Slependen / B0736",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9841,
-      "antallkunder": 26,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0736",
-      "poststed": "Slependen",
-      "strombruddoppdaget": 1782127160000,
-      "utkoblingslutt": 1782140120000,
-      "utkoblingstart": 1782127160000
-    }
-  },
-  {
-    "id": "elvia-27181",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.58407987387187,
-    "lng": 11.276374811012843,
-    "start": "22.6.2026, 08:07:44",
-    "end": "22.6.2026, 11:43:44",
-    "areaName": "Indre Østfold / Slitu / W2262",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27181,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "W2262",
-      "poststed": "Slitu",
-      "strombruddoppdaget": 1782115664000,
-      "utkoblingslutt": 1782128624000,
-      "utkoblingstart": 1782115664000
-    }
-  },
-  {
-    "id": "elvia-30215",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.79516177633313,
-    "lng": 10.597806681362426,
-    "start": "22.6.2026, 12:45:13",
-    "end": "22.6.2026, 16:21:13",
-    "areaName": "Gjøvik / Hunndalen / ENS13335",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30215,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Gjøvik",
-      "nettstasjon": "ENS13335",
-      "poststed": "Hunndalen",
-      "strombruddoppdaget": 1782132313000,
-      "utkoblingslutt": 1782145273000,
-      "utkoblingstart": 1782132313000
+      "EVENTID": 3332971,
+      "CUSTOMER_WEB_TEXT": "Montører er på vei for feilsøking. Målsetning er å få de fleste kundene forsynt innen kl. 20.00\r\n19:50 De fleste kundene er forsynt. Forventer innkobling av de siste kundene rundt kl. 2130.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1782147660000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "ÅLESUND",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 1,
+      "NUM_AB": 4
     }
   },
   {
@@ -809,23 +741,6 @@
       "MUNICIPAL_TXT": "BREMANGER",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-5",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 25,
-    "lat": 58.9974235575258,
-    "lng": 5.75521157218853,
-    "start": "22.6.2026, 14:30:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 25",
-      "description": "Planlagt strømstans\nStartet: 2026-06-22 14:30\nPlanlagt ferdig: 2026-06-22 17:30",
-      "styleUrl": "#yellow"
     }
   },
   {
