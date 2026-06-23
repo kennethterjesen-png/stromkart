@@ -4,38 +4,6 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.13779892065265,
-    "lng": 5.36369895109709,
-    "start": null,
-    "end": null,
-    "areaName": "Bjørnafjorden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9777848,
-      "MUNICIPAL_TXT": "Bjørnafjorden",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782238320000,
-      "TIMELIMIT": 1782248400000,
-      "NUM_AB": 1,
-      "CUSTOMER_WEB_TEXT": "5216 LEPSØY; SUNDØYTANGEN,RØTINGAVEGEN\r\n5216 LEPSØY; SUNDØYTANGEN,RØTINGAVEGEN",
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1782242478000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 13,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
     "lat": 61.25757826420085,
     "lng": 4.972647899170119,
     "start": null,
@@ -61,6 +29,25 @@
       "NUM_AB_REGAINED": 0,
       "SCHEDULED_SMS_INHABITANT_TEXT": null,
       "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "fagne-4513064",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 6,
+    "lat": 59.424168614064136,
+    "lng": 5.516790368149316,
+    "start": null,
+    "end": null,
+    "areaName": "TYSVÆR",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "TYSVÆR",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
