@@ -1,5 +1,51 @@
 [
   {
+    "id": "elvia-12696",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 154,
+    "lat": 60.77501372663358,
+    "lng": 10.678721504370285,
+    "start": "23.6.2026, 01:09:11",
+    "end": "23.6.2026, 04:54:11",
+    "areaName": "Gjøvik / Gjøvik / ENS00753",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 12696,
+      "antallkunder": 154,
+      "avbruddstype": "Unplanned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS00753",
+      "poststed": "Gjøvik",
+      "strombruddoppdaget": 1782176951944,
+      "utkoblingslutt": 1782190451000,
+      "utkoblingstart": 1782176951944
+    }
+  },
+  {
+    "id": "elvia-12698",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 155,
+    "lat": 60.776392553898454,
+    "lng": 10.67469155821754,
+    "start": "23.6.2026, 01:09:11",
+    "end": "23.6.2026, 04:54:11",
+    "areaName": "Gjøvik / Gjøvik / ENS00755",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 12698,
+      "antallkunder": 155,
+      "avbruddstype": "Unplanned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS00755",
+      "poststed": "Gjøvik",
+      "strombruddoppdaget": 1782176951944,
+      "utkoblingslutt": 1782190451000,
+      "utkoblingstart": 1782176951944
+    }
+  },
+  {
     "id": "linja-planned-3332595",
     "company": "Linja",
     "type": "planned",
@@ -427,30 +473,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "STRYN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3325897",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.90463190340554,
-    "lng": 5.994502798980652,
-    "start": "23.6.2026, 03:30:00",
-    "end": null,
-    "areaName": "STAD / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3325897,
-      "CUSTOMER_WEB_TEXT": "Trafo Bakehuset vert utan straum den 23.06 frå kl 05:30 til 06:30",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1782185400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "STAD",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
