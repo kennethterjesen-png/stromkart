@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-1507",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.896162935085634,
-    "lng": 10.514429540996066,
-    "start": "24.6.2026, 06:00:00",
-    "end": "24.6.2026, 13:00:00",
-    "areaName": "Bærum / Sandvika / B1744",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 1507,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Bærum",
-      "nettstasjon": "B1744",
-      "poststed": "Sandvika",
-      "strombruddoppdaget": 1782281072300,
-      "utkoblingslutt": 1782306000000,
-      "utkoblingstart": 1782280800000
-    }
-  },
-  {
     "id": "elvia-9569",
     "company": "Elvia",
     "type": "planned",
@@ -78,49 +55,26 @@
     }
   },
   {
-    "id": "elvia-13900",
+    "id": "elvia-17900",
     "company": "Elvia",
     "type": "planned",
-    "customers": 14,
-    "lat": 61.117394822087995,
-    "lng": 12.064732019047591,
-    "start": "24.6.2026, 13:16:57",
-    "end": "24.6.2026, 16:52:57",
-    "areaName": "Trysil / Tørberget / ENS02556",
+    "customers": 18,
+    "lat": 61.42408342518624,
+    "lng": 11.096444291468329,
+    "start": "24.6.2026, 15:52:39",
+    "end": "24.6.2026, 19:28:39",
+    "areaName": "Stor-Elvdal / Koppang / ENS08767",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 13900,
-      "antallkunder": 14,
+      "OBJECTID": 17900,
+      "antallkunder": 18,
       "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS02556",
-      "poststed": "Tørberget",
-      "strombruddoppdaget": 1782307017000,
-      "utkoblingslutt": 1782319977000,
-      "utkoblingstart": 1782307017000
-    }
-  },
-  {
-    "id": "elvia-25526",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 60.0219524934249,
-    "lng": 10.971880963204859,
-    "start": "24.6.2026, 08:16:27",
-    "end": "24.6.2026, 11:52:27",
-    "areaName": "Lillestrøm / Slattum / S0950",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25526,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0950",
-      "poststed": "Slattum",
-      "strombruddoppdaget": 1782288987000,
-      "utkoblingslutt": 1782301947000,
-      "utkoblingstart": 1782288987000
+      "kommune": "Stor-Elvdal",
+      "nettstasjon": "ENS08767",
+      "poststed": "Koppang",
+      "strombruddoppdaget": 1782316359000,
+      "utkoblingslutt": 1782329319000,
+      "utkoblingstart": 1782316359000
     }
   },
   {
@@ -144,30 +98,6 @@
       "strombruddoppdaget": 1782282722000,
       "utkoblingslutt": 1782295682000,
       "utkoblingstart": 1782282722000
-    }
-  },
-  {
-    "id": "linja-outage-3325881",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 19,
-    "lat": 62.15146808331985,
-    "lng": 6.113772952379198,
-    "start": "24.6.2026, 10:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3325881,
-      "CUSTOMER_WEB_TEXT": "Det er planlagt arbeid i det elektriske nettet medfører at det blir avbrudd i strømforsyningen for trafo Bøgardsvegen 2. Arbeidet er planlagt onsdag 24/06  fra kl 12 til omlag kl 16",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782295200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "VOLDA",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 1,
-      "NUM_AB": 19
     }
   },
   {
@@ -675,23 +605,6 @@
     }
   },
   {
-    "id": "lnett-planned-15",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.03717480770107,
-    "lng": 6.735604279584051,
-    "start": "24.6.2026, 09:10:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 4",
-      "description": "Planlagt strømstans\nStartet: 2026-06-24 09:10\nPlanlagt ferdig: 2026-06-24 14:00\nPlanlagt strømstans",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2856-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -828,6 +741,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2866-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2869-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 13,
+    "lat": 59.73704448799998,
+    "lng": 10.513183251999976,
+    "start": "1.7.2026, 07:00:00",
+    "end": "1.7.2026, 13:00:00",
+    "areaName": "BØDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217588,
+      "REFNR": "PL2869",
+      "SEKUNDÆRSTASJON": "BØDALEN",
+      "AVGANG": "K8_R386",
+      "CNT": 13,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1782889200000,
+      "TIL_DATO": 1782910800000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2869-1",
       "description": ""
     }
   },
