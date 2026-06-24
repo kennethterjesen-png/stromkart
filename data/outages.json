@@ -842,34 +842,6 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-70567-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.69652743,
-    "lng": 10.474544834000028,
-    "start": "23.6.2026, 22:01:00",
-    "end": "24.6.2026, 00:00:00",
-    "areaName": "BØDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217441,
-      "REFNR": "P70567",
-      "SEKUNDÆRSTASJON": "BØDALEN",
-      "AVGANG": "K3_AVGR. R405",
-      "CNT": 4,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1782252060000,
-      "TIL_DATO": 1782259200000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70567-1",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2856-1",
     "company": "Norgesnett",
     "type": "planned",
