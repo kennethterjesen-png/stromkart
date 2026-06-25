@@ -4,6 +4,38 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
+    "lat": 60.58545741211223,
+    "lng": 5.3664157301506235,
+    "start": null,
+    "end": null,
+    "areaName": "Alver",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9720582,
+      "MUNICIPAL_TXT": "Alver",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1782421200000,
+      "TIMELIMIT": 1782446400000,
+      "NUM_AB": 637,
+      "CUSTOMER_WEB_TEXT": "5913 EIKANGERVÅG; FYLLINGSNESVEGEN\r\n5915 HJELMÅS; KLEIVDALSVEGEN,HODNESDALSVEGEN,NORDGARDSVEGEN,SAUVÅGEN,HJELMÅSEN,SANDVIKAVEGEN,STORNESET,LEKNESVEGEN,HELLESNESET,HJELMÅS,HAKSET,MIDTGARDSHØGDA,FLØSVIKVEGEN,NAUSTDALSLIA,LEKNES,KNAPPEN,APALEN,HELLEÅSEN,FYLLINGEN,KRINGLEBAKKEN,LANGERINDEN\r\n5994 VIKANES; OSTERFJORDVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 27,
+      "LAST_UPDATED": 1782421929000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 6,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "bkk-1",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
     "lat": 60.31383380123642,
     "lng": 5.269243913135849,
     "start": null,
@@ -98,6 +130,52 @@
       "strombruddoppdaget": 1782410749100,
       "utkoblingslutt": 1782439200000,
       "utkoblingstart": 1782111600000
+    }
+  },
+  {
+    "id": "elvia-20662",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 54,
+    "lat": 60.887340616813084,
+    "lng": 10.949609675238763,
+    "start": "25.6.2026, 21:15:00",
+    "end": "26.6.2026, 00:15:00",
+    "areaName": "Ringsaker / Brumunddal / ENS13051",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20662,
+      "antallkunder": 54,
+      "avbruddstype": "Planned",
+      "kommune": "Ringsaker",
+      "nettstasjon": "ENS13051",
+      "poststed": "Brumunddal",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1782432900000,
+      "utkoblingstart": 1782422100000
+    }
+  },
+  {
+    "id": "elvia-30290",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 60.74392997716771,
+    "lng": 10.612449371938226,
+    "start": "25.6.2026, 20:00:00",
+    "end": "26.6.2026, 01:00:00",
+    "areaName": "Vestre Toten / Raufoss / ENS13458",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 30290,
+      "antallkunder": 3,
+      "avbruddstype": "Planned",
+      "kommune": "Vestre Toten",
+      "nettstasjon": "ENS13458",
+      "poststed": "Raufoss",
+      "strombruddoppdaget": 1782417843120,
+      "utkoblingslutt": 1782435600000,
+      "utkoblingstart": 1782417600000
     }
   },
   {
@@ -696,6 +774,23 @@
     }
   },
   {
+    "id": "lnett-planned-15",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 18,
+    "lat": 59.21872380662604,
+    "lng": 6.121239861285223,
+    "start": "25.6.2026, 23:13:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 18",
+      "description": "Planlagt strømstans\nStartet: 2026-06-25 23:13\nPlanlagt ferdig: 2026-06-26 05:00",
+      "styleUrl": "#yellow"
+    }
+  },
+  {
     "id": "norgesnett-planned-V-2856-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1028,34 +1123,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70617-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2866-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 5,
-    "lat": 59.218298473000004,
-    "lng": 10.93957418399998,
-    "start": "25.6.2026, 17:16:07",
-    "end": "25.6.2026, 20:00:00",
-    "areaName": "OREDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217558,
-      "REFNR": "PL2866",
-      "SEKUNDÆRSTASJON": "OREDALEN",
-      "AVGANG": "H310",
-      "CNT": 5,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1782407767000,
-      "TIL_DATO": 1782417600000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2866-1",
       "description": ""
     }
   }
