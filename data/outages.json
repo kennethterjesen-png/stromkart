@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.31383380123642,
+    "lng": 5.269243913135849,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9728507,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1782414000000,
+      "TIMELIMIT": 1782442800000,
+      "NUM_AB": 26,
+      "CUSTOMER_WEB_TEXT": "5251 SØREIDGREND; SØREIDTRÆET\r\n5252 SØREIDGREND; SØREIDÅSEN\r\n5258 BLOMSTERDALEN; YTREBYGDSVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1782414043000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 6,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-6597",
     "company": "Elvia",
     "type": "planned",
@@ -46,26 +78,26 @@
     }
   },
   {
-    "id": "elvia-7931",
+    "id": "elvia-17708",
     "company": "Elvia",
     "type": "planned",
-    "customers": 26,
-    "lat": 59.89452320180383,
-    "lng": 10.851874457019855,
-    "start": "25.6.2026, 17:43:11",
-    "end": "25.6.2026, 21:19:11",
-    "areaName": "Oslo / Oslo / 3307",
+    "customers": 2,
+    "lat": 61.13635439439078,
+    "lng": 11.372364528814744,
+    "start": "22.6.2026, 07:00:00",
+    "end": "26.6.2026, 02:00:00",
+    "areaName": "Åmot / Rena / ENS08424",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 7931,
-      "antallkunder": 26,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "3307",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1782409391000,
-      "utkoblingslutt": 1782422351000,
-      "utkoblingstart": 1782409391000
+      "OBJECTID": 17708,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Åmot",
+      "nettstasjon": "ENS08424",
+      "poststed": "Rena",
+      "strombruddoppdaget": 1782410749100,
+      "utkoblingslutt": 1782439200000,
+      "utkoblingstart": 1782111600000
     }
   },
   {
@@ -85,6 +117,30 @@
       "municipal": "SULDAL",
       "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "linja-outage-3334200",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 37,
+    "lat": 62.581613956576305,
+    "lng": 6.931167449228158,
+    "start": "25.6.2026, 19:30:00",
+    "end": null,
+    "areaName": "VESTNES / Nordvestnett",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3334200,
+      "CUSTOMER_WEB_TEXT": "TOMREN FABRIKKER: På grunn av arbeid i høyspentnettet blir det en strømstans fra fra 21:30 og i ca fire og en halv time. ",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1782415800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "VESTNES",
+      "PURCHAREA_TXT": "Nordvestnett",
+      "NUM_NS": 1,
+      "NUM_AB": 37
     }
   },
   {
