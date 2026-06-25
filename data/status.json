@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-25T10:47:31.993Z",
-  "count": 46,
+  "updatedAt": "2026-06-25T13:07:32.620Z",
+  "count": 45,
   "providers": [
     {
       "name": "Elvia",
       "ok": true,
-      "count": 12,
-      "rawCount": 12,
+      "count": 5,
+      "rawCount": 5,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -42,8 +42,8 @@
     {
       "name": "Linja",
       "ok": true,
-      "count": 17,
-      "rawCount": 17,
+      "count": 25,
+      "rawCount": 25,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -51,8 +51,8 @@
     {
       "name": "Lnett",
       "ok": true,
-      "count": 2,
-      "rawCount": 2,
+      "count": 1,
+      "rawCount": 1,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -60,8 +60,8 @@
     {
       "name": "Norgesnett",
       "ok": true,
-      "count": 10,
-      "rawCount": 10,
+      "count": 11,
+      "rawCount": 11,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -78,8 +78,8 @@
     {
       "name": "Fagne",
       "ok": true,
-      "count": 3,
-      "rawCount": 3,
+      "count": 1,
+      "rawCount": 1,
       "filteredOut": 0,
       "warning": false,
       "error": null
