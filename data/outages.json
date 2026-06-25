@@ -32,61 +32,6 @@
     }
   },
   {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.347642308312565,
-    "lng": 5.416973154274431,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9779870,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782360840000,
-      "TIMELIMIT": 1782370800000,
-      "NUM_AB": 14,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1782390341000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-6223",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 17,
-    "lat": 59.91711498240932,
-    "lng": 10.824768462963183,
-    "start": "25.6.2026, 08:42:48",
-    "end": "25.6.2026, 12:18:48",
-    "areaName": "Oslo / Oslo / 0812",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6223,
-      "antallkunder": 17,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0812",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1782376968000,
-      "utkoblingslutt": 1782389928000,
-      "utkoblingstart": 1782376968000
-    }
-  },
-  {
     "id": "elvia-6597",
     "company": "Elvia",
     "type": "planned",
@@ -110,72 +55,26 @@
     }
   },
   {
-    "id": "elvia-8230",
+    "id": "elvia-10644",
     "company": "Elvia",
     "type": "planned",
-    "customers": 16,
-    "lat": 59.91773925478187,
-    "lng": 10.696299931165662,
-    "start": "25.6.2026, 06:00:00",
-    "end": "25.6.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 3812",
+    "customers": 9,
+    "lat": 59.92036696452786,
+    "lng": 10.502627767681405,
+    "start": "25.6.2026, 13:00:49",
+    "end": "25.6.2026, 16:36:49",
+    "areaName": "Bærum / Kolsås / B2087",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 8230,
-      "antallkunder": 16,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3812",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1782392400000,
-      "utkoblingstart": 1782367200000
-    }
-  },
-  {
-    "id": "elvia-15909",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 61.01415924477918,
-    "lng": 10.588423443954126,
-    "start": null,
-    "end": "25.6.2026, 11:51:58",
-    "areaName": "Ringsaker / Brøttum / ENS05591",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 15909,
-      "antallkunder": 10,
+      "OBJECTID": 10644,
+      "antallkunder": 9,
       "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS05591",
-      "poststed": "Brøttum",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1782388318000,
-      "utkoblingstart": null
-    }
-  },
-  {
-    "id": "elvia-22786",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.93053676523655,
-    "lng": 10.942266767962478,
-    "start": "25.6.2026, 12:28:38",
-    "end": "25.6.2026, 16:04:38",
-    "areaName": "Lørenskog / Lørenskog / L0179",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22786,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0179",
-      "poststed": "Lørenskog",
-      "strombruddoppdaget": 1782390518000,
-      "utkoblingslutt": 1782403478000,
-      "utkoblingstart": 1782390518000
+      "kommune": "Bærum",
+      "nettstasjon": "B2087",
+      "poststed": "Kolsås",
+      "strombruddoppdaget": 1782392449000,
+      "utkoblingslutt": 1782405409000,
+      "utkoblingstart": 1782392449000
     }
   },
   {
@@ -195,30 +94,6 @@
       "municipal": "SULDAL",
       "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "linja-outage-3327061",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 4,
-    "lat": 61.339820167477335,
-    "lng": 5.082102985564458,
-    "start": "25.6.2026, 05:00:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3327061,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Olsetvegen torsdag 25.juni fra kl. 07:00 til 15:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782363600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "ASKVOLL",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 4
     }
   },
   {
@@ -798,23 +673,6 @@
     }
   },
   {
-    "id": "lnett-planned-15",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 1,
-    "lat": 58.934386593245584,
-    "lng": 5.7445121572392,
-    "start": "25.6.2026, 08:00:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 1",
-      "description": "Planlagt strømstans\nStartet: 2026-06-25 08:00\nPlanlagt ferdig: 2026-06-26 14:00",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2856-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1091,6 +949,62 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70655-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70657-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 33,
+    "lat": 60.564949807999994,
+    "lng": 4.958166602999995,
+    "start": "29.6.2026, 07:00:58",
+    "end": "29.6.2026, 08:00:58",
+    "areaName": "MERKESVIK",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217604,
+      "REFNR": "P70657",
+      "SEKUNDÆRSTASJON": "MERKESVIK",
+      "AVGANG": "HERDLA",
+      "CNT": 33,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1782716458000,
+      "TIL_DATO": 1782720058000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70657-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70658-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 37,
+    "lat": 59.095419719999995,
+    "lng": 10.863473478000003,
+    "start": "29.6.2026, 07:00:19",
+    "end": "29.6.2026, 08:00:19",
+    "areaName": "RØD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217605,
+      "REFNR": "P70658",
+      "SEKUNDÆRSTASJON": "RØD",
+      "AVGANG": "H3053",
+      "CNT": 37,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1782716419000,
+      "TIL_DATO": 1782720019000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70658-1",
       "description": ""
     }
   },
