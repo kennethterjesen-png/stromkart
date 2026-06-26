@@ -552,23 +552,6 @@
     }
   },
   {
-    "id": "lnett-outage-13",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 3,
-    "lat": 59.11061487431234,
-    "lng": 5.683767466306287,
-    "start": "26.6.2026, 15:49:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 3",
-      "description": "Driftsforstyrrelse\nStartet: 2026-06-26 15:49\nStrømbrudd\n15:55 - Montør ut for å feilsøke\n15:26 - Noen kunder har fått strømmen tilbake.\n18:15 Feil funnet Høyspent sikringer som har gått, her må dem fiksens så det må gjerne reknes med å være uten strøm en periode\n18:40 Her må det settes opp aggregat i Litladal\nHausken må det byttes høyspentsikringer",
-      "styleUrl": "#red"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2856-1",
     "company": "Norgesnett",
     "type": "planned",
