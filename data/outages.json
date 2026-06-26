@@ -1,24 +1,5 @@
 [
   {
-    "id": "fagne-4523168",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 1099,
-    "lat": 59.669751517579584,
-    "lng": 5.48309798185046,
-    "start": null,
-    "end": null,
-    "areaName": "SVEIO",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SVEIO",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-planned-3340973",
     "company": "Linja",
     "type": "planned",
@@ -574,6 +555,23 @@
     "id": "lnett-outage-11",
     "company": "Lnett",
     "type": "outage",
+    "customers": 12,
+    "lat": 59.10335349130194,
+    "lng": 5.674712324823906,
+    "start": "26.6.2026, 15:49:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 12",
+      "description": "Driftsforstyrrelse\nStartet: 2026-06-26 15:49\nStrømbrudd\n15:55 - Montør ut for å feilsøke\n15:26 - Noen kunder har fått strømmen tilbake.\n18:15 Feil funnet Høyspent sikringer som har gått, her må dem fiksens så det må gjerne reknes med å være uten strøm en periode\n18:40 Her må det settes opp aggregat i Litladal\nHausken må det byttes høyspentsikringer",
+      "styleUrl": "#red"
+    }
+  },
+  {
+    "id": "lnett-outage-13",
+    "company": "Lnett",
+    "type": "outage",
     "customers": 3,
     "lat": 59.07498037468261,
     "lng": 5.633285266445009,
@@ -584,23 +582,6 @@
     "raw": {
       "name": "Berørte kunder: 3",
       "description": "Driftsforstyrrelse\nStartet: 2026-06-26 16:41\n16:41 - Her er det høyspent sikringer som har gått og må byttes, vi har personell på saken",
-      "styleUrl": "#red"
-    }
-  },
-  {
-    "id": "lnett-outage-13",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 16,
-    "lat": 59.10428010131016,
-    "lng": 5.67036919842071,
-    "start": "26.6.2026, 15:49:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 16",
-      "description": "Driftsforstyrrelse\nStartet: 2026-06-26 15:49\nStrømbrudd\n15:55 - Montør ut for å feilsøke\n15:26 - Noen kunder har fått strømmen tilbake.\n18:15 Feil funnet Høyspent sikringer som har gått, her må dem fiksens så det må gjerne reknes med å være uten strøm en periode\n18:40 Her må det settes opp aggregat i Litladal\nHausken må det byttes høyspentsikringer",
       "styleUrl": "#red"
     }
   },
