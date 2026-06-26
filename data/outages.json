@@ -1,47 +1,5 @@
 [
   {
-    "id": "elvia-9656",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.91086002110213,
-    "lng": 10.565903591772203,
-    "start": "26.6.2026, 11:58:57",
-    "end": "26.6.2026, 15:34:57",
-    "areaName": "Bærum / Haslum / B0294",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9656,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0294",
-      "poststed": "Haslum",
-      "strombruddoppdaget": 1782475137000,
-      "utkoblingslutt": 1782488097000,
-      "utkoblingstart": 1782475137000
-    }
-  },
-  {
-    "id": "fagne-4521613",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 44,
-    "lat": 59.14998950389424,
-    "lng": 5.2437844964027445,
-    "start": null,
-    "end": null,
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-planned-3340973",
     "company": "Linja",
     "type": "planned",
@@ -591,6 +549,40 @@
       "MUNICIPAL_TXT": "STAD",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-outage-11",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 12,
+    "lat": 59.07386881395556,
+    "lng": 5.660149019672488,
+    "start": "26.6.2026, 16:30:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 12",
+      "description": "Driftsforstyrrelse\nStartet: 2026-06-26 16:30\nStrømbrudd\n1600 Montør er på vei for å feilsøke",
+      "styleUrl": "#red"
+    }
+  },
+  {
+    "id": "lnett-outage-13",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 24,
+    "lat": 59.10307215479695,
+    "lng": 5.680595054038182,
+    "start": "26.6.2026, 15:49:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 24",
+      "description": "Driftsforstyrrelse\nStartet: 2026-06-26 15:49\nStrømbrudd\n15:55 - Montør ut for å feilsøke\n15:26 - Noen kunder har fått strømmen tilbake.",
+      "styleUrl": "#red"
     }
   },
   {
