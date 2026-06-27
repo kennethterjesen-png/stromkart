@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-28203",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.21699687198611,
+    "lng": 10.844306968534447,
+    "start": "27.6.2026, 13:25:58",
+    "end": "27.6.2026, 17:01:58",
+    "areaName": "Fredrikstad / Gressvik / X2114",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28203,
+      "antallkunder": 3,
+      "avbruddstype": "Unplanned",
+      "kommune": "Fredrikstad",
+      "nettstasjon": "X2114",
+      "poststed": "Gressvik",
+      "strombruddoppdaget": 1782566758000,
+      "utkoblingslutt": 1782579718000,
+      "utkoblingstart": 1782566758000
+    }
+  },
+  {
     "id": "linja-planned-3340973",
     "company": "Linja",
     "type": "planned",
@@ -587,7 +610,7 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 3",
-      "description": "Planlagt strømstans\nStartet: 2026-06-27 11:14\nNødvendig feilretteing.\nForventet ferdig innen kl. 14:00.",
+      "description": "Planlagt strømstans\nStartet: 2026-06-27 11:14\nNødvendig feilretteing.\nForventet ferdig innen kl. 19:00.",
       "styleUrl": "#red"
     }
   },
