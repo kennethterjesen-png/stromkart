@@ -55,6 +55,29 @@
     }
   },
   {
+    "id": "elvia-24634",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.06405670512289,
+    "lng": 11.477553447133408,
+    "start": "27.6.2026, 10:52:20",
+    "end": "27.6.2026, 14:28:20",
+    "areaName": "Halden / Halden / Q0435",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24634,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Halden",
+      "nettstasjon": "Q0435",
+      "poststed": "Halden",
+      "strombruddoppdaget": 1782557540000,
+      "utkoblingslutt": 1782570500000,
+      "utkoblingstart": 1782557540000
+    }
+  },
+  {
     "id": "linja-planned-3340973",
     "company": "Linja",
     "type": "planned",
@@ -620,6 +643,23 @@
     "raw": {
       "name": "Berørte kunder: 3",
       "description": "Planlagt strømstans\nStartet: 2026-06-27 11:14\nNødvendig feilretteing.\nForventet ferdig innen kl. 14:00.",
+      "styleUrl": "#red"
+    }
+  },
+  {
+    "id": "lnett-outage-9",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 30,
+    "lat": 59.080905288464855,
+    "lng": 5.6413751041871505,
+    "start": "27.6.2026, 13:32:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 30",
+      "description": "Driftsforstyrrelse\nStartet: 2026-06-27 13:32\nMontører jobber med å lokalisere feilen.",
       "styleUrl": "#red"
     }
   },
