@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-27T08:12:51.467Z",
+  "updatedAt": "2026-06-27T10:25:04.643Z",
   "count": 36,
   "providers": [
     {
@@ -51,8 +51,8 @@
     {
       "name": "Lnett",
       "ok": true,
-      "count": 0,
-      "rawCount": 0,
+      "count": 1,
+      "rawCount": 1,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -60,8 +60,8 @@
     {
       "name": "Norgesnett",
       "ok": true,
-      "count": 11,
-      "rawCount": 11,
+      "count": 10,
+      "rawCount": 10,
       "filteredOut": 0,
       "warning": false,
       "error": null

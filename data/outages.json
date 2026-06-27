@@ -22,7 +22,7 @@
       "GRIDLEVEL_TXT": "Høy",
       "REASON_TXT": null,
       "NUM_NS": 11,
-      "LAST_UPDATED": 1782543837000,
+      "LAST_UPDATED": 1782554043000,
       "SCHEDULED_SMS_DAYS_BEFORE": 4,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 0,
@@ -607,6 +607,23 @@
     }
   },
   {
+    "id": "lnett-planned-7",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.07498037468261,
+    "lng": 5.633285266445009,
+    "start": "27.6.2026, 11:14:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 3",
+      "description": "Planlagt strømstans\nStartet: 2026-06-27 11:14\nNødvendig feilretteing.\nForventet ferdig innen kl. 14:00.",
+      "styleUrl": "#red"
+    }
+  },
+  {
     "id": "norgesnett-planned-V-2856-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -884,34 +901,6 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70617-1",
       "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70666-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 1539,
-    "lat": 59.60890598200001,
-    "lng": 10.740779239000005,
-    "start": "27.6.2026, 07:34:31",
-    "end": null,
-    "areaName": "TANGEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217634,
-      "REFNR": "H70666",
-      "SEKUNDÆRSTASJON": "TANGEN",
-      "AVGANG": "L4",
-      "CNT": 1539,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Seksjonering pågår, ca 690 kunder er nå innkoblet. Feilen er enda ikke lokalisert, men jobber fortløpende med prøvekoblinger i nettet for å finne feilen. \n \nBerørte områder: \n\nKAPELLVEIEN 80, FLASKEBEKK BRYGGE, GARTNERHALLEN, ILDJERNET SPORTSPLASS, JØRGEN BERNERS VEI, HEIA BARNEHAGE, FLASKEB. SENTER, TJERNSKOGEN, NB-GÅRDEN, BEKKEBLOMVEIEN, TJERNSKOGEN 2, TJERNSKOGEN 1, FLASKEBEKKVEIEN, LAMPEPUSSVN., KLØVERVEIEN, KAVRINGSTRAND, SKOGEN III, SNARKJØP, SKOGEN 1, KAVRINGTOPPEN, ØVREVEIEN, FLASKEBEKK-KRYSSET, KILEVOLDBUEN, FAGERLI, SLETTEVOLD, LEIEGATA, SOLVANG.",
-      "FRA_DATO": 1782545671000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70666-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Seksjonering pågår, ca 690 kunder er nå innkoblet. Feilen er enda ikke lokalisert, men jobber fortløpende med prøvekoblinger i nettet for å finne feilen. \n \nBerørte områder: \n\nKAPELLVEIEN 80, FLASKEBEKK BRYGGE, GARTNERHALLEN, ILDJERNET SPORTSPLASS, JØRGEN BERNERS VEI, HEIA BARNEHAGE, FLASKEB. SENTER, TJERNSKOGEN, NB-GÅRDEN, BEKKEBLOMVEIEN, TJERNSKOGEN 2, TJERNSKOGEN 1, FLASKEBEKKVEIEN, LAMPEPUSSVN., KLØVERVEIEN, KAVRINGSTRAND, SKOGEN III, SNARKJØP, SKOGEN 1, KAVRINGTOPPEN, ØVREVEIEN, FLASKEBEKK-KRYSSET, KILEVOLDBUEN, FAGERLI, SLETTEVOLD, LEIEGATA, SOLVANG."
     }
   }
 ]
