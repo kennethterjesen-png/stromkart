@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.28445565795465,
-    "lng": 5.414346018890788,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9753339,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782543600000,
-      "TIMELIMIT": 1782561600000,
-      "NUM_AB": 174,
-      "CUSTOMER_WEB_TEXT": "5229 KALANDSEIDET; BONTVEITVEGEN,OSVEGEN,ALMELANDSVEGEN,GIMMELANDSVEGEN,HEDNEVEGEN,SINESET,KALAND,SANDVEN HAGEBY\r\n5243 FANA; HAMREVEGEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 11,
-      "LAST_UPDATED": 1782554043000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 4,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-1125",
     "company": "Elvia",
     "type": "planned",
@@ -52,29 +20,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1782568800000,
       "utkoblingstart": 1782540000000
-    }
-  },
-  {
-    "id": "elvia-24634",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.06405670512289,
-    "lng": 11.477553447133408,
-    "start": "27.6.2026, 10:52:20",
-    "end": "27.6.2026, 14:28:20",
-    "areaName": "Halden / Halden / Q0435",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24634,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0435",
-      "poststed": "Halden",
-      "strombruddoppdaget": 1782557540000,
-      "utkoblingslutt": 1782570500000,
-      "utkoblingstart": 1782557540000
     }
   },
   {
@@ -643,23 +588,6 @@
     "raw": {
       "name": "Berørte kunder: 3",
       "description": "Planlagt strømstans\nStartet: 2026-06-27 11:14\nNødvendig feilretteing.\nForventet ferdig innen kl. 14:00.",
-      "styleUrl": "#red"
-    }
-  },
-  {
-    "id": "lnett-outage-9",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 30,
-    "lat": 59.080905288464855,
-    "lng": 5.6413751041871505,
-    "start": "27.6.2026, 13:32:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 30",
-      "description": "Driftsforstyrrelse\nStartet: 2026-06-27 13:32\nMontører jobber med å lokalisere feilen.",
       "styleUrl": "#red"
     }
   },
