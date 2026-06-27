@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-1275",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 20,
+    "lat": 59.90871604599319,
+    "lng": 10.60656886386917,
+    "start": "27.6.2026, 21:00:00",
+    "end": "28.6.2026, 00:00:00",
+    "areaName": "Bærum / Stabekk / B0060",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 1275,
+      "antallkunder": 20,
+      "avbruddstype": "Planned",
+      "kommune": "Bærum",
+      "nettstasjon": "B0060",
+      "poststed": "Stabekk",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1782604800000,
+      "utkoblingstart": 1782594000000
+    }
+  },
+  {
     "id": "linja-planned-3340973",
     "company": "Linja",
     "type": "planned",
