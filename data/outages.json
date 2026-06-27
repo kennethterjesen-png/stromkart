@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-29519",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.483453674562384,
-    "lng": 11.103242255576964,
-    "start": "27.6.2026, 17:23:40",
-    "end": "27.6.2026, 20:59:40",
-    "areaName": "Skiptvet / Skiptvet / Z2052",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29519,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Skiptvet",
-      "nettstasjon": "Z2052",
-      "poststed": "Skiptvet",
-      "strombruddoppdaget": 1782581020000,
-      "utkoblingslutt": 1782593980000,
-      "utkoblingstart": 1782581020000
-    }
-  },
-  {
     "id": "linja-planned-3340973",
     "company": "Linja",
     "type": "planned",
