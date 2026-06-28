@@ -1,29 +1,5 @@
 [
   {
-    "id": "linja-outage-3341812",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 115,
-    "lat": 61.85170311686581,
-    "lng": 6.905324447576039,
-    "start": "28.6.2026, 21:46:00",
-    "end": null,
-    "areaName": "STRYN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3341812,
-      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. vi jobber med saken. rettetid er foreløpig ukjent \r\nFeilen er funnen, og vi jobber med å få rette feilen.\r\nRettetid er sett til ca. kl. 02.30\r\n",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782683160000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "STRYN",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 14,
-      "NUM_AB": 115
-    }
-  },
-  {
     "id": "linja-planned-3340973",
     "company": "Linja",
     "type": "planned",
