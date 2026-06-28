@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.26283673874279,
-    "lng": 5.333629268842864,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9787679,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782647160000,
-      "TIMELIMIT": 1782658800000,
-      "NUM_AB": 2,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1782648821000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-6945",
     "company": "Elvia",
     "type": "planned",
@@ -52,29 +20,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1782669600000,
       "utkoblingstart": 1782626400000
-    }
-  },
-  {
-    "id": "elvia-8390",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.953474570775214,
-    "lng": 10.93690870783432,
-    "start": "28.6.2026, 11:44:51",
-    "end": "28.6.2026, 15:20:51",
-    "areaName": "Oslo / Oslo / 4082",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8390,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "4082",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1782647091000,
-      "utkoblingslutt": 1782660051000,
-      "utkoblingstart": 1782647091000
     }
   },
   {
