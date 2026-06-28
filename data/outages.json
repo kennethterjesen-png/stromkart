@@ -1,60 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.5031056434763,
-    "lng": 4.921069245639995,
-    "start": null,
-    "end": null,
-    "areaName": "Øygarden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9698178,
-      "MUNICIPAL_TXT": "Øygarden",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782630000000,
-      "TIMELIMIT": 1782648000000,
-      "NUM_AB": 378,
-      "CUSTOMER_WEB_TEXT": "5335 HERNAR; SANDEN\r\n5337 RONG; RONGØYVEGEN,VESLEVARDEN,RONGESUNDVEGEN,SKJOLDINGSNESET,PÅLSNESET,GJETLINGAVEGEN,MEDARSETA,AUSTEMARKA,SKORANE,AUSTMARKA,RAUDHAMMAREN,RONGØYVARDEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 7,
-      "LAST_UPDATED": 1782630154000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 5,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-3365",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.18583837422589,
-    "lng": 12.000270034661332,
-    "start": "28.6.2026, 07:47:12",
-    "end": "28.6.2026, 11:23:12",
-    "areaName": "Kongsvinger / Kongsvinger / ENS12880",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 3365,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS12880",
-      "poststed": "Kongsvinger",
-      "strombruddoppdaget": 1782632832000,
-      "utkoblingslutt": 1782645792000,
-      "utkoblingstart": 1782632832000
-    }
-  },
-  {
     "id": "elvia-6945",
     "company": "Elvia",
     "type": "planned",
@@ -75,48 +20,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1782669600000,
       "utkoblingstart": 1782626400000
-    }
-  },
-  {
-    "id": "elvia-24351",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 26,
-    "lat": 59.10355234380851,
-    "lng": 11.209401548844847,
-    "start": "28.6.2026, 08:45:42",
-    "end": "28.6.2026, 12:21:42",
-    "areaName": "Halden / Sponvika / Q0116",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24351,
-      "antallkunder": 26,
-      "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0116",
-      "poststed": "Sponvika",
-      "strombruddoppdaget": 1782636342000,
-      "utkoblingslutt": 1782649302000,
-      "utkoblingstart": 1782636342000
-    }
-  },
-  {
-    "id": "fagne-4523504",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.34345542093863,
-    "lng": 5.738904627595831,
-    "start": null,
-    "end": null,
-    "areaName": "TYSVÆR",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "TYSVÆR",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
