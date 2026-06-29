@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-11628",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.809217332689585,
-    "lng": 10.480384379072747,
-    "start": "29.6.2026, 11:42:12",
-    "end": "29.6.2026, 15:18:12",
-    "areaName": "Asker / Vollen / D5834",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11628,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Asker",
-      "nettstasjon": "D5834",
-      "poststed": "Vollen",
-      "strombruddoppdaget": 1782733332000,
-      "utkoblingslutt": 1782746292000,
-      "utkoblingstart": 1782733332000
-    }
-  },
-  {
     "id": "elvia-15814",
     "company": "Elvia",
     "type": "planned",
