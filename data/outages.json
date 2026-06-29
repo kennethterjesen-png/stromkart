@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-15814",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 20,
-    "lat": 60.92861176028148,
-    "lng": 10.691572384537798,
-    "start": "29.6.2026, 09:08:04",
-    "end": "29.6.2026, 12:44:04",
-    "areaName": "Ringsaker / Moelv / ENS05443",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 15814,
-      "antallkunder": 20,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS05443",
-      "poststed": "Moelv",
-      "strombruddoppdaget": 1782724084000,
-      "utkoblingslutt": 1782737044000,
-      "utkoblingstart": 1782724084000
-    }
-  },
-  {
     "id": "linja-planned-3339872",
     "company": "Linja",
     "type": "planned",
