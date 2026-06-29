@@ -101,29 +101,6 @@
     }
   },
   {
-    "id": "elvia-13221",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.648054269601076,
-    "lng": 10.858151631047974,
-    "start": "29.6.2026, 20:24:52",
-    "end": "30.6.2026, 00:09:52",
-    "areaName": "Østre Toten / Skreia / ENS01585",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13221,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS01585",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1782764692705,
-      "utkoblingslutt": 1782778192000,
-      "utkoblingstart": 1782764692705
-    }
-  },
-  {
     "id": "elvia-13236",
     "company": "Elvia",
     "type": "planned",
@@ -209,29 +186,6 @@
       "avbruddstype": "Unplanned",
       "kommune": "Østre Toten",
       "nettstasjon": "ENS01750",
-      "poststed": "Lena",
-      "strombruddoppdaget": 1782764692705,
-      "utkoblingslutt": 1782778192000,
-      "utkoblingstart": 1782764692705
-    }
-  },
-  {
-    "id": "elvia-13345",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.64820786892066,
-    "lng": 10.845467210688753,
-    "start": "29.6.2026, 20:24:52",
-    "end": "30.6.2026, 00:09:52",
-    "areaName": "Østre Toten / Lena / ENS01759",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13345,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS01759",
       "poststed": "Lena",
       "strombruddoppdaget": 1782764692705,
       "utkoblingslutt": 1782778192000,
@@ -371,29 +325,6 @@
       "kommune": "Østre Toten",
       "nettstasjon": "ENS02049",
       "poststed": "Lena",
-      "strombruddoppdaget": 1782764692705,
-      "utkoblingslutt": 1782778192000,
-      "utkoblingstart": 1782764692705
-    }
-  },
-  {
-    "id": "elvia-13560",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 40,
-    "lat": 60.6431342035424,
-    "lng": 10.853323827168166,
-    "start": "29.6.2026, 20:24:52",
-    "end": "30.6.2026, 00:09:52",
-    "areaName": "Østre Toten / Skreia / ENS02081",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13560,
-      "antallkunder": 40,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS02081",
-      "poststed": "Skreia",
       "strombruddoppdaget": 1782764692705,
       "utkoblingslutt": 1782778192000,
       "utkoblingstart": 1782764692705
