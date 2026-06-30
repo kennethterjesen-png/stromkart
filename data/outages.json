@@ -1,34 +1,25 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.378613980652396,
-    "lng": 5.354006009278111,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
+    "id": "elvia-6419",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.922058562635,
+    "lng": 10.726140152279148,
+    "start": "30.6.2026, 22:01:00",
+    "end": "1.7.2026, 01:00:00",
+    "areaName": "Oslo / Oslo / 1075",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "EVENTID": 9778998,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782853200000,
-      "TIMELIMIT": 1782869400000,
-      "NUM_AB": 49,
-      "CUSTOMER_WEB_TEXT": "5009 BERGEN; MØLLENDALSVEIEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1782854084000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 4,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
+      "OBJECTID": 6419,
+      "antallkunder": 12,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1075",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1782867600000,
+      "utkoblingstart": 1782856860000
     }
   },
   {
@@ -52,6 +43,29 @@
       "strombruddoppdaget": 1782831806780,
       "utkoblingslutt": 1782845306000,
       "utkoblingstart": 1782831806780
+    }
+  },
+  {
+    "id": "elvia-7478",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 320,
+    "lat": 59.927123380770205,
+    "lng": 10.731904119395722,
+    "start": "30.6.2026, 22:05:00",
+    "end": "3.7.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 2644",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7478,
+      "antallkunder": 320,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2644",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1782770992000,
+      "utkoblingslutt": 1783051200000,
+      "utkoblingstart": 1782857100000
     }
   },
   {
@@ -530,23 +544,6 @@
       "MUNICIPAL_TXT": "VANYLVEN",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-5",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.27138750115386,
-    "lng": 6.333747187170837,
-    "start": "29.6.2026, 09:02:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 9",
-      "description": "Rettet\nStartet: 2026-06-29 09:02\nSluttid: 2026-06-29 16:03\nPlanlagt strømstans",
-      "styleUrl": "#green"
     }
   },
   {
