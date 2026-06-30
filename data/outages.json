@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-6425",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.93803990608364,
-    "lng": 10.739760502692826,
-    "start": "30.6.2026, 15:03:26",
-    "end": "30.6.2026, 18:48:26",
-    "areaName": "Oslo / Oslo / 1083",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6425,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "1083",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1782831806780,
-      "utkoblingslutt": 1782845306000,
-      "utkoblingstart": 1782831806780
-    }
-  },
-  {
     "id": "elvia-7478",
     "company": "Elvia",
     "type": "planned",
@@ -89,6 +66,29 @@
       "strombruddoppdaget": 1782819039000,
       "utkoblingslutt": 1782831999000,
       "utkoblingstart": 1782819039000
+    }
+  },
+  {
+    "id": "elvia-16068",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 35,
+    "lat": 60.25502828467191,
+    "lng": 11.672922612492156,
+    "start": "30.6.2026, 23:00:00",
+    "end": "1.7.2026, 03:00:00",
+    "areaName": "Sør-Odal / Skarnes / ENS05833",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 16068,
+      "antallkunder": 35,
+      "avbruddstype": "Planned",
+      "kommune": "Sør-Odal",
+      "nettstasjon": "ENS05833",
+      "poststed": "Skarnes",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1782874800000,
+      "utkoblingstart": 1782860400000
     }
   },
   {
