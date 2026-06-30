@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.378613980652396,
+    "lng": 5.354006009278111,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9778998,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1782853200000,
+      "TIMELIMIT": 1782869400000,
+      "NUM_AB": 49,
+      "CUSTOMER_WEB_TEXT": "5009 BERGEN; MØLLENDALSVEIEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1782854084000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 4,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-6425",
     "company": "Elvia",
     "type": "planned",
@@ -23,29 +55,6 @@
     }
   },
   {
-    "id": "elvia-8751",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 59.85642587844187,
-    "lng": 10.78569797698282,
-    "start": "30.6.2026, 16:19:53",
-    "end": "30.6.2026, 19:55:53",
-    "areaName": "Oslo / Oslo / 4662",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8751,
-      "antallkunder": 18,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "4662",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1782836393000,
-      "utkoblingslutt": 1782849353000,
-      "utkoblingstart": 1782836393000
-    }
-  },
-  {
     "id": "elvia-9922",
     "company": "Elvia",
     "type": "planned",
@@ -66,6 +75,53 @@
       "strombruddoppdaget": 1782819039000,
       "utkoblingslutt": 1782831999000,
       "utkoblingstart": 1782819039000
+    }
+  },
+  {
+    "id": "elvia-25057",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.93009649354772,
+    "lng": 11.060665947499318,
+    "start": "30.6.2026, 20:00:00",
+    "end": "1.7.2026, 02:00:00",
+    "areaName": "Rælingen / Fjerdingby / R0245",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 25057,
+      "antallkunder": 9,
+      "avbruddstype": "Planned",
+      "kommune": "Rælingen",
+      "nettstasjon": "R0245",
+      "poststed": "Fjerdingby",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1782871200000,
+      "utkoblingstart": 1782849600000
+    }
+  },
+  {
+    "id": "linja-outage-3334032",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 32,
+    "lat": 62.1500800422557,
+    "lng": 6.116160070874579,
+    "start": "30.6.2026, 21:00:00",
+    "end": null,
+    "areaName": "VOLDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3334032,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bakkelidvegen, Gamletufta og Storhagen tirsdag 30.juni fra kl. 23:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1782853200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "VOLDA",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 2,
+      "NUM_AB": 32
     }
   },
   {
