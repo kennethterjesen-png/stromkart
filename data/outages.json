@@ -78,75 +78,6 @@
     }
   },
   {
-    "id": "elvia-13221",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.648054269601076,
-    "lng": 10.858151631047974,
-    "start": "28.6.2026, 23:07:28",
-    "end": "30.6.2026, 00:09:52",
-    "areaName": "Østre Toten / Skreia / ENS01585",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13221,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS01585",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1782688048000,
-      "utkoblingslutt": 1782778192000,
-      "utkoblingstart": 1782688048000
-    }
-  },
-  {
-    "id": "elvia-13345",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.64820786892066,
-    "lng": 10.845467210688753,
-    "start": "28.6.2026, 23:07:28",
-    "end": "30.6.2026, 00:09:52",
-    "areaName": "Østre Toten / Lena / ENS01759",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13345,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS01759",
-      "poststed": "Lena",
-      "strombruddoppdaget": 1782688048000,
-      "utkoblingslutt": 1782778192000,
-      "utkoblingstart": 1782688048000
-    }
-  },
-  {
-    "id": "elvia-13560",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 40,
-    "lat": 60.6431342035424,
-    "lng": 10.853323827168166,
-    "start": "28.6.2026, 23:07:28",
-    "end": "30.6.2026, 00:09:52",
-    "areaName": "Østre Toten / Skreia / ENS02081",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13560,
-      "antallkunder": 40,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS02081",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1782688048000,
-      "utkoblingslutt": 1782778192000,
-      "utkoblingstart": 1782688048000
-    }
-  },
-  {
     "id": "linja-planned-3339872",
     "company": "Linja",
     "type": "planned",
@@ -166,30 +97,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "KINN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3340068",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.47605935071724,
-    "lng": 6.373787717769134,
-    "start": "30.6.2026, 06:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3340068,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hovdevegen, Vestre Olsvikveg og Østre Olsvikveg tirsdag 30.juni fra kl. 08:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1782799200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
