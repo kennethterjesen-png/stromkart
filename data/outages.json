@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-7478",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 320,
-    "lat": 59.927123380770205,
-    "lng": 10.731904119395722,
-    "start": "30.6.2026, 22:05:00",
-    "end": "3.7.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 2644",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7478,
-      "antallkunder": 320,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2644",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1782770992000,
-      "utkoblingslutt": 1783051200000,
-      "utkoblingstart": 1782857100000
-    }
-  },
-  {
     "id": "elvia-9922",
     "company": "Elvia",
     "type": "planned",
@@ -767,34 +744,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2874-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-planned-V-70656-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 97,
-    "lat": 59.211448202999975,
-    "lng": 10.939979603999973,
-    "start": "30.6.2026, 22:05:12",
-    "end": "1.7.2026, 04:00:12",
-    "areaName": "BROGATA",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217603,
-      "REFNR": "P70656",
-      "SEKUNDÆRSTASJON": "BROGATA",
-      "AVGANG": "H1081",
-      "CNT": 97,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1782857112000,
-      "TIL_DATO": 1782878412000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70656-1",
       "description": ""
     }
   },
