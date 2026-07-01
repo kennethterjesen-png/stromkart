@@ -1460,40 +1460,12 @@
     }
   },
   {
-    "id": "norgesnett-outage-V-70686-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 160,
-    "lat": 59.79422489500001,
-    "lng": 10.946692331000008,
-    "start": "1.7.2026, 17:29:36",
-    "end": null,
-    "areaName": "BRU",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217706,
-      "REFNR": "H70686",
-      "SEKUNDÆRSTASJON": "BRU",
-      "AVGANG": "L21",
-      "CNT": 160,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1782926976000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70686-1",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-outage-V-70688-1",
     "company": "Norgesnett",
     "type": "outage",
-    "customers": 105,
-    "lat": 59.81663468900001,
-    "lng": 10.896921438999982,
+    "customers": 31,
+    "lat": 59.817800304,
+    "lng": 10.904638127999988,
     "start": "1.7.2026, 19:12:54",
     "end": null,
     "areaName": "BRU",
@@ -1503,16 +1475,16 @@
       "REFNR": "H70688",
       "SEKUNDÆRSTASJON": "BRU",
       "AVGANG": "L24",
-      "CNT": 105,
+      "CNT": 31,
       "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
+      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet som følge av tordenværet. Feilsøking og seksjonering pågår. \n \nBerørte områder: \n\nLANGÅRD, BROKKENHUS, SYVERUD BRUK, ØSTBY, BARLI.",
       "FRA_DATO": 1782933174000,
       "TIL_DATO": null,
       "LOGGTYPE": "Høyspent",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70688-1",
-      "description": ""
+      "description": "Glitre Nett har for tiden feil i strømnettet som følge av tordenværet. Feilsøking og seksjonering pågår. \n \nBerørte områder: \n\nLANGÅRD, BROKKENHUS, SYVERUD BRUK, ØSTBY, BARLI."
     }
   }
 ]
