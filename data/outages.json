@@ -1,63 +1,25 @@
 [
   {
-    "id": "elvia-11268",
+    "id": "elvia-516",
     "company": "Elvia",
     "type": "planned",
-    "customers": 16,
-    "lat": 59.82087669064234,
-    "lng": 10.437599246281884,
-    "start": "1.7.2026, 06:00:00",
-    "end": "1.7.2026, 13:00:00",
-    "areaName": "Asker / Asker / D0357",
+    "customers": 1,
+    "lat": 59.905667028552024,
+    "lng": 10.78629714095744,
+    "start": "1.7.2026, 15:30:00",
+    "end": "2.7.2026, 00:00:00",
+    "areaName": "Oslo / Oslo / 2506",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 11268,
-      "antallkunder": 16,
+      "OBJECTID": 516,
+      "antallkunder": 1,
       "avbruddstype": "Planned",
-      "kommune": "Asker",
-      "nettstasjon": "D0357",
-      "poststed": "Asker",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1782910800000,
-      "utkoblingstart": 1782885600000
-    }
-  },
-  {
-    "id": "fagne-4516884",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 57,
-    "lat": 59.4750346530066,
-    "lng": 6.048065467616926,
-    "start": "7.1.2026, 07:00:00",
-    "end": "7.1.2026, 14:00:00",
-    "areaName": "VINDAFJORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "VINDAFJORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4503333",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 42,
-    "lat": 59.502605486349374,
-    "lng": 6.197895079721835,
-    "start": "7.1.2026, 06:00:00",
-    "end": "7.1.2026, 14:00:00",
-    "areaName": "VINDAFJORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "VINDAFJORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
+      "kommune": "Oslo",
+      "nettstasjon": "2506",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1782919938000,
+      "utkoblingslutt": 1782950400000,
+      "utkoblingstart": 1782919800000
     }
   },
   {
@@ -781,6 +743,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70655-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70685-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 122,
+    "lat": 60.45555955999998,
+    "lng": 5.09646404199998,
+    "start": "1.7.2026, 14:40:01",
+    "end": null,
+    "areaName": "RAVNANGER",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217704,
+      "REFNR": "H70685",
+      "SEKUNDÆRSTASJON": "RAVNANGER",
+      "AVGANG": "KOLLEVÅG",
+      "CNT": 122,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1782916801000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Høyspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70685-1",
       "description": ""
     }
   }
