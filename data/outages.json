@@ -165,95 +165,26 @@
     }
   },
   {
-    "id": "elvia-11503",
+    "id": "elvia-19108",
     "company": "Elvia",
     "type": "planned",
-    "customers": 8,
-    "lat": 59.87126027774811,
-    "lng": 10.492230697449292,
-    "start": "2.7.2026, 06:30:00",
-    "end": "2.7.2026, 13:00:00",
-    "areaName": "Asker / Nesbru / D0694",
+    "customers": 43,
+    "lat": 61.38738985478437,
+    "lng": 12.702440121151524,
+    "start": "2.7.2026, 11:48:24",
+    "end": "2.7.2026, 15:24:24",
+    "areaName": "Trysil / Ljørdalen / ENS10519",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 11503,
-      "antallkunder": 8,
-      "avbruddstype": "Planned",
-      "kommune": "Asker",
-      "nettstasjon": "D0694",
-      "poststed": "Nesbru",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1782997200000,
-      "utkoblingstart": 1782973800000
-    }
-  },
-  {
-    "id": "elvia-14556",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 25,
-    "lat": 61.093443019993266,
-    "lng": 10.477753908785566,
-    "start": "2.7.2026, 09:00:00",
-    "end": "2.7.2026, 13:00:00",
-    "areaName": "Lillehammer / Lillehammer / ENS03477",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14556,
-      "antallkunder": 25,
-      "avbruddstype": "Planned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03477",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1782997200000,
-      "utkoblingstart": 1782982800000
-    }
-  },
-  {
-    "id": "elvia-17383",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 25,
-    "lat": 61.13963414761652,
-    "lng": 11.387453099356879,
-    "start": "30.6.2026, 06:00:00",
-    "end": "30.6.2026, 13:00:00",
-    "areaName": "Åmot / Rena / ENS07900",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17383,
-      "antallkunder": 25,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS07900",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1782799593000,
-      "utkoblingslutt": 1782824400000,
-      "utkoblingstart": 1782799200000
-    }
-  },
-  {
-    "id": "elvia-25808",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.03922523485447,
-    "lng": 10.910111944112389,
-    "start": "2.7.2026, 06:00:00",
-    "end": "2.7.2026, 13:00:00",
-    "areaName": "Nittedal / Nittedal / T5062",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25808,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Nittedal",
-      "nettstasjon": "T5062",
-      "poststed": "Nittedal",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1782997200000,
-      "utkoblingstart": 1782972000000
+      "OBJECTID": 19108,
+      "antallkunder": 43,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS10519",
+      "poststed": "Ljørdalen",
+      "strombruddoppdaget": 1782992904000,
+      "utkoblingslutt": 1783005864000,
+      "utkoblingstart": 1782992904000
     }
   },
   {
@@ -280,68 +211,26 @@
     }
   },
   {
-    "id": "elvia-29331",
+    "id": "elvia-28356",
     "company": "Elvia",
     "type": "planned",
-    "customers": 27,
-    "lat": 59.59497586170078,
-    "lng": 11.189653188470633,
-    "start": "2.7.2026, 06:30:00",
-    "end": "2.7.2026, 13:00:00",
-    "areaName": "Indre Østfold / Askim / Z1138",
+    "customers": 4,
+    "lat": 59.242440991841725,
+    "lng": 10.814635984357285,
+    "start": "2.7.2026, 10:53:11",
+    "end": "2.7.2026, 14:29:11",
+    "areaName": "Fredrikstad / Gressvik / X2295",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 29331,
-      "antallkunder": 27,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1138",
-      "poststed": "Askim",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1782997200000,
-      "utkoblingstart": 1782973800000
-    }
-  },
-  {
-    "id": "elvia-29635",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.64120171467568,
-    "lng": 11.290422710583545,
-    "start": "2.7.2026, 09:41:30",
-    "end": "2.7.2026, 13:17:30",
-    "areaName": "Indre Østfold / Trøgstad / Z3001",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29635,
-      "antallkunder": 1,
+      "OBJECTID": 28356,
+      "antallkunder": 4,
       "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z3001",
-      "poststed": "Trøgstad",
-      "strombruddoppdaget": 1782985290000,
-      "utkoblingslutt": 1782998250000,
-      "utkoblingstart": 1782985290000
-    }
-  },
-  {
-    "id": "fagne-4518225",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 65,
-    "lat": 59.645931362875245,
-    "lng": 6.317358712148769,
-    "start": "7.2.2026, 06:30:00",
-    "end": "7.2.2026, 12:30:00",
-    "areaName": "SAUDA",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SAUDA",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
+      "kommune": "Fredrikstad",
+      "nettstasjon": "X2295",
+      "poststed": "Gressvik",
+      "strombruddoppdaget": 1782989591000,
+      "utkoblingslutt": 1783002551000,
+      "utkoblingstart": 1782989591000
     }
   },
   {
@@ -364,25 +253,6 @@
     }
   },
   {
-    "id": "fagne-4514412",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 22,
-    "lat": 59.47118613830187,
-    "lng": 5.524967171523873,
-    "start": "7.2.2026, 07:00:00",
-    "end": "7.2.2026, 13:00:00",
-    "areaName": "VINDAFJORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "VINDAFJORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "fagne-4512968",
     "company": "Fagne",
     "type": "planned",
@@ -399,54 +269,6 @@
       "municipal": "HAUGESUND",
       "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "linja-outage-3339264",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 142,
-    "lat": 61.660667702566805,
-    "lng": 4.866626699492454,
-    "start": "2.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "KINN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3339264,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Skorpa, Fanøya, Vevling, Batalden og Hovden torsdag 2.juli fra kl. 09:00 til 14:00. Kunder på Skorpa, Langøy, Fanøy og Batalden vil etter planen få tilbake strømmen kl. 11:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782975600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "KINN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 17,
-      "NUM_AB": 142
-    }
-  },
-  {
-    "id": "linja-outage-3338088",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 58,
-    "lat": 62.07313898733745,
-    "lng": 6.213176084981135,
-    "start": "2.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3338088,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Høydalsneset til Vikestrand torsdag 2.juli fra kl. 09:00 til 15:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1782975600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "VOLDA",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 9,
-      "NUM_AB": 58
     }
   },
   {
@@ -714,40 +536,6 @@
     }
   },
   {
-    "id": "lnett-planned-17",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 150,
-    "lat": 59.27889872083685,
-    "lng": 5.996871036336167,
-    "start": "2.7.2026, 10:01:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 150",
-      "description": "Planlagt strømstans\nStartet: 2026-07-02 10:01\nPlanlagt ferdig: 2026-07-02 15:00",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
-    "id": "lnett-outage-19",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 34,
-    "lat": 58.693200043502884,
-    "lng": 5.995372391216959,
-    "start": "2.7.2026, 10:57:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 34",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-02 10:57\n11:00- Feilsted funnet. Montører går i gang med feilretting.\n09:20- Montører befarer fremdeles linje og nettstasjoner for å finne feilstedet.\n06:40- Vi har startet med å dele opp høyspent nettet og noen kunder har fått strømmen tilbake. Denne kan bli borte i korte perioder igjen grunnet feilsøking.\n06:14- Vi har en høyspent feil i området. Montør er på vei ut for å feilsøke.",
-      "styleUrl": "#red"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-70669-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1000,6 +788,62 @@
     }
   },
   {
+    "id": "norgesnett-outage-V-70695-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 1027,
+    "lat": 59.782089731999974,
+    "lng": 10.628324916999986,
+    "start": "2.7.2026, 10:42:25",
+    "end": null,
+    "areaName": "NYSTUEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217717,
+      "REFNR": "H70695",
+      "SEKUNDÆRSTASJON": "NYSTUEN",
+      "AVGANG": "L7",
+      "CNT": 1027,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1782988945000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Høyspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70695-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70693-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 1,
+    "lat": 59.09913239000002,
+    "lng": 10.923944436999989,
+    "start": "2.7.2026, 12:00:27",
+    "end": null,
+    "areaName": "RØD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217719,
+      "REFNR": "L70693",
+      "SEKUNDÆRSTASJON": "RØD",
+      "AVGANG": "H3052",
+      "CNT": 1,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1782993627000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70693-1",
+      "description": ""
+    }
+  },
+  {
     "id": "norgesnett-outage-V-70664-1",
     "company": "Norgesnett",
     "type": "outage",
@@ -1024,34 +868,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70664-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2873-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 16,
-    "lat": 60.44869330099999,
-    "lng": 5.222239866999985,
-    "start": "2.7.2026, 07:01:05",
-    "end": "2.7.2026, 12:00:00",
-    "areaName": "RAVNANGER",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217669,
-      "REFNR": "PL2873",
-      "SEKUNDÆRSTASJON": "RAVNANGER",
-      "AVGANG": "ÅSEBØ",
-      "CNT": 16,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1782975665000,
-      "TIL_DATO": 1782993600000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2873-1",
       "description": ""
     }
   },
