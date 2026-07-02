@@ -1458,33 +1458,5 @@
       "STROMSTANSID": "V-70655-1",
       "description": ""
     }
-  },
-  {
-    "id": "norgesnett-outage-V-70688-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 31,
-    "lat": 59.817800304,
-    "lng": 10.904638127999988,
-    "start": "1.7.2026, 19:12:54",
-    "end": null,
-    "areaName": "BRU",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217707,
-      "REFNR": "H70688",
-      "SEKUNDÆRSTASJON": "BRU",
-      "AVGANG": "L24",
-      "CNT": 31,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet som følge av tordenværet. Feilsøking og seksjonering pågår. \n \nBerørte områder: \n\nLANGÅRD, BROKKENHUS, SYVERUD BRUK, ØSTBY, BARLI.",
-      "FRA_DATO": 1782933174000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70688-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet som følge av tordenværet. Feilsøking og seksjonering pågår. \n \nBerørte områder: \n\nLANGÅRD, BROKKENHUS, SYVERUD BRUK, ØSTBY, BARLI."
-    }
   }
 ]
