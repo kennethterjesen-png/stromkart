@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-3736",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.658320023508146,
+    "lng": 11.003661257073448,
+    "start": "2.7.2026, 22:05:00",
+    "end": "3.7.2026, 04:00:00",
+    "areaName": "Indre Østfold / Tomter / I1112",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 3736,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "I1112",
+      "poststed": "Tomter",
+      "strombruddoppdaget": 1783031157412,
+      "utkoblingslutt": 1783051200000,
+      "utkoblingstart": 1783029900000
+    }
+  },
+  {
     "id": "elvia-5733",
     "company": "Elvia",
     "type": "planned",
@@ -368,29 +391,6 @@
     }
   },
   {
-    "id": "elvia-17699",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 61.17779799849492,
-    "lng": 12.5580092796908,
-    "start": null,
-    "end": null,
-    "areaName": "Trysil / Nybergsund / ENS08407",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17699,
-      "antallkunder": 16,
-      "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS08407",
-      "poststed": "Nybergsund",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": null,
-      "utkoblingstart": null
-    }
-  },
-  {
     "id": "elvia-19108",
     "company": "Elvia",
     "type": "planned",
@@ -411,6 +411,190 @@
       "strombruddoppdaget": 1782992904000,
       "utkoblingslutt": 1783005864000,
       "utkoblingstart": 1782992904000
+    }
+  },
+  {
+    "id": "elvia-22058",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 59.66643741372649,
+    "lng": 11.018010861985811,
+    "start": "2.7.2026, 22:05:00",
+    "end": "3.7.2026, 04:00:00",
+    "areaName": "Indre Østfold / Tomter / I1076",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22058,
+      "antallkunder": 10,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "I1076",
+      "poststed": "Tomter",
+      "strombruddoppdaget": 1783031157412,
+      "utkoblingslutt": 1783051200000,
+      "utkoblingstart": 1783029900000
+    }
+  },
+  {
+    "id": "elvia-22060",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.65721979088468,
+    "lng": 11.011002898365831,
+    "start": "2.7.2026, 22:05:00",
+    "end": "3.7.2026, 04:00:00",
+    "areaName": "Indre Østfold / Tomter / I1078",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22060,
+      "antallkunder": 6,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "I1078",
+      "poststed": "Tomter",
+      "strombruddoppdaget": 1783031157412,
+      "utkoblingslutt": 1783051200000,
+      "utkoblingstart": 1783029900000
+    }
+  },
+  {
+    "id": "elvia-22061",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.66537808344129,
+    "lng": 11.00940167641409,
+    "start": "2.7.2026, 22:05:00",
+    "end": "3.7.2026, 04:00:00",
+    "areaName": "Indre Østfold / Tomter / I1079",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22061,
+      "antallkunder": 7,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "I1079",
+      "poststed": "Tomter",
+      "strombruddoppdaget": 1783031157412,
+      "utkoblingslutt": 1783051200000,
+      "utkoblingstart": 1783029900000
+    }
+  },
+  {
+    "id": "elvia-22062",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 17,
+    "lat": 59.65447407369284,
+    "lng": 11.00472438584617,
+    "start": "2.7.2026, 22:05:00",
+    "end": "3.7.2026, 04:00:00",
+    "areaName": "Indre Østfold / Tomter / I1080",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22062,
+      "antallkunder": 17,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "I1080",
+      "poststed": "Tomter",
+      "strombruddoppdaget": 1783031157412,
+      "utkoblingslutt": 1783051200000,
+      "utkoblingstart": 1783029900000
+    }
+  },
+  {
+    "id": "elvia-22070",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 47,
+    "lat": 59.65872050149963,
+    "lng": 11.00345394632279,
+    "start": "2.7.2026, 22:05:00",
+    "end": "3.7.2026, 04:00:00",
+    "areaName": "Indre Østfold / Tomter / I1089",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22070,
+      "antallkunder": 47,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "I1089",
+      "poststed": "Tomter",
+      "strombruddoppdaget": 1783031157412,
+      "utkoblingslutt": 1783051200000,
+      "utkoblingstart": 1783029900000
+    }
+  },
+  {
+    "id": "elvia-22074",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 31,
+    "lat": 59.66492720459537,
+    "lng": 11.005311006499015,
+    "start": "2.7.2026, 22:05:00",
+    "end": "3.7.2026, 04:00:00",
+    "areaName": "Indre Østfold / Tomter / I1093",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22074,
+      "antallkunder": 31,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "I1093",
+      "poststed": "Tomter",
+      "strombruddoppdaget": 1783031157412,
+      "utkoblingslutt": 1783051200000,
+      "utkoblingstart": 1783029900000
+    }
+  },
+  {
+    "id": "elvia-22075",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.66026036922222,
+    "lng": 11.005901238153763,
+    "start": "2.7.2026, 22:05:00",
+    "end": "3.7.2026, 04:00:00",
+    "areaName": "Indre Østfold / Tomter / I1094",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22075,
+      "antallkunder": 8,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "I1094",
+      "poststed": "Tomter",
+      "strombruddoppdaget": 1783031157412,
+      "utkoblingslutt": 1783051200000,
+      "utkoblingstart": 1783029900000
+    }
+  },
+  {
+    "id": "elvia-22081",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 15,
+    "lat": 59.6684012539087,
+    "lng": 11.012137792951888,
+    "start": "2.7.2026, 22:05:00",
+    "end": "3.7.2026, 04:00:00",
+    "areaName": "Indre Østfold / Tomter / I1100",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22081,
+      "antallkunder": 15,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "I1100",
+      "poststed": "Tomter",
+      "strombruddoppdaget": 1783031157412,
+      "utkoblingslutt": 1783051200000,
+      "utkoblingstart": 1783029900000
     }
   },
   {
