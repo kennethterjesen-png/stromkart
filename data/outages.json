@@ -784,30 +784,6 @@
     }
   },
   {
-    "id": "linja-planned-3341376",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.77597470644722,
-    "lng": 5.281554947096294,
-    "start": "2.7.2026, 06:00:00",
-    "end": null,
-    "areaName": "BREMANGER / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3341376,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Einebakken, Hjortevegen, Ospekleiva, Sandevegen og Skinstølen torsdag 2.juli fra kl. 08:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1782972000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "BREMANGER",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3327009",
     "company": "Linja",
     "type": "planned",
@@ -1096,12 +1072,29 @@
     }
   },
   {
+    "id": "lnett-outage-15",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 159,
+    "lat": 58.736407332126575,
+    "lng": 5.971783137716369,
+    "start": "2.7.2026, 06:08:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 159",
+      "description": "Driftsforstyrrelse\nStartet: 2026-07-02 06:08\n06:14- Vi har en høyspent feil i området. Montør er på vei ut for å feilsøke.",
+      "styleUrl": "#red"
+    }
+  },
+  {
     "id": "norgesnett-planned-V-70669-1",
     "company": "Norgesnett",
     "type": "planned",
     "customers": 73,
-    "lat": 59.742928319999976,
-    "lng": 10.43209065000002,
+    "lat": 59.743096654,
+    "lng": 10.432301956000003,
     "start": "2.7.2026, 21:00:09",
     "end": "3.7.2026, 00:30:09",
     "areaName": "BØDALEN",
