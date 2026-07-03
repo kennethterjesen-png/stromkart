@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.198595034526946,
+    "lng": 5.455915849124165,
+    "start": null,
+    "end": null,
+    "areaName": "Bjørnafjorden",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9800240,
+      "MUNICIPAL_TXT": "Bjørnafjorden",
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1783110960000,
+      "TIMELIMIT": 1783121400000,
+      "NUM_AB": 35,
+      "CUSTOMER_WEB_TEXT": null,
+      "GRIDLEVEL_TXT": "Lav",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1783113344000,
+      "SCHEDULED_SMS_DAYS_BEFORE": -1,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-18546",
     "company": "Elvia",
     "type": "planned",
@@ -20,6 +52,29 @@
       "strombruddoppdaget": 1783065596000,
       "utkoblingslutt": 1783078556000,
       "utkoblingstart": 1783065596000
+    }
+  },
+  {
+    "id": "elvia-27961",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 14,
+    "lat": 59.255250281732565,
+    "lng": 11.170983139352437,
+    "start": "3.7.2026, 21:38:37",
+    "end": "4.7.2026, 01:14:37",
+    "areaName": "Sarpsborg / Klavestadhaugen / X0897",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27961,
+      "antallkunder": 14,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0897",
+      "poststed": "Klavestadhaugen",
+      "strombruddoppdaget": 1783114717000,
+      "utkoblingslutt": 1783127677000,
+      "utkoblingstart": 1783114717000
     }
   },
   {
