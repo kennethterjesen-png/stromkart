@@ -1,69 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.38548413536816,
-    "lng": 5.355277440756728,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9785639,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783062000000,
-      "TIMELIMIT": 1783080000000,
-      "NUM_AB": 20,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1783063172000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.38508280175924,
-    "lng": 5.354238590430662,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9785659,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783062000000,
-      "TIMELIMIT": 1783080000000,
-      "NUM_AB": 6,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1783063217000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-6277",
     "company": "Elvia",
     "type": "planned",
@@ -179,6 +115,29 @@
     }
   },
   {
+    "id": "elvia-10001",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.92814085487398,
+    "lng": 10.491885414211913,
+    "start": "3.7.2026, 12:40:51",
+    "end": "3.7.2026, 16:16:51",
+    "areaName": "Bærum / Rykkinn / B1004",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 10001,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Bærum",
+      "nettstasjon": "B1004",
+      "poststed": "Rykkinn",
+      "strombruddoppdaget": 1783082451000,
+      "utkoblingslutt": 1783095411000,
+      "utkoblingstart": 1783082451000
+    }
+  },
+  {
     "id": "elvia-18546",
     "company": "Elvia",
     "type": "planned",
@@ -199,29 +158,6 @@
       "strombruddoppdaget": 1783065596000,
       "utkoblingslutt": 1783078556000,
       "utkoblingstart": 1783065596000
-    }
-  },
-  {
-    "id": "elvia-21748",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 65,
-    "lat": 60.44225898702109,
-    "lng": 11.0596024643788,
-    "start": "3.7.2026, 06:00:00",
-    "end": "3.7.2026, 13:00:00",
-    "areaName": "Hurdal / Hurdal / H0162",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21748,
-      "antallkunder": 65,
-      "avbruddstype": "Planned",
-      "kommune": "Hurdal",
-      "nettstasjon": "H0162",
-      "poststed": "Hurdal",
-      "strombruddoppdaget": 1783058367000,
-      "utkoblingslutt": 1783083600000,
-      "utkoblingstart": 1783058400000
     }
   },
   {
@@ -248,27 +184,49 @@
     }
   },
   {
-    "id": "linja-outage-3332595",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 56,
-    "lat": 62.148960661310966,
-    "lng": 6.086276653667558,
-    "start": "3.7.2026, 11:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
+    "id": "elvia-26968",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.5700669582681,
+    "lng": 11.336014701305066,
+    "start": "3.7.2026, 11:09:07",
+    "end": "3.7.2026, 14:45:07",
+    "areaName": "Indre Østfold / Mysen / W2015",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "EVENTID": 3332595,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Røysmyrvegen, Nytun og Sjukehusvegenfredag 3.juli fra kl. 13:00 til 15:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783076400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "VOLDA",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 1,
-      "NUM_AB": 56
+      "OBJECTID": 26968,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2015",
+      "poststed": "Mysen",
+      "strombruddoppdaget": 1783076947000,
+      "utkoblingslutt": 1783089907000,
+      "utkoblingstart": 1783076947000
+    }
+  },
+  {
+    "id": "elvia-30629",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.43535029234239,
+    "lng": 11.325791304629536,
+    "start": "3.7.2026, 11:23:07",
+    "end": "3.7.2026, 14:59:07",
+    "areaName": "Rakkestad / Rakkestad / W177",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 30629,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Rakkestad",
+      "nettstasjon": "W177",
+      "poststed": "Rakkestad",
+      "strombruddoppdaget": 1783077787000,
+      "utkoblingslutt": 1783090747000,
+      "utkoblingstart": 1783077787000
     }
   },
   {
@@ -526,23 +484,6 @@
       "name": "Berørte kunder: 20",
       "description": "Rettet\nStartet: 2026-07-03 10:03\nSluttid: 2026-07-03 10:53\nPlanlagt strømstans.",
       "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-11",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 9,
-    "lat": 58.92389592631357,
-    "lng": 5.693134929224903,
-    "start": "3.7.2026, 11:28:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 9",
-      "description": "Planlagt strømstans\nStartet: 2026-07-03 11:28\n10:30 - Det viser seg å være fler feil i området og montør var derfor nødt til å ta strømmen igjen. Vi beklager for ulempen.\n10:51 - Strømmen skal være tilbake igjen for alle kunder. Sjekk eget anlegg dersom du ikke har fått strømmen tilbake.\n07:50 - Omfanget av feilen er foreløpig noe uklart. Vi estimerer at strømforsyningen vil være gjenopprettet innen kl. 15:00. Vi beklager ulempene dette medfører.\n07:39 - Det er oppdaget en feil i området. Strømmen er derfor koblet ut for å kunne utbedre feilen.",
-      "styleUrl": "#red"
     }
   },
   {
