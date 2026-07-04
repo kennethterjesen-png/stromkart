@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.41930392272396,
-    "lng": 5.468809412509902,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9800442,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783132140000,
-      "TIMELIMIT": 1783143000000,
-      "NUM_AB": 45,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 2,
-      "LAST_UPDATED": 1783136008000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 2,
-      "NUM_AB_REGAINED": 23,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-18546",
     "company": "Elvia",
     "type": "planned",
@@ -52,6 +20,52 @@
       "strombruddoppdaget": 1783065596000,
       "utkoblingslutt": 1783078556000,
       "utkoblingstart": 1783065596000
+    }
+  },
+  {
+    "id": "elvia-25411",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.98290510016036,
+    "lng": 11.122109221984843,
+    "start": "4.7.2026, 05:54:09",
+    "end": "4.7.2026, 09:30:09",
+    "areaName": "Lillestrøm / Leirsund / S0775",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 25411,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "S0775",
+      "poststed": "Leirsund",
+      "strombruddoppdaget": 1783144449000,
+      "utkoblingslutt": 1783157409000,
+      "utkoblingstart": 1783144449000
+    }
+  },
+  {
+    "id": "elvia-30142",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.98458769495843,
+    "lng": 11.134064068671009,
+    "start": "4.7.2026, 05:54:09",
+    "end": "4.7.2026, 09:30:09",
+    "areaName": "Lillestrøm / Leirsund / S0400",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 30142,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "S0400",
+      "poststed": "Leirsund",
+      "strombruddoppdaget": 1783144449000,
+      "utkoblingslutt": 1783157409000,
+      "utkoblingstart": 1783144449000
     }
   },
   {
