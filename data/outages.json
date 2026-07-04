@@ -1,175 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.21308410186565,
-    "lng": 5.3884350229757025,
-    "start": null,
-    "end": null,
-    "areaName": "Bjørnafjorden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9801394,
-      "MUNICIPAL_TXT": "Bjørnafjorden",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783187520000,
-      "TIMELIMIT": 1783197900000,
-      "NUM_AB": 4,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1783194293000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-130",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 60.08826151627577,
-    "lng": 10.675777085165016,
-    "start": "4.7.2026, 19:35:02",
-    "end": "4.7.2026, 23:20:02",
-    "areaName": "Oslo / Oslo / 0621",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 130,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0621",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1783193702351,
-      "utkoblingslutt": 1783207202000,
-      "utkoblingstart": 1783193702351
-    }
-  },
-  {
-    "id": "elvia-6275",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 60.07661500579228,
-    "lng": 10.655236046132178,
-    "start": "4.7.2026, 19:35:02",
-    "end": "4.7.2026, 23:20:02",
-    "areaName": "Oslo / Oslo / 0879",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6275,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0879",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1783193702351,
-      "utkoblingslutt": 1783207202000,
-      "utkoblingstart": 1783193702351
-    }
-  },
-  {
-    "id": "elvia-6276",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.07355764409005,
-    "lng": 10.639868388194872,
-    "start": "4.7.2026, 19:35:02",
-    "end": "4.7.2026, 23:20:02",
-    "areaName": "Oslo / Oslo / 0880",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6276,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0880",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1783193702351,
-      "utkoblingslutt": 1783207202000,
-      "utkoblingstart": 1783193702351
-    }
-  },
-  {
-    "id": "elvia-6348",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.02547305803056,
-    "lng": 10.64829573694578,
-    "start": "4.7.2026, 19:35:02",
-    "end": "4.7.2026, 23:20:02",
-    "areaName": "Oslo / Oslo / 0988",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6348,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0988",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1783193702351,
-      "utkoblingslutt": 1783207202000,
-      "utkoblingstart": 1783193702351
-    }
-  },
-  {
-    "id": "elvia-6352",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 60.10829921651885,
-    "lng": 10.66700011579568,
-    "start": "4.7.2026, 19:35:02",
-    "end": "4.7.2026, 23:20:02",
-    "areaName": "Oslo / Oslo / 0992",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6352,
-      "antallkunder": 16,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0992",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1783193702351,
-      "utkoblingslutt": 1783207202000,
-      "utkoblingstart": 1783193702351
-    }
-  },
-  {
-    "id": "elvia-8007",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.03078578580221,
-    "lng": 10.639614266769508,
-    "start": "4.7.2026, 19:35:02",
-    "end": "4.7.2026, 23:20:02",
-    "areaName": "Oslo / Oslo / 3433",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8007,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "3433",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1783193702351,
-      "utkoblingslutt": 1783207202000,
-      "utkoblingstart": 1783193702351
-    }
-  },
-  {
     "id": "elvia-9299",
     "company": "Elvia",
     "type": "planned",
@@ -216,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-20906",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 60.73891202660945,
+    "lng": 11.090022983976185,
+    "start": "4.7.2026, 20:03:00",
+    "end": "4.7.2026, 23:39:00",
+    "areaName": "Stange / Ottestad / ENS14197",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20906,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Stange",
+      "nettstasjon": "ENS14197",
+      "poststed": "Ottestad",
+      "strombruddoppdaget": 1783195380000,
+      "utkoblingslutt": 1783208340000,
+      "utkoblingstart": 1783195380000
+    }
+  },
+  {
     "id": "elvia-25411",
     "company": "Elvia",
     "type": "planned",
@@ -236,25 +89,6 @@
       "strombruddoppdaget": 1783144449000,
       "utkoblingslutt": 1783157409000,
       "utkoblingstart": 1783144449000
-    }
-  },
-  {
-    "id": "fagne-4539328",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 127,
-    "lat": 59.348433850427796,
-    "lng": 5.80987222243583,
-    "start": "7.4.2026, 17:49:00",
-    "end": "7.5.2026, 00:00:00",
-    "areaName": "TYSVÆR",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "TYSVÆR",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
