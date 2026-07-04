@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-11099",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 18,
+    "lat": 59.84893779026536,
+    "lng": 10.417232978154193,
+    "start": "4.7.2026, 22:56:27",
+    "end": "5.7.2026, 02:32:27",
+    "areaName": "Asker / Asker / D0129",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11099,
+      "antallkunder": 18,
+      "avbruddstype": "Unplanned",
+      "kommune": "Asker",
+      "nettstasjon": "D0129",
+      "poststed": "Asker",
+      "strombruddoppdaget": 1783205787000,
+      "utkoblingslutt": 1783218747000,
+      "utkoblingstart": 1783205787000
+    }
+  },
+  {
     "id": "elvia-18546",
     "company": "Elvia",
     "type": "planned",
@@ -23,26 +46,26 @@
     }
   },
   {
-    "id": "elvia-20959",
+    "id": "elvia-20135",
     "company": "Elvia",
     "type": "planned",
-    "customers": 7,
-    "lat": 60.70433718570045,
-    "lng": 11.231343090541994,
-    "start": "4.7.2026, 21:39:26",
-    "end": "5.7.2026, 01:15:26",
-    "areaName": "Stange / Stange / ENS14264",
+    "customers": 11,
+    "lat": 61.04823236867515,
+    "lng": 11.924417535267336,
+    "start": "4.7.2026, 23:16:31",
+    "end": "5.7.2026, 02:52:31",
+    "areaName": "Elverum / Søre osen / ENS12053",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 20959,
-      "antallkunder": 7,
+      "OBJECTID": 20135,
+      "antallkunder": 11,
       "avbruddstype": "Unplanned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14264",
-      "poststed": "Stange",
-      "strombruddoppdaget": 1783201166000,
-      "utkoblingslutt": 1783214126000,
-      "utkoblingstart": 1783201166000
+      "kommune": "Elverum",
+      "nettstasjon": "ENS12053",
+      "poststed": "Søre osen",
+      "strombruddoppdaget": 1783206991000,
+      "utkoblingslutt": 1783219951000,
+      "utkoblingstart": 1783206991000
     }
   },
   {
@@ -72,9 +95,9 @@
     "id": "fagne-4539328",
     "company": "Fagne",
     "type": "outage",
-    "customers": 28,
-    "lat": 59.35029631898645,
-    "lng": 5.848811959138971,
+    "customers": 19,
+    "lat": 59.34680257044218,
+    "lng": 5.853419339325326,
     "start": "7.4.2026, 17:49:00",
     "end": "7.5.2026, 00:30:00",
     "areaName": "TYSVÆR",
