@@ -46,6 +46,25 @@
     }
   },
   {
+    "id": "fagne-4539328",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 500,
+    "lat": 59.32022928972969,
+    "lng": 5.719332840366251,
+    "start": "7.4.2026, 17:49:00",
+    "end": "7.4.2026, 21:00:00",
+    "areaName": "TYSVÆR",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "TYSVÆR",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
     "id": "linja-planned-3349432",
     "company": "Linja",
     "type": "planned",
