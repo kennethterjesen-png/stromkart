@@ -69,6 +69,30 @@
     }
   },
   {
+    "id": "linja-outage-3349860",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 7,
+    "lat": 61.921428310387164,
+    "lng": 5.900935030179985,
+    "start": "5.7.2026, 18:24:00",
+    "end": null,
+    "areaName": "STAD / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3349860,
+      "CUSTOMER_WEB_TEXT": "20:25 - Strømbrudd Nordfjordeid. Seksjonering og montører på veg for feilretting. Kan bli blink i forbindelse med seksjonering.\r\n\r\n22:37 - En transformator på Hauane har fått seg en smell og må undersøkes skikkelig før den eventuelt blir koblet inn igjen. Rettetid er foreløbig ukjent, men vil komme tilbake med informasjon så snart montørene har undersøkt ordentlig.\r\n\r\n23:10 - Kunder i område Åsen Bustadfelt og nede på Tippa/Haugland vil få strømmen igjen innen 5-10min. Øvrelidvegen vil ta lenger tid da det må mer feilsøking til.,",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1783275840000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "STAD",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 7
+    }
+  },
+  {
     "id": "linja-planned-3349432",
     "company": "Linja",
     "type": "planned",
