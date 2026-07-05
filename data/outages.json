@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-10792",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.64787778021834,
+    "lng": 10.803677905700614,
+    "start": "5.7.2026, 17:55:48",
+    "end": "5.7.2026, 21:31:48",
+    "areaName": "Ås / Ås / C0214",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 10792,
+      "antallkunder": 11,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ås",
+      "nettstasjon": "C0214",
+      "poststed": "Ås",
+      "strombruddoppdaget": 1783274148000,
+      "utkoblingslutt": 1783287108000,
+      "utkoblingstart": 1783274148000
+    }
+  },
+  {
     "id": "elvia-15900",
     "company": "Elvia",
     "type": "planned",
