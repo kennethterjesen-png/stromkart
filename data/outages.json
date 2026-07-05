@@ -46,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-24357",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.1485893057343,
-    "lng": 11.275779478876524,
-    "start": "5.7.2026, 10:28:45",
-    "end": "5.7.2026, 14:04:45",
-    "areaName": "Halden / Halden / Q0122",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24357,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0122",
-      "poststed": "Halden",
-      "strombruddoppdaget": 1783247325000,
-      "utkoblingslutt": 1783260285000,
-      "utkoblingstart": 1783247325000
-    }
-  },
-  {
     "id": "elvia-25411",
     "company": "Elvia",
     "type": "planned",
@@ -368,8 +345,8 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 4",
-      "description": "Planlagt strømstans\nStartet: 2026-07-05 08:12\nPlanlagt ferdig: 2026-07-05 16:00\nPlanlagt strømstans.",
-      "styleUrl": "#yellow"
+      "description": "Rettet\nStartet: 2026-07-05 08:12\nSluttid: 2026-07-05 13:22\nPlanlagt strømstans.",
+      "styleUrl": "#green"
     }
   },
   {
