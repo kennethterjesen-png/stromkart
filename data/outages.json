@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-15900",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 61.04950359006545,
+    "lng": 10.521544592160755,
+    "start": "5.7.2026, 06:29:13",
+    "end": "5.7.2026, 10:05:13",
+    "areaName": "Ringsaker / Brøttum / ENS05577",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15900,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ringsaker",
+      "nettstasjon": "ENS05577",
+      "poststed": "Brøttum",
+      "strombruddoppdaget": 1783232953000,
+      "utkoblingslutt": 1783245913000,
+      "utkoblingstart": 1783232953000
+    }
+  },
+  {
     "id": "elvia-18546",
     "company": "Elvia",
     "type": "planned",
@@ -20,6 +43,29 @@
       "strombruddoppdaget": 1783065596000,
       "utkoblingslutt": 1783078556000,
       "utkoblingstart": 1783065596000
+    }
+  },
+  {
+    "id": "elvia-21276",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 60.50669578151573,
+    "lng": 11.251091080566242,
+    "start": "5.7.2026, 06:43:36",
+    "end": "5.7.2026, 10:19:36",
+    "areaName": "Stange / Espa / ENS14634",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21276,
+      "antallkunder": 10,
+      "avbruddstype": "Unplanned",
+      "kommune": "Stange",
+      "nettstasjon": "ENS14634",
+      "poststed": "Espa",
+      "strombruddoppdaget": 1783233816000,
+      "utkoblingslutt": 1783246776000,
+      "utkoblingstart": 1783233816000
     }
   },
   {
@@ -89,6 +135,30 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "KINN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3347992",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.60175377750861,
+    "lng": 6.333712833106565,
+    "start": "8.7.2026, 22:00:00",
+    "end": null,
+    "areaName": "HARAM / Nordvestnett",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3347992,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Alvestad til Skjelten torsdag 9.juli fra kl. 00:00 til 06:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1783548000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Nordvestnett",
+      "MUNICIPAL_TXT": "HARAM",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -190,30 +260,6 @@
     }
   },
   {
-    "id": "linja-planned-3347992",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.60175377750861,
-    "lng": 6.333712833106565,
-    "start": "8.7.2026, 22:00:00",
-    "end": null,
-    "areaName": "HARAM / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3347992,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Alvestad til Skjelten torsdag 9.juli fra kl. 00:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1783548000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Nordvestnett",
-      "MUNICIPAL_TXT": "HARAM",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3345805",
     "company": "Linja",
     "type": "planned",
@@ -307,6 +353,23 @@
       "MUNICIPAL_TXT": "VOLDA",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-1",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 4,
+    "lat": 58.903703340787885,
+    "lng": 5.698365989803255,
+    "start": "5.7.2026, 08:12:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 4",
+      "description": "Planlagt strømstans\nStartet: 2026-07-05 08:12\nPlanlagt ferdig: 2026-07-05 16:00\nPlanlagt strømstans.",
+      "styleUrl": "#yellow"
     }
   },
   {
@@ -506,31 +569,31 @@
     }
   },
   {
-    "id": "norgesnett-outage-V-70712-1",
+    "id": "norgesnett-outage-V-70713-1",
     "company": "Norgesnett",
     "type": "outage",
-    "customers": 82,
-    "lat": 59.79217082700001,
-    "lng": 10.609645643000022,
-    "start": "5.7.2026, 03:32:06",
+    "customers": 17,
+    "lat": 59.78870065199999,
+    "lng": 10.637122910000016,
+    "start": "5.7.2026, 03:59:14",
     "end": null,
     "areaName": "NYSTUEN",
     "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
     "raw": {
-      "OBJECTID": 1217763,
-      "REFNR": "H70712",
+      "OBJECTID": 1217765,
+      "REFNR": "H70713",
       "SEKUNDÆRSTASJON": "NYSTUEN",
-      "AVGANG": "L7",
-      "CNT": 82,
+      "AVGANG": "L4",
+      "CNT": 17,
       "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1783222326000,
+      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nGRANERUD N.",
+      "FRA_DATO": 1783223954000,
       "TIL_DATO": null,
       "LOGGTYPE": "Høyspent",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70712-1",
-      "description": ""
+      "STROMSTANSID": "V-70713-1",
+      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nGRANERUD N."
     }
   }
 ]
