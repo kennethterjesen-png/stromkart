@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-11099",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 59.84893779026536,
-    "lng": 10.417232978154193,
-    "start": "4.7.2026, 22:56:27",
-    "end": "5.7.2026, 02:32:27",
-    "areaName": "Asker / Asker / D0129",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11099,
-      "antallkunder": 18,
-      "avbruddstype": "Unplanned",
-      "kommune": "Asker",
-      "nettstasjon": "D0129",
-      "poststed": "Asker",
-      "strombruddoppdaget": 1783205787000,
-      "utkoblingslutt": 1783218747000,
-      "utkoblingstart": 1783205787000
-    }
-  },
-  {
     "id": "elvia-18546",
     "company": "Elvia",
     "type": "planned",
@@ -46,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-20135",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 61.04823236867515,
-    "lng": 11.924417535267336,
-    "start": "4.7.2026, 23:16:31",
-    "end": "5.7.2026, 02:52:31",
-    "areaName": "Elverum / Søre osen / ENS12053",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20135,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Elverum",
-      "nettstasjon": "ENS12053",
-      "poststed": "Søre osen",
-      "strombruddoppdaget": 1783206991000,
-      "utkoblingslutt": 1783219951000,
-      "utkoblingstart": 1783206991000
-    }
-  },
-  {
     "id": "elvia-25411",
     "company": "Elvia",
     "type": "planned",
@@ -89,25 +43,6 @@
       "strombruddoppdaget": 1783144449000,
       "utkoblingslutt": 1783157409000,
       "utkoblingstart": 1783144449000
-    }
-  },
-  {
-    "id": "fagne-4539328",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 19,
-    "lat": 59.34680257044218,
-    "lng": 5.853419339325326,
-    "start": "7.4.2026, 17:49:00",
-    "end": "7.5.2026, 00:30:00",
-    "areaName": "TYSVÆR",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "TYSVÆR",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
@@ -463,8 +398,8 @@
     "company": "Norgesnett",
     "type": "planned",
     "customers": 2,
-    "lat": 60.50889599999999,
-    "lng": 5.085935199999994,
+    "lat": 60.51105477499999,
+    "lng": 5.0804079100000195,
     "start": "8.7.2026, 07:00:00",
     "end": "8.7.2026, 11:00:00",
     "areaName": "MERKESVIK",
@@ -491,8 +426,8 @@
     "company": "Norgesnett",
     "type": "planned",
     "customers": 2,
-    "lat": 60.446033030000024,
-    "lng": 5.224435359999973,
+    "lat": 60.44579863199999,
+    "lng": 5.221789429000012,
     "start": "8.7.2026, 07:00:00",
     "end": "8.7.2026, 10:00:00",
     "areaName": "KLEPPE",
@@ -519,8 +454,8 @@
     "company": "Norgesnett",
     "type": "planned",
     "customers": 3,
-    "lat": 60.441722889999994,
-    "lng": 5.171694109999976,
+    "lat": 60.440826711,
+    "lng": 5.170095843000013,
     "start": "6.7.2026, 06:30:00",
     "end": "6.7.2026, 09:30:00",
     "areaName": "KLEPPE",
@@ -571,59 +506,31 @@
     }
   },
   {
-    "id": "norgesnett-outage-V-70709-1",
+    "id": "norgesnett-outage-V-70712-1",
     "company": "Norgesnett",
     "type": "outage",
-    "customers": 11,
-    "lat": 59.78551884799998,
-    "lng": 10.649589407000008,
-    "start": "4.7.2026, 22:19:39",
+    "customers": 82,
+    "lat": 59.79217082700001,
+    "lng": 10.609645643000022,
+    "start": "5.7.2026, 03:32:06",
     "end": null,
     "areaName": "NYSTUEN",
     "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
     "raw": {
-      "OBJECTID": 1217761,
-      "REFNR": "H70709",
-      "SEKUNDÆRSTASJON": "NYSTUEN",
-      "AVGANG": "L4",
-      "CNT": 11,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1783203579000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70709-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70708-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 431,
-    "lat": 59.7846816,
-    "lng": 10.607796620999977,
-    "start": "4.7.2026, 21:10:46",
-    "end": null,
-    "areaName": "NYSTUEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217745,
-      "REFNR": "H70708",
+      "OBJECTID": 1217763,
+      "REFNR": "H70712",
       "SEKUNDÆRSTASJON": "NYSTUEN",
       "AVGANG": "L7",
-      "CNT": 431,
+      "CNT": 82,
       "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nNAVERUD, SPRO ØVRE, NORDRE SPRO HAVN, SPRO HAVN BOLIGBLOKK, SKOLEVEIEN ØST, LØNNÅS, SANDBAKKEN, GRANERUDSTUA  Ø., N. SPRO NEDRE, DALATJERN, BJERKERUD, TJERNSBRÅTEN, RAVNSBORGTJERN, LEINA, FINSTAD, STORERUD VEI, NYLENNA.",
-      "FRA_DATO": 1783199446000,
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1783222326000,
       "TIL_DATO": null,
       "LOGGTYPE": "Høyspent",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70708-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nNAVERUD, SPRO ØVRE, NORDRE SPRO HAVN, SPRO HAVN BOLIGBLOKK, SKOLEVEIEN ØST, LØNNÅS, SANDBAKKEN, GRANERUDSTUA  Ø., N. SPRO NEDRE, DALATJERN, BJERKERUD, TJERNSBRÅTEN, RAVNSBORGTJERN, LEINA, FINSTAD, STORERUD VEI, NYLENNA."
+      "STROMSTANSID": "V-70712-1",
+      "description": ""
     }
   }
 ]
