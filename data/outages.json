@@ -428,23 +428,6 @@
     }
   },
   {
-    "id": "lnett-planned-5",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 4,
-    "lat": 58.903703340787885,
-    "lng": 5.698365989803255,
-    "start": "5.7.2026, 08:12:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 4",
-      "description": "Rettet\nStartet: 2026-07-05 08:12\nSluttid: 2026-07-05 13:22\nPlanlagt strømstans.",
-      "styleUrl": "#green"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-70697-1",
     "company": "Norgesnett",
     "type": "planned",
