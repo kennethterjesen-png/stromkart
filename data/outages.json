@@ -69,6 +69,29 @@
     }
   },
   {
+    "id": "elvia-27691",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 15,
+    "lat": 59.28170800183481,
+    "lng": 11.191303530312663,
+    "start": "6.7.2026, 21:00:00",
+    "end": "7.7.2026, 04:00:00",
+    "areaName": "Sarpsborg / Borgenhaugen / X0567",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27691,
+      "antallkunder": 15,
+      "avbruddstype": "Planned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0567",
+      "poststed": "Borgenhaugen",
+      "strombruddoppdaget": 1783372247559,
+      "utkoblingslutt": 1783396800000,
+      "utkoblingstart": 1783371600000
+    }
+  },
+  {
     "id": "linja-planned-3344620",
     "company": "Linja",
     "type": "planned",
