@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-5356",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.35515024322905,
-    "lng": 10.74883611953166,
-    "start": "6.7.2026, 12:09:51",
-    "end": "6.7.2026, 15:54:51",
-    "areaName": "Moss / Rygge / Y0276",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5356,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0276",
-      "poststed": "Rygge",
-      "strombruddoppdaget": 1783339791000,
-      "utkoblingslutt": 1783353291000,
-      "utkoblingstart": 1783339791000
-    }
-  },
-  {
     "id": "elvia-5947",
     "company": "Elvia",
     "type": "planned",
@@ -43,6 +20,52 @@
       "strombruddoppdaget": 1783351065000,
       "utkoblingslutt": 1783364025000,
       "utkoblingstart": 1783351065000
+    }
+  },
+  {
+    "id": "elvia-18546",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 114,
+    "lat": 60.89165234900338,
+    "lng": 10.92760990556536,
+    "start": "3.7.2026, 07:59:56",
+    "end": "3.7.2026, 11:35:56",
+    "areaName": "Ringsaker / Brumunddal / ENS09686",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 18546,
+      "antallkunder": 114,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ringsaker",
+      "nettstasjon": "ENS09686",
+      "poststed": "Brumunddal",
+      "strombruddoppdaget": 1783065596000,
+      "utkoblingslutt": 1783078556000,
+      "utkoblingstart": 1783065596000
+    }
+  },
+  {
+    "id": "elvia-20201",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 61.052744429756906,
+    "lng": 11.893615121612447,
+    "start": "6.7.2026, 18:08:34",
+    "end": "6.7.2026, 21:44:34",
+    "areaName": "Elverum / Søre osen / ENS12178",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20201,
+      "antallkunder": 10,
+      "avbruddstype": "Unplanned",
+      "kommune": "Elverum",
+      "nettstasjon": "ENS12178",
+      "poststed": "Søre osen",
+      "strombruddoppdaget": 1783361314000,
+      "utkoblingslutt": 1783374274000,
+      "utkoblingstart": 1783361314000
     }
   },
   {
@@ -89,6 +112,29 @@
       "strombruddoppdaget": 1783340560000,
       "utkoblingslutt": 1783353520000,
       "utkoblingstart": 1783340560000
+    }
+  },
+  {
+    "id": "elvia-27662",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.39146575558053,
+    "lng": 11.108859898863738,
+    "start": "6.7.2026, 18:12:46",
+    "end": "6.7.2026, 21:48:46",
+    "areaName": "Sarpsborg / Sarpsborg / X0529",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27662,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0529",
+      "poststed": "Sarpsborg",
+      "strombruddoppdaget": 1783361566000,
+      "utkoblingslutt": 1783374526000,
+      "utkoblingstart": 1783361566000
     }
   },
   {
@@ -428,7 +474,7 @@
     }
   },
   {
-    "id": "lnett-planned-1",
+    "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
     "customers": 4,
