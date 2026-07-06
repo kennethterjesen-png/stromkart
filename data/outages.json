@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-5947",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.95671173449695,
-    "lng": 10.74677620129227,
-    "start": "6.7.2026, 15:17:45",
-    "end": "6.7.2026, 18:53:45",
-    "areaName": "Oslo / Oslo / 0404",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5947,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0404",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1783351065000,
-      "utkoblingslutt": 1783364025000,
-      "utkoblingstart": 1783351065000
-    }
-  },
-  {
     "id": "elvia-18546",
     "company": "Elvia",
     "type": "planned",
@@ -43,29 +20,6 @@
       "strombruddoppdaget": 1783065596000,
       "utkoblingslutt": 1783078556000,
       "utkoblingstart": 1783065596000
-    }
-  },
-  {
-    "id": "elvia-20201",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 61.052744429756906,
-    "lng": 11.893615121612447,
-    "start": "6.7.2026, 18:08:34",
-    "end": "6.7.2026, 21:44:34",
-    "areaName": "Elverum / Søre osen / ENS12178",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20201,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Elverum",
-      "nettstasjon": "ENS12178",
-      "poststed": "Søre osen",
-      "strombruddoppdaget": 1783361314000,
-      "utkoblingslutt": 1783374274000,
-      "utkoblingstart": 1783361314000
     }
   },
   {
@@ -112,29 +66,6 @@
       "strombruddoppdaget": 1783340560000,
       "utkoblingslutt": 1783353520000,
       "utkoblingstart": 1783340560000
-    }
-  },
-  {
-    "id": "elvia-27662",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.39146575558053,
-    "lng": 11.108859898863738,
-    "start": "6.7.2026, 18:12:46",
-    "end": "6.7.2026, 21:48:46",
-    "areaName": "Sarpsborg / Sarpsborg / X0529",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27662,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0529",
-      "poststed": "Sarpsborg",
-      "strombruddoppdaget": 1783361566000,
-      "utkoblingslutt": 1783374526000,
-      "utkoblingstart": 1783361566000
     }
   },
   {
@@ -474,7 +405,7 @@
     }
   },
   {
-    "id": "lnett-planned-3",
+    "id": "lnett-planned-5",
     "company": "Lnett",
     "type": "planned",
     "customers": 4,
