@@ -46,52 +46,6 @@
     }
   },
   {
-    "id": "elvia-25076",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 19,
-    "lat": 59.94595934888616,
-    "lng": 11.046069261305334,
-    "start": "7.7.2026, 11:12:39",
-    "end": "7.7.2026, 14:48:39",
-    "areaName": "Rælingen / Rælingen / R0294",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25076,
-      "antallkunder": 19,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rælingen",
-      "nettstasjon": "R0294",
-      "poststed": "Rælingen",
-      "strombruddoppdaget": 1783422759000,
-      "utkoblingslutt": 1783435719000,
-      "utkoblingstart": 1783422759000
-    }
-  },
-  {
-    "id": "elvia-29565",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.51226792739833,
-    "lng": 11.196254250024193,
-    "start": "7.7.2026, 15:52:08",
-    "end": "7.7.2026, 19:28:08",
-    "areaName": "Skiptvet / Skiptvet / Z2099",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29565,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Skiptvet",
-      "nettstasjon": "Z2099",
-      "poststed": "Skiptvet",
-      "strombruddoppdaget": 1783439528000,
-      "utkoblingslutt": 1783452488000,
-      "utkoblingstart": 1783439528000
-    }
-  },
-  {
     "id": "linja-planned-3348832",
     "company": "Linja",
     "type": "planned",
@@ -279,30 +233,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "KINN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3343617",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.14935078798625,
-    "lng": 6.123182229576846,
-    "start": "7.7.2026, 21:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3343617,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bakkelida, Elvavegen, Nymarkvegen og Krikebøvegen tirsdag 7.juli fra kl. 23:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1783458000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
