@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-1367",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.89429817061307,
-    "lng": 10.498246428676515,
-    "start": "7.7.2026, 15:12:37",
-    "end": "7.7.2026, 18:57:37",
-    "areaName": "Bærum / Sandvika / B0759",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 1367,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0759",
-      "poststed": "Sandvika",
-      "strombruddoppdaget": 1783437157560,
-      "utkoblingslutt": 1783450657000,
-      "utkoblingstart": 1783437157560
-    }
-  },
-  {
     "id": "elvia-3956",
     "company": "Elvia",
     "type": "planned",
@@ -43,29 +20,6 @@
       "strombruddoppdaget": 1783421205000,
       "utkoblingslutt": 1783434165000,
       "utkoblingstart": 1783421205000
-    }
-  },
-  {
-    "id": "elvia-21468",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.93084460981042,
-    "lng": 11.187541045386299,
-    "start": "7.7.2026, 12:00:59",
-    "end": "7.7.2026, 15:36:59",
-    "areaName": "Lillestrøm / Fetsund / F2240",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21468,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "F2240",
-      "poststed": "Fetsund",
-      "strombruddoppdaget": 1783425659000,
-      "utkoblingslutt": 1783438619000,
-      "utkoblingstart": 1783425659000
     }
   },
   {
@@ -135,30 +89,6 @@
       "strombruddoppdaget": 1783439528000,
       "utkoblingslutt": 1783452488000,
       "utkoblingstart": 1783439528000
-    }
-  },
-  {
-    "id": "linja-outage-3349432",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 8,
-    "lat": 61.611301588104894,
-    "lng": 5.109171617245227,
-    "start": "7.7.2026, 15:00:00",
-    "end": null,
-    "areaName": "KINN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3349432,
-      "CUSTOMER_WEB_TEXT": "Trafo Botnastranda vert utan straum den 07.07 frå kl 17 til omlag kl 20",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783436400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "KINN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 1,
-      "NUM_AB": 8
     }
   },
   {
