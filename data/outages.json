@@ -69,6 +69,30 @@
     }
   },
   {
+    "id": "linja-outage-3354196",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 2,
+    "lat": 62.32215298774804,
+    "lng": 5.626457706755821,
+    "start": "7.7.2026, 20:38:00",
+    "end": null,
+    "areaName": "HERØY / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3354196,
+      "CUSTOMER_WEB_TEXT": "utkobling pga brann. Alle bustadhus og de fleste naustene vil få strømmen igjen innen ca kl. 0200 i natt. ",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1783456680000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "HERØY",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 0,
+      "NUM_AB": 2
+    }
+  },
+  {
     "id": "linja-outage-3343617",
     "company": "Linja",
     "type": "outage",
@@ -90,30 +114,6 @@
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 2,
       "NUM_AB": 52
-    }
-  },
-  {
-    "id": "linja-outage-3354196",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 18,
-    "lat": 62.32331378668563,
-    "lng": 5.6323722877592965,
-    "start": "7.7.2026, 20:38:00",
-    "end": null,
-    "areaName": "HERØY / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3354196,
-      "CUSTOMER_WEB_TEXT": "utkobling pga brann. Alle bustadhus og de fleste naustene vil få strømmen igjen innen ca kl. 0200 i natt. ",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783456680000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "HERØY",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 0,
-      "NUM_AB": 18
     }
   },
   {
