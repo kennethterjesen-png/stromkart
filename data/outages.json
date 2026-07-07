@@ -1,25 +1,71 @@
 [
   {
-    "id": "elvia-3956",
+    "id": "elvia-5859",
     "company": "Elvia",
     "type": "planned",
-    "customers": 4,
-    "lat": 59.91449612431387,
-    "lng": 10.967646317835111,
-    "start": "7.7.2026, 10:46:45",
-    "end": "7.7.2026, 14:22:45",
-    "areaName": "Lørenskog / Finstadjordet / L0246",
+    "customers": 117,
+    "lat": 59.932401886894496,
+    "lng": 10.786563266504215,
+    "start": "1.7.2026, 07:00:00",
+    "end": "8.7.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 0268",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 3956,
-      "antallkunder": 4,
+      "OBJECTID": 5859,
+      "antallkunder": 117,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "0268",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1782943266000,
+      "utkoblingslutt": 1783483200000,
+      "utkoblingstart": 1782889200000
+    }
+  },
+  {
+    "id": "elvia-8275",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 17,
+    "lat": 59.946310286796226,
+    "lng": 10.643559483712977,
+    "start": "7.7.2026, 22:22:19",
+    "end": "8.7.2026, 01:58:19",
+    "areaName": "Oslo / Oslo / 3895",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8275,
+      "antallkunder": 17,
       "avbruddstype": "Unplanned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0246",
-      "poststed": "Finstadjordet",
-      "strombruddoppdaget": 1783421205000,
-      "utkoblingslutt": 1783434165000,
-      "utkoblingstart": 1783421205000
+      "kommune": "Oslo",
+      "nettstasjon": "3895",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1783462939000,
+      "utkoblingslutt": 1783475899000,
+      "utkoblingstart": 1783462939000
+    }
+  },
+  {
+    "id": "elvia-8590",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 113,
+    "lat": 59.936370557668376,
+    "lng": 10.642254885059618,
+    "start": "7.7.2026, 22:05:00",
+    "end": "8.7.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 4394",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8590,
+      "antallkunder": 113,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "4394",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1783463307796,
+      "utkoblingslutt": 1783483200000,
+      "utkoblingstart": 1783461900000
     }
   },
   {
@@ -383,34 +429,6 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-70697-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 97,
-    "lat": 59.21180665999998,
-    "lng": 10.939165829999979,
-    "start": "7.7.2026, 22:05:54",
-    "end": "8.7.2026, 04:00:54",
-    "areaName": "BROGATA",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217729,
-      "REFNR": "P70697",
-      "SEKUNDÆRSTASJON": "BROGATA",
-      "AVGANG": "H1081",
-      "CNT": 97,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1783461954000,
-      "TIL_DATO": 1783483254000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70697-1",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2880-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -575,6 +593,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70689-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70697-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 97,
+    "lat": 59.21180665999998,
+    "lng": 10.939165829999979,
+    "start": "7.7.2026, 22:05:54",
+    "end": "8.7.2026, 04:00:54",
+    "areaName": "BROGATA",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217729,
+      "REFNR": "P70697",
+      "SEKUNDÆRSTASJON": "BROGATA",
+      "AVGANG": "H1081",
+      "CNT": 97,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1783461954000,
+      "TIL_DATO": 1783483254000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70697-1",
       "description": ""
     }
   }
