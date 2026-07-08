@@ -147,6 +147,29 @@
     }
   },
   {
+    "id": "elvia-10274",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 14,
+    "lat": 59.89522928334282,
+    "lng": 10.562593537028288,
+    "start": "8.7.2026, 07:20:35",
+    "end": "8.7.2026, 10:56:35",
+    "areaName": "Bærum / Høvik / B1432",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 10274,
+      "antallkunder": 14,
+      "avbruddstype": "Unplanned",
+      "kommune": "Bærum",
+      "nettstasjon": "B1432",
+      "poststed": "Høvik",
+      "strombruddoppdaget": 1783495235000,
+      "utkoblingslutt": 1783508195000,
+      "utkoblingstart": 1783495235000
+    }
+  },
+  {
     "id": "elvia-10428",
     "company": "Elvia",
     "type": "planned",
@@ -170,72 +193,49 @@
     }
   },
   {
-    "id": "elvia-12016",
+    "id": "elvia-11581",
     "company": "Elvia",
     "type": "planned",
-    "customers": 26,
-    "lat": 60.26717948661116,
-    "lng": 11.188741125652756,
-    "start": "8.7.2026, 06:00:00",
-    "end": "8.7.2026, 13:00:00",
-    "areaName": "Eidsvoll / Råholt / E0466",
+    "customers": 1,
+    "lat": 59.881355299783706,
+    "lng": 10.440271568113708,
+    "start": "8.7.2026, 08:19:04",
+    "end": "8.7.2026, 11:55:04",
+    "areaName": "Bærum / Slependen / D1509",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 12016,
-      "antallkunder": 26,
-      "avbruddstype": "Planned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0466",
-      "poststed": "Råholt",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1783515600000,
-      "utkoblingstart": 1783490400000
-    }
-  },
-  {
-    "id": "elvia-14557",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 139,
-    "lat": 61.1050350609383,
-    "lng": 10.466711720534054,
-    "start": "8.7.2026, 06:30:00",
-    "end": "8.7.2026, 09:00:00",
-    "areaName": "Lillehammer / Lillehammer / ENS03478",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14557,
-      "antallkunder": 139,
-      "avbruddstype": "Planned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03478",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1783501200000,
-      "utkoblingstart": 1783492200000
-    }
-  },
-  {
-    "id": "elvia-16077",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 60.2387992448587,
-    "lng": 11.858748759135478,
-    "start": "8.7.2026, 06:41:41",
-    "end": "8.7.2026, 10:17:41",
-    "areaName": "Sør-Odal / Sander / ENS05846",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16077,
-      "antallkunder": 18,
+      "OBJECTID": 11581,
+      "antallkunder": 1,
       "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS05846",
-      "poststed": "Sander",
-      "strombruddoppdaget": 1783492901000,
-      "utkoblingslutt": 1783505861000,
-      "utkoblingstart": 1783492901000
+      "kommune": "Bærum",
+      "nettstasjon": "D1509",
+      "poststed": "Slependen",
+      "strombruddoppdaget": 1783498744000,
+      "utkoblingslutt": 1783511704000,
+      "utkoblingstart": 1783498744000
+    }
+  },
+  {
+    "id": "elvia-13386",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 60.75835498020159,
+    "lng": 10.727374150276752,
+    "start": "8.7.2026, 08:47:33",
+    "end": "8.7.2026, 12:23:33",
+    "areaName": "Østre Toten / Nordre toten / ENS01814",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 13386,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Østre Toten",
+      "nettstasjon": "ENS01814",
+      "poststed": "Nordre toten",
+      "strombruddoppdaget": 1783500453000,
+      "utkoblingslutt": 1783513413000,
+      "utkoblingstart": 1783500453000
     }
   },
   {
@@ -288,23 +288,46 @@
     "id": "elvia-26060",
     "company": "Elvia",
     "type": "planned",
-    "customers": 7,
+    "customers": 8,
     "lat": 60.149262367118816,
     "lng": 11.162689294511758,
-    "start": "8.7.2026, 06:00:00",
-    "end": "8.7.2026, 09:30:00",
+    "start": "8.7.2026, 09:30:00",
+    "end": "8.7.2026, 14:00:00",
     "areaName": "Ullensaker / Jessheim / U2441",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
       "OBJECTID": 26060,
-      "antallkunder": 7,
+      "antallkunder": 8,
       "avbruddstype": "Planned",
       "kommune": "Ullensaker",
       "nettstasjon": "U2441",
       "poststed": "Jessheim",
       "strombruddoppdaget": null,
-      "utkoblingslutt": 1783503000000,
-      "utkoblingstart": 1783490400000
+      "utkoblingslutt": 1783519200000,
+      "utkoblingstart": 1783503000000
+    }
+  },
+  {
+    "id": "elvia-27298",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.27692938972842,
+    "lng": 11.136514115528596,
+    "start": "8.7.2026, 08:00:00",
+    "end": "8.7.2026, 13:00:00",
+    "areaName": "Sarpsborg / Hafslundsøy / X0001",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27298,
+      "antallkunder": 9,
+      "avbruddstype": "Planned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0001",
+      "poststed": "Hafslundsøy",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1783515600000,
+      "utkoblingstart": 1783497600000
     }
   },
   {
@@ -331,29 +354,6 @@
     }
   },
   {
-    "id": "elvia-29846",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.627831788328315,
-    "lng": 11.408227466193829,
-    "start": "8.7.2026, 07:00:00",
-    "end": "8.7.2026, 07:30:00",
-    "areaName": "Indre Østfold / Trøgstad / Z3255",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29846,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z3255",
-      "poststed": "Trøgstad",
-      "strombruddoppdaget": 1783494109126,
-      "utkoblingslutt": 1783495800000,
-      "utkoblingstart": 1783494000000
-    }
-  },
-  {
     "id": "fagne-4525457",
     "company": "Fagne",
     "type": "planned",
@@ -373,27 +373,46 @@
     }
   },
   {
-    "id": "linja-outage-3354196",
+    "id": "fagne-4528621",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.76039669097884,
+    "lng": 5.944694637784416,
+    "start": "7.8.2026, 08:00:00",
+    "end": "7.8.2026, 14:30:00",
+    "areaName": "ETNE",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "ETNE",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "linja-outage-3348424",
     "company": "Linja",
     "type": "outage",
-    "customers": 2,
-    "lat": 62.32215298774804,
-    "lng": 5.626457706755821,
-    "start": "7.7.2026, 20:38:00",
+    "customers": 35,
+    "lat": 62.58479758497486,
+    "lng": 6.116829326505826,
+    "start": "8.7.2026, 07:00:00",
     "end": null,
-    "areaName": "HERØY / Linja Midt",
+    "areaName": "GISKE / Linja Nord",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3354196,
-      "CUSTOMER_WEB_TEXT": "utkobling pga brann. Alle bustadhus og de fleste naustene vil få strømmen igjen innen ca kl. 0200 i natt. ",
+      "EVENTID": 3348424,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Markevegen, Budafjellvegen og Nymarkvegen onsdag 8.juli fra kl. 09:00 til 15:00.",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1783456680000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "HERØY",
-      "PURCHAREA_TXT": "Linja Midt",
+      "STARTTIME": 1783494000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GISKE",
+      "PURCHAREA_TXT": "Linja Nord",
       "NUM_NS": 0,
-      "NUM_AB": 2
+      "NUM_AB": 35
     }
   },
   {
@@ -493,6 +512,30 @@
     }
   },
   {
+    "id": "linja-planned-3354564",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.43882343593681,
+    "lng": 6.353316274330254,
+    "start": "13.7.2026, 06:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3354564,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Vegsundrabben, Rabbevågen, Skytterholm, Storevågen og Tørlevegen mandag 13.juli fra kl. 08:00 til 13:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1783922400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3354492",
     "company": "Linja",
     "type": "planned",
@@ -517,6 +560,30 @@
     }
   },
   {
+    "id": "linja-planned-3354684",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.47098099244263,
+    "lng": 6.2101770245231664,
+    "start": "17.7.2026, 06:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3354684,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hundsværgata og Nørvegata fredag 17.juli fra kl. 08:00 til 15:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1784268000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 128,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3354468",
     "company": "Linja",
     "type": "planned",
@@ -536,6 +603,30 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "VOLDA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3354656",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.47111656861433,
+    "lng": 6.208953803175097,
+    "start": "16.7.2026, 06:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3354656,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nørvegata torsdag 16.juli fra kl. 08:00 til 15:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1784181600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
