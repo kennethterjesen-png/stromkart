@@ -23,6 +23,53 @@
     }
   },
   {
+    "id": "elvia-18799",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 22,
+    "lat": 61.239104961486184,
+    "lng": 12.632568759502341,
+    "start": "8.7.2026, 18:57:23",
+    "end": "8.7.2026, 22:33:23",
+    "areaName": "Trysil / Østby / ENS10078",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 18799,
+      "antallkunder": 22,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS10078",
+      "poststed": "Østby",
+      "strombruddoppdaget": 1783537043000,
+      "utkoblingslutt": 1783550003000,
+      "utkoblingstart": 1783537043000
+    }
+  },
+  {
+    "id": "linja-outage-3343805",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 52,
+    "lat": 62.1505703054229,
+    "lng": 6.08728642485132,
+    "start": "8.7.2026, 21:00:00",
+    "end": null,
+    "areaName": "VOLDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3343805,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Legene og Dr. Halkjelsvikvegen onsdag 8.juli fra kl. 23:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1783544400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "VOLDA",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 0,
+      "NUM_AB": 52
+    }
+  },
+  {
     "id": "linja-planned-3350884",
     "company": "Linja",
     "type": "planned",
