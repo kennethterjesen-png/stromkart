@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-7830",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 32,
-    "lat": 59.91617957540989,
-    "lng": 10.721026742625238,
-    "start": "8.7.2026, 11:42:56",
-    "end": "8.7.2026, 15:18:56",
-    "areaName": "Oslo / Oslo / 3158",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7830,
-      "antallkunder": 32,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "3158",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1783510976000,
-      "utkoblingslutt": 1783523936000,
-      "utkoblingstart": 1783510976000
-    }
-  },
-  {
     "id": "linja-planned-3343805",
     "company": "Linja",
     "type": "planned",
