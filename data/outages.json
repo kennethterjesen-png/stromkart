@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-21600",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 23,
-    "lat": 60.07370240813563,
-    "lng": 11.038500504786844,
-    "start": "8.7.2026, 22:00:00",
-    "end": "8.7.2026, 23:00:00",
-    "areaName": "Gjerdrum / Gjerdrum / G0115",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21600,
-      "antallkunder": 23,
-      "avbruddstype": "Planned",
-      "kommune": "Gjerdrum",
-      "nettstasjon": "G0115",
-      "poststed": "Gjerdrum",
-      "strombruddoppdaget": 1783548045287,
-      "utkoblingslutt": 1783551600000,
-      "utkoblingstart": 1783548000000
-    }
-  },
-  {
     "id": "linja-outage-3343805",
     "company": "Linja",
     "type": "outage",
