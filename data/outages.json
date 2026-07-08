@@ -1,48 +1,25 @@
 [
   {
-    "id": "elvia-12652",
+    "id": "elvia-21600",
     "company": "Elvia",
     "type": "planned",
-    "customers": 8,
-    "lat": 61.80028223519475,
-    "lng": 11.689831713971367,
-    "start": "8.7.2026, 19:55:12",
-    "end": "8.7.2026, 23:31:12",
-    "areaName": "Engerdal / Engerdal / ENS00699",
+    "customers": 23,
+    "lat": 60.07370240813563,
+    "lng": 11.038500504786844,
+    "start": "8.7.2026, 22:00:00",
+    "end": "8.7.2026, 23:00:00",
+    "areaName": "Gjerdrum / Gjerdrum / G0115",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 12652,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Engerdal",
-      "nettstasjon": "ENS00699",
-      "poststed": "Engerdal",
-      "strombruddoppdaget": 1783540512000,
-      "utkoblingslutt": 1783553472000,
-      "utkoblingstart": 1783540512000
-    }
-  },
-  {
-    "id": "elvia-18799",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 22,
-    "lat": 61.239104961486184,
-    "lng": 12.632568759502341,
-    "start": "8.7.2026, 18:57:23",
-    "end": "8.7.2026, 22:33:23",
-    "areaName": "Trysil / Østby / ENS10078",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18799,
-      "antallkunder": 22,
-      "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS10078",
-      "poststed": "Østby",
-      "strombruddoppdaget": 1783537043000,
-      "utkoblingslutt": 1783550003000,
-      "utkoblingstart": 1783537043000
+      "OBJECTID": 21600,
+      "antallkunder": 23,
+      "avbruddstype": "Planned",
+      "kommune": "Gjerdrum",
+      "nettstasjon": "G0115",
+      "poststed": "Gjerdrum",
+      "strombruddoppdaget": 1783548045287,
+      "utkoblingslutt": 1783551600000,
+      "utkoblingstart": 1783548000000
     }
   },
   {
@@ -67,6 +44,30 @@
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 0,
       "NUM_AB": 52
+    }
+  },
+  {
+    "id": "linja-outage-3347992",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 269,
+    "lat": 62.60174608479693,
+    "lng": 6.333742099016245,
+    "start": "8.7.2026, 22:00:00",
+    "end": null,
+    "areaName": "HARAM / Nordvestnett",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3347992,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Alvestad til Skjelten torsdag 9.juli fra kl. 00:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1783548000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "HARAM",
+      "PURCHAREA_TXT": "Nordvestnett",
+      "NUM_NS": 18,
+      "NUM_AB": 269
     }
   },
   {
@@ -382,7 +383,7 @@
     }
   },
   {
-    "id": "lnett-planned-9",
+    "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
     "customers": 7,
