@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-7098",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 48,
-    "lat": 59.96530042560216,
-    "lng": 10.75132272717916,
-    "start": "6.7.2026, 07:00:00",
-    "end": "6.7.2026, 09:00:00",
-    "areaName": "Oslo / Oslo / 2103",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7098,
-      "antallkunder": 48,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2103",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1783321750822,
-      "utkoblingslutt": 1783328400000,
-      "utkoblingstart": 1783321200000
-    }
-  },
-  {
-    "id": "elvia-7295",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.964669906292315,
-    "lng": 10.752532961650022,
-    "start": "6.7.2026, 07:00:00",
-    "end": "6.7.2026, 09:00:00",
-    "areaName": "Oslo / Oslo / 2380",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7295,
-      "antallkunder": 13,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2380",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1783321750822,
-      "utkoblingslutt": 1783328400000,
-      "utkoblingstart": 1783321200000
-    }
-  },
-  {
     "id": "elvia-7830",
     "company": "Elvia",
     "type": "planned",
@@ -69,160 +23,26 @@
     }
   },
   {
-    "id": "elvia-9937",
+    "id": "elvia-10320",
     "company": "Elvia",
     "type": "planned",
-    "customers": 15,
-    "lat": 59.90823236371016,
-    "lng": 10.600421704368417,
-    "start": "8.7.2026, 07:00:00",
-    "end": "8.7.2026, 13:00:00",
-    "areaName": "Bærum / Stabekk / B0894",
+    "customers": 4,
+    "lat": 59.88021958507369,
+    "lng": 10.463816049083864,
+    "start": "8.7.2026, 13:59:05",
+    "end": "8.7.2026, 17:35:05",
+    "areaName": "Bærum / Slependen / B1515",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 9937,
-      "antallkunder": 15,
-      "avbruddstype": "Planned",
+      "OBJECTID": 10320,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
       "kommune": "Bærum",
-      "nettstasjon": "B0894",
-      "poststed": "Stabekk",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1783515600000,
-      "utkoblingstart": 1783494000000
-    }
-  },
-  {
-    "id": "elvia-10428",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 59.90719108785449,
-    "lng": 10.598072957513157,
-    "start": "8.7.2026, 07:00:00",
-    "end": "8.7.2026, 13:00:00",
-    "areaName": "Bærum / Stabekk / B1716",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10428,
-      "antallkunder": 18,
-      "avbruddstype": "Planned",
-      "kommune": "Bærum",
-      "nettstasjon": "B1716",
-      "poststed": "Stabekk",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1783515600000,
-      "utkoblingstart": 1783494000000
-    }
-  },
-  {
-    "id": "elvia-13264",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 60.70162463966517,
-    "lng": 10.91283541826442,
-    "start": "8.7.2026, 10:00:46",
-    "end": "8.7.2026, 13:36:46",
-    "areaName": "Østre Toten / Skreia / ENS01642",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13264,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS01642",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1783504846000,
-      "utkoblingslutt": 1783517806000,
-      "utkoblingstart": 1783504846000
-    }
-  },
-  {
-    "id": "elvia-18526",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 60.954826191899144,
-    "lng": 10.991044469658492,
-    "start": "8.7.2026, 09:44:00",
-    "end": "8.7.2026, 13:20:00",
-    "areaName": "Ringsaker / Brumunddal / ENS09658",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18526,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS09658",
-      "poststed": "Brumunddal",
-      "strombruddoppdaget": 1783503840000,
-      "utkoblingslutt": 1783516800000,
-      "utkoblingstart": 1783503840000
-    }
-  },
-  {
-    "id": "elvia-22777",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.93065746081387,
-    "lng": 10.982376796186076,
-    "start": "6.7.2026, 06:00:00",
-    "end": "6.7.2026, 13:00:00",
-    "areaName": "Lørenskog / Lørenskog / L0166",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22777,
-      "antallkunder": 12,
-      "avbruddstype": "Planned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0166",
-      "poststed": "Lørenskog",
-      "strombruddoppdaget": 1783317728835,
-      "utkoblingslutt": 1783342800000,
-      "utkoblingstart": 1783317600000
-    }
-  },
-  {
-    "id": "elvia-29173",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.613864741639226,
-    "lng": 11.07020034967773,
-    "start": "8.7.2026, 11:57:38",
-    "end": "8.7.2026, 15:33:38",
-    "areaName": "Indre Østfold / Spydeberg / Z0168",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29173,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z0168",
-      "poststed": "Spydeberg",
-      "strombruddoppdaget": 1783511858000,
-      "utkoblingslutt": 1783524818000,
-      "utkoblingstart": 1783511858000
-    }
-  },
-  {
-    "id": "fagne-4543845",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 9,
-    "lat": 59.27773210021793,
-    "lng": 5.307359485069391,
-    "start": "7.8.2026, 10:10:00",
-    "end": "7.8.2026, 14:30:00",
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
+      "nettstasjon": "B1515",
+      "poststed": "Slependen",
+      "strombruddoppdaget": 1783519145000,
+      "utkoblingslutt": 1783532105000,
+      "utkoblingstart": 1783519145000
     }
   },
   {
@@ -583,6 +403,23 @@
       "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-11",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 7,
+    "lat": 58.88182472227305,
+    "lng": 5.686868763907761,
+    "start": "8.7.2026, 16:18:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 7",
+      "description": "Planlagt strømstans\nStartet: 2026-07-08 16:18\nPlanlagt ferdig: 2026-07-08 18:00",
+      "styleUrl": "#yellow"
     }
   },
   {
