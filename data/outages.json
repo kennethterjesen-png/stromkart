@@ -1,48 +1,25 @@
 [
   {
-    "id": "elvia-6167",
+    "id": "elvia-7098",
     "company": "Elvia",
     "type": "planned",
-    "customers": 26,
-    "lat": 59.95818852549619,
-    "lng": 10.704069368312298,
-    "start": "6.7.2026, 06:00:00",
-    "end": "6.7.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 0729",
+    "customers": 48,
+    "lat": 59.96530042560216,
+    "lng": 10.75132272717916,
+    "start": "6.7.2026, 07:00:00",
+    "end": "6.7.2026, 09:00:00",
+    "areaName": "Oslo / Oslo / 2103",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 6167,
-      "antallkunder": 26,
+      "OBJECTID": 7098,
+      "antallkunder": 48,
       "avbruddstype": "Planned",
       "kommune": "Oslo",
-      "nettstasjon": "0729",
+      "nettstasjon": "2103",
       "poststed": "Oslo",
-      "strombruddoppdaget": 1783404096257,
-      "utkoblingslutt": 1783342800000,
-      "utkoblingstart": 1783317600000
-    }
-  },
-  {
-    "id": "elvia-7147",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.963439202923745,
-    "lng": 10.742035668755271,
-    "start": "8.7.2026, 06:00:00",
-    "end": "8.7.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 2180",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7147,
-      "antallkunder": 14,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2180",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1783515600000,
-      "utkoblingstart": 1783490400000
+      "strombruddoppdaget": 1783321750822,
+      "utkoblingslutt": 1783328400000,
+      "utkoblingstart": 1783321200000
     }
   },
   {
@@ -69,26 +46,26 @@
     }
   },
   {
-    "id": "elvia-8657",
+    "id": "elvia-7830",
     "company": "Elvia",
     "type": "planned",
-    "customers": 47,
-    "lat": 59.958023515775025,
-    "lng": 10.705901156977378,
-    "start": "6.7.2026, 06:00:00",
-    "end": "6.7.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 4507",
+    "customers": 32,
+    "lat": 59.91617957540989,
+    "lng": 10.721026742625238,
+    "start": "8.7.2026, 11:42:56",
+    "end": "8.7.2026, 15:18:56",
+    "areaName": "Oslo / Oslo / 3158",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 8657,
-      "antallkunder": 47,
-      "avbruddstype": "Planned",
+      "OBJECTID": 7830,
+      "antallkunder": 32,
+      "avbruddstype": "Unplanned",
       "kommune": "Oslo",
-      "nettstasjon": "4507",
+      "nettstasjon": "3158",
       "poststed": "Oslo",
-      "strombruddoppdaget": 1783404096257,
-      "utkoblingslutt": 1783342800000,
-      "utkoblingstart": 1783317600000
+      "strombruddoppdaget": 1783510976000,
+      "utkoblingslutt": 1783523936000,
+      "utkoblingstart": 1783510976000
     }
   },
   {
@@ -138,29 +115,6 @@
     }
   },
   {
-    "id": "elvia-11187",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 55,
-    "lat": 59.84544862462068,
-    "lng": 10.4737663286711,
-    "start": "8.7.2026, 11:00:00",
-    "end": "8.7.2026, 12:00:00",
-    "areaName": "Asker / Asker / D0244",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11187,
-      "antallkunder": 55,
-      "avbruddstype": "Planned",
-      "kommune": "Asker",
-      "nettstasjon": "D0244",
-      "poststed": "Asker",
-      "strombruddoppdaget": 1783508503339,
-      "utkoblingslutt": 1783512000000,
-      "utkoblingstart": 1783508400000
-    }
-  },
-  {
     "id": "elvia-13264",
     "company": "Elvia",
     "type": "planned",
@@ -181,52 +135,6 @@
       "strombruddoppdaget": 1783504846000,
       "utkoblingslutt": 1783517806000,
       "utkoblingstart": 1783504846000
-    }
-  },
-  {
-    "id": "elvia-13386",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.75835498020159,
-    "lng": 10.727374150276752,
-    "start": "8.7.2026, 08:47:33",
-    "end": "8.7.2026, 12:23:33",
-    "areaName": "Østre Toten / Nordre toten / ENS01814",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13386,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS01814",
-      "poststed": "Nordre toten",
-      "strombruddoppdaget": 1783500453000,
-      "utkoblingslutt": 1783513413000,
-      "utkoblingstart": 1783500453000
-    }
-  },
-  {
-    "id": "elvia-16400",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 60.58823115650213,
-    "lng": 11.984335686052349,
-    "start": "8.7.2026, 11:21:06",
-    "end": "8.7.2026, 14:57:06",
-    "areaName": "Åsnes / Flisa / ENS06476",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16400,
-      "antallkunder": 15,
-      "avbruddstype": "Unplanned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS06476",
-      "poststed": "Flisa",
-      "strombruddoppdaget": 1783509666000,
-      "utkoblingslutt": 1783522626000,
-      "utkoblingstart": 1783509666000
     }
   },
   {
@@ -276,49 +184,26 @@
     }
   },
   {
-    "id": "elvia-27298",
+    "id": "elvia-29173",
     "company": "Elvia",
     "type": "planned",
-    "customers": 9,
-    "lat": 59.27692938972842,
-    "lng": 11.136514115528596,
-    "start": "8.7.2026, 08:00:00",
-    "end": "8.7.2026, 13:00:00",
-    "areaName": "Sarpsborg / Hafslundsøy / X0001",
+    "customers": 11,
+    "lat": 59.613864741639226,
+    "lng": 11.07020034967773,
+    "start": "8.7.2026, 11:57:38",
+    "end": "8.7.2026, 15:33:38",
+    "areaName": "Indre Østfold / Spydeberg / Z0168",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 27298,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0001",
-      "poststed": "Hafslundsøy",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1783515600000,
-      "utkoblingstart": 1783497600000
-    }
-  },
-  {
-    "id": "elvia-28488",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.41237787293125,
-    "lng": 10.688013953505864,
-    "start": "8.7.2026, 07:00:00",
-    "end": "8.7.2026, 12:00:00",
-    "areaName": "Moss / Moss / Y0074",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28488,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0074",
-      "poststed": "Moss",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1783512000000,
-      "utkoblingstart": 1783494000000
+      "OBJECTID": 29173,
+      "antallkunder": 11,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "Z0168",
+      "poststed": "Spydeberg",
+      "strombruddoppdaget": 1783511858000,
+      "utkoblingslutt": 1783524818000,
+      "utkoblingstart": 1783511858000
     }
   },
   {
@@ -329,52 +214,14 @@
     "lat": 59.27773210021793,
     "lng": 5.307359485069391,
     "start": "7.8.2026, 10:10:00",
-    "end": "7.8.2026, 13:00:00",
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4543785",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 2,
-    "lat": 59.15177267297009,
-    "lng": 5.270778723022595,
-    "start": "7.8.2026, 09:54:00",
-    "end": "7.8.2026, 13:00:00",
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4528621",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.76039669097884,
-    "lng": 5.944694637784416,
-    "start": "7.8.2026, 08:00:00",
     "end": "7.8.2026, 14:30:00",
-    "areaName": "ETNE",
+    "areaName": "KARMØY",
     "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
       "description": "",
       "state": "Pågående",
-      "municipal": "ETNE",
-      "typeTxt": "Utkobling",
+      "municipal": "KARMØY",
+      "typeTxt": "Driftsforstyrrelse",
       "issueStateChangeEmail": ""
     }
   },
@@ -739,23 +586,6 @@
     }
   },
   {
-    "id": "lnett-outage-5",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 9,
-    "lat": 59.07256142155067,
-    "lng": 5.686575345944424,
-    "start": "8.7.2026, 12:21:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 9",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-08 12:21\nNødvendig feilretting. Estimert ferdig innen kl. 14:30.",
-      "styleUrl": "#red"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2880-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -864,6 +694,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70689-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70721-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 57,
+    "lat": 59.698898575999976,
+    "lng": 10.507412375000001,
+    "start": "31.7.2026, 07:30:29",
+    "end": "31.7.2026, 10:00:29",
+    "areaName": "BØDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217810,
+      "REFNR": "P70721",
+      "SEKUNDÆRSTASJON": "BØDALEN",
+      "AVGANG": "K5_R390",
+      "CNT": 57,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1785483029000,
+      "TIL_DATO": 1785492029000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70721-1",
       "description": ""
     }
   }
