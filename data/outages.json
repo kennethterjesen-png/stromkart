@@ -1,26 +1,25 @@
 [
   {
-    "id": "linja-planned-3343805",
-    "company": "Linja",
+    "id": "elvia-12652",
+    "company": "Elvia",
     "type": "planned",
-    "customers": 0,
-    "lat": 62.1505703054229,
-    "lng": 6.08728642485132,
-    "start": "8.7.2026, 21:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
+    "customers": 8,
+    "lat": 61.80028223519475,
+    "lng": 11.689831713971367,
+    "start": "8.7.2026, 19:55:12",
+    "end": "8.7.2026, 23:31:12",
+    "areaName": "Engerdal / Engerdal / ENS00699",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "EVENTID": 3343805,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Legene og Dr. Halkjelsvikvegen onsdag 8.juli fra kl. 23:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1783544400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
+      "OBJECTID": 12652,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Engerdal",
+      "nettstasjon": "ENS00699",
+      "poststed": "Engerdal",
+      "strombruddoppdaget": 1783540512000,
+      "utkoblingslutt": 1783553472000,
+      "utkoblingstart": 1783540512000
     }
   },
   {
@@ -67,30 +66,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "KINN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3347992",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.60175377750861,
-    "lng": 6.333712833106565,
-    "start": "8.7.2026, 22:00:00",
-    "end": null,
-    "areaName": "HARAM / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3347992,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Alvestad til Skjelten torsdag 9.juli fra kl. 00:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1783548000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Nordvestnett",
-      "MUNICIPAL_TXT": "HARAM",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -514,34 +489,6 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70721-1",
       "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70725-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 4,
-    "lat": 59.25355642300002,
-    "lng": 11.011019524000005,
-    "start": "8.7.2026, 16:28:42",
-    "end": null,
-    "areaName": "RAA",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217811,
-      "REFNR": "L70725",
-      "SEKUNDÆRSTASJON": "RAA",
-      "AVGANG": "H0886",
-      "CNT": 4,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nOmbergveien",
-      "FRA_DATO": 1783528122000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70725-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nOmbergveien"
     }
   }
 ]
