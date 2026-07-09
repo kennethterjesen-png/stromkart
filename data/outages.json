@@ -1,69 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.346240154781555,
-    "lng": 5.351609999124846,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9780422,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783623600000,
-      "TIMELIMIT": 1783652400000,
-      "NUM_AB": 86,
-      "CUSTOMER_WEB_TEXT": "5072 BERGEN; FANTOFTVEGEN,ØVRE FANTOFTÅSEN,ÅSBAKKEN,VESTRE FANTOFTÅSEN\r\n5231 PARADIS; STORETVEITVEGEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1783623659000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.39199139666231,
-    "lng": 5.329669559588559,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9802810,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783629000000,
-      "TIMELIMIT": 1783650600000,
-      "NUM_AB": 23,
-      "CUSTOMER_WEB_TEXT": "5017 BERGEN; MARKEN",
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1783629352000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-2792",
     "company": "Elvia",
     "type": "planned",
@@ -84,6 +20,121 @@
       "strombruddoppdaget": 1783619195000,
       "utkoblingslutt": 1783632155000,
       "utkoblingstart": 1783619195000
+    }
+  },
+  {
+    "id": "elvia-5859",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 117,
+    "lat": 59.932401886894496,
+    "lng": 10.786563266504215,
+    "start": "1.7.2026, 07:00:00",
+    "end": "8.7.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 0268",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5859,
+      "antallkunder": 117,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "0268",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1782943266000,
+      "utkoblingslutt": 1783483200000,
+      "utkoblingstart": 1782889200000
+    }
+  },
+  {
+    "id": "elvia-6759",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 403,
+    "lat": 59.92450476917708,
+    "lng": 10.776993957739169,
+    "start": "9.7.2026, 22:01:00",
+    "end": "10.7.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 1602",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6759,
+      "antallkunder": 403,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1602",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1783634879873,
+      "utkoblingslutt": 1783656000000,
+      "utkoblingstart": 1783634460000
+    }
+  },
+  {
+    "id": "elvia-6946",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.91181953754443,
+    "lng": 10.751734713080696,
+    "start": "9.7.2026, 22:05:00",
+    "end": "10.7.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 1886",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6946,
+      "antallkunder": 6,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1886",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1783656000000,
+      "utkoblingstart": 1783634700000
+    }
+  },
+  {
+    "id": "elvia-7037",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 22,
+    "lat": 59.948452745976134,
+    "lng": 10.701464202030012,
+    "start": "9.7.2026, 22:01:00",
+    "end": "10.7.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 2020",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7037,
+      "antallkunder": 22,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2020",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1783634554448,
+      "utkoblingslutt": 1783656000000,
+      "utkoblingstart": 1783634460000
+    }
+  },
+  {
+    "id": "elvia-8129",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.912781928399184,
+    "lng": 10.746902031147924,
+    "start": "9.7.2026, 22:01:00",
+    "end": "10.7.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 3623",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8129,
+      "antallkunder": 3,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "3623",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1783656000000,
+      "utkoblingstart": 1783634460000
     }
   },
   {
@@ -245,6 +296,52 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1783600200000,
       "utkoblingstart": 1783580400000
+    }
+  },
+  {
+    "id": "elvia-29293",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 25,
+    "lat": 59.58629107445353,
+    "lng": 11.161914765963022,
+    "start": "9.7.2026, 22:00:00",
+    "end": "10.7.2026, 02:00:00",
+    "areaName": "Indre Østfold / Askim / Z1082",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 29293,
+      "antallkunder": 25,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "Z1082",
+      "poststed": "Askim",
+      "strombruddoppdaget": 1783634726000,
+      "utkoblingslutt": 1783648800000,
+      "utkoblingstart": 1783634400000
+    }
+  },
+  {
+    "id": "elvia-29294",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 21,
+    "lat": 59.589093867425206,
+    "lng": 11.162068518962245,
+    "start": "9.7.2026, 22:00:00",
+    "end": "10.7.2026, 02:00:00",
+    "areaName": "Indre Østfold / Askim / Z1083",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 29294,
+      "antallkunder": 21,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "Z1083",
+      "poststed": "Askim",
+      "strombruddoppdaget": 1783634726000,
+      "utkoblingslutt": 1783648800000,
+      "utkoblingstart": 1783634400000
     }
   },
   {
@@ -608,20 +705,20 @@
     }
   },
   {
-    "id": "lnett-planned-3",
+    "id": "lnett-planned-1",
     "company": "Lnett",
     "type": "planned",
-    "customers": 7,
-    "lat": 58.88182472227305,
-    "lng": 5.686868763907761,
-    "start": "8.7.2026, 16:18:00",
+    "customers": 174,
+    "lat": 58.960644288278175,
+    "lng": 5.736008958559014,
+    "start": "10.7.2026, 00:14:00",
     "end": null,
     "areaName": "Planlagt vedlikehold",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 7",
-      "description": "Rettet\nStartet: 2026-07-08 16:18\nSluttid: 2026-07-08 17:54\nPlanlagt strømstans",
-      "styleUrl": "#green"
+      "name": "Berørte kunder: 174",
+      "description": "Planlagt strømstans\nStartet: 2026-07-10 00:14\nPlanlagt ferdig: 2026-07-10 04:00\nPlanlagt strømstans",
+      "styleUrl": "#yellow"
     }
   },
   {
