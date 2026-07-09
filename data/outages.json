@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.346240154781555,
+    "lng": 5.351609999124846,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9780422,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1783623600000,
+      "TIMELIMIT": 1783652400000,
+      "NUM_AB": 86,
+      "CUSTOMER_WEB_TEXT": "5072 BERGEN; FANTOFTVEGEN,ØVRE FANTOFTÅSEN,ÅSBAKKEN,VESTRE FANTOFTÅSEN\r\n5231 PARADIS; STORETVEITVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1783623659000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-17454",
     "company": "Elvia",
     "type": "planned",
@@ -66,52 +98,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1783600200000,
       "utkoblingstart": 1783580400000
-    }
-  },
-  {
-    "id": "elvia-27448",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.31581166603105,
-    "lng": 11.16326128922184,
-    "start": "9.7.2026, 17:44:10",
-    "end": "9.7.2026, 21:20:10",
-    "areaName": "Sarpsborg / Hafslundsøy / X0263",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27448,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0263",
-      "poststed": "Hafslundsøy",
-      "strombruddoppdaget": 1783619050000,
-      "utkoblingslutt": 1783632010000,
-      "utkoblingstart": 1783619050000
-    }
-  },
-  {
-    "id": "elvia-28277",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 59.25301321348071,
-    "lng": 10.730466759151405,
-    "start": "9.7.2026, 17:14:41",
-    "end": "9.7.2026, 20:50:41",
-    "areaName": "Fredrikstad / Engelsviken / X2200",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28277,
-      "antallkunder": 16,
-      "avbruddstype": "Unplanned",
-      "kommune": "Fredrikstad",
-      "nettstasjon": "X2200",
-      "poststed": "Engelsviken",
-      "strombruddoppdaget": 1783617281000,
-      "utkoblingslutt": 1783630241000,
-      "utkoblingstart": 1783617281000
     }
   },
   {
@@ -601,34 +587,6 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70721-1",
       "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70728-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 732,
-    "lat": 59.769402763000016,
-    "lng": 10.476277728000014,
-    "start": "9.7.2026, 17:44:55",
-    "end": null,
-    "areaName": "BØDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217830,
-      "REFNR": "H70728",
-      "SEKUNDÆRSTASJON": "BØDALEN",
-      "AVGANG": "K7_R385",
-      "CNT": 732,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nEVJETUNVEIEN 2, KIRKEALLEEN, ODALSVEIEN 64, BERGLIVEIEN, BØDALEN KIWI, KVERNVEIEN, DAMBO, PRESTENGA 49, PRESTENGA, BILGUSS, RORTUNET, BORGUN, NYBYGGET, ØDEGÅRDSLIA, SLEMMESTAD KAPELL, PRESTENGLIA, BLÅVEISVEIEN 28, ODALSVEIEN 43, ØDEGÅRDEN, BLÅVEISVEIEN 2.",
-      "FRA_DATO": 1783619095000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70728-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nEVJETUNVEIEN 2, KIRKEALLEEN, ODALSVEIEN 64, BERGLIVEIEN, BØDALEN KIWI, KVERNVEIEN, DAMBO, PRESTENGA 49, PRESTENGA, BILGUSS, RORTUNET, BORGUN, NYBYGGET, ØDEGÅRDSLIA, SLEMMESTAD KAPELL, PRESTENGLIA, BLÅVEISVEIEN 28, ODALSVEIEN 43, ØDEGÅRDEN, BLÅVEISVEIEN 2."
     }
   }
 ]
