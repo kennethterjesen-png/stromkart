@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-23015",
+    "id": "elvia-15369",
     "company": "Elvia",
     "type": "planned",
-    "customers": 2,
-    "lat": 60.21179057870495,
-    "lng": 11.042446134663114,
-    "start": "9.7.2026, 10:42:18",
-    "end": "9.7.2026, 14:18:18",
-    "areaName": "Nannestad / Nannestad / M1025",
+    "customers": 17,
+    "lat": 60.82986008914678,
+    "lng": 11.131387180639013,
+    "start": "9.7.2026, 14:53:56",
+    "end": "9.7.2026, 18:29:56",
+    "areaName": "Hamar / Ingeberg / ENS04721",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 23015,
-      "antallkunder": 2,
+      "OBJECTID": 15369,
+      "antallkunder": 17,
       "avbruddstype": "Unplanned",
-      "kommune": "Nannestad",
-      "nettstasjon": "M1025",
-      "poststed": "Nannestad",
-      "strombruddoppdaget": 1783593738000,
-      "utkoblingslutt": 1783606698000,
-      "utkoblingstart": 1783593738000
+      "kommune": "Hamar",
+      "nettstasjon": "ENS04721",
+      "poststed": "Ingeberg",
+      "strombruddoppdaget": 1783608836000,
+      "utkoblingslutt": 1783621796000,
+      "utkoblingstart": 1783608836000
     }
   },
   {
@@ -43,29 +43,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1783600200000,
       "utkoblingstart": 1783580400000
-    }
-  },
-  {
-    "id": "elvia-26835",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.465033305441345,
-    "lng": 11.66323922899914,
-    "start": "9.7.2026, 13:06:33",
-    "end": "9.7.2026, 16:42:33",
-    "areaName": "Marker / Ørje / W0139",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26835,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Marker",
-      "nettstasjon": "W0139",
-      "poststed": "Ørje",
-      "strombruddoppdaget": 1783602393000,
-      "utkoblingslutt": 1783615353000,
-      "utkoblingstart": 1783602393000
     }
   },
   {
