@@ -1,5 +1,175 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.42381379812449,
+    "lng": 5.307407917028871,
+    "start": null,
+    "end": null,
+    "areaName": "Ukjent område",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9804902,
+      "MUNICIPAL_TXT": null,
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1783580400000,
+      "TIMELIMIT": 1783591200000,
+      "NUM_AB": 1,
+      "CUSTOMER_WEB_TEXT": null,
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1783592302000,
+      "SCHEDULED_SMS_DAYS_BEFORE": -1,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "elvia-7295",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 13,
+    "lat": 59.964669906292315,
+    "lng": 10.752532961650022,
+    "start": "6.7.2026, 07:00:00",
+    "end": "6.7.2026, 09:00:00",
+    "areaName": "Oslo / Oslo / 2380",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7295,
+      "antallkunder": 13,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2380",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1783321750822,
+      "utkoblingslutt": 1783328400000,
+      "utkoblingstart": 1783321200000
+    }
+  },
+  {
+    "id": "elvia-12323",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 84,
+    "lat": 61.295844674895406,
+    "lng": 12.216975553575715,
+    "start": "9.7.2026, 06:30:00",
+    "end": "9.7.2026, 10:30:00",
+    "areaName": "Trysil / Trysil / ENS00206",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 12323,
+      "antallkunder": 84,
+      "avbruddstype": "Planned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS00206",
+      "poststed": "Trysil",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1783593000000,
+      "utkoblingstart": 1783578600000
+    }
+  },
+  {
+    "id": "elvia-15134",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 17,
+    "lat": 60.88562552814803,
+    "lng": 11.06372120593476,
+    "start": "9.7.2026, 08:26:02",
+    "end": "9.7.2026, 12:02:02",
+    "areaName": "Ringsaker / Furnes / ENS04313",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15134,
+      "antallkunder": 17,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ringsaker",
+      "nettstasjon": "ENS04313",
+      "poststed": "Furnes",
+      "strombruddoppdaget": 1783585562000,
+      "utkoblingslutt": 1783598522000,
+      "utkoblingstart": 1783585562000
+    }
+  },
+  {
+    "id": "elvia-15983",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 54,
+    "lat": 61.14278632145146,
+    "lng": 10.708779445183358,
+    "start": "9.7.2026, 09:29:51",
+    "end": "9.7.2026, 13:05:51",
+    "areaName": "Ringsaker / Sjusjøen / ENS05716",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15983,
+      "antallkunder": 54,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ringsaker",
+      "nettstasjon": "ENS05716",
+      "poststed": "Sjusjøen",
+      "strombruddoppdaget": 1783589391000,
+      "utkoblingslutt": 1783602351000,
+      "utkoblingstart": 1783589391000
+    }
+  },
+  {
+    "id": "elvia-23015",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 60.21179057870495,
+    "lng": 11.042446134663114,
+    "start": "9.7.2026, 10:42:18",
+    "end": "9.7.2026, 14:18:18",
+    "areaName": "Nannestad / Nannestad / M1025",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 23015,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nannestad",
+      "nettstasjon": "M1025",
+      "poststed": "Nannestad",
+      "strombruddoppdaget": 1783593738000,
+      "utkoblingslutt": 1783606698000,
+      "utkoblingstart": 1783593738000
+    }
+  },
+  {
+    "id": "elvia-24697",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.117785530586666,
+    "lng": 11.312454728045218,
+    "start": "9.7.2026, 07:00:00",
+    "end": "9.7.2026, 12:30:00",
+    "areaName": "Halden / Halden / Q0528",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24697,
+      "antallkunder": 9,
+      "avbruddstype": "Planned",
+      "kommune": "Halden",
+      "nettstasjon": "Q0528",
+      "poststed": "Halden",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1783600200000,
+      "utkoblingstart": 1783580400000
+    }
+  },
+  {
     "id": "fagne-4527509",
     "company": "Fagne",
     "type": "planned",
@@ -38,25 +208,6 @@
     }
   },
   {
-    "id": "fagne-4532828",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.631732957385076,
-    "lng": 5.511569296811892,
-    "start": "7.9.2026, 07:00:00",
-    "end": "7.9.2026, 11:00:00",
-    "areaName": "SVEIO",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SVEIO",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "fagne-4537924",
     "company": "Fagne",
     "type": "planned",
@@ -76,27 +227,27 @@
     }
   },
   {
-    "id": "linja-outage-3350884",
+    "id": "linja-outage-3356497",
     "company": "Linja",
     "type": "outage",
-    "customers": 58,
-    "lat": 61.596102650298135,
-    "lng": 5.057178965445884,
-    "start": "9.7.2026, 07:00:00",
+    "customers": 1,
+    "lat": 62.07811387091401,
+    "lng": 5.4053232860087395,
+    "start": "9.7.2026, 09:10:00",
     "end": null,
-    "areaName": "KINN / Linja Sør",
+    "areaName": "STAD",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3350884,
-      "CUSTOMER_WEB_TEXT": "Trafo Nybømarka vert utkobla den 09.07 frå omlag kl 09 til kl 12 pga arbeid",
+      "EVENTID": 3356497,
+      "CUSTOMER_WEB_TEXT": null,
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1783580400000,
+      "STARTTIME": 1783588200000,
       "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "KINN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 58
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "STAD",
+      "PURCHAREA_TXT": null,
+      "NUM_NS": 1,
+      "NUM_AB": 1
     }
   },
   {
@@ -429,23 +580,6 @@
     }
   },
   {
-    "id": "lnett-planned-7",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 3,
-    "lat": 58.85677617612032,
-    "lng": 5.799248226782242,
-    "start": "9.7.2026, 08:10:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 3",
-      "description": "Planlagt strømstans\nStartet: 2026-07-09 08:10\nPlanlagt ferdig: 2026-07-09 14:00",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2880-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -589,28 +723,28 @@
     "id": "norgesnett-outage-V-70726-1",
     "company": "Norgesnett",
     "type": "outage",
-    "customers": 218,
-    "lat": 59.815592751999986,
-    "lng": 10.832624337000027,
+    "customers": 10,
+    "lat": 59.81678436200002,
+    "lng": 10.903865016999987,
     "start": "9.7.2026, 06:24:31",
     "end": null,
     "areaName": "BRU",
     "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
     "raw": {
-      "OBJECTID": 1217827,
+      "OBJECTID": 1217828,
       "REFNR": "H70726",
       "SEKUNDÆRSTASJON": "BRU",
       "AVGANG": "L24",
-      "CNT": 218,
+      "CNT": 10,
       "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nGRØNSLETT, LANGÅRD, BROKKENHUS, SYVERUD BRUK, ØSTBY, BARLI, SIGGERUDBRÅTEN, SIGGERUD SAG, EKORNVEGEN.",
+      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \nOppdatering kl. 10:53  10 berørte kunder. Feil funnet på trafo\n \nBerørte områder: \n\nØSTBY",
       "FRA_DATO": 1783578271000,
       "TIL_DATO": null,
       "LOGGTYPE": "Høyspent",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70726-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nGRØNSLETT, LANGÅRD, BROKKENHUS, SYVERUD BRUK, ØSTBY, BARLI, SIGGERUDBRÅTEN, SIGGERUD SAG, EKORNVEGEN."
+      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \nOppdatering kl. 10:53  10 berørte kunder. Feil funnet på trafo\n \nBerørte områder: \n\nØSTBY"
     }
   }
 ]
