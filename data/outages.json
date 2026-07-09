@@ -1,5 +1,129 @@
 [
   {
+    "id": "fagne-4527509",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.23102221366922,
+    "lng": 5.183858864554788,
+    "start": "7.9.2026, 08:00:00",
+    "end": "7.9.2026, 12:00:00",
+    "areaName": "KARMØY",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "KARMØY",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "fagne-4539008",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.405726973028116,
+    "lng": 5.651967407557009,
+    "start": "7.9.2026, 07:00:00",
+    "end": "7.9.2026, 13:00:00",
+    "areaName": "TYSVÆR",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "TYSVÆR",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "fagne-4532828",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.631732957385076,
+    "lng": 5.511569296811892,
+    "start": "7.9.2026, 07:00:00",
+    "end": "7.9.2026, 11:00:00",
+    "areaName": "SVEIO",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "SVEIO",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "fagne-4537924",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 23,
+    "lat": 59.49339200721536,
+    "lng": 5.637028459818621,
+    "start": "7.9.2026, 07:00:00",
+    "end": "7.9.2026, 13:00:00",
+    "areaName": "VINDAFJORD",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "VINDAFJORD",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "linja-outage-3350884",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 58,
+    "lat": 61.596102650298135,
+    "lng": 5.057178965445884,
+    "start": "9.7.2026, 07:00:00",
+    "end": null,
+    "areaName": "KINN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3350884,
+      "CUSTOMER_WEB_TEXT": "Trafo Nybømarka vert utkobla den 09.07 frå omlag kl 09 til kl 12 pga arbeid",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1783580400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "KINN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 58
+    }
+  },
+  {
+    "id": "linja-planned-3356357",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.9347551958647,
+    "lng": 6.845098368270137,
+    "start": "14.7.2026, 09:00:00",
+    "end": null,
+    "areaName": "STRYN / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3356357,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Garlid tirsdag 14.juli fra kl. 11:00 til 16:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1784019600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "STRYN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3339872",
     "company": "Linja",
     "type": "planned",
@@ -41,6 +165,30 @@
       "STARTTIME": 1784268000000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 128,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3354564",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.43882343593681,
+    "lng": 6.353316274330254,
+    "start": "13.7.2026, 06:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3354564,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Vegsundrabben, Rabbevågen, Skytterholm, Storevågen og Tørlevegen mandag 13.juli fra kl. 08:00 til 13:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1783922400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
@@ -208,57 +356,9 @@
       "STATE_TXT": "Godkjent",
       "STARTTIME": 1783924200000,
       "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
+      "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "VOLDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3354492",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.14386935768603,
-    "lng": 6.069955203096472,
-    "start": "13.7.2026, 08:30:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3354492,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Snippa, Hamnegata og Holmen mandag 13.juli fra kl. 10:30 til 12:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1783931400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3354564",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.43882343593681,
-    "lng": 6.353316274330254,
-    "start": "13.7.2026, 06:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3354564,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Vegsundrabben, Rabbevågen, Skytterholm, Storevågen og Tørlevegen mandag 13.juli fra kl. 08:00 til 13:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1783922400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -288,6 +388,30 @@
     }
   },
   {
+    "id": "linja-planned-3354492",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.14386935768603,
+    "lng": 6.069955203096472,
+    "start": "13.7.2026, 08:30:00",
+    "end": null,
+    "areaName": "VOLDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3354492,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Snippa, Hamnegata og Holmen mandag 13.juli fra kl. 10:30 til 12:30.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1783931400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "VOLDA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
@@ -302,6 +426,23 @@
       "name": "Berørte kunder: 7",
       "description": "Rettet\nStartet: 2026-07-08 16:18\nSluttid: 2026-07-08 17:54\nPlanlagt strømstans",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-planned-7",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 3,
+    "lat": 58.85677617612032,
+    "lng": 5.799248226782242,
+    "start": "9.7.2026, 08:10:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 3",
+      "description": "Planlagt strømstans\nStartet: 2026-07-09 08:10\nPlanlagt ferdig: 2026-07-09 14:00",
+      "styleUrl": "#yellow"
     }
   },
   {
@@ -389,34 +530,6 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-70689-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 42,
-    "lat": 59.716309341,
-    "lng": 10.818856530000005,
-    "start": "9.7.2026, 07:00:28",
-    "end": "9.7.2026, 13:00:28",
-    "areaName": "FINSTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217777,
-      "REFNR": "P70689",
-      "SEKUNDÆRSTASJON": "FINSTAD",
-      "AVGANG": "L81",
-      "CNT": 42,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1783580428000,
-      "TIL_DATO": 1783602028000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70689-1",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-planned-V-70721-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -442,6 +555,62 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70721-1",
       "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70689-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 42,
+    "lat": 59.716309341,
+    "lng": 10.818856530000005,
+    "start": "9.7.2026, 07:00:28",
+    "end": "9.7.2026, 13:00:28",
+    "areaName": "FINSTAD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217777,
+      "REFNR": "P70689",
+      "SEKUNDÆRSTASJON": "FINSTAD",
+      "AVGANG": "L81",
+      "CNT": 42,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1783580428000,
+      "TIL_DATO": 1783602028000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70689-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70726-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 218,
+    "lat": 59.815592751999986,
+    "lng": 10.832624337000027,
+    "start": "9.7.2026, 06:24:31",
+    "end": null,
+    "areaName": "BRU",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217827,
+      "REFNR": "H70726",
+      "SEKUNDÆRSTASJON": "BRU",
+      "AVGANG": "L24",
+      "CNT": 218,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nGRØNSLETT, LANGÅRD, BROKKENHUS, SYVERUD BRUK, ØSTBY, BARLI, SIGGERUDBRÅTEN, SIGGERUD SAG, EKORNVEGEN.",
+      "FRA_DATO": 1783578271000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Høyspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70726-1",
+      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nGRØNSLETT, LANGÅRD, BROKKENHUS, SYVERUD BRUK, ØSTBY, BARLI, SIGGERUDBRÅTEN, SIGGERUD SAG, EKORNVEGEN."
     }
   }
 ]
