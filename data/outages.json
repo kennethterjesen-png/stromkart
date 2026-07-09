@@ -1,25 +1,48 @@
 [
   {
-    "id": "elvia-15369",
+    "id": "elvia-17454",
     "company": "Elvia",
     "type": "planned",
-    "customers": 17,
-    "lat": 60.82986008914678,
-    "lng": 11.131387180639013,
-    "start": "9.7.2026, 14:53:56",
-    "end": "9.7.2026, 18:29:56",
-    "areaName": "Hamar / Ingeberg / ENS04721",
+    "customers": 3,
+    "lat": 61.37220966646728,
+    "lng": 11.932486681504578,
+    "start": "9.7.2026, 17:46:35",
+    "end": "9.7.2026, 21:22:35",
+    "areaName": "Trysil / Slettås / ENS08001",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 15369,
-      "antallkunder": 17,
+      "OBJECTID": 17454,
+      "antallkunder": 3,
       "avbruddstype": "Unplanned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS04721",
-      "poststed": "Ingeberg",
-      "strombruddoppdaget": 1783608836000,
-      "utkoblingslutt": 1783621796000,
-      "utkoblingstart": 1783608836000
+      "kommune": "Trysil",
+      "nettstasjon": "ENS08001",
+      "poststed": "Slettås",
+      "strombruddoppdaget": 1783619195000,
+      "utkoblingslutt": 1783632155000,
+      "utkoblingstart": 1783619195000
+    }
+  },
+  {
+    "id": "elvia-22170",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 59.3629645450919,
+    "lng": 10.956088439997641,
+    "start": "9.7.2026, 17:57:38",
+    "end": "9.7.2026, 21:33:38",
+    "areaName": "Råde / Råde / J0015",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22170,
+      "antallkunder": 10,
+      "avbruddstype": "Unplanned",
+      "kommune": "Råde",
+      "nettstasjon": "J0015",
+      "poststed": "Råde",
+      "strombruddoppdaget": 1783619858000,
+      "utkoblingslutt": 1783632818000,
+      "utkoblingstart": 1783619858000
     }
   },
   {
@@ -43,6 +66,52 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1783600200000,
       "utkoblingstart": 1783580400000
+    }
+  },
+  {
+    "id": "elvia-27448",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.31581166603105,
+    "lng": 11.16326128922184,
+    "start": "9.7.2026, 17:44:10",
+    "end": "9.7.2026, 21:20:10",
+    "areaName": "Sarpsborg / Hafslundsøy / X0263",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27448,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0263",
+      "poststed": "Hafslundsøy",
+      "strombruddoppdaget": 1783619050000,
+      "utkoblingslutt": 1783632010000,
+      "utkoblingstart": 1783619050000
+    }
+  },
+  {
+    "id": "elvia-28277",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 16,
+    "lat": 59.25301321348071,
+    "lng": 10.730466759151405,
+    "start": "9.7.2026, 17:14:41",
+    "end": "9.7.2026, 20:50:41",
+    "areaName": "Fredrikstad / Engelsviken / X2200",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28277,
+      "antallkunder": 16,
+      "avbruddstype": "Unplanned",
+      "kommune": "Fredrikstad",
+      "nettstasjon": "X2200",
+      "poststed": "Engelsviken",
+      "strombruddoppdaget": 1783617281000,
+      "utkoblingslutt": 1783630241000,
+      "utkoblingstart": 1783617281000
     }
   },
   {
@@ -532,6 +601,34 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70721-1",
       "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70728-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 732,
+    "lat": 59.769402763000016,
+    "lng": 10.476277728000014,
+    "start": "9.7.2026, 17:44:55",
+    "end": null,
+    "areaName": "BØDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217830,
+      "REFNR": "H70728",
+      "SEKUNDÆRSTASJON": "BØDALEN",
+      "AVGANG": "K7_R385",
+      "CNT": 732,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nEVJETUNVEIEN 2, KIRKEALLEEN, ODALSVEIEN 64, BERGLIVEIEN, BØDALEN KIWI, KVERNVEIEN, DAMBO, PRESTENGA 49, PRESTENGA, BILGUSS, RORTUNET, BORGUN, NYBYGGET, ØDEGÅRDSLIA, SLEMMESTAD KAPELL, PRESTENGLIA, BLÅVEISVEIEN 28, ODALSVEIEN 43, ØDEGÅRDEN, BLÅVEISVEIEN 2.",
+      "FRA_DATO": 1783619095000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Høyspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70728-1",
+      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nEVJETUNVEIEN 2, KIRKEALLEEN, ODALSVEIEN 64, BERGLIVEIEN, BØDALEN KIWI, KVERNVEIEN, DAMBO, PRESTENGA 49, PRESTENGA, BILGUSS, RORTUNET, BORGUN, NYBYGGET, ØDEGÅRDSLIA, SLEMMESTAD KAPELL, PRESTENGLIA, BLÅVEISVEIEN 28, ODALSVEIEN 43, ØDEGÅRDEN, BLÅVEISVEIEN 2."
     }
   }
 ]
