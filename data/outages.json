@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-2808",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 61.186553521384326,
-    "lng": 12.541899081255988,
-    "start": "10.7.2026, 17:02:47",
-    "end": "10.7.2026, 20:38:47",
-    "areaName": "Trysil / Nybergsund / ENS08257",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 2808,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS08257",
-      "poststed": "Nybergsund",
-      "strombruddoppdaget": 1783702967000,
-      "utkoblingslutt": 1783715927000,
-      "utkoblingstart": 1783702967000
-    }
-  },
-  {
     "id": "linja-planned-3356589",
     "company": "Linja",
     "type": "planned",
@@ -421,23 +398,6 @@
       "name": "Berørte kunder: 25",
       "description": "Rettet\nStartet: 2026-07-10 09:04\nSluttid: 2026-07-10 11:15\nPlanlagt strømstans",
       "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-outage-5",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 372,
-    "lat": 58.910049296974094,
-    "lng": 5.676397550777867,
-    "start": "10.7.2026, 20:34:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 372",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-10 20:34\nMontører er på vei",
-      "styleUrl": "#red"
     }
   },
   {
