@@ -6,7 +6,7 @@
     "customers": 1,
     "lat": 59.9175161099217,
     "lng": 10.521616077136326,
-    "start": "10.7.2026, 21:20:00",
+    "start": "9.7.2026, 23:05:11",
     "end": "11.7.2026, 01:05:00",
     "areaName": "Bærum / Gjettum / B0488",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -17,9 +17,9 @@
       "kommune": "Bærum",
       "nettstasjon": "B0488",
       "poststed": "Gjettum",
-      "strombruddoppdaget": 1783718400408,
+      "strombruddoppdaget": 1783638311000,
       "utkoblingslutt": 1783731900000,
-      "utkoblingstart": 1783718400408
+      "utkoblingstart": 1783638311000
     }
   },
   {
@@ -29,7 +29,7 @@
     "customers": 4,
     "lat": 59.913187495548655,
     "lng": 10.533172875557211,
-    "start": "10.7.2026, 21:20:00",
+    "start": "9.7.2026, 23:05:11",
     "end": "11.7.2026, 01:05:00",
     "areaName": "Bærum / Gjettum / B0691",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -40,9 +40,9 @@
       "kommune": "Bærum",
       "nettstasjon": "B0691",
       "poststed": "Gjettum",
-      "strombruddoppdaget": 1783718400408,
+      "strombruddoppdaget": 1783638311000,
       "utkoblingslutt": 1783731900000,
-      "utkoblingstart": 1783718400408
+      "utkoblingstart": 1783638311000
     }
   },
   {
@@ -52,7 +52,7 @@
     "customers": 2,
     "lat": 59.9244872114692,
     "lng": 10.534327244900497,
-    "start": "10.7.2026, 21:20:00",
+    "start": "9.7.2026, 23:05:11",
     "end": "11.7.2026, 01:05:00",
     "areaName": "Bærum / Gjettum / B0958",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -63,9 +63,9 @@
       "kommune": "Bærum",
       "nettstasjon": "B0958",
       "poststed": "Gjettum",
-      "strombruddoppdaget": 1783718400408,
+      "strombruddoppdaget": 1783638311000,
       "utkoblingslutt": 1783731900000,
-      "utkoblingstart": 1783718400408
+      "utkoblingstart": 1783638311000
     }
   },
   {
@@ -75,7 +75,7 @@
     "customers": 2,
     "lat": 59.91750774358326,
     "lng": 10.535219360912935,
-    "start": "10.7.2026, 21:20:00",
+    "start": "9.7.2026, 23:05:11",
     "end": "11.7.2026, 01:05:00",
     "areaName": "Bærum / Gjettum / B1041",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -86,9 +86,9 @@
       "kommune": "Bærum",
       "nettstasjon": "B1041",
       "poststed": "Gjettum",
-      "strombruddoppdaget": 1783718400408,
+      "strombruddoppdaget": 1783638311000,
       "utkoblingslutt": 1783731900000,
-      "utkoblingstart": 1783718400408
+      "utkoblingstart": 1783638311000
     }
   },
   {
@@ -98,7 +98,7 @@
     "customers": 20,
     "lat": 59.91044560399985,
     "lng": 10.526738788707746,
-    "start": "10.7.2026, 21:20:00",
+    "start": "9.7.2026, 23:05:11",
     "end": "11.7.2026, 01:05:00",
     "areaName": "Bærum / Gjettum / B2116",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -109,9 +109,9 @@
       "kommune": "Bærum",
       "nettstasjon": "B2116",
       "poststed": "Gjettum",
-      "strombruddoppdaget": 1783718400408,
+      "strombruddoppdaget": 1783638311000,
       "utkoblingslutt": 1783731900000,
-      "utkoblingstart": 1783718400408
+      "utkoblingstart": 1783638311000
     }
   },
   {
