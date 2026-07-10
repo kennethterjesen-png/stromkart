@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-14532",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 40,
-    "lat": 61.107779116062474,
-    "lng": 10.477858490047591,
-    "start": "10.7.2026, 09:38:04",
-    "end": "10.7.2026, 13:14:04",
-    "areaName": "Lillehammer / Lillehammer / ENS03445",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14532,
-      "antallkunder": 40,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03445",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": 1783676284000,
-      "utkoblingslutt": 1783689244000,
-      "utkoblingstart": 1783676284000
-    }
-  },
-  {
-    "id": "elvia-23664",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 60.20920586501101,
-    "lng": 11.564251443642402,
-    "start": "10.7.2026, 12:21:07",
-    "end": "10.7.2026, 15:57:07",
-    "areaName": "Nes / Skogbygda / N7028",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23664,
-      "antallkunder": 15,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N7028",
-      "poststed": "Skogbygda",
-      "strombruddoppdaget": 1783686067000,
-      "utkoblingslutt": 1783699027000,
-      "utkoblingstart": 1783686067000
-    }
-  },
-  {
     "id": "elvia-25084",
     "company": "Elvia",
     "type": "planned",
@@ -66,29 +20,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1783688400000,
       "utkoblingstart": 1783672200000
-    }
-  },
-  {
-    "id": "elvia-28067",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.26924186447998,
-    "lng": 11.339883538747031,
-    "start": "10.7.2026, 11:29:52",
-    "end": "10.7.2026, 15:05:52",
-    "areaName": "Sarpsborg / Ise / X1049",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28067,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X1049",
-      "poststed": "Ise",
-      "strombruddoppdaget": 1783682992000,
-      "utkoblingslutt": 1783695952000,
-      "utkoblingstart": 1783682992000
     }
   },
   {
@@ -490,23 +421,6 @@
       "name": "Berørte kunder: 25",
       "description": "Rettet\nStartet: 2026-07-10 09:04\nSluttid: 2026-07-10 11:15\nPlanlagt strømstans",
       "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-outage-3",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 11,
-    "lat": 58.93365859648546,
-    "lng": 5.722889089813434,
-    "start": "10.7.2026, 08:12:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 11",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-10 08:12\n11:20: Montøren er på plass. Estimert rettetid er kl 16:00.",
-      "styleUrl": "#red"
     }
   },
   {
