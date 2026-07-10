@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-25084",
+    "id": "elvia-2808",
     "company": "Elvia",
     "type": "planned",
-    "customers": 5,
-    "lat": 59.94746844185482,
-    "lng": 11.045652729632012,
-    "start": "10.7.2026, 08:30:00",
-    "end": "10.7.2026, 13:00:00",
-    "areaName": "Rælingen / Rælingen / R0306",
+    "customers": 2,
+    "lat": 61.186553521384326,
+    "lng": 12.541899081255988,
+    "start": "10.7.2026, 17:02:47",
+    "end": "10.7.2026, 20:38:47",
+    "areaName": "Trysil / Nybergsund / ENS08257",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 25084,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Rælingen",
-      "nettstasjon": "R0306",
-      "poststed": "Rælingen",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1783688400000,
-      "utkoblingstart": 1783672200000
+      "OBJECTID": 2808,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS08257",
+      "poststed": "Nybergsund",
+      "strombruddoppdaget": 1783702967000,
+      "utkoblingslutt": 1783715927000,
+      "utkoblingstart": 1783702967000
     }
   },
   {
