@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-12771",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 60.88830179889155,
+    "lng": 11.352225212758174,
+    "start": "11.7.2026, 10:32:06",
+    "end": "11.7.2026, 14:08:06",
+    "areaName": "Løten / Løten / ENS00867",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 12771,
+      "antallkunder": 3,
+      "avbruddstype": "Unplanned",
+      "kommune": "Løten",
+      "nettstasjon": "ENS00867",
+      "poststed": "Løten",
+      "strombruddoppdaget": 1783765926000,
+      "utkoblingslutt": 1783778886000,
+      "utkoblingstart": 1783765926000
+    }
+  },
+  {
     "id": "elvia-24816",
     "company": "Elvia",
     "type": "planned",
