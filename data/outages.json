@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.54220621216994,
-    "lng": 5.546703669008838,
-    "start": null,
-    "end": null,
-    "areaName": "Osterøy",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9809135,
-      "MUNICIPAL_TXT": "Osterøy",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783791720000,
-      "TIMELIMIT": 1783801800000,
-      "NUM_AB": 11,
-      "CUSTOMER_WEB_TEXT": "Feilretting pågår. Forventet innkobling 22:45.",
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1783796915000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-2654",
     "company": "Elvia",
     "type": "planned",
@@ -374,30 +342,6 @@
       "strombruddoppdaget": 1783779579000,
       "utkoblingslutt": 1783792539000,
       "utkoblingstart": 1783779579000
-    }
-  },
-  {
-    "id": "linja-outage-3358112",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 3,
-    "lat": 61.624131231903945,
-    "lng": 4.83128773334239,
-    "start": "11.7.2026, 16:11:00",
-    "end": null,
-    "areaName": "KINN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3358112,
-      "CUSTOMER_WEB_TEXT": "Utfall på Fanøya, Batalden og Barekstad. i Kinn kommune.Vi har montørar på veg. Rettetid uviss, det vil verte prøvekoplinger til vi finn området med feil.\r\nDet kan bli flere utfall i fra Ånnøy i forbindelse med seksjonering og prøvekobling.\r\n20:00 Vi har feil mellom Hilersøy og Skogadalsneset uviss rettetid, \r\n20;18 Det vil bli foretatt flere prøvekoblinger i området Ånnøy - Hillersøy, med mulig utfall fra Ånnøy til Skogadalsneset.\r\n20:32 Feil funnet ved Trafo Kjelda, vert truleg ikkje retta i dag i og med at ein ikkje kjem i land med utstyr. ",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783786260000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "KINN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 3
     }
   },
   {
