@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-1353",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.9175161099217,
-    "lng": 10.521616077136326,
-    "start": "9.7.2026, 23:05:11",
-    "end": "11.7.2026, 01:05:00",
-    "areaName": "Bærum / Gjettum / B0488",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 1353,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0488",
-      "poststed": "Gjettum",
-      "strombruddoppdaget": 1783638311000,
-      "utkoblingslutt": 1783731900000,
-      "utkoblingstart": 1783638311000
-    }
-  },
-  {
     "id": "linja-planned-3356589",
     "company": "Linja",
     "type": "planned",
