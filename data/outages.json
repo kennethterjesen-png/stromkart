@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.54220621216994,
+    "lng": 5.546703669008838,
+    "start": null,
+    "end": null,
+    "areaName": "Osterøy",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9809135,
+      "MUNICIPAL_TXT": "Osterøy",
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1783791720000,
+      "TIMELIMIT": 1783801800000,
+      "NUM_AB": 11,
+      "CUSTOMER_WEB_TEXT": "Feilretting pågår. Forventet innkobling 22:45.",
+      "GRIDLEVEL_TXT": "Lav",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1783796915000,
+      "SCHEDULED_SMS_DAYS_BEFORE": -1,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-2654",
     "company": "Elvia",
     "type": "planned",
@@ -43,6 +75,29 @@
       "strombruddoppdaget": 1783780099465,
       "utkoblingslutt": 1783793599000,
       "utkoblingstart": 1783780099465
+    }
+  },
+  {
+    "id": "elvia-16390",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 60.59644000332478,
+    "lng": 11.963622512266978,
+    "start": "11.7.2026, 18:43:13",
+    "end": "11.7.2026, 22:19:13",
+    "areaName": "Åsnes / Flisa / ENS06457",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 16390,
+      "antallkunder": 10,
+      "avbruddstype": "Unplanned",
+      "kommune": "Åsnes",
+      "nettstasjon": "ENS06457",
+      "poststed": "Flisa",
+      "strombruddoppdaget": 1783795393000,
+      "utkoblingslutt": 1783808353000,
+      "utkoblingstart": 1783795393000
     }
   },
   {
@@ -184,29 +239,6 @@
     }
   },
   {
-    "id": "elvia-17254",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 60.17719884840713,
-    "lng": 12.096120411395335,
-    "start": "11.7.2026, 17:06:55",
-    "end": "11.7.2026, 20:42:55",
-    "areaName": "Kongsvinger / Kongsvinger / ENS07717",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17254,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07717",
-      "poststed": "Kongsvinger",
-      "strombruddoppdaget": 1783789615000,
-      "utkoblingslutt": 1783802575000,
-      "utkoblingstart": 1783789615000
-    }
-  },
-  {
     "id": "elvia-18712",
     "company": "Elvia",
     "type": "planned",
@@ -299,29 +331,6 @@
     }
   },
   {
-    "id": "elvia-20136",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 61.05565254159311,
-    "lng": 11.942756464863166,
-    "start": "11.7.2026, 14:56:07",
-    "end": "11.7.2026, 18:41:07",
-    "areaName": "Elverum / Søre osen / ENS12054",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20136,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Elverum",
-      "nettstasjon": "ENS12054",
-      "poststed": "Søre osen",
-      "strombruddoppdaget": 1783781767599,
-      "utkoblingslutt": 1783795267000,
-      "utkoblingstart": 1783781767599
-    }
-  },
-  {
     "id": "elvia-21711",
     "company": "Elvia",
     "type": "planned",
@@ -380,7 +389,7 @@
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
       "EVENTID": 3358112,
-      "CUSTOMER_WEB_TEXT": "Utfall på Fanøya, Batalden og Barekstad. i Kinn kommune.Vi har montørar på veg. Rettetid uviss, det vil verte prøvekoplinger til vi finn området med feil.\r\nDet kan bli flere utfall i fra Ånnøy i forbindelse med seksjonering og prøvekobling.\r\n20:00 Vi har feil mellom Hilersøy og Skogadalsneset uviss rettetid, \r\n20;18 Det vil bli foretatt flere prøvekoblinger i området Ånnøy - Hillersøy, med mulig utfall fra Ånnøy til Skogadalsneset.",
+      "CUSTOMER_WEB_TEXT": "Utfall på Fanøya, Batalden og Barekstad. i Kinn kommune.Vi har montørar på veg. Rettetid uviss, det vil verte prøvekoplinger til vi finn området med feil.\r\nDet kan bli flere utfall i fra Ånnøy i forbindelse med seksjonering og prøvekobling.\r\n20:00 Vi har feil mellom Hilersøy og Skogadalsneset uviss rettetid, \r\n20;18 Det vil bli foretatt flere prøvekoblinger i området Ånnøy - Hillersøy, med mulig utfall fra Ånnøy til Skogadalsneset.\r\n20:32 Feil funnet ved Trafo Kjelda, vert truleg ikkje retta i dag i og med at ein ikkje kjem i land med utstyr. ",
       "STATE_TXT": "Pågående",
       "STARTTIME": 1783786260000,
       "TYPE_TXT": "Driftsforstyrrelse",
@@ -1014,34 +1023,6 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2885-1",
       "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70737-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 40,
-    "lat": 59.715090178000025,
-    "lng": 10.912745517000019,
-    "start": "11.7.2026, 16:41:45",
-    "end": null,
-    "areaName": "DRØMTORP",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217862,
-      "REFNR": "H70737",
-      "SEKUNDÆRSTASJON": "DRØMTORP",
-      "AVGANG": "L12",
-      "CNT": 40,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nOPPSANDVEIEN 28, OPPSANDV.45, SØNDRE SOLBERG, BJERKE ØSTRE, STREVOP, OPSAND II, SKREMMAVEIEN, STUNNER, SLORA, HØYBRÅTEN, GJEDSJØ SKOLE, STUBBERUD, SKEIDARKOLLEN, SOLBOTTMÅSAN, NESHØGDA, VASSHAGEN, GRØSTAD, ENGA, OPPSAND 1, NÆRE II, NÆRE I, BEKKEVAR.",
-      "FRA_DATO": 1783788105000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70737-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nOPPSANDVEIEN 28, OPPSANDV.45, SØNDRE SOLBERG, BJERKE ØSTRE, STREVOP, OPSAND II, SKREMMAVEIEN, STUNNER, SLORA, HØYBRÅTEN, GJEDSJØ SKOLE, STUBBERUD, SKEIDARKOLLEN, SOLBOTTMÅSAN, NESHØGDA, VASSHAGEN, GRØSTAD, ENGA, OPPSAND 1, NÆRE II, NÆRE I, BEKKEVAR."
     }
   }
 ]
