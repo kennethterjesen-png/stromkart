@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-12295",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 17,
+    "lat": 61.31442500126789,
+    "lng": 12.256726924278228,
+    "start": "11.7.2026, 14:58:25",
+    "end": "11.7.2026, 18:34:25",
+    "areaName": "Trysil / Trysil / ENS00153",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 12295,
+      "antallkunder": 17,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS00153",
+      "poststed": "Trysil",
+      "strombruddoppdaget": 1783781905000,
+      "utkoblingslutt": 1783794865000,
+      "utkoblingstart": 1783781905000
+    }
+  },
+  {
     "id": "elvia-12502",
     "company": "Elvia",
     "type": "planned",
@@ -69,29 +92,6 @@
     }
   },
   {
-    "id": "elvia-12771",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.88830179889155,
-    "lng": 11.352225212758174,
-    "start": "11.7.2026, 10:32:06",
-    "end": "11.7.2026, 14:08:06",
-    "areaName": "Løten / Løten / ENS00867",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12771,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Løten",
-      "nettstasjon": "ENS00867",
-      "poststed": "Løten",
-      "strombruddoppdaget": 1783765926000,
-      "utkoblingslutt": 1783778886000,
-      "utkoblingstart": 1783765926000
-    }
-  },
-  {
     "id": "elvia-16053",
     "company": "Elvia",
     "type": "planned",
@@ -112,6 +112,29 @@
       "strombruddoppdaget": 1783780099465,
       "utkoblingslutt": 1783793599000,
       "utkoblingstart": 1783780099465
+    }
+  },
+  {
+    "id": "elvia-16454",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 19,
+    "lat": 60.55933574742631,
+    "lng": 11.967851061551926,
+    "start": "11.7.2026, 15:01:48",
+    "end": "11.7.2026, 18:37:48",
+    "areaName": "Åsnes / Arneberg / ENS06561",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 16454,
+      "antallkunder": 19,
+      "avbruddstype": "Unplanned",
+      "kommune": "Åsnes",
+      "nettstasjon": "ENS06561",
+      "poststed": "Arneberg",
+      "strombruddoppdaget": 1783782108000,
+      "utkoblingslutt": 1783795068000,
+      "utkoblingstart": 1783782108000
     }
   },
   {
@@ -460,29 +483,6 @@
     }
   },
   {
-    "id": "elvia-16905",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 60.8385783768084,
-    "lng": 12.064467543142962,
-    "start": "11.7.2026, 13:22:50",
-    "end": "11.7.2026, 17:07:50",
-    "areaName": "Våler / Sørskogbygda / ENS07194",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16905,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Våler",
-      "nettstasjon": "ENS07194",
-      "poststed": "Sørskogbygda",
-      "strombruddoppdaget": 1783776170160,
-      "utkoblingslutt": 1783789670000,
-      "utkoblingstart": 1783776170160
-    }
-  },
-  {
     "id": "elvia-16914",
     "company": "Elvia",
     "type": "planned",
@@ -756,6 +756,29 @@
       "strombruddoppdaget": 1783779579000,
       "utkoblingslutt": 1783792539000,
       "utkoblingstart": 1783779579000
+    }
+  },
+  {
+    "id": "elvia-26190",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 60.06729202527871,
+    "lng": 11.106732463712506,
+    "start": "11.7.2026, 15:01:57",
+    "end": "11.7.2026, 18:37:57",
+    "areaName": "Ullensaker / Kløfta / U2814",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26190,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ullensaker",
+      "nettstasjon": "U2814",
+      "poststed": "Kløfta",
+      "strombruddoppdaget": 1783782117000,
+      "utkoblingslutt": 1783795077000,
+      "utkoblingstart": 1783782117000
     }
   },
   {
