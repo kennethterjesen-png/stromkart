@@ -299,29 +299,6 @@
     }
   },
   {
-    "id": "elvia-20135",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 61.04823236867515,
-    "lng": 11.924417535267336,
-    "start": "11.7.2026, 14:56:07",
-    "end": "11.7.2026, 18:41:07",
-    "areaName": "Elverum / Søre osen / ENS12053",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20135,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Elverum",
-      "nettstasjon": "ENS12053",
-      "poststed": "Søre osen",
-      "strombruddoppdaget": 1783781767599,
-      "utkoblingslutt": 1783795267000,
-      "utkoblingstart": 1783781767599
-    }
-  },
-  {
     "id": "elvia-20136",
     "company": "Elvia",
     "type": "planned",
@@ -391,50 +368,27 @@
     }
   },
   {
-    "id": "elvia-26190",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.06729202527871,
-    "lng": 11.106732463712506,
-    "start": "11.7.2026, 15:01:57",
-    "end": "11.7.2026, 18:37:57",
-    "areaName": "Ullensaker / Kløfta / U2814",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26190,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ullensaker",
-      "nettstasjon": "U2814",
-      "poststed": "Kløfta",
-      "strombruddoppdaget": 1783782117000,
-      "utkoblingslutt": 1783795077000,
-      "utkoblingstart": 1783782117000
-    }
-  },
-  {
     "id": "linja-outage-3358112",
     "company": "Linja",
     "type": "outage",
-    "customers": 142,
-    "lat": 61.660667702566805,
-    "lng": 4.866626699492454,
+    "customers": 3,
+    "lat": 61.624131231903945,
+    "lng": 4.83128773334239,
     "start": "11.7.2026, 16:11:00",
     "end": null,
     "areaName": "KINN / Linja Sør",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
       "EVENTID": 3358112,
-      "CUSTOMER_WEB_TEXT": "Utfall på Fanøya og Batalden i Kinn kommune.Vi har montørar på veg. Rettetid uviss, det vil verte prøvekoplinger til vi finn området med feil.\r\nDet kan bli flere utfall i fra Ånnøy i forbindelse med seksjonering og prøvekobling.",
+      "CUSTOMER_WEB_TEXT": "Utfall på Fanøya, Batalden og Barekstad. i Kinn kommune.Vi har montørar på veg. Rettetid uviss, det vil verte prøvekoplinger til vi finn området med feil.\r\nDet kan bli flere utfall i fra Ånnøy i forbindelse med seksjonering og prøvekobling.\r\n20:00 Vi har feil mellom Hilersøy og Skogadalsneset uviss rettetid, \r\n20;18 Det vil bli foretatt flere prøvekoblinger i området Ånnøy - Hillersøy, med mulig utfall fra Ånnøy til Skogadalsneset.",
       "STATE_TXT": "Pågående",
       "STARTTIME": 1783786260000,
       "TYPE_TXT": "Driftsforstyrrelse",
       "FLAG": 144,
       "MUNICIPAL_TXT": "KINN",
       "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 17,
-      "NUM_AB": 142
+      "NUM_NS": 0,
+      "NUM_AB": 3
     }
   },
   {
@@ -1060,6 +1014,34 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2885-1",
       "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70737-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 40,
+    "lat": 59.715090178000025,
+    "lng": 10.912745517000019,
+    "start": "11.7.2026, 16:41:45",
+    "end": null,
+    "areaName": "DRØMTORP",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1217862,
+      "REFNR": "H70737",
+      "SEKUNDÆRSTASJON": "DRØMTORP",
+      "AVGANG": "L12",
+      "CNT": 40,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nOPPSANDVEIEN 28, OPPSANDV.45, SØNDRE SOLBERG, BJERKE ØSTRE, STREVOP, OPSAND II, SKREMMAVEIEN, STUNNER, SLORA, HØYBRÅTEN, GJEDSJØ SKOLE, STUBBERUD, SKEIDARKOLLEN, SOLBOTTMÅSAN, NESHØGDA, VASSHAGEN, GRØSTAD, ENGA, OPPSAND 1, NÆRE II, NÆRE I, BEKKEVAR.",
+      "FRA_DATO": 1783788105000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Høyspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70737-1",
+      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nOPPSANDVEIEN 28, OPPSANDV.45, SØNDRE SOLBERG, BJERKE ØSTRE, STREVOP, OPSAND II, SKREMMAVEIEN, STUNNER, SLORA, HØYBRÅTEN, GJEDSJØ SKOLE, STUBBERUD, SKEIDARKOLLEN, SOLBOTTMÅSAN, NESHØGDA, VASSHAGEN, GRØSTAD, ENGA, OPPSAND 1, NÆRE II, NÆRE I, BEKKEVAR."
     }
   }
 ]
