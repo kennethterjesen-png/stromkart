@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-21444",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 59.95258202786819,
-    "lng": 11.165540299772017,
-    "start": "12.7.2026, 09:34:05",
-    "end": "12.7.2026, 13:10:05",
-    "areaName": "Lillestrøm / Fetsund / F2115",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21444,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "F2115",
-      "poststed": "Fetsund",
-      "strombruddoppdaget": 1783848845000,
-      "utkoblingslutt": 1783861805000,
-      "utkoblingstart": 1783848845000
-    }
-  },
-  {
     "id": "linja-planned-3356589",
     "company": "Linja",
     "type": "planned",
