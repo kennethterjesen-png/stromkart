@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-27615",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.33626588035039,
-    "lng": 10.95815038664009,
-    "start": "12.7.2026, 17:13:04",
-    "end": "12.7.2026, 20:49:04",
-    "areaName": "Sarpsborg / Råde / X0470",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27615,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0470",
-      "poststed": "Råde",
-      "strombruddoppdaget": 1783876384000,
-      "utkoblingslutt": 1783889344000,
-      "utkoblingstart": 1783876384000
-    }
-  },
-  {
     "id": "linja-planned-3356589",
     "company": "Linja",
     "type": "planned",
