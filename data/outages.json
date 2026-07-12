@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-10700",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 29,
+    "lat": 59.758028369079135,
+    "lng": 10.728706354885704,
+    "start": "12.7.2026, 11:56:56",
+    "end": "12.7.2026, 15:32:56",
+    "areaName": "Ås / Vinterbro / C0021",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 10700,
+      "antallkunder": 29,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ås",
+      "nettstasjon": "C0021",
+      "poststed": "Vinterbro",
+      "strombruddoppdaget": 1783857416000,
+      "utkoblingslutt": 1783870376000,
+      "utkoblingstart": 1783857416000
+    }
+  },
+  {
     "id": "elvia-11656",
     "company": "Elvia",
     "type": "planned",
