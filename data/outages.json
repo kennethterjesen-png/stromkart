@@ -1,25 +1,48 @@
 [
   {
-    "id": "elvia-18046",
+    "id": "elvia-11656",
     "company": "Elvia",
     "type": "planned",
-    "customers": 3,
-    "lat": 60.61262167612169,
-    "lng": 11.945184562102511,
-    "start": "12.7.2026, 07:25:24",
-    "end": "12.7.2026, 11:01:24",
-    "areaName": "Åsnes / Flisa / ENS08987",
+    "customers": 10,
+    "lat": 59.834462068749765,
+    "lng": 10.435212159215542,
+    "start": "12.7.2026, 09:49:55",
+    "end": "12.7.2026, 13:25:55",
+    "areaName": "Asker / Asker / D9079",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 18046,
-      "antallkunder": 3,
+      "OBJECTID": 11656,
+      "antallkunder": 10,
       "avbruddstype": "Unplanned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS08987",
-      "poststed": "Flisa",
-      "strombruddoppdaget": 1783841124000,
-      "utkoblingslutt": 1783854084000,
-      "utkoblingstart": 1783841124000
+      "kommune": "Asker",
+      "nettstasjon": "D9079",
+      "poststed": "Asker",
+      "strombruddoppdaget": 1783849795000,
+      "utkoblingslutt": 1783862755000,
+      "utkoblingstart": 1783849795000
+    }
+  },
+  {
+    "id": "elvia-21444",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.95258202786819,
+    "lng": 11.165540299772017,
+    "start": "12.7.2026, 09:34:05",
+    "end": "12.7.2026, 13:10:05",
+    "areaName": "Lillestrøm / Fetsund / F2115",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21444,
+      "antallkunder": 7,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "F2115",
+      "poststed": "Fetsund",
+      "strombruddoppdaget": 1783848845000,
+      "utkoblingslutt": 1783861805000,
+      "utkoblingstart": 1783848845000
     }
   },
   {
