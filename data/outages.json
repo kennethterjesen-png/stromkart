@@ -32,6 +32,30 @@
     }
   },
   {
+    "id": "linja-outage-3358973",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 189,
+    "lat": 61.30912456014434,
+    "lng": 4.714184069233352,
+    "start": "13.7.2026, 22:43:00",
+    "end": null,
+    "areaName": "ASKVOLL / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3358973,
+      "CUSTOMER_WEB_TEXT": "Straumlaust på Værlandet og Bulsndet inkl Alden. Vi veit ikkje kva som er årsaka. Rettetid uvisst. Vi arbeidar med saka.\r\n01:00 Bulandet frå Melvær, unnateke Kvaløy og Sandøy, er forsynt frå aggregat.\r\n01:15 Værlandet og Alden er straumlaus til vi har folk på plass og får finne ut av feilen. Rettetid  kl. 05:00",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1783982580000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "ASKVOLL",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 19,
+      "NUM_AB": 189
+    }
+  },
+  {
     "id": "linja-planned-3358857",
     "company": "Linja",
     "type": "planned",
