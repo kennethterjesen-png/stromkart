@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-9167",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.91698886811072,
+    "lng": 10.653041736047385,
+    "start": "13.7.2026, 15:12:01",
+    "end": "13.7.2026, 18:48:01",
+    "areaName": "Oslo / Oslo / 5236",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9167,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "5236",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1783955521000,
+      "utkoblingslutt": 1783968481000,
+      "utkoblingstart": 1783955521000
+    }
+  },
+  {
     "id": "elvia-23173",
     "company": "Elvia",
     "type": "planned",
