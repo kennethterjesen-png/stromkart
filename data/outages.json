@@ -32,30 +32,6 @@
     }
   },
   {
-    "id": "linja-outage-3358973",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 189,
-    "lat": 61.30912456014434,
-    "lng": 4.714184069233352,
-    "start": "13.7.2026, 22:43:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3358973,
-      "CUSTOMER_WEB_TEXT": "Straumlaust på Værlandet og Bulsndet inkl Alden. Vi veit ikkje kva som er årsaka. Rettetid uvisst. Vi arbeidar med saka.\r\n01:00 Bulandet frå Melvær, unnateke Kvaløy og Sandøy, er forsynt frå aggregat.\r\n01:15 Værlandet og Alden er straumlaus til vi har folk på plass og får finne ut av feilen. Rettetid  kl. 05:00",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1783982580000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "ASKVOLL",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 19,
-      "NUM_AB": 189
-    }
-  },
-  {
     "id": "linja-planned-3358857",
     "company": "Linja",
     "type": "planned",
@@ -365,6 +341,40 @@
       "MUNICIPAL_TXT": "ASKVOLL",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-outage-3",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 94,
+    "lat": 58.95917992092652,
+    "lng": 5.842323432530965,
+    "start": "14.7.2026, 04:07:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 94",
+      "description": "Driftsforstyrrelse\nStartet: 2026-07-14 04:07\n05:20 - Strømbrudd. Montører på vei for feilsøking.",
+      "styleUrl": "#red"
+    }
+  },
+  {
+    "id": "lnett-outage-5",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 39,
+    "lat": 58.899718692079674,
+    "lng": 5.784401966120011,
+    "start": "14.7.2026, 05:33:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 39",
+      "description": "Driftsforstyrrelse\nStartet: 2026-07-14 05:33\n05:47 - Feilsted funnet. Siste kunder innkoblet om ca 20 min.\n04:10 - Strømbrudd. Montører på veil for feilsøking. Strømmen kan komme og gå ifm videre feilsøking.",
+      "styleUrl": "#red"
     }
   },
   {
