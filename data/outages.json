@@ -32,6 +32,52 @@
     }
   },
   {
+    "id": "elvia-6778",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 327,
+    "lat": 59.91398291704229,
+    "lng": 10.767334691329886,
+    "start": "14.7.2026, 06:00:00",
+    "end": "15.7.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 1639",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6778,
+      "antallkunder": 327,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1639",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1784066495277,
+      "utkoblingslutt": 1784088000000,
+      "utkoblingstart": 1784008800000
+    }
+  },
+  {
+    "id": "elvia-22882",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 13,
+    "lat": 59.917723136245755,
+    "lng": 10.969442851087063,
+    "start": "14.7.2026, 21:13:01",
+    "end": "15.7.2026, 00:49:01",
+    "areaName": "Lørenskog / Finstadjordet / L0310",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22882,
+      "antallkunder": 13,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lørenskog",
+      "nettstasjon": "L0310",
+      "poststed": "Finstadjordet",
+      "strombruddoppdaget": 1784063581000,
+      "utkoblingslutt": 1784076541000,
+      "utkoblingstart": 1784063581000
+    }
+  },
+  {
     "id": "linja-planned-3339872",
     "company": "Linja",
     "type": "planned",
