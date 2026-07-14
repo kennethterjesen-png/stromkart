@@ -32,25 +32,71 @@
     }
   },
   {
-    "id": "linja-planned-3358857",
+    "id": "elvia-6578",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 51,
+    "lat": 59.945132985200324,
+    "lng": 10.826154087216503,
+    "start": "14.7.2026, 06:30:00",
+    "end": "14.7.2026, 07:00:00",
+    "areaName": "Oslo / Oslo / 1310",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6578,
+      "antallkunder": 51,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1310",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1784012400000,
+      "utkoblingstart": 1784010600000
+    }
+  },
+  {
+    "id": "elvia-28387",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.229221144301945,
+    "lng": 10.90353714215296,
+    "start": "14.7.2026, 06:00:00",
+    "end": "14.7.2026, 09:30:00",
+    "areaName": "Fredrikstad / Gressvik / X2328",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28387,
+      "antallkunder": 5,
+      "avbruddstype": "Planned",
+      "kommune": "Fredrikstad",
+      "nettstasjon": "X2328",
+      "poststed": "Gressvik",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1784021400000,
+      "utkoblingstart": 1784008800000
+    }
+  },
+  {
+    "id": "linja-planned-3354684",
     "company": "Linja",
     "type": "planned",
     "customers": 0,
-    "lat": 62.33311394001574,
-    "lng": 5.657939670570808,
-    "start": "14.7.2026, 07:00:00",
+    "lat": 62.47098099244263,
+    "lng": 6.2101770245231664,
+    "start": "17.7.2026, 06:00:00",
     "end": null,
-    "areaName": "HERØY / Linja Midt",
+    "areaName": "ÅLESUND / Linja Nord",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3358857,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området Bendalsvegen",
+      "EVENTID": 3354684,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hundsværgata og Nørvegata fredag 17.juli fra kl. 08:00 til 15:00.",
       "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784012400000,
+      "STARTTIME": 1784268000000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "HERØY",
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -75,30 +121,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "KINN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3354684",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.47098099244263,
-    "lng": 6.2101770245231664,
-    "start": "17.7.2026, 06:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3354684,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hundsværgata og Nørvegata fredag 17.juli fra kl. 08:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784268000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 128,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -224,30 +246,6 @@
     }
   },
   {
-    "id": "linja-planned-3357328",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.35844363034982,
-    "lng": 5.186800018211299,
-    "start": "14.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3357328,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Holmedalsvegen tirsdag 14.juli fra kl. 09:00 til 13:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784012400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 384,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "ASKVOLL",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3357380",
     "company": "Linja",
     "type": "planned",
@@ -341,40 +339,6 @@
       "MUNICIPAL_TXT": "ASKVOLL",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-outage-3",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 94,
-    "lat": 58.95917992092652,
-    "lng": 5.842323432530965,
-    "start": "14.7.2026, 04:07:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 94",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-14 04:07\n05:20 - Strømbrudd. Montører på vei for feilsøking.",
-      "styleUrl": "#red"
-    }
-  },
-  {
-    "id": "lnett-outage-5",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 39,
-    "lat": 58.899718692079674,
-    "lng": 5.784401966120011,
-    "start": "14.7.2026, 05:33:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 39",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-14 05:33\n05:47 - Feilsted funnet. Siste kunder innkoblet om ca 20 min.\n04:10 - Strømbrudd. Montører på veil for feilsøking. Strømmen kan komme og gå ifm videre feilsøking.",
-      "styleUrl": "#red"
     }
   },
   {
