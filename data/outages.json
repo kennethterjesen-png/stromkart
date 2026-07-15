@@ -1,5 +1,24 @@
 [
   {
+    "id": "fagne-4550941",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 1,
+    "lat": 59.875310700680465,
+    "lng": 6.391554920930181,
+    "start": null,
+    "end": null,
+    "areaName": "ETNE",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "ETNE",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
     "id": "linja-outage-3360273",
     "company": "Linja",
     "type": "outage",
@@ -16,7 +35,7 @@
       "STATE_TXT": "Pågående",
       "STARTTIME": 1784128920000,
       "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
+      "FLAG": 144,
       "MUNICIPAL_TXT": "ØRSTA",
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 0,
