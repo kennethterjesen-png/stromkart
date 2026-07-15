@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-7323",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 59.91090040368298,
-    "lng": 10.827481103697789,
-    "start": "15.7.2026, 06:30:00",
-    "end": "15.7.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 2423",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7323,
-      "antallkunder": 16,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2423",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1784120400000,
-      "utkoblingstart": 1784097000000
-    }
-  },
-  {
     "id": "elvia-7752",
     "company": "Elvia",
     "type": "planned",
@@ -66,29 +43,6 @@
       "strombruddoppdaget": 1784111756000,
       "utkoblingslutt": 1784124716000,
       "utkoblingstart": 1784111756000
-    }
-  },
-  {
-    "id": "elvia-21964",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.45839994356116,
-    "lng": 10.798510309661086,
-    "start": "15.7.2026, 03:52:11",
-    "end": "15.7.2026, 07:37:11",
-    "areaName": "Våler / Sperrebotn / I0170",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21964,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Våler",
-      "nettstasjon": "I0170",
-      "poststed": "Sperrebotn",
-      "strombruddoppdaget": 1784087531904,
-      "utkoblingslutt": 1784101031000,
-      "utkoblingstart": 1784087531904
     }
   },
   {
@@ -204,67 +158,6 @@
       "strombruddoppdaget": 1784087531904,
       "utkoblingslutt": 1784101031000,
       "utkoblingstart": 1784087531904
-    }
-  },
-  {
-    "id": "elvia-29809",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.639342975948914,
-    "lng": 11.475532441596846,
-    "start": "15.7.2026, 09:27:54",
-    "end": "15.7.2026, 13:03:54",
-    "areaName": "Indre Østfold / Trøgstad / Z3215",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29809,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z3215",
-      "poststed": "Trøgstad",
-      "strombruddoppdaget": 1784107674000,
-      "utkoblingslutt": 1784120634000,
-      "utkoblingstart": 1784107674000
-    }
-  },
-  {
-    "id": "fagne-4546372",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 47,
-    "lat": 59.49814882394805,
-    "lng": 5.890611049804319,
-    "start": null,
-    "end": null,
-    "areaName": "VINDAFJORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "VINDAFJORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4544289",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.493846088997245,
-    "lng": 5.635153495030716,
-    "start": null,
-    "end": null,
-    "areaName": "VINDAFJORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "VINDAFJORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
@@ -407,30 +300,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3357488",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.32448726585059,
-    "lng": 5.0980805051220255,
-    "start": "15.7.2026, 14:00:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3357488,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Dørhellevegen onsdag 15.juli fra kl. 16:00 til 20:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784124000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "ASKVOLL",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -644,34 +513,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2885-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2879-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 20,
-    "lat": 59.23210620399999,
-    "lng": 10.93849663399999,
-    "start": "15.7.2026, 08:01:44",
-    "end": "15.7.2026, 13:00:00",
-    "areaName": "OREDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217701,
-      "REFNR": "PL2879",
-      "SEKUNDÆRSTASJON": "OREDALEN",
-      "AVGANG": "H1042",
-      "CNT": 20,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1784102504000,
-      "TIL_DATO": 1784120400000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2879-1",
       "description": ""
     }
   },
