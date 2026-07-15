@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-24757",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 58.99473190743226,
+    "lng": 11.650221438383625,
+    "start": "15.7.2026, 21:07:34",
+    "end": "16.7.2026, 00:43:34",
+    "areaName": "Halden / Kornsjø / Q0629",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24757,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Halden",
+      "nettstasjon": "Q0629",
+      "poststed": "Kornsjø",
+      "strombruddoppdaget": 1784149654000,
+      "utkoblingslutt": 1784162614000,
+      "utkoblingstart": 1784149654000
+    }
+  },
+  {
     "id": "fagne-4550941",
     "company": "Fagne",
     "type": "outage",
