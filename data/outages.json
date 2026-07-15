@@ -55,29 +55,6 @@
     }
   },
   {
-    "id": "elvia-22882",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.917723136245755,
-    "lng": 10.969442851087063,
-    "start": "14.7.2026, 21:13:01",
-    "end": "15.7.2026, 00:49:01",
-    "areaName": "Lørenskog / Finstadjordet / L0310",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22882,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0310",
-      "poststed": "Finstadjordet",
-      "strombruddoppdaget": 1784063581000,
-      "utkoblingslutt": 1784076541000,
-      "utkoblingstart": 1784063581000
-    }
-  },
-  {
     "id": "linja-planned-3339872",
     "company": "Linja",
     "type": "planned",
