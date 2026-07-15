@@ -67,30 +67,6 @@
     }
   },
   {
-    "id": "linja-outage-3357488",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 12,
-    "lat": 61.32451637028315,
-    "lng": 5.098088750349063,
-    "start": "15.7.2026, 14:00:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3357488,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Dørhellevegen onsdag 15.juli fra kl. 16:00 til 20:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1784124000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "ASKVOLL",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 1,
-      "NUM_AB": 12
-    }
-  },
-  {
     "id": "linja-planned-3339872",
     "company": "Linja",
     "type": "planned",
