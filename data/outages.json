@@ -1,25 +1,57 @@
 [
   {
-    "id": "elvia-15521",
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 61.1827054483649,
+    "lng": 4.946626630526696,
+    "start": null,
+    "end": null,
+    "areaName": "Solund",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9815217,
+      "MUNICIPAL_TXT": "Solund",
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1784191260000,
+      "TIMELIMIT": 1784201400000,
+      "NUM_AB": 4,
+      "CUSTOMER_WEB_TEXT": null,
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 1,
+      "LAST_UPDATED": 1784214106000,
+      "SCHEDULED_SMS_DAYS_BEFORE": -1,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "elvia-4897",
     "company": "Elvia",
     "type": "planned",
-    "customers": 8,
-    "lat": 60.82256371743063,
-    "lng": 10.713379638707986,
-    "start": "16.7.2026, 12:33:12",
-    "end": "16.7.2026, 16:09:12",
-    "areaName": "Ringsaker / Gaupen / ENS04977",
+    "customers": 1,
+    "lat": 60.07159273888912,
+    "lng": 11.124476853046101,
+    "start": "16.7.2026, 00:12:09",
+    "end": "16.7.2026, 03:57:09",
+    "areaName": "Ullensaker / Kløfta / U2795",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 15521,
-      "antallkunder": 8,
+      "OBJECTID": 4897,
+      "antallkunder": 1,
       "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS04977",
-      "poststed": "Gaupen",
-      "strombruddoppdaget": 1784205192000,
-      "utkoblingslutt": 1784218152000,
-      "utkoblingstart": 1784205192000
+      "kommune": "Ullensaker",
+      "nettstasjon": "U2795",
+      "poststed": "Kløfta",
+      "strombruddoppdaget": 1784160729507,
+      "utkoblingslutt": 1784174229000,
+      "utkoblingstart": 1784160729507
     }
   },
   {
@@ -46,29 +78,6 @@
     }
   },
   {
-    "id": "elvia-27694",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 29,
-    "lat": 59.276980733741034,
-    "lng": 11.191174909142203,
-    "start": "16.7.2026, 10:34:53",
-    "end": "16.7.2026, 14:10:53",
-    "areaName": "Sarpsborg / Borgenhaugen / X0573",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27694,
-      "antallkunder": 29,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0573",
-      "poststed": "Borgenhaugen",
-      "strombruddoppdaget": 1784198093000,
-      "utkoblingslutt": 1784211053000,
-      "utkoblingstart": 1784198093000
-    }
-  },
-  {
     "id": "linja-outage-3360253",
     "company": "Linja",
     "type": "outage",
@@ -90,30 +99,6 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 0,
       "NUM_AB": 1
-    }
-  },
-  {
-    "id": "linja-planned-3360932",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.07546062968591,
-    "lng": 6.821539947335501,
-    "start": "22.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "STRANDA / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3360932,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området Karbø onsdag mellom kl.09:00 og 10:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784703600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
     }
   },
   {
@@ -232,6 +217,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3360932",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.07546062968591,
+    "lng": 6.821539947335501,
+    "start": "22.7.2026, 07:00:00",
+    "end": null,
+    "areaName": "STRANDA / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3360932,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området Karbø onsdag mellom kl.09:00 og 10:00",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1784703600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "STRANDA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -369,34 +378,6 @@
     }
   },
   {
-    "id": "norgesnett-outage-V-70734-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 40,
-    "lat": 59.71640532700002,
-    "lng": 10.818075725000028,
-    "start": "16.7.2026, 07:00:14",
-    "end": "16.7.2026, 13:00:14",
-    "areaName": "FINSTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217860,
-      "REFNR": "P70734",
-      "SEKUNDÆRSTASJON": "FINSTAD",
-      "AVGANG": "L81",
-      "CNT": 40,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1784185214000,
-      "TIL_DATO": 1784206814000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70734-1",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-outage-V-70751-1",
     "company": "Norgesnett",
     "type": "outage",
@@ -413,7 +394,7 @@
       "SEKUNDÆRSTASJON": "KLEPPE",
       "AVGANG": "KRÅVIK",
       "CNT": 154,
-      "STATUS": "Ikke Påbegynt",
+      "STATUS": "Påbegynt",
       "BESKRIVELSE": null,
       "FRA_DATO": 1784203265000,
       "TIL_DATO": null,
@@ -422,6 +403,34 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70751-1",
       "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70752-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 98,
+    "lat": 60.42971337,
+    "lng": 5.2301396299999965,
+    "start": "16.7.2026, 14:17:50",
+    "end": null,
+    "areaName": "KLEPPE",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218086,
+      "REFNR": "H70752",
+      "SEKUNDÆRSTASJON": "KLEPPE",
+      "AVGANG": "SKOGEDAL",
+      "CNT": 98,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nTHORSENFELTET.",
+      "FRA_DATO": 1784211470000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Høyspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70752-1",
+      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nTHORSENFELTET."
     }
   }
 ]
