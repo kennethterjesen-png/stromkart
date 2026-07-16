@@ -55,49 +55,49 @@
     }
   },
   {
-    "id": "elvia-18382",
+    "id": "elvia-8864",
     "company": "Elvia",
     "type": "planned",
-    "customers": 22,
-    "lat": 60.000880087817,
-    "lng": 11.880493655048541,
-    "start": "16.7.2026, 12:16:59",
-    "end": "16.7.2026, 15:52:59",
-    "areaName": "Eidskog / Tobøl / ENS09446",
+    "customers": 4,
+    "lat": 59.91529141462405,
+    "lng": 10.78630734346516,
+    "start": "16.7.2026, 22:01:00",
+    "end": "17.7.2026, 03:30:00",
+    "areaName": "Oslo / Oslo / 4820",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 18382,
-      "antallkunder": 22,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidskog",
-      "nettstasjon": "ENS09446",
-      "poststed": "Tobøl",
-      "strombruddoppdaget": 1784204219000,
-      "utkoblingslutt": 1784217179000,
-      "utkoblingstart": 1784204219000
+      "OBJECTID": 8864,
+      "antallkunder": 4,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "4820",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1784259000000,
+      "utkoblingstart": 1784239260000
     }
   },
   {
-    "id": "elvia-23399",
+    "id": "elvia-27646",
     "company": "Elvia",
     "type": "planned",
     "customers": 13,
-    "lat": 60.07688801436697,
-    "lng": 11.445859625967472,
-    "start": "16.7.2026, 18:00:36",
-    "end": "16.7.2026, 21:36:36",
-    "areaName": "Nes / Årnes / N3032",
+    "lat": 59.295519138814605,
+    "lng": 11.050813802351245,
+    "start": "16.7.2026, 19:47:53",
+    "end": "16.7.2026, 23:23:53",
+    "areaName": "Sarpsborg / Grålum / X0509",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 23399,
+      "OBJECTID": 27646,
       "antallkunder": 13,
       "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N3032",
-      "poststed": "Årnes",
-      "strombruddoppdaget": 1784224836000,
-      "utkoblingslutt": 1784237796000,
-      "utkoblingstart": 1784224836000
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0509",
+      "poststed": "Grålum",
+      "strombruddoppdaget": 1784231273000,
+      "utkoblingslutt": 1784244233000,
+      "utkoblingstart": 1784231273000
     }
   },
   {
@@ -445,34 +445,6 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70751-1",
       "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70752-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 98,
-    "lat": 60.42971337,
-    "lng": 5.2301396299999965,
-    "start": "16.7.2026, 14:17:50",
-    "end": null,
-    "areaName": "KLEPPE",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218086,
-      "REFNR": "H70752",
-      "SEKUNDÆRSTASJON": "KLEPPE",
-      "AVGANG": "SKOGEDAL",
-      "CNT": 98,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nTHORSENFELTET.",
-      "FRA_DATO": 1784211470000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70752-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nTHORSENFELTET."
     }
   }
 ]
