@@ -23,48 +23,6 @@
     }
   },
   {
-    "id": "elvia-26176",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 54,
-    "lat": 60.07589547774142,
-    "lng": 11.125091505042636,
-    "start": "16.7.2026, 00:12:09",
-    "end": "16.7.2026, 03:57:09",
-    "areaName": "Ullensaker / Kløfta / U2775",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26176,
-      "antallkunder": 54,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ullensaker",
-      "nettstasjon": "U2775",
-      "poststed": "Kløfta",
-      "strombruddoppdaget": 1784160729507,
-      "utkoblingslutt": 1784174229000,
-      "utkoblingstart": 1784160729507
-    }
-  },
-  {
-    "id": "fagne-4550941",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 1,
-    "lat": 59.875310700680465,
-    "lng": 6.391554920930181,
-    "start": null,
-    "end": null,
-    "areaName": "ETNE",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "ETNE",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-outage-3360253",
     "company": "Linja",
     "type": "outage",
@@ -185,30 +143,6 @@
     }
   },
   {
-    "id": "linja-planned-3354656",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.47111656861433,
-    "lng": 6.208953803175097,
-    "start": "16.7.2026, 06:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3354656,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nørvegata torsdag 16.juli fra kl. 08:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784181600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3359388",
     "company": "Linja",
     "type": "planned",
@@ -228,30 +162,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3357876",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.50471774065374,
-    "lng": 6.129450455579158,
-    "start": "16.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3357876,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Krissenvegen og Øvstevegen torsdag 16.juli fra kl. 09:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784185200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -281,27 +191,20 @@
     }
   },
   {
-    "id": "linja-planned-3359316",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.47841047694723,
-    "lng": 6.1953547666362425,
-    "start": "16.7.2026, 06:00:00",
+    "id": "lnett-outage-9",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 84,
+    "lat": 58.8615219343053,
+    "lng": 5.840887101996863,
+    "start": "16.7.2026, 07:17:00",
     "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "EVENTID": 3359316,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Storvika mellom 08:00 og 15:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784181600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
+      "name": "Berørte kunder: 84",
+      "description": "Driftsforstyrrelse\nStartet: 2026-07-16 07:17",
+      "styleUrl": "#red"
     }
   },
   {
