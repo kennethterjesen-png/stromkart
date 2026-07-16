@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 61.18249127005561,
-    "lng": 4.946559208432005,
-    "start": null,
-    "end": null,
-    "areaName": "Solund",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9815217,
-      "MUNICIPAL_TXT": "Solund",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1784214000000,
-      "TIMELIMIT": 1784228400000,
-      "NUM_AB": 4,
-      "CUSTOMER_WEB_TEXT": "Utbedring pågår. 6924 HARDBAKKE; RUSKA\r\n6926 KRAKHELLA; RUSKA",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1784216693000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 1,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-4897",
     "company": "Elvia",
     "type": "planned",
@@ -75,6 +43,52 @@
       "strombruddoppdaget": 1784204219000,
       "utkoblingslutt": 1784217179000,
       "utkoblingstart": 1784204219000
+    }
+  },
+  {
+    "id": "elvia-20246",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 34,
+    "lat": 60.96830393899145,
+    "lng": 11.308132750236663,
+    "start": "16.7.2026, 18:43:36",
+    "end": "16.7.2026, 22:19:36",
+    "areaName": "Løten / Løten / ENS12275",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20246,
+      "antallkunder": 34,
+      "avbruddstype": "Unplanned",
+      "kommune": "Løten",
+      "nettstasjon": "ENS12275",
+      "poststed": "Løten",
+      "strombruddoppdaget": 1784227416000,
+      "utkoblingslutt": 1784240376000,
+      "utkoblingstart": 1784227416000
+    }
+  },
+  {
+    "id": "elvia-23399",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 13,
+    "lat": 60.07688801436697,
+    "lng": 11.445859625967472,
+    "start": "16.7.2026, 18:00:36",
+    "end": "16.7.2026, 21:36:36",
+    "areaName": "Nes / Årnes / N3032",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 23399,
+      "antallkunder": 13,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nes",
+      "nettstasjon": "N3032",
+      "poststed": "Årnes",
+      "strombruddoppdaget": 1784224836000,
+      "utkoblingslutt": 1784237796000,
+      "utkoblingstart": 1784224836000
     }
   },
   {
