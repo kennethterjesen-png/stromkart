@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-9152",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 52,
+    "lat": 59.96518439201741,
+    "lng": 10.657410672874763,
+    "start": "16.7.2026, 22:05:00",
+    "end": "17.7.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 5219",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9152,
+      "antallkunder": 52,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "5219",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1784239602782,
+      "utkoblingslutt": 1784260800000,
+      "utkoblingstart": 1784239500000
+    }
+  },
+  {
     "id": "elvia-27646",
     "company": "Elvia",
     "type": "planned",
@@ -69,22 +92,26 @@
     }
   },
   {
-    "id": "fagne-4546036",
-    "company": "Fagne",
+    "id": "elvia-29446",
+    "company": "Elvia",
     "type": "planned",
-    "customers": 10,
-    "lat": 59.76328295692315,
-    "lng": 5.465304086896155,
-    "start": null,
-    "end": null,
-    "areaName": "STORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "customers": 6,
+    "lat": 59.58879778163697,
+    "lng": 11.13436922031062,
+    "start": "16.7.2026, 22:00:00",
+    "end": "17.7.2026, 04:00:00",
+    "areaName": "Indre Østfold / Askim / Z1277",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "STORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
+      "OBJECTID": 29446,
+      "antallkunder": 6,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "Z1277",
+      "poststed": "Askim",
+      "strombruddoppdaget": 1784239207916,
+      "utkoblingslutt": 1784260800000,
+      "utkoblingstart": 1784239200000
     }
   },
   {
