@@ -1,5 +1,51 @@
 [
   {
+    "id": "elvia-4897",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 60.07159273888912,
+    "lng": 11.124476853046101,
+    "start": "16.7.2026, 00:12:09",
+    "end": "16.7.2026, 03:57:09",
+    "areaName": "Ullensaker / Kløfta / U2795",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 4897,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ullensaker",
+      "nettstasjon": "U2795",
+      "poststed": "Kløfta",
+      "strombruddoppdaget": 1784160729507,
+      "utkoblingslutt": 1784174229000,
+      "utkoblingstart": 1784160729507
+    }
+  },
+  {
+    "id": "elvia-26176",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 54,
+    "lat": 60.07589547774142,
+    "lng": 11.125091505042636,
+    "start": "16.7.2026, 00:12:09",
+    "end": "16.7.2026, 03:57:09",
+    "areaName": "Ullensaker / Kløfta / U2775",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26176,
+      "antallkunder": 54,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ullensaker",
+      "nettstasjon": "U2775",
+      "poststed": "Kløfta",
+      "strombruddoppdaget": 1784160729507,
+      "utkoblingslutt": 1784174229000,
+      "utkoblingstart": 1784160729507
+    }
+  },
+  {
     "id": "fagne-4550941",
     "company": "Fagne",
     "type": "outage",
