@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-860",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.83086947419334,
-    "lng": 10.794308922763664,
-    "start": "16.7.2026, 15:00:00",
-    "end": "16.7.2026, 21:00:00",
-    "areaName": "Oslo / Oslo / 4002",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 860,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "4002",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1784235600000,
-      "utkoblingstart": 1784214000000
-    }
-  },
-  {
     "id": "elvia-4897",
     "company": "Elvia",
     "type": "planned",
