@@ -32,35 +32,26 @@
     }
   },
   {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.36654560984308,
-    "lng": 5.373120633386607,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
+    "id": "elvia-3288",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 61.115806666600555,
+    "lng": 10.447956393818096,
+    "start": "17.7.2026, 09:27:13",
+    "end": "17.7.2026, 13:03:13",
+    "areaName": "Lillehammer / Lillehammer / ENS12553",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "EVENTID": 9812767,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1784269800000,
-      "TIMELIMIT": 1784287800000,
-      "NUM_AB": 26,
-      "CUSTOMER_WEB_TEXT": "5096 BERGEN; LANDÅSSVINGEN",
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1784269904000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
+      "OBJECTID": 3288,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillehammer",
+      "nettstasjon": "ENS12553",
+      "poststed": "Lillehammer",
+      "strombruddoppdaget": 1784280433000,
+      "utkoblingslutt": 1784293393000,
+      "utkoblingstart": 1784280433000
     }
   },
   {
@@ -133,49 +124,72 @@
     }
   },
   {
-    "id": "elvia-13044",
+    "id": "elvia-13207",
     "company": "Elvia",
     "type": "planned",
-    "customers": 105,
-    "lat": 60.809240780503224,
-    "lng": 10.67521160403776,
-    "start": "17.7.2026, 07:00:00",
-    "end": "17.7.2026, 11:00:00",
-    "areaName": "Gjøvik / Gjøvik / ENS01269",
+    "customers": 4,
+    "lat": 60.79741622502415,
+    "lng": 10.695872692429914,
+    "start": "17.7.2026, 10:00:00",
+    "end": "19.7.2026, 19:00:00",
+    "areaName": "Gjøvik / Gjøvik / ENS01513",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 13044,
-      "antallkunder": 105,
+      "OBJECTID": 13207,
+      "antallkunder": 4,
       "avbruddstype": "Planned",
       "kommune": "Gjøvik",
-      "nettstasjon": "ENS01269",
+      "nettstasjon": "ENS01513",
       "poststed": "Gjøvik",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1784286000000,
-      "utkoblingstart": 1784271600000
+      "strombruddoppdaget": 1784276878217,
+      "utkoblingslutt": 1784487600000,
+      "utkoblingstart": 1784282400000
     }
   },
   {
-    "id": "elvia-15038",
+    "id": "elvia-20262",
     "company": "Elvia",
     "type": "planned",
-    "customers": 16,
-    "lat": 60.818806240381015,
-    "lng": 11.302409203606013,
-    "start": "16.7.2026, 20:44:07",
-    "end": "17.7.2026, 00:20:07",
-    "areaName": "Løten / Løten / ENS04172",
+    "customers": 18,
+    "lat": 61.0033017467578,
+    "lng": 11.783129952623117,
+    "start": "17.7.2026, 09:19:30",
+    "end": "17.7.2026, 12:55:30",
+    "areaName": "Elverum / Hernes / ENS12316",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 15038,
-      "antallkunder": 16,
+      "OBJECTID": 20262,
+      "antallkunder": 18,
       "avbruddstype": "Unplanned",
-      "kommune": "Løten",
-      "nettstasjon": "ENS04172",
-      "poststed": "Løten",
-      "strombruddoppdaget": 1784234647000,
-      "utkoblingslutt": 1784247607000,
-      "utkoblingstart": 1784234647000
+      "kommune": "Elverum",
+      "nettstasjon": "ENS12316",
+      "poststed": "Hernes",
+      "strombruddoppdaget": 1784279970000,
+      "utkoblingslutt": 1784292930000,
+      "utkoblingstart": 1784279970000
+    }
+  },
+  {
+    "id": "elvia-22447",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.9976495878856,
+    "lng": 11.369123365558746,
+    "start": "17.7.2026, 09:02:58",
+    "end": "17.7.2026, 12:38:58",
+    "areaName": "Lillestrøm / Blaker / K0344",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22447,
+      "antallkunder": 3,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "K0344",
+      "poststed": "Blaker",
+      "strombruddoppdaget": 1784278978000,
+      "utkoblingslutt": 1784291938000,
+      "utkoblingstart": 1784278978000
     }
   },
   {
@@ -202,6 +216,29 @@
     }
   },
   {
+    "id": "elvia-24218",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 16,
+    "lat": 59.66327375968331,
+    "lng": 10.643721342901626,
+    "start": "17.7.2026, 10:09:16",
+    "end": "17.7.2026, 13:45:16",
+    "areaName": "Frogn / Drøbak / P0715",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24218,
+      "antallkunder": 16,
+      "avbruddstype": "Unplanned",
+      "kommune": "Frogn",
+      "nettstasjon": "P0715",
+      "poststed": "Drøbak",
+      "strombruddoppdaget": 1784282956000,
+      "utkoblingslutt": 1784295916000,
+      "utkoblingstart": 1784282956000
+    }
+  },
+  {
     "id": "elvia-28541",
     "company": "Elvia",
     "type": "planned",
@@ -225,31 +262,12 @@
     }
   },
   {
-    "id": "fagne-4543777",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.636218966691814,
-    "lng": 6.288898079530661,
-    "start": null,
-    "end": null,
-    "areaName": "SAUDA",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SAUDA",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-outage-3354684",
     "company": "Linja",
     "type": "outage",
-    "customers": 13,
-    "lat": 62.47112613819596,
-    "lng": 6.211386811950852,
+    "customers": 21,
+    "lat": 62.47089113555496,
+    "lng": 6.20942811243176,
     "start": "17.7.2026, 06:00:00",
     "end": null,
     "areaName": "ÅLESUND / Linja Nord",
@@ -264,7 +282,7 @@
       "MUNICIPAL_TXT": "ÅLESUND",
       "PURCHAREA_TXT": "Linja Nord",
       "NUM_NS": 0,
-      "NUM_AB": 13
+      "NUM_AB": 21
     }
   },
   {
@@ -433,6 +451,23 @@
       "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-17",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 63,
+    "lat": 58.91042981030548,
+    "lng": 5.673988697899807,
+    "start": "17.7.2026, 11:59:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 63",
+      "description": "Planlagt strømstans\nStartet: 2026-07-17 11:59",
+      "styleUrl": "#yellow"
     }
   },
   {
