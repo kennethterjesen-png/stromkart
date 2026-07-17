@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-17T11:43:10.484Z",
-  "count": 24,
+  "updatedAt": "2026-07-17T12:49:03.537Z",
+  "count": 15,
   "providers": [
     {
       "name": "Elvia",
       "ok": true,
-      "count": 9,
-      "rawCount": 9,
+      "count": 2,
+      "rawCount": 2,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -51,8 +51,8 @@
     {
       "name": "Lnett",
       "ok": true,
-      "count": 1,
-      "rawCount": 1,
+      "count": 0,
+      "rawCount": 0,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -78,8 +78,8 @@
     {
       "name": "Fagne",
       "ok": true,
-      "count": 1,
-      "rawCount": 1,
+      "count": 0,
+      "rawCount": 0,
       "filteredOut": 0,
       "warning": false,
       "error": null
