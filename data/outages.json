@@ -22,7 +22,7 @@
       "GRIDLEVEL_TXT": "Lav",
       "REASON_TXT": null,
       "NUM_NS": 0,
-      "LAST_UPDATED": 1784287381000,
+      "LAST_UPDATED": 1784300584000,
       "SCHEDULED_SMS_DAYS_BEFORE": -1,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 0,
@@ -38,43 +38,43 @@
     "customers": 4,
     "lat": 60.79741622502415,
     "lng": 10.695872692429914,
-    "start": "17.7.2026, 13:13:14",
-    "end": "17.7.2026, 16:49:14",
+    "start": "17.7.2026, 10:00:00",
+    "end": "19.7.2026, 19:00:00",
     "areaName": "Gjøvik / Gjøvik / ENS01513",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
       "OBJECTID": 13207,
       "antallkunder": 4,
-      "avbruddstype": "Unplanned",
+      "avbruddstype": "Planned",
       "kommune": "Gjøvik",
       "nettstasjon": "ENS01513",
       "poststed": "Gjøvik",
-      "strombruddoppdaget": 1784293994000,
-      "utkoblingslutt": 1784306954000,
-      "utkoblingstart": 1784293994000
+      "strombruddoppdaget": 1784276878217,
+      "utkoblingslutt": 1784487600000,
+      "utkoblingstart": 1784282400000
     }
   },
   {
-    "id": "elvia-22447",
+    "id": "elvia-14315",
     "company": "Elvia",
     "type": "planned",
-    "customers": 3,
-    "lat": 59.9976495878856,
-    "lng": 11.369123365558746,
-    "start": "17.7.2026, 09:02:58",
-    "end": "17.7.2026, 12:38:58",
-    "areaName": "Lillestrøm / Blaker / K0344",
+    "customers": 23,
+    "lat": 61.20857143041605,
+    "lng": 10.145155557794329,
+    "start": "17.7.2026, 13:41:45",
+    "end": "17.7.2026, 17:26:45",
+    "areaName": "Gausdal / Vestre gausdal / ENS03157",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 22447,
-      "antallkunder": 3,
+      "OBJECTID": 14315,
+      "antallkunder": 23,
       "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "K0344",
-      "poststed": "Blaker",
-      "strombruddoppdaget": 1784278978000,
-      "utkoblingslutt": 1784291938000,
-      "utkoblingstart": 1784278978000
+      "kommune": "Gausdal",
+      "nettstasjon": "ENS03157",
+      "poststed": "Vestre gausdal",
+      "strombruddoppdaget": 1784295705330,
+      "utkoblingslutt": 1784309205000,
+      "utkoblingstart": 1784295705330
     }
   },
   {
@@ -98,6 +98,44 @@
       "strombruddoppdaget": 1784282956000,
       "utkoblingslutt": 1784295916000,
       "utkoblingstart": 1784282956000
+    }
+  },
+  {
+    "id": "fagne-4553277",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 321,
+    "lat": 59.654983257137246,
+    "lng": 6.782494327339943,
+    "start": null,
+    "end": null,
+    "areaName": "Ukjent område",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "fagne-4553193",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 5,
+    "lat": 59.78311425361767,
+    "lng": 6.789896511453129,
+    "start": null,
+    "end": null,
+    "areaName": "ULLENSVANG",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "ULLENSVANG",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
@@ -405,34 +443,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70755-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70756-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 14,
-    "lat": 59.744117238,
-    "lng": 10.509956546000012,
-    "start": "17.7.2026, 13:52:29",
-    "end": null,
-    "areaName": "BØDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218388,
-      "REFNR": "H70756",
-      "SEKUNDÆRSTASJON": "BØDALEN",
-      "AVGANG": "K8_R386",
-      "CNT": 14,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1784296349000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70756-1",
       "description": ""
     }
   }
