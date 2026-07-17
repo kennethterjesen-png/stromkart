@@ -138,29 +138,6 @@
     }
   },
   {
-    "id": "elvia-19418",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 61.355828304383834,
-    "lng": 12.289247426456607,
-    "start": "17.7.2026, 20:22:22",
-    "end": "17.7.2026, 23:58:22",
-    "areaName": "Trysil / Trysil / ENS10955",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 19418,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS10955",
-      "poststed": "Trysil",
-      "strombruddoppdaget": 1784319742000,
-      "utkoblingslutt": 1784332702000,
-      "utkoblingstart": 1784319742000
-    }
-  },
-  {
     "id": "elvia-24218",
     "company": "Elvia",
     "type": "planned",
@@ -3775,7 +3752,7 @@
     }
   },
   {
-    "id": "lnett-outage-23",
+    "id": "lnett-outage-9",
     "company": "Lnett",
     "type": "outage",
     "customers": 94,
