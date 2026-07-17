@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-29371",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.58201036297772,
+    "lng": 11.117022835403514,
+    "start": "17.7.2026, 05:31:20",
+    "end": "17.7.2026, 09:07:20",
+    "areaName": "Indre Østfold / Askim / Z1189",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 29371,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "Z1189",
+      "poststed": "Askim",
+      "strombruddoppdaget": 1784266280000,
+      "utkoblingslutt": 1784279240000,
+      "utkoblingstart": 1784266280000
+    }
+  },
+  {
     "id": "linja-outage-3360253",
     "company": "Linja",
     "type": "outage",
@@ -89,30 +112,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "KINN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3359388",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.47089113555496,
-    "lng": 6.20942811243176,
-    "start": "21.7.2026, 06:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3359388,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Stoknes",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784613600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -166,30 +165,6 @@
     }
   },
   {
-    "id": "linja-planned-3354684",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.47098099244263,
-    "lng": 6.2101770245231664,
-    "start": "17.7.2026, 06:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3354684,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hundsværgata og Nørvegata fredag 17.juli fra kl. 08:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784268000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3360932",
     "company": "Linja",
     "type": "planned",
@@ -214,30 +189,6 @@
     }
   },
   {
-    "id": "linja-planned-3360708",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.91169294588271,
-    "lng": 5.998959516469725,
-    "start": "20.7.2026, 08:30:00",
-    "end": null,
-    "areaName": "STAD / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3360708,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område skulevegen mandag 20. juli fra kl.10:30 til kl.11:30",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784536200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "STAD",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3360728",
     "company": "Linja",
     "type": "planned",
@@ -254,9 +205,57 @@
       "STATE_TXT": "Godkjent",
       "STARTTIME": 1784617200000,
       "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
+      "FLAG": 384,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3359388",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.47089113555496,
+    "lng": 6.20942811243176,
+    "start": "21.7.2026, 06:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3359388,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Stoknes",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1784613600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 384,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3360708",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.91169294588271,
+    "lng": 5.998959516469725,
+    "start": "20.7.2026, 08:30:00",
+    "end": null,
+    "areaName": "STAD / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3360708,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område skulevegen mandag 20. juli fra kl.10:30 til kl.11:30",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1784536200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 384,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "STAD",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -286,6 +285,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2882-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70736-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 49,
+    "lat": 59.742875543000025,
+    "lng": 10.421927125000025,
+    "start": "28.7.2026, 09:00:48",
+    "end": "28.7.2026, 13:00:48",
+    "areaName": "SPIKKESTAD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218386,
+      "REFNR": "P70736",
+      "SEKUNDÆRSTASJON": "SPIKKESTAD",
+      "AVGANG": "L3",
+      "CNT": 49,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1785229248000,
+      "TIL_DATO": 1785243648000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70736-1",
       "description": ""
     }
   },
@@ -342,34 +369,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2885-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70751-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 154,
-    "lat": 60.43054211499998,
-    "lng": 5.174148025000022,
-    "start": "16.7.2026, 12:01:05",
-    "end": null,
-    "areaName": "KLEPPE",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218084,
-      "REFNR": "H70751",
-      "SEKUNDÆRSTASJON": "KLEPPE",
-      "AVGANG": "KRÅVIK",
-      "CNT": 154,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1784203265000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70751-1",
       "description": ""
     }
   }
