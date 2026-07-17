@@ -23,52 +23,6 @@
     }
   },
   {
-    "id": "elvia-8864",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.91529141462405,
-    "lng": 10.78630734346516,
-    "start": "16.7.2026, 22:01:00",
-    "end": "17.7.2026, 03:30:00",
-    "areaName": "Oslo / Oslo / 4820",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8864,
-      "antallkunder": 4,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "4820",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1784259000000,
-      "utkoblingstart": 1784239260000
-    }
-  },
-  {
-    "id": "elvia-9152",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 52,
-    "lat": 59.96518439201741,
-    "lng": 10.657410672874763,
-    "start": "16.7.2026, 22:05:00",
-    "end": "17.7.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 5219",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9152,
-      "antallkunder": 52,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "5219",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1784239602782,
-      "utkoblingslutt": 1784260800000,
-      "utkoblingstart": 1784239500000
-    }
-  },
-  {
     "id": "elvia-27646",
     "company": "Elvia",
     "type": "planned",
@@ -89,29 +43,6 @@
       "strombruddoppdaget": 1784231273000,
       "utkoblingslutt": 1784244233000,
       "utkoblingstart": 1784231273000
-    }
-  },
-  {
-    "id": "elvia-29446",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.58879778163697,
-    "lng": 11.13436922031062,
-    "start": "16.7.2026, 22:00:00",
-    "end": "17.7.2026, 04:00:00",
-    "areaName": "Indre Østfold / Askim / Z1277",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29446,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1277",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1784239207916,
-      "utkoblingslutt": 1784260800000,
-      "utkoblingstart": 1784239200000
     }
   },
   {
