@@ -3496,29 +3496,6 @@
     }
   },
   {
-    "id": "elvia-28428",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.396696733240965,
-    "lng": 10.666869591256436,
-    "start": "17.7.2026, 18:33:59",
-    "end": "17.7.2026, 22:09:59",
-    "areaName": "Moss / Dilling / Y0006",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28428,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0006",
-      "poststed": "Dilling",
-      "strombruddoppdaget": 1784313239000,
-      "utkoblingslutt": 1784326199000,
-      "utkoblingstart": 1784313239000
-    }
-  },
-  {
     "id": "elvia-29933",
     "company": "Elvia",
     "type": "planned",
@@ -3749,23 +3726,6 @@
       "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-outage-9",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 94,
-    "lat": 58.95917992092652,
-    "lng": 5.842323432530965,
-    "start": "17.7.2026, 19:32:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 94",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-17 19:32\n21:30 Det må utføres omfattende reperasjon på transformator på Uskakalve. Forventet rettetid: 01:00.\n19:30 Uskakalven er fortsatt uten strøm. Vi har personell på vei.",
-      "styleUrl": "#red"
     }
   },
   {
