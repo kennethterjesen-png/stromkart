@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-13207",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 60.79741622502415,
+    "lng": 10.695872692429914,
+    "start": "17.7.2026, 13:13:14",
+    "end": "17.7.2026, 16:49:14",
+    "areaName": "Gjøvik / Gjøvik / ENS01513",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 13207,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS01513",
+      "poststed": "Gjøvik",
+      "strombruddoppdaget": 1784293994000,
+      "utkoblingslutt": 1784306954000,
+      "utkoblingstart": 1784293994000
+    }
+  },
+  {
     "id": "elvia-22447",
     "company": "Elvia",
     "type": "planned",
@@ -382,6 +405,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70755-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70756-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 14,
+    "lat": 59.744117238,
+    "lng": 10.509956546000012,
+    "start": "17.7.2026, 13:52:29",
+    "end": null,
+    "areaName": "BØDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218388,
+      "REFNR": "H70756",
+      "SEKUNDÆRSTASJON": "BØDALEN",
+      "AVGANG": "K8_R386",
+      "CNT": 14,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1784296349000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Høyspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70756-1",
       "description": ""
     }
   }
