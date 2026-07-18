@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-6736",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 59.9332264471844,
+    "lng": 10.650194393079767,
+    "start": "18.7.2026, 12:35:04",
+    "end": "18.7.2026, 16:11:04",
+    "areaName": "Oslo / Oslo / 1568",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6736,
+      "antallkunder": 10,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "1568",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1784378104000,
+      "utkoblingslutt": 1784391064000,
+      "utkoblingstart": 1784378104000
+    }
+  },
+  {
     "id": "elvia-19353",
     "company": "Elvia",
     "type": "planned",
@@ -92,6 +115,29 @@
     }
   },
   {
+    "id": "elvia-24136",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.7351985937865,
+    "lng": 10.718905427132153,
+    "start": "18.7.2026, 12:51:42",
+    "end": "18.7.2026, 16:27:42",
+    "areaName": "Frogn / Nordre frogn / P0433",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24136,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Frogn",
+      "nettstasjon": "P0433",
+      "poststed": "Nordre frogn",
+      "strombruddoppdaget": 1784379102000,
+      "utkoblingslutt": 1784392062000,
+      "utkoblingstart": 1784379102000
+    }
+  },
+  {
     "id": "elvia-24218",
     "company": "Elvia",
     "type": "planned",
@@ -112,6 +158,52 @@
       "strombruddoppdaget": 1784282956000,
       "utkoblingslutt": 1784295916000,
       "utkoblingstart": 1784282956000
+    }
+  },
+  {
+    "id": "elvia-24575",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 38,
+    "lat": 59.12654439516223,
+    "lng": 11.398399999881255,
+    "start": "18.7.2026, 14:00:03",
+    "end": "18.7.2026, 17:36:03",
+    "areaName": "Halden / Halden / Q0368",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24575,
+      "antallkunder": 38,
+      "avbruddstype": "Unplanned",
+      "kommune": "Halden",
+      "nettstasjon": "Q0368",
+      "poststed": "Halden",
+      "strombruddoppdaget": 1784383203000,
+      "utkoblingslutt": 1784396163000,
+      "utkoblingstart": 1784383203000
+    }
+  },
+  {
+    "id": "elvia-26582",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 16,
+    "lat": 59.601565922841836,
+    "lng": 10.75958371727415,
+    "start": "18.7.2026, 13:26:34",
+    "end": "18.7.2026, 17:02:34",
+    "areaName": "Vestby / Vestby / V0234",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26582,
+      "antallkunder": 16,
+      "avbruddstype": "Unplanned",
+      "kommune": "Vestby",
+      "nettstasjon": "V0234",
+      "poststed": "Vestby",
+      "strombruddoppdaget": 1784381194000,
+      "utkoblingslutt": 1784394154000,
+      "utkoblingstart": 1784381194000
     }
   },
   {
@@ -392,34 +484,6 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2885-1",
       "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70761-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 59,
-    "lat": 59.810018920000005,
-    "lng": 10.823577097999987,
-    "start": "18.7.2026, 06:47:05",
-    "end": null,
-    "areaName": "BRU",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218405,
-      "REFNR": "H70761",
-      "SEKUNDÆRSTASJON": "BRU",
-      "AVGANG": "L24",
-      "CNT": 59,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nGRØNSLETT, SIGGERUD SAG, EKORNVEGEN.",
-      "FRA_DATO": 1784357225000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70761-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nGRØNSLETT, SIGGERUD SAG, EKORNVEGEN."
     }
   },
   {
