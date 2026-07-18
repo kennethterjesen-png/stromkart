@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-5885",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 17,
+    "lat": 59.88272833737543,
+    "lng": 10.823711900273425,
+    "start": "18.7.2026, 19:30:43",
+    "end": "18.7.2026, 23:06:43",
+    "areaName": "Oslo / Oslo / 0318",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5885,
+      "antallkunder": 17,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "0318",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1784403043000,
+      "utkoblingslutt": 1784416003000,
+      "utkoblingstart": 1784403043000
+    }
+  },
+  {
     "id": "elvia-19353",
     "company": "Elvia",
     "type": "planned",
@@ -43,29 +66,6 @@
       "strombruddoppdaget": 1784282956000,
       "utkoblingslutt": 1784295916000,
       "utkoblingstart": 1784282956000
-    }
-  },
-  {
-    "id": "elvia-24970",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.843883428114786,
-    "lng": 11.137102094686842,
-    "start": "18.7.2026, 14:23:35",
-    "end": "18.7.2026, 17:59:35",
-    "areaName": "Rælingen / Nordby / R0005",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24970,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rælingen",
-      "nettstasjon": "R0005",
-      "poststed": "Nordby",
-      "strombruddoppdaget": 1784384615000,
-      "utkoblingslutt": 1784397575000,
-      "utkoblingstart": 1784384615000
     }
   },
   {
@@ -115,29 +115,6 @@
     }
   },
   {
-    "id": "elvia-28467",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 59.33976506605508,
-    "lng": 10.680713790821128,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Dilling / Y0049",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28467,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0049",
-      "poststed": "Dilling",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
     "id": "elvia-28512",
     "company": "Elvia",
     "type": "planned",
@@ -155,52 +132,6 @@
       "kommune": "Moss",
       "nettstasjon": "Y0102",
       "poststed": "Larkollen",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
-    "id": "elvia-28526",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 59.33356727194546,
-    "lng": 10.674897321234923,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Larkollen / Y0118",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28526,
-      "antallkunder": 18,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0118",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
-    "id": "elvia-28570",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.33635798227501,
-    "lng": 10.68734280019726,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Dilling / Y0173",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28570,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0173",
-      "poststed": "Dilling",
       "strombruddoppdaget": 1784394399989,
       "utkoblingslutt": 1784407899000,
       "utkoblingstart": 1784394399989
