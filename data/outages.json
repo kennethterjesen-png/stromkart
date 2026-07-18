@@ -115,29 +115,6 @@
     }
   },
   {
-    "id": "elvia-28067",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.26924186447998,
-    "lng": 11.339883538747031,
-    "start": "18.7.2026, 07:59:33",
-    "end": "18.7.2026, 11:35:33",
-    "areaName": "Sarpsborg / Ise / X1049",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28067,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X1049",
-      "poststed": "Ise",
-      "strombruddoppdaget": 1784361573000,
-      "utkoblingslutt": 1784374533000,
-      "utkoblingstart": 1784361573000
-    }
-  },
-  {
     "id": "linja-planned-3350636",
     "company": "Linja",
     "type": "planned",
@@ -414,34 +391,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2885-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70760-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 89,
-    "lat": 59.134754568000005,
-    "lng": 10.943468312999983,
-    "start": "18.7.2026, 11:00:46",
-    "end": null,
-    "areaName": "KRÅKERØY",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218407,
-      "REFNR": "H70760",
-      "SEKUNDÆRSTASJON": "KRÅKERØY",
-      "AVGANG": "H731",
-      "CNT": 89,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1784372446000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70760-1",
       "description": ""
     }
   },
