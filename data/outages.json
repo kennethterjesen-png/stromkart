@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-607",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 19,
+    "lat": 59.914864976311804,
+    "lng": 10.776591867620933,
+    "start": "17.7.2026, 23:51:49",
+    "end": "18.7.2026, 03:36:49",
+    "areaName": "Oslo / Oslo / 3005",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 607,
+      "antallkunder": 19,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "3005",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1784332309806,
+      "utkoblingslutt": 1784345809000,
+      "utkoblingstart": 1784332309806
+    }
+  },
+  {
     "id": "elvia-4291",
     "company": "Elvia",
     "type": "planned",
