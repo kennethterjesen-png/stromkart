@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-21919",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.42489616394672,
-    "lng": 10.970020339821438,
-    "start": "18.7.2026, 10:55:59",
-    "end": "18.7.2026, 14:31:59",
-    "areaName": "Våler / Svinndal / I0118",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21919,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Våler",
-      "nettstasjon": "I0118",
-      "poststed": "Svinndal",
-      "strombruddoppdaget": 1784372159000,
-      "utkoblingslutt": 1784385119000,
-      "utkoblingstart": 1784372159000
-    }
-  },
-  {
     "id": "elvia-24218",
     "company": "Elvia",
     "type": "planned",
@@ -161,52 +138,6 @@
     }
   },
   {
-    "id": "elvia-28468",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 68,
-    "lat": 59.33237679080937,
-    "lng": 10.666155664516305,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Larkollen / Y0051",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28468,
-      "antallkunder": 68,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0051",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
-    "id": "elvia-28492",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.33989410937716,
-    "lng": 10.664291516417354,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Larkollen / Y0079",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28492,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0079",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
     "id": "elvia-28512",
     "company": "Elvia",
     "type": "planned",
@@ -253,29 +184,6 @@
     }
   },
   {
-    "id": "elvia-28530",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 35,
-    "lat": 59.33737293739417,
-    "lng": 10.667766851723474,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Larkollen / Y0124",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28530,
-      "antallkunder": 35,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0124",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
     "id": "elvia-28570",
     "company": "Elvia",
     "type": "planned",
@@ -293,144 +201,6 @@
       "kommune": "Moss",
       "nettstasjon": "Y0173",
       "poststed": "Dilling",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
-    "id": "elvia-28590",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 59.34153850066648,
-    "lng": 10.667546144938623,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Larkollen / Y0195",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28590,
-      "antallkunder": 16,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0195",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
-    "id": "elvia-28591",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 33,
-    "lat": 59.343786434558915,
-    "lng": 10.664935367160929,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Larkollen / Y0196",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28591,
-      "antallkunder": 33,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0196",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
-    "id": "elvia-28614",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.33257239503699,
-    "lng": 10.671046215437332,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Larkollen / Y0227",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28614,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0227",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
-    "id": "elvia-28654",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 41,
-    "lat": 59.33697188025653,
-    "lng": 10.662184046201503,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Larkollen / Y0286",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28654,
-      "antallkunder": 41,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0286",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
-    "id": "elvia-28655",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 59.33531432668904,
-    "lng": 10.662649320513099,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Larkollen / Y0287",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28655,
-      "antallkunder": 15,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0287",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1784394399989,
-      "utkoblingslutt": 1784407899000,
-      "utkoblingstart": 1784394399989
-    }
-  },
-  {
-    "id": "elvia-28656",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 32,
-    "lat": 59.334691883173164,
-    "lng": 10.666628878595441,
-    "start": "18.7.2026, 17:06:39",
-    "end": "18.7.2026, 20:51:39",
-    "areaName": "Moss / Larkollen / Y0288",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28656,
-      "antallkunder": 32,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0288",
-      "poststed": "Larkollen",
       "strombruddoppdaget": 1784394399989,
       "utkoblingslutt": 1784407899000,
       "utkoblingstart": 1784394399989
