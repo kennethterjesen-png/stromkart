@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-6736",
+    "id": "elvia-15898",
     "company": "Elvia",
     "type": "planned",
-    "customers": 10,
-    "lat": 59.9332264471844,
-    "lng": 10.650194393079767,
-    "start": "18.7.2026, 12:35:04",
-    "end": "18.7.2026, 16:11:04",
-    "areaName": "Oslo / Oslo / 1568",
+    "customers": 11,
+    "lat": 61.03824886529954,
+    "lng": 10.534916581677297,
+    "start": "18.7.2026, 14:58:02",
+    "end": "18.7.2026, 18:34:02",
+    "areaName": "Ringsaker / Brøttum / ENS05575",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 6736,
-      "antallkunder": 10,
+      "OBJECTID": 15898,
+      "antallkunder": 11,
       "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "1568",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1784378104000,
-      "utkoblingslutt": 1784391064000,
-      "utkoblingstart": 1784378104000
+      "kommune": "Ringsaker",
+      "nettstasjon": "ENS05575",
+      "poststed": "Brøttum",
+      "strombruddoppdaget": 1784386682000,
+      "utkoblingslutt": 1784399642000,
+      "utkoblingstart": 1784386682000
     }
   },
   {
@@ -115,29 +115,6 @@
     }
   },
   {
-    "id": "elvia-24136",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.7351985937865,
-    "lng": 10.718905427132153,
-    "start": "18.7.2026, 12:51:42",
-    "end": "18.7.2026, 16:27:42",
-    "areaName": "Frogn / Nordre frogn / P0433",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24136,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Frogn",
-      "nettstasjon": "P0433",
-      "poststed": "Nordre frogn",
-      "strombruddoppdaget": 1784379102000,
-      "utkoblingslutt": 1784392062000,
-      "utkoblingstart": 1784379102000
-    }
-  },
-  {
     "id": "elvia-24218",
     "company": "Elvia",
     "type": "planned",
@@ -181,6 +158,29 @@
       "strombruddoppdaget": 1784383203000,
       "utkoblingslutt": 1784396163000,
       "utkoblingstart": 1784383203000
+    }
+  },
+  {
+    "id": "elvia-24970",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.843883428114786,
+    "lng": 11.137102094686842,
+    "start": "18.7.2026, 14:23:35",
+    "end": "18.7.2026, 17:59:35",
+    "areaName": "Rælingen / Nordby / R0005",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24970,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Rælingen",
+      "nettstasjon": "R0005",
+      "poststed": "Nordby",
+      "strombruddoppdaget": 1784384615000,
+      "utkoblingslutt": 1784397575000,
+      "utkoblingstart": 1784384615000
     }
   },
   {
@@ -484,34 +484,6 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2885-1",
       "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70763-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 15,
-    "lat": 59.76332869100003,
-    "lng": 10.591032198999983,
-    "start": "18.7.2026, 08:23:53",
-    "end": null,
-    "areaName": "NYSTUEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218406,
-      "REFNR": "H70763",
-      "SEKUNDÆRSTASJON": "NYSTUEN",
-      "AVGANG": "L7",
-      "CNT": 15,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nSPRO ØVRE.",
-      "FRA_DATO": 1784363033000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70763-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nSPRO ØVRE."
     }
   }
 ]
