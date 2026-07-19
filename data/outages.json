@@ -46,26 +46,22 @@
     }
   },
   {
-    "id": "elvia-25770",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 60.047252464186286,
-    "lng": 10.869303401983903,
-    "start": "19.7.2026, 18:39:27",
-    "end": "19.7.2026, 22:15:27",
-    "areaName": "Nittedal / Nittedal / T4113",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "id": "fagne-4554281",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 1429,
+    "lat": 59.29282612239626,
+    "lng": 5.233679292770883,
+    "start": null,
+    "end": null,
+    "areaName": "KARMØY",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
-      "OBJECTID": 25770,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nittedal",
-      "nettstasjon": "T4113",
-      "poststed": "Nittedal",
-      "strombruddoppdaget": 1784486367000,
-      "utkoblingslutt": 1784499327000,
-      "utkoblingstart": 1784486367000
+      "description": "",
+      "state": "Pågående",
+      "municipal": "KARMØY",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
