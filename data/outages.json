@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-9351",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.9181716206388,
+    "lng": 11.449983090593594,
+    "start": "19.7.2026, 07:03:28",
+    "end": "19.7.2026, 10:39:28",
+    "areaName": "Aurskog-Høland / Aurskog / A0032",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9351,
+      "antallkunder": 11,
+      "avbruddstype": "Unplanned",
+      "kommune": "Aurskog-Høland",
+      "nettstasjon": "A0032",
+      "poststed": "Aurskog",
+      "strombruddoppdaget": 1784444608000,
+      "utkoblingslutt": 1784457568000,
+      "utkoblingstart": 1784444608000
+    }
+  },
+  {
     "id": "elvia-19353",
     "company": "Elvia",
     "type": "planned",
@@ -43,6 +66,30 @@
       "strombruddoppdaget": 1784282956000,
       "utkoblingslutt": 1784295916000,
       "utkoblingstart": 1784282956000
+    }
+  },
+  {
+    "id": "linja-outage-3361641",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 162,
+    "lat": 62.161233841494,
+    "lng": 5.177096393830357,
+    "start": "19.7.2026, 08:12:00",
+    "end": null,
+    "areaName": "STAD / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3361641,
+      "CUSTOMER_WEB_TEXT": "Straumutfall pga feil. Vi ser på saka. Rettetid uvisst. Vi sender ut personell",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1784448720000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "STAD",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 17,
+      "NUM_AB": 162
     }
   },
   {
