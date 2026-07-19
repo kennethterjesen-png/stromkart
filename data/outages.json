@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-25770",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 13,
+    "lat": 60.047252464186286,
+    "lng": 10.869303401983903,
+    "start": "19.7.2026, 18:39:27",
+    "end": "19.7.2026, 22:15:27",
+    "areaName": "Nittedal / Nittedal / T4113",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 25770,
+      "antallkunder": 13,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nittedal",
+      "nettstasjon": "T4113",
+      "poststed": "Nittedal",
+      "strombruddoppdaget": 1784486367000,
+      "utkoblingslutt": 1784499327000,
+      "utkoblingstart": 1784486367000
+    }
+  },
+  {
     "id": "linja-planned-3350636",
     "company": "Linja",
     "type": "planned",
