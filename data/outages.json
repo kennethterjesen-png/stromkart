@@ -138,6 +138,29 @@
     }
   },
   {
+    "id": "elvia-27502",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.2972184879589,
+    "lng": 11.118357240973673,
+    "start": "18.7.2026, 21:41:32",
+    "end": "19.7.2026, 01:17:32",
+    "areaName": "Sarpsborg / Sarpsborg / X0331",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27502,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0331",
+      "poststed": "Sarpsborg",
+      "strombruddoppdaget": 1784410892000,
+      "utkoblingslutt": 1784423852000,
+      "utkoblingstart": 1784410892000
+    }
+  },
+  {
     "id": "linja-planned-3350636",
     "company": "Linja",
     "type": "planned",
