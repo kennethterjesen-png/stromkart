@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-13207",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.79741622502415,
-    "lng": 10.695872692429914,
-    "start": "17.7.2026, 10:00:00",
-    "end": "19.7.2026, 19:00:00",
-    "areaName": "Gjøvik / Gjøvik / ENS01513",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13207,
-      "antallkunder": 4,
-      "avbruddstype": "Planned",
-      "kommune": "Gjøvik",
-      "nettstasjon": "ENS01513",
-      "poststed": "Gjøvik",
-      "strombruddoppdaget": 1784276878217,
-      "utkoblingslutt": 1784487600000,
-      "utkoblingstart": 1784282400000
-    }
-  },
-  {
     "id": "elvia-17458",
     "company": "Elvia",
     "type": "planned",
@@ -66,29 +43,6 @@
       "strombruddoppdaget": 1784369201000,
       "utkoblingslutt": 1784382161000,
       "utkoblingstart": 1784369201000
-    }
-  },
-  {
-    "id": "elvia-22507",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.9852000686725,
-    "lng": 11.2564278951503,
-    "start": "19.7.2026, 13:40:22",
-    "end": "19.7.2026, 17:16:22",
-    "areaName": "Lillestrøm / Sørumsand / K0445",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22507,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "K0445",
-      "poststed": "Sørumsand",
-      "strombruddoppdaget": 1784468422000,
-      "utkoblingslutt": 1784481382000,
-      "utkoblingstart": 1784468422000
     }
   },
   {
