@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-22507",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.9852000686725,
+    "lng": 11.2564278951503,
+    "start": "19.7.2026, 13:40:22",
+    "end": "19.7.2026, 17:16:22",
+    "areaName": "Lillestrøm / Sørumsand / K0445",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22507,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "K0445",
+      "poststed": "Sørumsand",
+      "strombruddoppdaget": 1784468422000,
+      "utkoblingslutt": 1784481382000,
+      "utkoblingstart": 1784468422000
+    }
+  },
+  {
     "id": "elvia-24218",
     "company": "Elvia",
     "type": "planned",
@@ -368,34 +391,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2885-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70776-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 1,
-    "lat": 59.073307661,
-    "lng": 11.08738218000002,
-    "start": "19.7.2026, 11:34:51",
-    "end": null,
-    "areaName": "RØD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218417,
-      "REFNR": "L70776",
-      "SEKUNDÆRSTASJON": "RØD",
-      "AVGANG": "H3000",
-      "CNT": 1,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1784460891000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70776-1",
       "description": ""
     }
   }
