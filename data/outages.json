@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-17458",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 61.37968513559495,
-    "lng": 11.967673604456074,
-    "start": "19.7.2026, 09:58:35",
-    "end": "19.7.2026, 13:34:35",
-    "areaName": "Trysil / Slettås / ENS08005",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17458,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS08005",
-      "poststed": "Slettås",
-      "strombruddoppdaget": 1784455115000,
-      "utkoblingslutt": 1784468075000,
-      "utkoblingstart": 1784455115000
-    }
-  },
-  {
     "id": "elvia-19353",
     "company": "Elvia",
     "type": "planned",
@@ -184,6 +161,78 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3361785",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.34665268388076,
+    "lng": 5.056451683496389,
+    "start": "22.7.2026, 07:00:00",
+    "end": null,
+    "areaName": "ASKVOLL / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3361785,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området Røyset 22 juli, fra kl. 0900 til 1300.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1784703600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "ASKVOLL",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3361829",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.348410101425976,
+    "lng": 5.053872026992484,
+    "start": "22.7.2026, 12:00:00",
+    "end": null,
+    "areaName": "ASKVOLL / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3361829,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området Røyset 22 juli, fra kl. 1400 til 1800.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1784721600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "ASKVOLL",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3361889",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.34694850545212,
+    "lng": 5.0540522904797704,
+    "start": "23.7.2026, 07:00:00",
+    "end": null,
+    "areaName": "ASKVOLL / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3361889,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området rundt Hermetikkfabrikken 23 juli, fra kl. 0900 til 1300.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1784790000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "ASKVOLL",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
