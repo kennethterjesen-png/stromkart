@@ -23,26 +23,45 @@
     }
   },
   {
-    "id": "elvia-24867",
+    "id": "elvia-28837",
     "company": "Elvia",
     "type": "planned",
-    "customers": 1,
-    "lat": 59.23263347638914,
-    "lng": 11.671530263770677,
-    "start": "20.7.2026, 14:30:09",
-    "end": "20.7.2026, 18:06:09",
-    "areaName": "Aremark / Aremark / Q2018",
+    "customers": 49,
+    "lat": 59.459815452626195,
+    "lng": 10.692519218166979,
+    "start": "20.7.2026, 15:33:14",
+    "end": "20.7.2026, 19:09:14",
+    "areaName": "Moss / Moss / Y1189",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 24867,
-      "antallkunder": 1,
+      "OBJECTID": 28837,
+      "antallkunder": 49,
       "avbruddstype": "Unplanned",
-      "kommune": "Aremark",
-      "nettstasjon": "Q2018",
-      "poststed": "Aremark",
-      "strombruddoppdaget": 1784557809000,
-      "utkoblingslutt": 1784570769000,
-      "utkoblingstart": 1784557809000
+      "kommune": "Moss",
+      "nettstasjon": "Y1189",
+      "poststed": "Moss",
+      "strombruddoppdaget": 1784561594000,
+      "utkoblingslutt": 1784574554000,
+      "utkoblingstart": 1784561594000
+    }
+  },
+  {
+    "id": "fagne-4554985",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 95,
+    "lat": 59.29908115340858,
+    "lng": 5.237453631036177,
+    "start": null,
+    "end": null,
+    "areaName": "KARMØY",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "KARMØY",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
     }
   },
   {
