@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-7478",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 320,
+    "lat": 59.927123380770205,
+    "lng": 10.731904119395722,
+    "start": "20.7.2026, 22:05:00",
+    "end": "21.7.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 2644",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7478,
+      "antallkunder": 320,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2644",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1782770992000,
+      "utkoblingslutt": 1784606400000,
+      "utkoblingstart": 1784585100000
+    }
+  },
+  {
     "id": "elvia-11487",
     "company": "Elvia",
     "type": "planned",
@@ -20,6 +43,30 @@
       "strombruddoppdaget": 1784580955000,
       "utkoblingslutt": 1784593915000,
       "utkoblingstart": 1784580955000
+    }
+  },
+  {
+    "id": "linja-outage-3362308",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 321,
+    "lat": 61.296537916047406,
+    "lng": 4.663233972716846,
+    "start": "20.7.2026, 21:31:00",
+    "end": null,
+    "areaName": "ASKVOLL / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3362308,
+      "CUSTOMER_WEB_TEXT": "23:30 - Strømbrudd Værlandet, personell på vei for feilsøk. Forventer at feilretting vil pågå utover natten",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1784583060000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "ASKVOLL",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 29,
+      "NUM_AB": 321
     }
   },
   {
