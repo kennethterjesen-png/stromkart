@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-14654",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 61.31486618647785,
-    "lng": 10.051749823387015,
-    "start": "20.7.2026, 17:57:39",
-    "end": "20.7.2026, 21:33:39",
-    "areaName": "Gausdal / Svingvoll / ENS03597",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14654,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Gausdal",
-      "nettstasjon": "ENS03597",
-      "poststed": "Svingvoll",
-      "strombruddoppdaget": 1784570259000,
-      "utkoblingslutt": 1784583219000,
-      "utkoblingstart": 1784570259000
-    }
-  },
-  {
-    "id": "elvia-20658",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.957179433596565,
-    "lng": 10.62160072800387,
-    "start": "20.7.2026, 16:23:59",
-    "end": "20.7.2026, 19:32:59",
-    "areaName": "Gjøvik / Biri / ENS13044",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20658,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Gjøvik",
-      "nettstasjon": "ENS13044",
-      "poststed": "Biri",
-      "strombruddoppdaget": 1784564639000,
-      "utkoblingslutt": 1784575979000,
-      "utkoblingstart": 1784564639000
-    }
-  },
-  {
     "id": "linja-planned-3362244",
     "company": "Linja",
     "type": "planned",
