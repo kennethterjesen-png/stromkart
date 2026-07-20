@@ -23,35 +23,12 @@
     }
   },
   {
-    "id": "elvia-11487",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.82902356025165,
-    "lng": 10.404305753727401,
-    "start": "20.7.2026, 20:55:55",
-    "end": "21.7.2026, 00:31:55",
-    "areaName": "Asker / Asker / D0674",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11487,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Asker",
-      "nettstasjon": "D0674",
-      "poststed": "Asker",
-      "strombruddoppdaget": 1784580955000,
-      "utkoblingslutt": 1784593915000,
-      "utkoblingstart": 1784580955000
-    }
-  },
-  {
     "id": "linja-outage-3362308",
     "company": "Linja",
     "type": "outage",
-    "customers": 321,
-    "lat": 61.296537916047406,
-    "lng": 4.663233972716846,
+    "customers": 30,
+    "lat": 61.30392428483447,
+    "lng": 4.730248552992507,
     "start": "20.7.2026, 21:31:00",
     "end": null,
     "areaName": "ASKVOLL / Linja Sør",
@@ -65,8 +42,8 @@
       "FLAG": 129,
       "MUNICIPAL_TXT": "ASKVOLL",
       "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 29,
-      "NUM_AB": 321
+      "NUM_NS": 4,
+      "NUM_AB": 30
     }
   },
   {
