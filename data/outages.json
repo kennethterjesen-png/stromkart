@@ -23,30 +23,6 @@
     }
   },
   {
-    "id": "linja-outage-3362308",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 30,
-    "lat": 61.30392428483447,
-    "lng": 4.730248552992507,
-    "start": "20.7.2026, 21:31:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3362308,
-      "CUSTOMER_WEB_TEXT": "23:30 - Strømbrudd Værlandet, personell på vei for feilsøk. Forventer at feilretting vil pågå utover natten",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1784583060000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "ASKVOLL",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 4,
-      "NUM_AB": 30
-    }
-  },
-  {
     "id": "linja-planned-3362244",
     "company": "Linja",
     "type": "planned",
