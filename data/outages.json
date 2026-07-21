@@ -23,144 +23,6 @@
     }
   },
   {
-    "id": "elvia-24083",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 55,
-    "lat": 59.70010905824602,
-    "lng": 10.605204942294982,
-    "start": "21.7.2026, 15:35:41",
-    "end": "21.7.2026, 19:20:41",
-    "areaName": "Frogn / Nordre frogn / P0228",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24083,
-      "antallkunder": 55,
-      "avbruddstype": "Unplanned",
-      "kommune": "Frogn",
-      "nettstasjon": "P0228",
-      "poststed": "Nordre frogn",
-      "strombruddoppdaget": 1784648141165,
-      "utkoblingslutt": 1784661641000,
-      "utkoblingstart": 1784648141165
-    }
-  },
-  {
-    "id": "elvia-24084",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 56,
-    "lat": 59.70293249566887,
-    "lng": 10.610502417581458,
-    "start": "21.7.2026, 15:35:41",
-    "end": "21.7.2026, 19:20:41",
-    "areaName": "Frogn / Nordre frogn / P0229",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24084,
-      "antallkunder": 56,
-      "avbruddstype": "Unplanned",
-      "kommune": "Frogn",
-      "nettstasjon": "P0229",
-      "poststed": "Nordre frogn",
-      "strombruddoppdaget": 1784648141165,
-      "utkoblingslutt": 1784661641000,
-      "utkoblingstart": 1784648141165
-    }
-  },
-  {
-    "id": "elvia-24085",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 55,
-    "lat": 59.7028457410274,
-    "lng": 10.603425878021927,
-    "start": "21.7.2026, 15:35:41",
-    "end": "21.7.2026, 19:20:41",
-    "areaName": "Frogn / Nordre frogn / P0232",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24085,
-      "antallkunder": 55,
-      "avbruddstype": "Unplanned",
-      "kommune": "Frogn",
-      "nettstasjon": "P0232",
-      "poststed": "Nordre frogn",
-      "strombruddoppdaget": 1784648141165,
-      "utkoblingslutt": 1784661641000,
-      "utkoblingstart": 1784648141165
-    }
-  },
-  {
-    "id": "elvia-24086",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 40,
-    "lat": 59.70686315626046,
-    "lng": 10.601871338143306,
-    "start": "21.7.2026, 15:35:41",
-    "end": "21.7.2026, 19:20:41",
-    "areaName": "Frogn / Nordre frogn / P0233",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24086,
-      "antallkunder": 40,
-      "avbruddstype": "Unplanned",
-      "kommune": "Frogn",
-      "nettstasjon": "P0233",
-      "poststed": "Nordre frogn",
-      "strombruddoppdaget": 1784648141165,
-      "utkoblingslutt": 1784661641000,
-      "utkoblingstart": 1784648141165
-    }
-  },
-  {
-    "id": "elvia-24087",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 45,
-    "lat": 59.707740932905395,
-    "lng": 10.606107009230653,
-    "start": "21.7.2026, 15:35:41",
-    "end": "21.7.2026, 19:20:41",
-    "areaName": "Frogn / Nordre frogn / P0234",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24087,
-      "antallkunder": 45,
-      "avbruddstype": "Unplanned",
-      "kommune": "Frogn",
-      "nettstasjon": "P0234",
-      "poststed": "Nordre frogn",
-      "strombruddoppdaget": 1784648141165,
-      "utkoblingslutt": 1784661641000,
-      "utkoblingstart": 1784648141165
-    }
-  },
-  {
-    "id": "elvia-24088",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 37,
-    "lat": 59.71108753915441,
-    "lng": 10.60225160294079,
-    "start": "21.7.2026, 15:35:41",
-    "end": "21.7.2026, 19:20:41",
-    "areaName": "Frogn / Nordre frogn / P0237",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24088,
-      "antallkunder": 37,
-      "avbruddstype": "Unplanned",
-      "kommune": "Frogn",
-      "nettstasjon": "P0237",
-      "poststed": "Nordre frogn",
-      "strombruddoppdaget": 1784648141165,
-      "utkoblingslutt": 1784661641000,
-      "utkoblingstart": 1784648141165
-    }
-  },
-  {
     "id": "linja-planned-3339872",
     "company": "Linja",
     "type": "planned",
@@ -422,6 +284,23 @@
       "MUNICIPAL_TXT": "SULA",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-1",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 28,
+    "lat": 58.9762827215621,
+    "lng": 5.709930638332748,
+    "start": "21.7.2026, 08:00:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 28",
+      "description": "Rettet\nStartet: 2026-07-21 08:00\nSluttid: 2026-07-21 09:08\nPlanlagt strømstans",
+      "styleUrl": "#green"
     }
   },
   {
