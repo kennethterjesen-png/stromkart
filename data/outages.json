@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-6760",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 16,
+    "lat": 59.91649414853117,
+    "lng": 10.754622364572308,
+    "start": "21.7.2026, 18:30:00",
+    "end": "22.7.2026, 00:00:00",
+    "areaName": "Oslo / Oslo / 1603",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6760,
+      "antallkunder": 16,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1603",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1784678400000,
+      "utkoblingstart": 1784658600000
+    }
+  },
+  {
     "id": "elvia-24083",
     "company": "Elvia",
     "type": "planned",
@@ -135,29 +158,6 @@
       "strombruddoppdaget": 1784648141165,
       "utkoblingslutt": 1784661641000,
       "utkoblingstart": 1784648141165
-    }
-  },
-  {
-    "id": "elvia-28537",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 22,
-    "lat": 59.323333139321775,
-    "lng": 10.675238805009107,
-    "start": "21.7.2026, 17:11:51",
-    "end": "21.7.2026, 20:47:51",
-    "areaName": "Moss / Larkollen / Y0133",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28537,
-      "antallkunder": 22,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0133",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1784653911000,
-      "utkoblingslutt": 1784666871000,
-      "utkoblingstart": 1784653911000
     }
   },
   {
