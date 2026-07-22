@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-9927",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 59.920296779250464,
-    "lng": 10.62141041896655,
-    "start": "22.7.2026, 13:43:11",
-    "end": "22.7.2026, 17:19:11",
-    "areaName": "Bærum / Jar / B0880",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9927,
-      "antallkunder": 15,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0880",
-      "poststed": "Jar",
-      "strombruddoppdaget": 1784727791000,
-      "utkoblingslutt": 1784740751000,
-      "utkoblingstart": 1784727791000
-    }
-  },
-  {
     "id": "elvia-18037",
     "company": "Elvia",
     "type": "planned",
@@ -89,29 +66,6 @@
       "strombruddoppdaget": 1784728242000,
       "utkoblingslutt": 1784741202000,
       "utkoblingstart": 1784728242000
-    }
-  },
-  {
-    "id": "elvia-24231",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.655107464787264,
-    "lng": 10.6498824718983,
-    "start": "22.7.2026, 14:32:43",
-    "end": "22.7.2026, 18:08:43",
-    "areaName": "Frogn / Drøbak / P0823",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24231,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Frogn",
-      "nettstasjon": "P0823",
-      "poststed": "Drøbak",
-      "strombruddoppdaget": 1784730763000,
-      "utkoblingslutt": 1784743723000,
-      "utkoblingstart": 1784730763000
     }
   },
   {
