@@ -23,51 +23,27 @@
     }
   },
   {
-    "id": "linja-outage-3363520",
+    "id": "linja-outage-3361829",
     "company": "Linja",
     "type": "outage",
-    "customers": 9,
-    "lat": 62.15288353884572,
-    "lng": 6.094430760605431,
-    "start": "22.7.2026, 10:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3363520,
-      "CUSTOMER_WEB_TEXT": "Straumlaust på grunn av feil i straumnettet. Rettetid kl. 13",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1784714400000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "VOLDA",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 0,
-      "NUM_AB": 9
-    }
-  },
-  {
-    "id": "linja-planned-3361889",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.34694850545212,
-    "lng": 5.0540522904797704,
-    "start": "22.7.2026, 15:00:00",
+    "customers": 35,
+    "lat": 61.348410101425976,
+    "lng": 5.053872026992484,
+    "start": "22.7.2026, 12:00:00",
     "end": null,
     "areaName": "ASKVOLL / Linja Sør",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3361889,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området rundt Hermetikkfabrikken 22 juli, fra kl. 1500 til 2100.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1784732400000,
+      "EVENTID": 3361829,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området Røyset 22 juli, fra kl. 1400 til 1800.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1784721600000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "ASKVOLL",
+      "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 0,
-      "NUM_AB": 0
+      "NUM_AB": 35
     }
   },
   {
@@ -285,25 +261,8 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 19",
-      "description": "Planlagt strømstans\nStartet: 2026-07-22 12:00\nPlanlagt ferdig: 2026-07-22 15:00",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
-    "id": "lnett-outage-7",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 284,
-    "lat": 58.96061988774805,
-    "lng": 5.6149523139899715,
-    "start": "22.7.2026, 13:11:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 284",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-22 13:11\nFeilsøk pågår",
-      "styleUrl": "#red"
+      "description": "Rettet\nStartet: 2026-07-22 12:00\nSluttid: 2026-07-22 13:47\nPlanlagt strømstans",
+      "styleUrl": "#green"
     }
   },
   {
