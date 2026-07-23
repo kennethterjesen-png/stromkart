@@ -23,6 +23,25 @@
     }
   },
   {
+    "id": "fagne-4558445",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 8,
+    "lat": 59.78691040099953,
+    "lng": 6.171673610103461,
+    "start": null,
+    "end": null,
+    "areaName": "ETNE",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "ETNE",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
     "id": "linja-planned-3362244",
     "company": "Linja",
     "type": "planned",
@@ -242,6 +261,23 @@
     "id": "lnett-outage-5",
     "company": "Lnett",
     "type": "outage",
+    "customers": 347,
+    "lat": 59.22612902274158,
+    "lng": 5.846053913228976,
+    "start": "23.7.2026, 18:53:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 347",
+      "description": "Driftsforstyrrelse\nStartet: 2026-07-23 18:53",
+      "styleUrl": "#red"
+    }
+  },
+  {
+    "id": "lnett-outage-7",
+    "company": "Lnett",
+    "type": "outage",
     "customers": 336,
     "lat": 59.26235091468686,
     "lng": 5.85499193729825,
@@ -251,7 +287,7 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 336",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-23 16:41\n16:54- Vi har hatt et strømbrudd der de fleste kundene nå har fått strømmen tilbake. Det er imidlertid fortsatt kunder på Bjergøy som er uten strøm. Montører er på vei ut for å feilsøke, men arbeidet vil dessverre ta noe tid.",
+      "description": "Driftsforstyrrelse\nStartet: 2026-07-23 16:41\n18:08- Vi har montører på vei ut mer ferge nå og de vil om kort tid starte med feilsøking. Dessverre vil det ta noe tid føre alle kunder har fått strømmen tilbake.\n16:54- Vi har hatt et strømbrudd der de fleste kundene nå har fått strømmen tilbake. Det er imidlertid fortsatt kunder på Bjergøy og deler av Kyrkjøy som er uten strøm. Montører er på vei ut for å feilsøke, men arbeidet vil dessverre ta noe tid.",
       "styleUrl": "#red"
     }
   },
@@ -392,6 +428,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2886-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70791-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 141,
+    "lat": 60.43858147100002,
+    "lng": 5.057751898999982,
+    "start": "23.7.2026, 14:31:29",
+    "end": null,
+    "areaName": "RAVNANGER",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218467,
+      "REFNR": "H70791",
+      "SEKUNDÆRSTASJON": "RAVNANGER",
+      "AVGANG": "KOLLEVÅG",
+      "CNT": 141,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1784817089000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Høyspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70791-1",
       "description": ""
     }
   }
