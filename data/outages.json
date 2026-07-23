@@ -1,25 +1,58 @@
 [
   {
-    "id": "elvia-28443",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.41307775690877,
-    "lng": 10.765411615023108,
-    "start": "23.7.2026, 17:28:23",
-    "end": "23.7.2026, 21:04:23",
-    "areaName": "Moss / Rygge / Y0022",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.27352876018436,
+    "lng": 5.346368445920116,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
     "raw": {
-      "OBJECTID": 28443,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0022",
-      "poststed": "Rygge",
-      "strombruddoppdaget": 1784827703000,
-      "utkoblingslutt": 1784840663000,
-      "utkoblingstart": 1784827703000
+      "EVENTID": 9806002,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1784833200000,
+      "TIMELIMIT": 1784858400000,
+      "NUM_AB": 41,
+      "CUSTOMER_WEB_TEXT": "5243 FANA; SOLEGÅRDSVEGEN,KVERNABEKKVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1784833254000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "linja-outage-3365537",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 71,
+    "lat": 61.625133252564055,
+    "lng": 4.815563357423426,
+    "start": "23.7.2026, 17:29:00",
+    "end": null,
+    "areaName": "KINN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3365537,
+      "CUSTOMER_WEB_TEXT": "Utfall fraAnnøy til Hovdevåg og Batalden . Full jord på en fase.  Folk er på vei ut for feilsøking.\r\nDet er antageligvis feil en plass mellom Trolleskjeret og Annøy. Seksjonering vil forekomme.\r\n20:26 Det ser nå ut til å være 2 feil i nettet.  1 fra Annøy og utover og 1 frfa Nøkkøy - kinn\r\n20:39 fått inn strøm fram til Skorpeide - Æsøysund-Batalden.\r\n21:06 Da ser det ut til at det er feil fra Barekstad - Kvandehovden fyr - Hovdevåg og til Hovdevåg Oppdrett.  Videre er det feil på en trafo på kinnasund ( Bryggjehaugen)",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1784827740000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "KINN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 4,
+      "NUM_AB": 71
     }
   },
   {
@@ -251,7 +284,7 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 183",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-23 16:41\n19:30- Våres montører jobber med å finne feilen, men dessverre tar dette noe tid.\n16:54- Vi har hatt et strømbrudd der de fleste kundene nå har fått strømmen tilbake. Det er imidlertid fortsatt kunder på Bjergøy og deler av Kyrkjøy som er uten strøm. Montører er på vei ut for å feilsøke, men arbeidet vil dessverre ta noe tid.",
+      "description": "Driftsforstyrrelse\nStartet: 2026-07-23 16:41\n20:30 Vi har funnet feilen og jobber med å koble den fra for å kunne gi alle strømmen tilbake.\n19:30- Våres montører jobber med å finne feilen, men dessverre tar dette noe tid.\n16:54- Vi har hatt et strømbrudd der de fleste kundene nå har fått strømmen tilbake. Det er imidlertid fortsatt kunder på Bjergøy og deler av Kyrkjøy som er uten strøm. Montører er på vei ut for å feilsøke, men arbeidet vil dessverre ta noe tid.",
       "styleUrl": "#red"
     }
   },
@@ -413,14 +446,14 @@
       "AVGANG": "KOLLEVÅG",
       "CNT": 141,
       "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
+      "BESKRIVELSE": "Glitre Nett forventer å få koblet om nødaggregater på Ramsøy. Antar strømmen er tilbake kl. 22 for de fleste. \nVennlig hilsen Nettsentralen \n \nBerørte områder: \n\nRAMSØYVEGEN, LAUVØY, HILLESØY, RAMSØY SKOLE, RAMSØY.",
       "FRA_DATO": 1784817089000,
       "TIL_DATO": null,
       "LOGGTYPE": "Høyspent",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70791-1",
-      "description": ""
+      "description": "Glitre Nett forventer å få koblet om nødaggregater på Ramsøy. Antar strømmen er tilbake kl. 22 for de fleste. \nVennlig hilsen Nettsentralen \n \nBerørte områder: \n\nRAMSØYVEGEN, LAUVØY, HILLESØY, RAMSØY SKOLE, RAMSØY."
     }
   }
 ]
