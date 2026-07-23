@@ -35,9 +35,9 @@
     "id": "linja-outage-3365537",
     "company": "Linja",
     "type": "outage",
-    "customers": 71,
-    "lat": 61.625133252564055,
-    "lng": 4.815563357423426,
+    "customers": 31,
+    "lat": 61.69925064073843,
+    "lng": 4.8706920798020885,
     "start": "23.7.2026, 17:29:00",
     "end": null,
     "areaName": "KINN / Linja Sør",
@@ -52,7 +52,7 @@
       "MUNICIPAL_TXT": "KINN",
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 4,
-      "NUM_AB": 71
+      "NUM_AB": 31
     }
   },
   {
