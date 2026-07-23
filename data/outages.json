@@ -272,23 +272,6 @@
     }
   },
   {
-    "id": "lnett-outage-5",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 183,
-    "lat": 59.261425602096494,
-    "lng": 5.862696394400327,
-    "start": "23.7.2026, 16:41:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 183",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-23 16:41\n20:30 Vi har funnet feilen og jobber med å koble den fra for å kunne gi alle strømmen tilbake.\n19:30- Våres montører jobber med å finne feilen, men dessverre tar dette noe tid.\n16:54- Vi har hatt et strømbrudd der de fleste kundene nå har fått strømmen tilbake. Det er imidlertid fortsatt kunder på Bjergøy og deler av Kyrkjøy som er uten strøm. Montører er på vei ut for å feilsøke, men arbeidet vil dessverre ta noe tid.",
-      "styleUrl": "#red"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2882-1",
     "company": "Norgesnett",
     "type": "planned",
