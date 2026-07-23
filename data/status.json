@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-23T07:15:32.299Z",
+  "updatedAt": "2026-07-23T09:38:53.543Z",
   "count": 21,
   "providers": [
     {
@@ -60,8 +60,8 @@
     {
       "name": "Norgesnett",
       "ok": true,
-      "count": 6,
-      "rawCount": 6,
+      "count": 5,
+      "rawCount": 5,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -78,8 +78,8 @@
     {
       "name": "Fagne",
       "ok": true,
-      "count": 2,
-      "rawCount": 2,
+      "count": 3,
+      "rawCount": 3,
       "filteredOut": 0,
       "warning": false,
       "error": null
