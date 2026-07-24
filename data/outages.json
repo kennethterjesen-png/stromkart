@@ -1,26 +1,71 @@
 [
   {
-    "id": "linja-outage-3365905",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 1509,
-    "lat": 61.91135102736684,
-    "lng": 6.705140023925557,
-    "start": "24.7.2026, 00:59:00",
-    "end": null,
-    "areaName": "STRYN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
+    "id": "elvia-470",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.94155286086101,
+    "lng": 10.81348582504926,
+    "start": "24.7.2026, 03:47:26",
+    "end": "24.7.2026, 07:32:26",
+    "areaName": "Oslo / Oslo / 2211",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "EVENTID": 3365905,
-      "CUSTOMER_WEB_TEXT": null,
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1784854740000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "STRYN",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 65,
-      "NUM_AB": 1509
+      "OBJECTID": 470,
+      "antallkunder": 11,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "2211",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1784864846763,
+      "utkoblingslutt": 1784878346000,
+      "utkoblingstart": 1784864846763
+    }
+  },
+  {
+    "id": "elvia-7029",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 122,
+    "lat": 59.94266039759288,
+    "lng": 10.811943805978396,
+    "start": "24.7.2026, 03:47:26",
+    "end": "24.7.2026, 07:32:26",
+    "areaName": "Oslo / Oslo / 2007",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7029,
+      "antallkunder": 122,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "2007",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1784864846763,
+      "utkoblingslutt": 1784878346000,
+      "utkoblingstart": 1784864846763
+    }
+  },
+  {
+    "id": "elvia-8248",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 157,
+    "lat": 59.941563616067434,
+    "lng": 10.808795760013398,
+    "start": "24.7.2026, 03:47:26",
+    "end": "24.7.2026, 07:32:26",
+    "areaName": "Oslo / Oslo / 3850",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8248,
+      "antallkunder": 157,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "3850",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1784864846763,
+      "utkoblingslutt": 1784878346000,
+      "utkoblingstart": 1784864846763
     }
   },
   {
@@ -252,7 +297,7 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 94",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-24 02:23\nFeilsøk pågår",
+      "description": "Driftsforstyrrelse\nStartet: 2026-07-24 02:23\nGrunnet flere smatidige feil kommer det desverre til å ta tid før alle får strømen tilbake. Vi jobber med å kjøre ut og koble opp aggregat.",
       "styleUrl": "#red"
     }
   },
