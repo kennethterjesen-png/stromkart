@@ -1,5 +1,51 @@
 [
   {
+    "id": "elvia-7284",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 15,
+    "lat": 59.89383050846603,
+    "lng": 10.854359381098256,
+    "start": "24.7.2026, 17:01:30",
+    "end": "24.7.2026, 20:37:30",
+    "areaName": "Oslo / Oslo / 2363",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7284,
+      "antallkunder": 15,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "2363",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1784912490000,
+      "utkoblingslutt": 1784925450000,
+      "utkoblingstart": 1784912490000
+    }
+  },
+  {
+    "id": "elvia-13187",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 93,
+    "lat": 60.7721960425014,
+    "lng": 10.685212536316143,
+    "start": "24.7.2026, 15:54:53",
+    "end": "24.7.2026, 19:30:53",
+    "areaName": "Gjøvik / Gjøvik / ENS01481",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 13187,
+      "antallkunder": 93,
+      "avbruddstype": "Unplanned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS01481",
+      "poststed": "Gjøvik",
+      "strombruddoppdaget": 1784908493000,
+      "utkoblingslutt": 1784921453000,
+      "utkoblingstart": 1784908493000
+    }
+  },
+  {
     "id": "linja-outage-3365949",
     "company": "Linja",
     "type": "outage",
@@ -552,20 +598,20 @@
     }
   },
   {
-    "id": "lnett-outage-11",
+    "id": "lnett-planned-11",
     "company": "Lnett",
-    "type": "outage",
-    "customers": 1,
-    "lat": 58.81602683255276,
-    "lng": 5.733231395374845,
-    "start": "24.7.2026, 02:23:00",
+    "type": "planned",
+    "customers": 11,
+    "lat": 58.817913297590465,
+    "lng": 5.717071792817643,
+    "start": "24.7.2026, 19:13:00",
     "end": null,
-    "areaName": "Driftsforstyrrelse",
+    "areaName": "Planlagt vedlikehold",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 1",
-      "description": "Driftsforstyrrelse\nStartet: 2026-07-24 02:23\nVi har funnet feil på en høyspentkabel, og jobber med å reparere denne.\nDe fleste berørte kunder er nå forsynt med aggregat.\nNår feilen er rettet, vil det bli strømstanser i forbindelse med tilbakekobling fra aggregat. Oppdatering om dette kommer når feilen er rettet.",
-      "styleUrl": "#red"
+      "name": "Berørte kunder: 11",
+      "description": "Planlagt strømstans\nStartet: 2026-07-24 19:13\n1900 Aggregat blir rigget ned. Strømmen er forventet tilbake ca. kl. 20:30.",
+      "styleUrl": "#yellow"
     }
   },
   {
