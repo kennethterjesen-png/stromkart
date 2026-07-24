@@ -528,23 +528,6 @@
     }
   },
   {
-    "id": "lnett-planned-11",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 1,
-    "lat": 58.81824305355121,
-    "lng": 5.716980040603391,
-    "start": "24.7.2026, 23:22:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 1",
-      "description": "Planlagt strømstans\nStartet: 2026-07-24 23:22\n21:00 Aggregat blir rigget ned. Strømmen er forventet tilbake ca. kl. 22:30.\n18:30 Kabelfeilen er rettet. Arbeid med å rigge ned aggregat starter. Berørete kunder vil bli varslet om strømstans som varer i ca. 1-1,5 timer.",
-      "styleUrl": "#red"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2882-1",
     "company": "Norgesnett",
     "type": "planned",
