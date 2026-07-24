@@ -1,48 +1,25 @@
 [
   {
-    "id": "elvia-7284",
+    "id": "elvia-28071",
     "company": "Elvia",
     "type": "planned",
-    "customers": 15,
-    "lat": 59.89383050846603,
-    "lng": 10.854359381098256,
-    "start": "24.7.2026, 17:01:30",
-    "end": "24.7.2026, 20:37:30",
-    "areaName": "Oslo / Oslo / 2363",
+    "customers": 29,
+    "lat": 59.12436451214161,
+    "lng": 11.19749658629908,
+    "start": "24.7.2026, 18:14:25",
+    "end": "24.7.2026, 21:50:25",
+    "areaName": "Sarpsborg / Skjeberg / X1053",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 7284,
-      "antallkunder": 15,
+      "OBJECTID": 28071,
+      "antallkunder": 29,
       "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2363",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1784912490000,
-      "utkoblingslutt": 1784925450000,
-      "utkoblingstart": 1784912490000
-    }
-  },
-  {
-    "id": "elvia-13187",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 93,
-    "lat": 60.7721960425014,
-    "lng": 10.685212536316143,
-    "start": "24.7.2026, 15:54:53",
-    "end": "24.7.2026, 19:30:53",
-    "areaName": "Gjøvik / Gjøvik / ENS01481",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13187,
-      "antallkunder": 93,
-      "avbruddstype": "Unplanned",
-      "kommune": "Gjøvik",
-      "nettstasjon": "ENS01481",
-      "poststed": "Gjøvik",
-      "strombruddoppdaget": 1784908493000,
-      "utkoblingslutt": 1784921453000,
-      "utkoblingstart": 1784908493000
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X1053",
+      "poststed": "Skjeberg",
+      "strombruddoppdaget": 1784916865000,
+      "utkoblingslutt": 1784929825000,
+      "utkoblingstart": 1784916865000
     }
   },
   {
@@ -67,6 +44,30 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 0,
       "NUM_AB": 11
+    }
+  },
+  {
+    "id": "linja-outage-3366441",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 42,
+    "lat": 61.9094266139728,
+    "lng": 6.718059486042277,
+    "start": "24.7.2026, 10:12:00",
+    "end": null,
+    "areaName": "STRYN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3366441,
+      "CUSTOMER_WEB_TEXT": null,
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1784887920000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "STRYN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 1,
+      "NUM_AB": 42
     }
   },
   {
@@ -595,23 +596,6 @@
       "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-11",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 11,
-    "lat": 58.817913297590465,
-    "lng": 5.717071792817643,
-    "start": "24.7.2026, 19:13:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 11",
-      "description": "Planlagt strømstans\nStartet: 2026-07-24 19:13\n1900 Aggregat blir rigget ned. Strømmen er forventet tilbake ca. kl. 20:30.",
-      "styleUrl": "#yellow"
     }
   },
   {
