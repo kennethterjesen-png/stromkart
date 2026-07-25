@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-2808",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 61.186553521384326,
+    "lng": 12.541899081255988,
+    "start": "25.7.2026, 12:55:17",
+    "end": "25.7.2026, 16:31:17",
+    "areaName": "Trysil / Nybergsund / ENS08257",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 2808,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS08257",
+      "poststed": "Nybergsund",
+      "strombruddoppdaget": 1784984117000,
+      "utkoblingslutt": 1784997077000,
+      "utkoblingstart": 1784984117000
+    }
+  },
+  {
     "id": "linja-planned-3365301",
     "company": "Linja",
     "type": "planned",
@@ -640,34 +663,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70721-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2885-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 19,
-    "lat": 60.44054501099998,
-    "lng": 5.186916071999974,
-    "start": "25.7.2026, 08:01:52",
-    "end": "25.7.2026, 13:00:00",
-    "areaName": "KLEPPE",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217843,
-      "REFNR": "PL2885",
-      "SEKUNDÆRSTASJON": "KLEPPE",
-      "AVGANG": "JUVIK",
-      "CNT": 19,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1784966512000,
-      "TIL_DATO": 1784984400000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2885-1",
       "description": ""
     }
   }
