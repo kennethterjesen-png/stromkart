@@ -6,7 +6,7 @@
     "customers": 5,
     "lat": 60.13168607605392,
     "lng": 11.450288266520205,
-    "start": "25.7.2026, 17:43:13",
+    "start": "24.7.2026, 23:02:22",
     "end": "25.7.2026, 21:28:13",
     "areaName": "Nes / Årnes / N5002",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -17,9 +17,9 @@
       "kommune": "Nes",
       "nettstasjon": "N5002",
       "poststed": "Årnes",
-      "strombruddoppdaget": 1785001393000,
+      "strombruddoppdaget": 1784934142000,
       "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
+      "utkoblingstart": 1784934142000
     }
   },
   {
@@ -29,7 +29,7 @@
     "customers": 12,
     "lat": 60.13961072159685,
     "lng": 11.45315181397398,
-    "start": "25.7.2026, 17:43:13",
+    "start": "24.7.2026, 23:02:22",
     "end": "25.7.2026, 21:28:13",
     "areaName": "Nes / Årnes / N5003",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -40,9 +40,9 @@
       "kommune": "Nes",
       "nettstasjon": "N5003",
       "poststed": "Årnes",
-      "strombruddoppdaget": 1785001393000,
+      "strombruddoppdaget": 1784934142000,
       "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
+      "utkoblingstart": 1784934142000
     }
   },
   {
@@ -52,7 +52,7 @@
     "customers": 15,
     "lat": 60.14305982495274,
     "lng": 11.424096783379404,
-    "start": "25.7.2026, 17:43:13",
+    "start": "24.7.2026, 23:02:22",
     "end": "25.7.2026, 21:28:13",
     "areaName": "Nes / Årnes / N5004",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -63,9 +63,9 @@
       "kommune": "Nes",
       "nettstasjon": "N5004",
       "poststed": "Årnes",
-      "strombruddoppdaget": 1785001393000,
+      "strombruddoppdaget": 1784934142000,
       "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
+      "utkoblingstart": 1784934142000
     }
   },
   {
@@ -75,7 +75,7 @@
     "customers": 7,
     "lat": 60.128786765382706,
     "lng": 11.445164808250148,
-    "start": "25.7.2026, 17:43:13",
+    "start": "24.7.2026, 23:02:22",
     "end": "25.7.2026, 21:28:13",
     "areaName": "Nes / Årnes / N5025",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -86,9 +86,9 @@
       "kommune": "Nes",
       "nettstasjon": "N5025",
       "poststed": "Årnes",
-      "strombruddoppdaget": 1785001393000,
+      "strombruddoppdaget": 1784934142000,
       "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
+      "utkoblingstart": 1784934142000
     }
   },
   {
@@ -98,7 +98,7 @@
     "customers": 6,
     "lat": 60.13563811999487,
     "lng": 11.434400618922476,
-    "start": "25.7.2026, 17:43:13",
+    "start": "24.7.2026, 23:02:22",
     "end": "25.7.2026, 21:28:13",
     "areaName": "Nes / Årnes / N5041",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -109,9 +109,9 @@
       "kommune": "Nes",
       "nettstasjon": "N5041",
       "poststed": "Årnes",
-      "strombruddoppdaget": 1785001393000,
+      "strombruddoppdaget": 1784934142000,
       "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
+      "utkoblingstart": 1784934142000
     }
   },
   {
@@ -121,7 +121,7 @@
     "customers": 4,
     "lat": 60.140000563231006,
     "lng": 11.456895086335514,
-    "start": "25.7.2026, 17:43:13",
+    "start": "24.7.2026, 23:02:22",
     "end": "25.7.2026, 21:28:13",
     "areaName": "Nes / Årnes / N5043",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -132,9 +132,9 @@
       "kommune": "Nes",
       "nettstasjon": "N5043",
       "poststed": "Årnes",
-      "strombruddoppdaget": 1785001393000,
+      "strombruddoppdaget": 1784934142000,
       "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
+      "utkoblingstart": 1784934142000
     }
   },
   {
@@ -144,7 +144,7 @@
     "customers": 6,
     "lat": 60.14440655070623,
     "lng": 11.417159312316068,
-    "start": "25.7.2026, 17:43:13",
+    "start": "24.7.2026, 23:02:22",
     "end": "25.7.2026, 21:28:13",
     "areaName": "Nes / Årnes / N5045",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -155,32 +155,9 @@
       "kommune": "Nes",
       "nettstasjon": "N5045",
       "poststed": "Årnes",
-      "strombruddoppdaget": 1785001393000,
+      "strombruddoppdaget": 1784934142000,
       "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
-    }
-  },
-  {
-    "id": "elvia-28715",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.437317920172696,
-    "lng": 10.618366529154388,
-    "start": "25.7.2026, 20:37:40",
-    "end": "26.7.2026, 00:13:40",
-    "areaName": "Moss / Moss / Y1028",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28715,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y1028",
-      "poststed": "Moss",
-      "strombruddoppdaget": 1785011860000,
-      "utkoblingslutt": 1785024820000,
-      "utkoblingstart": 1785011860000
+      "utkoblingstart": 1784934142000
     }
   },
   {
