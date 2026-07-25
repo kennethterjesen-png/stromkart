@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.99704964625096,
-    "lng": 4.600536120928724,
-    "start": null,
-    "end": null,
-    "areaName": "Solund",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9825561,
-      "MUNICIPAL_TXT": "Solund",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1784976480000,
-      "TIMELIMIT": 1784991600000,
-      "NUM_AB": 54,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 3,
-      "LAST_UPDATED": 1784979427000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-2808",
     "company": "Elvia",
     "type": "planned",
