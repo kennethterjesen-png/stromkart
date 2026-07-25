@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-4099",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.147578566760494,
-    "lng": 11.404124517813928,
-    "start": "25.7.2026, 17:43:13",
-    "end": "25.7.2026, 21:28:13",
-    "areaName": "Nes / Vormsund / N0041",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 4099,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N0041",
-      "poststed": "Vormsund",
-      "strombruddoppdaget": 1785001393000,
-      "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
-    }
-  },
-  {
-    "id": "elvia-4136",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 60.14667342639973,
-    "lng": 11.395461194326387,
-    "start": "25.7.2026, 17:43:13",
-    "end": "25.7.2026, 21:28:13",
-    "areaName": "Nes / Vormsund / N5064",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 4136,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N5064",
-      "poststed": "Vormsund",
-      "strombruddoppdaget": 1785001393000,
-      "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
-    }
-  },
-  {
     "id": "elvia-7235",
     "company": "Elvia",
     "type": "planned",
@@ -138,29 +92,6 @@
     }
   },
   {
-    "id": "elvia-23538",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.15328004468544,
-    "lng": 11.393057817582486,
-    "start": "25.7.2026, 17:43:13",
-    "end": "25.7.2026, 21:28:13",
-    "areaName": "Nes / Vormsund / N5007",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23538,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N5007",
-      "poststed": "Vormsund",
-      "strombruddoppdaget": 1785001393000,
-      "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
-    }
-  },
-  {
     "id": "elvia-23554",
     "company": "Elvia",
     "type": "planned",
@@ -178,29 +109,6 @@
       "kommune": "Nes",
       "nettstasjon": "N5025",
       "poststed": "Årnes",
-      "strombruddoppdaget": 1785001393000,
-      "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
-    }
-  },
-  {
-    "id": "elvia-23560",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.147816644547305,
-    "lng": 11.394406685420586,
-    "start": "25.7.2026, 17:43:13",
-    "end": "25.7.2026, 21:28:13",
-    "areaName": "Nes / Vormsund / N5031",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23560,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N5031",
-      "poststed": "Vormsund",
       "strombruddoppdaget": 1785001393000,
       "utkoblingslutt": 1785014893000,
       "utkoblingstart": 1785001393000
@@ -247,29 +155,6 @@
       "kommune": "Nes",
       "nettstasjon": "N5043",
       "poststed": "Årnes",
-      "strombruddoppdaget": 1785001393000,
-      "utkoblingslutt": 1785014893000,
-      "utkoblingstart": 1785001393000
-    }
-  },
-  {
-    "id": "elvia-23573",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 24,
-    "lat": 60.14138177318923,
-    "lng": 11.394933711580254,
-    "start": "25.7.2026, 17:43:13",
-    "end": "25.7.2026, 21:28:13",
-    "areaName": "Nes / Vormsund / N5044",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23573,
-      "antallkunder": 24,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N5044",
-      "poststed": "Vormsund",
       "strombruddoppdaget": 1785001393000,
       "utkoblingslutt": 1785014893000,
       "utkoblingstart": 1785001393000
