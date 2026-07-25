@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-7235",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.898191472901956,
-    "lng": 10.68543991187391,
-    "start": "25.7.2026, 16:24:26",
-    "end": "25.7.2026, 20:00:26",
-    "areaName": "Oslo / Oslo / 2304",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7235,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2304",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1784996666000,
-      "utkoblingslutt": 1785009626000,
-      "utkoblingstart": 1784996666000
-    }
-  },
-  {
     "id": "elvia-23533",
     "company": "Elvia",
     "type": "planned",
@@ -181,6 +158,29 @@
       "strombruddoppdaget": 1785001393000,
       "utkoblingslutt": 1785014893000,
       "utkoblingstart": 1785001393000
+    }
+  },
+  {
+    "id": "elvia-28715",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.437317920172696,
+    "lng": 10.618366529154388,
+    "start": "25.7.2026, 20:37:40",
+    "end": "26.7.2026, 00:13:40",
+    "areaName": "Moss / Moss / Y1028",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28715,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Moss",
+      "nettstasjon": "Y1028",
+      "poststed": "Moss",
+      "strombruddoppdaget": 1785011860000,
+      "utkoblingslutt": 1785024820000,
+      "utkoblingstart": 1785011860000
     }
   },
   {
