@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 61.45771220655876,
+    "lng": 5.833981113546253,
+    "start": null,
+    "end": null,
+    "areaName": "Sunnfjord",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9822414,
+      "MUNICIPAL_TXT": "Sunnfjord",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1785047400000,
+      "TIMELIMIT": 1785090600000,
+      "NUM_AB": 3,
+      "CUSTOMER_WEB_TEXT": "6800 FØRDE; ØYRANE",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1785048034000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "linja-planned-3365301",
     "company": "Linja",
     "type": "planned",
