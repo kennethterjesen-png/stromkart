@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-16637",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 41,
-    "lat": 60.470083068753986,
-    "lng": 11.62837172159033,
-    "start": "26.7.2026, 19:14:42",
-    "end": "26.7.2026, 22:50:42",
-    "areaName": "Nord-Odal / Knapper / ENS06824",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16637,
-      "antallkunder": 41,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06824",
-      "poststed": "Knapper",
-      "strombruddoppdaget": 1785093282000,
-      "utkoblingslutt": 1785106242000,
-      "utkoblingstart": 1785093282000
-    }
-  },
-  {
     "id": "elvia-27968",
     "company": "Elvia",
     "type": "planned",
@@ -233,30 +210,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3350636",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.5981972269113,
-    "lng": 6.44039290856527,
-    "start": "26.7.2026, 22:00:00",
-    "end": null,
-    "areaName": "HARAM / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3350636,
-      "CUSTOMER_WEB_TEXT": "I forbindelse med reparasjon etter brann på Alvestad Transformatorstasjon tidligerer i år blir det strømstans for store deler av Brattvåg natt til mandag 27.juli fra kl. 00:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1785103200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Nordvestnett",
-      "MUNICIPAL_TXT": "HARAM",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
