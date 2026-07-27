@@ -1,29 +1,5 @@
 [
   {
-    "id": "linja-outage-3350636",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 1264,
-    "lat": 62.59823076340498,
-    "lng": 6.440389802422087,
-    "start": "26.7.2026, 22:00:00",
-    "end": null,
-    "areaName": "HARAM / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3350636,
-      "CUSTOMER_WEB_TEXT": "I forbindelse med reparasjon etter brann på Alvestad Transformatorstasjon tidligerer i år blir det strømstans for store deler av Brattvåg natt til mandag 27.juli fra kl. 00:00 til 06:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1785103200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "HARAM",
-      "PURCHAREA_TXT": "Nordvestnett",
-      "NUM_NS": 52,
-      "NUM_AB": 1264
-    }
-  },
-  {
     "id": "linja-planned-3365301",
     "company": "Linja",
     "type": "planned",
