@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 61.092095954965046,
-    "lng": 4.865438450618655,
-    "start": null,
-    "end": null,
-    "areaName": "Hyllestad",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9826691,
-      "MUNICIPAL_TXT": "Hyllestad",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1785104040000,
-      "TIMELIMIT": 1785114000000,
-      "NUM_AB": 1068,
-      "CUSTOMER_WEB_TEXT": "Personell er på stedet og arbeider med feilretting. ",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 108,
-      "LAST_UPDATED": 1785109027000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 238,
-      "NUM_AB_REGAINED": 2272,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "linja-outage-3350636",
     "company": "Linja",
     "type": "outage",
