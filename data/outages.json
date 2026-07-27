@@ -23,52 +23,6 @@
     }
   },
   {
-    "id": "elvia-18554",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 27,
-    "lat": 60.09122817117118,
-    "lng": 12.305859209828563,
-    "start": "27.7.2026, 19:19:54",
-    "end": "27.7.2026, 22:55:54",
-    "areaName": "Kongsvinger / Austmarka / ENS09696",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18554,
-      "antallkunder": 27,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS09696",
-      "poststed": "Austmarka",
-      "strombruddoppdaget": 1785179994000,
-      "utkoblingslutt": 1785192954000,
-      "utkoblingstart": 1785179994000
-    }
-  },
-  {
-    "id": "elvia-23558",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 27,
-    "lat": 60.20409433464165,
-    "lng": 11.336154774842596,
-    "start": "27.7.2026, 14:35:06",
-    "end": "27.7.2026, 17:56:06",
-    "areaName": "Nes / Brårud / N5029",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23558,
-      "antallkunder": 27,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N5029",
-      "poststed": "Brårud",
-      "strombruddoppdaget": 1785162906000,
-      "utkoblingslutt": 1785174966000,
-      "utkoblingstart": 1785162906000
-    }
-  },
-  {
     "id": "elvia-27688",
     "company": "Elvia",
     "type": "planned",
