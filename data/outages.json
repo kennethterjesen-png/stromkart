@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.37680969875004,
-    "lng": 5.329909585695441,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9815641,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1785220200000,
-      "TIMELIMIT": 1785241800000,
-      "NUM_AB": 37,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1785220245000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-4938",
     "company": "Elvia",
     "type": "planned",
@@ -52,29 +20,6 @@
       "strombruddoppdaget": 1785134735000,
       "utkoblingslutt": 1785147695000,
       "utkoblingstart": 1785134735000
-    }
-  },
-  {
-    "id": "elvia-6068",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 20,
-    "lat": 59.94403081777808,
-    "lng": 10.784092890387061,
-    "start": "28.7.2026, 06:00:00",
-    "end": "28.7.2026, 13:30:00",
-    "areaName": "Oslo / Oslo / 0577",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6068,
-      "antallkunder": 20,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0577",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1785245400000,
-      "utkoblingstart": 1785218400000
     }
   },
   {
@@ -101,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-20817",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 60.64172791122919,
-    "lng": 11.219274463876987,
-    "start": "28.7.2026, 07:22:19",
-    "end": "28.7.2026, 10:58:19",
-    "areaName": "Stange / Tangen / ENS14100",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20817,
-      "antallkunder": 15,
-      "avbruddstype": "Unplanned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14100",
-      "poststed": "Tangen",
-      "strombruddoppdaget": 1785223339000,
-      "utkoblingslutt": 1785236299000,
-      "utkoblingstart": 1785223339000
-    }
-  },
-  {
     "id": "fagne-4550845",
     "company": "Fagne",
     "type": "planned",
@@ -143,75 +65,51 @@
     }
   },
   {
-    "id": "linja-outage-3364873",
+    "id": "linja-outage-3364877",
     "company": "Linja",
     "type": "outage",
-    "customers": 11,
-    "lat": 61.73529474918582,
-    "lng": 6.4911494353021935,
-    "start": "28.7.2026, 06:00:00",
+    "customers": 54,
+    "lat": 61.760350464723565,
+    "lng": 6.483348502573284,
+    "start": "28.7.2026, 10:30:00",
     "end": null,
     "areaName": "GLOPPEN / Linja Sør",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3364873,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Fløtreøyane tirsdag 28. juli mellom kl.08:00 og 11:30",
+      "EVENTID": 3364877,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Breimslia tirsdag 28.juli mellom kl.12:30 og 16:00",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1785218400000,
+      "STARTTIME": 1785234600000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
       "MUNICIPAL_TXT": "GLOPPEN",
       "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 11
-    }
-  },
-  {
-    "id": "linja-outage-3362164",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 7,
-    "lat": 62.301709096781764,
-    "lng": 6.095537707085986,
-    "start": "28.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "ØRSTA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3362164,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området Dalevegen tirsdag 28. juli mellom kl. 09:00 og kl. 14:00",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1785222000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "ØRSTA",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 0,
-      "NUM_AB": 7
-    }
-  },
-  {
-    "id": "linja-outage-3362184",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 2,
-    "lat": 62.21296033521255,
-    "lng": 6.054728512609346,
-    "start": "28.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "ØRSTA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3362184,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området Lystad skule tirsdag 28. juli mellom kl.09:00 og 15:00",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1785222000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "ØRSTA",
-      "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 1,
-      "NUM_AB": 2
+      "NUM_AB": 54
+    }
+  },
+  {
+    "id": "linja-outage-3364853",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 26,
+    "lat": 61.76533620954127,
+    "lng": 6.167370408510187,
+    "start": "28.7.2026, 10:30:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3364853,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Arnestad byggefelt tirsdag 28. juli mellom kl. 12:30 og kl.16:00",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1785234600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 1,
+      "NUM_AB": 26
     }
   },
   {
@@ -548,23 +446,6 @@
       "MUNICIPAL_TXT": "ASKVOLL",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-3",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.232657985742804,
-    "lng": 5.975699666037916,
-    "start": "28.7.2026, 09:06:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 8",
-      "description": "Planlagt strømstans\nStartet: 2026-07-28 09:06\nPlanlagt ferdig: 2026-07-28 11:00\nPlanlagt strømstans.",
-      "styleUrl": "#yellow"
     }
   },
   {
