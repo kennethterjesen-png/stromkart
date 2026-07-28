@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-7101",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 174,
-    "lat": 59.91231511414161,
-    "lng": 10.769191095736529,
-    "start": "27.7.2026, 06:00:00",
-    "end": "30.7.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 2106",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7101,
-      "antallkunder": 174,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2106",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1785190441254,
-      "utkoblingslutt": 1785384000000,
-      "utkoblingstart": 1785132000000
-    }
-  },
-  {
     "id": "linja-planned-3367820",
     "company": "Linja",
     "type": "planned",
@@ -65,30 +42,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3364849",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.7847025464497,
-    "lng": 6.205516888593847,
-    "start": "28.7.2026, 06:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3364849,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Leirbrekka tirsdag 28. juli mellom kl.08:00 til 11:30",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1785218400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -229,30 +182,6 @@
       "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Eidsmona fra onsdag 29. juli kl.21:00 til torsdag 30. juli kl.01:00",
       "STATE_TXT": "Godkjent",
       "STARTTIME": 1785351600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3364873",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.73529474918582,
-    "lng": 6.4911494353021935,
-    "start": "28.7.2026, 06:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3364873,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Fløtreøyane tirsdag 28. juli mellom kl.08:00 og 11:30",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1785218400000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
