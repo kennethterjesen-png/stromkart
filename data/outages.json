@@ -23,6 +23,54 @@
     }
   },
   {
+    "id": "linja-outage-3364861",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 9,
+    "lat": 61.73362962894696,
+    "lng": 6.506641520130119,
+    "start": "28.7.2026, 21:00:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3364861,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gamlevegen fra tirsdag 28. juli kl. 23:00 til onsdag kl.03:00",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1785272400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 9
+    }
+  },
+  {
+    "id": "linja-outage-3364885",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 9,
+    "lat": 61.73482315189167,
+    "lng": 6.506283031116864,
+    "start": "28.7.2026, 21:00:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3364885,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området rundt Gamlevegen fra tirsdag 28. juli kl.23:00 til onsdag 29. juli kl.03:00",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1785272400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 384,
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 9
+    }
+  },
+  {
     "id": "linja-planned-3364865",
     "company": "Linja",
     "type": "planned",
