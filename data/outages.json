@@ -1496,6 +1496,30 @@
     }
   },
   {
+    "id": "linja-outage-3364893",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 4,
+    "lat": 61.752834989997716,
+    "lng": 6.265867058177914,
+    "start": "29.7.2026, 20:00:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3364893,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området rundt Eidsmona fra onsdag 29.juli kl.22:00 til torsdag 30.juli kl.01:00",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1785355200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 4
+    }
+  },
+  {
     "id": "linja-planned-3367820",
     "company": "Linja",
     "type": "planned",
