@@ -18,11 +18,11 @@
       "STARTTIME": 1785359880000,
       "TIMELIMIT": 1785393000000,
       "NUM_AB": 44,
-      "CUSTOMER_WEB_TEXT": "Vi har i øyeblikket en feil i høyspentmettet mellom Steinsund og Haldorsnes. Mannskap sendes ut på feilretting med første ferge den 30/7.",
+      "CUSTOMER_WEB_TEXT": "Vi har i øyeblikket en feil i høyspentnettet mellom Steinsund og Haldorsnes. Mannskap sendes ut på feilretting med første ferge den 30/7.",
       "GRIDLEVEL_TXT": "Høy",
       "REASON_TXT": null,
       "NUM_NS": 9,
-      "LAST_UPDATED": 1785361634000,
+      "LAST_UPDATED": 1785363813000,
       "SCHEDULED_SMS_DAYS_BEFORE": -1,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 36,
@@ -1627,40 +1627,6 @@
     "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
-    "customers": 8,
-    "lat": 59.23307321330844,
-    "lng": 5.9756135020392165,
-    "start": "28.7.2026, 09:06:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 8",
-      "description": "Rettet\nStartet: 2026-07-28 09:06\nSluttid: 2026-07-28 11:24\nPlanlagt strømstans.",
-      "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-5",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 79,
-    "lat": 59.00767198767722,
-    "lng": 5.65670629813274,
-    "start": "29.7.2026, 09:08:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 79",
-      "description": "Rettet\nStartet: 2026-07-29 09:08\nSluttid: 2026-07-29 00:00\nPlanlagt strømstans",
-      "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-7",
-    "company": "Lnett",
-    "type": "planned",
     "customers": 13,
     "lat": 58.99493188963326,
     "lng": 5.597551749774778,
@@ -1675,7 +1641,7 @@
     }
   },
   {
-    "id": "lnett-planned-9",
+    "id": "lnett-planned-5",
     "company": "Lnett",
     "type": "planned",
     "customers": 95,
