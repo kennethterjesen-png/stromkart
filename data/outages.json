@@ -417,33 +417,5 @@
       "STROMSTANSID": "V-70827-1",
       "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n\nTrafo har røket, vi må ha helikopter så da vil ikke strømmen være tilbake før langt utover dagen i morgen.\n \nBerørte områder: \n\nTANGEN."
     }
-  },
-  {
-    "id": "norgesnett-outage-V-70828-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 16,
-    "lat": 59.733515909999994,
-    "lng": 10.830566885999986,
-    "start": "30.7.2026, 15:57:43",
-    "end": null,
-    "areaName": "FINSTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218578,
-      "REFNR": "H70828",
-      "SEKUNDÆRSTASJON": "FINSTAD",
-      "AVGANG": "L81",
-      "CNT": 16,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n\nMontører er på vei. Feil funnet ved S040 Roås, estimert rettetid ca 24:00\n \nBerørte områder: \n\nSTEINSLEPPEN 16, HAUGLAND GÅRD, NORDBYVEIEN 39, FINSTAD SKOLE 2, HEBEKKV.1, MYRVEGEN, SKOGVEGEN, NYBROTTVEGEN 28, LANGHUSVEIEN 100, STEINSLEPPEN, SØNDRE DAHL, NORDÅS, GRØNLUNDVEGEN, MYRVEGEN 41, SKOGVEGEN 36, SKOGVEGEN III, GRANLIVEGEN, KONGLEVEGEN, ROÅS, TALLAKSRUD, NYBROTTVEGEN I, SELJEVEGEN, AUSTLIVEGEN II, AUSTLIVEGEN I, GAUSELVEGEN, ENDSJØ.",
-      "FRA_DATO": 1785427063000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70828-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n\nMontører er på vei. Feil funnet ved S040 Roås, estimert rettetid ca 24:00\n \nBerørte områder: \n\nSTEINSLEPPEN 16, HAUGLAND GÅRD, NORDBYVEIEN 39, FINSTAD SKOLE 2, HEBEKKV.1, MYRVEGEN, SKOGVEGEN, NYBROTTVEGEN 28, LANGHUSVEIEN 100, STEINSLEPPEN, SØNDRE DAHL, NORDÅS, GRØNLUNDVEGEN, MYRVEGEN 41, SKOGVEGEN 36, SKOGVEGEN III, GRANLIVEGEN, KONGLEVEGEN, ROÅS, TALLAKSRUD, NYBROTTVEGEN I, SELJEVEGEN, AUSTLIVEGEN II, AUSTLIVEGEN I, GAUSELVEGEN, ENDSJØ."
-    }
   }
 ]
