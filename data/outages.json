@@ -1,83 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.30073420904191,
-    "lng": 5.2745759007803095,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9821170,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1785394800000,
-      "TIMELIMIT": 1785412800000,
-      "NUM_AB": 78,
-      "CUSTOMER_WEB_TEXT": "5252 SØREIDGREND; SKRANESKOGEN,SKRANEFLATEN,SKRANEVEGEN\r\n5258 BLOMSTERDALEN; YTREBYGDSVEGEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1785394911000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-483",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 59,
-    "lat": 59.87686316373123,
-    "lng": 10.843234876706838,
-    "start": "30.7.2026, 06:00:00",
-    "end": "30.7.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 2301",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 483,
-      "antallkunder": 59,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2301",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1785416400000,
-      "utkoblingstart": 1785391200000
-    }
-  },
-  {
-    "id": "elvia-4938",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 60.21412250934201,
-    "lng": 11.123328712046597,
-    "start": "27.7.2026, 06:45:35",
-    "end": "27.7.2026, 10:21:35",
-    "areaName": "Ullensaker / Mogreina / U4211",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 4938,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ullensaker",
-      "nettstasjon": "U4211",
-      "poststed": "Mogreina",
-      "strombruddoppdaget": 1785134735000,
-      "utkoblingslutt": 1785147695000,
-      "utkoblingstart": 1785134735000
-    }
-  },
-  {
     "id": "elvia-6167",
     "company": "Elvia",
     "type": "planned",
@@ -124,93 +46,26 @@
     }
   },
   {
-    "id": "elvia-25084",
+    "id": "elvia-16575",
     "company": "Elvia",
     "type": "planned",
-    "customers": 5,
-    "lat": 59.94746844185482,
-    "lng": 11.045652729632012,
-    "start": "30.7.2026, 08:00:00",
-    "end": "30.7.2026, 12:00:00",
-    "areaName": "Rælingen / Rælingen / R0306",
+    "customers": 12,
+    "lat": 60.528253373488006,
+    "lng": 11.976544367104761,
+    "start": "30.7.2026, 11:42:14",
+    "end": "30.7.2026, 15:18:14",
+    "areaName": "Åsnes / Arneberg / ENS06736",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 25084,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Rælingen",
-      "nettstasjon": "R0306",
-      "poststed": "Rælingen",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1785412800000,
-      "utkoblingstart": 1785398400000
-    }
-  },
-  {
-    "id": "fagne-4559457",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.352376154771136,
-    "lng": 5.7864926953521785,
-    "start": null,
-    "end": null,
-    "areaName": "TYSVÆR",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "TYSVÆR",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "linja-outage-3368233",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 96,
-    "lat": 62.30904923970059,
-    "lng": 5.8547403274743735,
-    "start": "30.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "ULSTEIN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3368233,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området mellom Garshol og Kvalneset tordsdag 30. juli mellom kl. 09:00 og 15:00",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1785394800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "ULSTEIN",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 3,
-      "NUM_AB": 96
-    }
-  },
-  {
-    "id": "linja-outage-3370680",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 8,
-    "lat": 61.76349804072252,
-    "lng": 6.1876102814833285,
-    "start": "30.7.2026, 10:44:00",
-    "end": null,
-    "areaName": "GLOPPEN",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3370680,
-      "CUSTOMER_WEB_TEXT": null,
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1785408240000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": null,
-      "NUM_NS": 0,
-      "NUM_AB": 8
+      "OBJECTID": 16575,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Åsnes",
+      "nettstasjon": "ENS06736",
+      "poststed": "Arneberg",
+      "strombruddoppdaget": 1785411734000,
+      "utkoblingslutt": 1785424694000,
+      "utkoblingstart": 1785411734000
     }
   },
   {
@@ -233,6 +88,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "KINN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3370792",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.46682193157286,
+    "lng": 6.28376549273431,
+    "start": "4.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3370792,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Lerstad tirsdag 4. august mellom kl.08:00 og 15:00",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1785823200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -286,23 +165,6 @@
       "name": "Berørte kunder: 82",
       "description": "Rettet\nStartet: 2026-07-30 09:00\nSluttid: 2026-07-30 00:00\nPlanlagt strømstans",
       "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-9",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 98,
-    "lat": 58.819796608854205,
-    "lng": 5.750453304405592,
-    "start": "30.7.2026, 08:00:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 98",
-      "description": "Planlagt strømstans\nStartet: 2026-07-30 08:00\nPlanlagt strømstans.\nUtskiftning av anlegg med feil på.",
-      "styleUrl": "#red"
     }
   },
   {
