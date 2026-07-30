@@ -46,26 +46,26 @@
     }
   },
   {
-    "id": "elvia-16575",
+    "id": "elvia-20691",
     "company": "Elvia",
     "type": "planned",
     "customers": 12,
-    "lat": 60.528253373488006,
-    "lng": 11.976544367104761,
-    "start": "30.7.2026, 11:42:14",
-    "end": "30.7.2026, 15:18:14",
-    "areaName": "Åsnes / Arneberg / ENS06736",
+    "lat": 61.012412513286904,
+    "lng": 10.546687075154306,
+    "start": "30.7.2026, 12:55:46",
+    "end": "30.7.2026, 16:31:46",
+    "areaName": "Ringsaker / Brøttum / ENS13141",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 16575,
+      "OBJECTID": 20691,
       "antallkunder": 12,
       "avbruddstype": "Unplanned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS06736",
-      "poststed": "Arneberg",
-      "strombruddoppdaget": 1785411734000,
-      "utkoblingslutt": 1785424694000,
-      "utkoblingstart": 1785411734000
+      "kommune": "Ringsaker",
+      "nettstasjon": "ENS13141",
+      "poststed": "Brøttum",
+      "strombruddoppdaget": 1785416146000,
+      "utkoblingslutt": 1785429106000,
+      "utkoblingstart": 1785416146000
     }
   },
   {
@@ -93,6 +93,30 @@
     }
   },
   {
+    "id": "linja-planned-3370812",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.58060471761385,
+    "lng": 6.10310156592736,
+    "start": "3.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3370812,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Storebakken mandag 3. august mellom kl.08:00 og 11:00",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1785736800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3370792",
     "company": "Linja",
     "type": "planned",
@@ -112,6 +136,78 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3370820",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.583477491485894,
+    "lng": 6.105366240517096,
+    "start": "3.8.2026, 09:30:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3370820,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Storebakken mandag 3. august mellom kl.11:30 og 14:30",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1785749400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3370816",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.583184437496044,
+    "lng": 6.102343244602659,
+    "start": "4.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3370816,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Storebakken tirsdag 4. august mellom kl.08:00 og 11:00",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1785823200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3370824",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.582697597540864,
+    "lng": 6.087636461919547,
+    "start": "4.8.2026, 09:30:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3370824,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Storebakken tirsdag 4. august mellom kl. 11:30 og 14:30",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1785835800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -165,6 +261,23 @@
       "name": "Berørte kunder: 82",
       "description": "Rettet\nStartet: 2026-07-30 09:00\nSluttid: 2026-07-30 00:00\nPlanlagt strømstans",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-planned-9",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 8,
+    "lat": 58.75147378140674,
+    "lng": 5.8975100074768685,
+    "start": "30.7.2026, 15:15:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 8",
+      "description": "Planlagt strømstans\nStartet: 2026-07-30 15:15\nPlanlagt ferdig: 2026-07-30 20:30",
+      "styleUrl": "#yellow"
     }
   },
   {
