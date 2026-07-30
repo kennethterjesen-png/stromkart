@@ -1504,54 +1504,6 @@
     }
   },
   {
-    "id": "linja-planned-3367820",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.50176045016341,
-    "lng": 6.13733670410552,
-    "start": "30.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3367820,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Mulelid torsdag 30. juli mellom kl. 09:00 og 12:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1785394800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3368233",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.30906901229027,
-    "lng": 5.854718863076783,
-    "start": "30.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "ULSTEIN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3368233,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området mellom Garshol og Kvalneset tordsdag 30. juli mellom kl. 09:00 og 15:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1785394800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "ULSTEIN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3339872",
     "company": "Linja",
     "type": "planned",
@@ -1571,54 +1523,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "KINN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3368929",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.18699151574398,
-    "lng": 6.0111674329597085,
-    "start": "30.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3368929,
-      "CUSTOMER_WEB_TEXT": "Grunnet feil på utstyr blir det strømbrudd i område Helgehorn/Kleiva. Torsdag 30.07 fra kl 09:00 til ca kl 11:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1785394800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3369037",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.37070661024798,
-    "lng": 4.98769096165235,
-    "start": "30.7.2026, 07:00:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3369037,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i området Sellevoll torsdag 30. juli mellom kl.09:00 og 09:30",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1785394800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "ASKVOLL",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
