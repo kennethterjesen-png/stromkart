@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-16763",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 60.49733878442218,
-    "lng": 11.357925501273906,
-    "start": "29.7.2026, 22:00:24",
-    "end": "30.7.2026, 23:48:22",
-    "areaName": "Nord-Odal / Bruvoll / ENS06998",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16763,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06998",
-      "poststed": "Bruvoll",
-      "strombruddoppdaget": 1785362424000,
-      "utkoblingslutt": 1785455302000,
-      "utkoblingstart": 1785362424000
-    }
-  },
-  {
     "id": "linja-planned-3339872",
     "company": "Linja",
     "type": "planned",
