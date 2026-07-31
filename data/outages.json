@@ -23,52 +23,6 @@
     }
   },
   {
-    "id": "elvia-15287",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 55,
-    "lat": 60.80618770080824,
-    "lng": 11.082611113115977,
-    "start": "31.7.2026, 17:28:34",
-    "end": "31.7.2026, 21:04:34",
-    "areaName": "Hamar / Hamar / ENS04565",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 15287,
-      "antallkunder": 55,
-      "avbruddstype": "Unplanned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS04565",
-      "poststed": "Hamar",
-      "strombruddoppdaget": 1785518914000,
-      "utkoblingslutt": 1785531874000,
-      "utkoblingstart": 1785518914000
-    }
-  },
-  {
-    "id": "elvia-27913",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 26,
-    "lat": 59.127869006807835,
-    "lng": 11.217774014870962,
-    "start": "31.7.2026, 13:30:54",
-    "end": "31.7.2026, 17:06:54",
-    "areaName": "Sarpsborg / Skjeberg / X0843",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27913,
-      "antallkunder": 26,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0843",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1785504654000,
-      "utkoblingslutt": 1785517614000,
-      "utkoblingstart": 1785504654000
-    }
-  },
-  {
     "id": "linja-planned-3371493",
     "company": "Linja",
     "type": "planned",
