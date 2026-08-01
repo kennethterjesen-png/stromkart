@@ -55,29 +55,6 @@
     }
   },
   {
-    "id": "elvia-11357",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.84761106168187,
-    "lng": 10.467112127068843,
-    "start": "1.8.2026, 06:26:17",
-    "end": "1.8.2026, 10:02:17",
-    "areaName": "Asker / Asker / D0490",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11357,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Asker",
-      "nettstasjon": "D0490",
-      "poststed": "Asker",
-      "strombruddoppdaget": 1785565577000,
-      "utkoblingslutt": 1785578537000,
-      "utkoblingstart": 1785565577000
-    }
-  },
-  {
     "id": "elvia-11363",
     "company": "Elvia",
     "type": "planned",
@@ -98,6 +75,29 @@
       "strombruddoppdaget": 1785501412000,
       "utkoblingslutt": 1785514372000,
       "utkoblingstart": 1785501412000
+    }
+  },
+  {
+    "id": "elvia-11563",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.83179695397089,
+    "lng": 10.408155814634013,
+    "start": "1.8.2026, 10:17:33",
+    "end": "1.8.2026, 13:53:33",
+    "areaName": "Asker / Asker / D0777",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11563,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Asker",
+      "nettstasjon": "D0777",
+      "poststed": "Asker",
+      "strombruddoppdaget": 1785579453000,
+      "utkoblingslutt": 1785592413000,
+      "utkoblingstart": 1785579453000
     }
   },
   {
@@ -443,25 +443,6 @@
       "strombruddoppdaget": 1785560360455,
       "utkoblingslutt": 1785573860000,
       "utkoblingstart": 1785560360455
-    }
-  },
-  {
-    "id": "fagne-4566169",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 1,
-    "lat": 59.3452457461494,
-    "lng": 5.279313695176347,
-    "start": "8.1.2026, 09:01:00",
-    "end": "8.1.2026, 12:00:00",
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
