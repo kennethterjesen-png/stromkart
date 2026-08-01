@@ -23,6 +23,30 @@
     }
   },
   {
+    "id": "linja-outage-3372217",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 251,
+    "lat": 62.48442749261393,
+    "lng": 6.783481254674853,
+    "start": "1.8.2026, 04:07:00",
+    "end": null,
+    "areaName": "ÅLESUND / Nordvestnett",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3372217,
+      "CUSTOMER_WEB_TEXT": "06:15 Utfal fra Giskemo trafo og store deler av Sjøholt.  Sender ut montører for feilsøking\r\n06:37 Vi har avgrenset feilstedet og fortsetter videre feilsøking.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1785557220000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "ÅLESUND",
+      "PURCHAREA_TXT": "Nordvestnett",
+      "NUM_NS": 14,
+      "NUM_AB": 251
+    }
+  },
+  {
     "id": "linja-planned-3371493",
     "company": "Linja",
     "type": "planned",
