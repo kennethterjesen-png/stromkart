@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.39247783479999,
+    "lng": 5.25152994533726,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9822146,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1785569400000,
+      "TIMELIMIT": 1785592800000,
+      "NUM_AB": 9,
+      "CUSTOMER_WEB_TEXT": "5165 LAKSEVÅG; GRAVDALSVEIEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 4,
+      "LAST_UPDATED": 1785569713000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 4,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-2104",
     "company": "Elvia",
     "type": "planned",
@@ -411,6 +443,25 @@
       "strombruddoppdaget": 1785560360455,
       "utkoblingslutt": 1785573860000,
       "utkoblingstart": 1785560360455
+    }
+  },
+  {
+    "id": "fagne-4566169",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 1,
+    "lat": 59.3452457461494,
+    "lng": 5.279313695176347,
+    "start": "8.1.2026, 09:01:00",
+    "end": "8.1.2026, 12:00:00",
+    "areaName": "KARMØY",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "KARMØY",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
