@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-24116",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.68641059814518,
+    "lng": 10.683816805862438,
+    "start": "1.8.2026, 14:50:50",
+    "end": "1.8.2026, 18:26:50",
+    "areaName": "Frogn / Drøbak / P0408",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24116,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Frogn",
+      "nettstasjon": "P0408",
+      "poststed": "Drøbak",
+      "strombruddoppdaget": 1785595850000,
+      "utkoblingslutt": 1785608810000,
+      "utkoblingstart": 1785595850000
+    }
+  },
+  {
     "id": "linja-planned-3371493",
     "company": "Linja",
     "type": "planned",
