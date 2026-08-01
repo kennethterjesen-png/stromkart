@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-23743",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 15,
+    "lat": 59.76301977584157,
+    "lng": 10.816304507444444,
+    "start": "1.8.2026, 21:10:42",
+    "end": "2.8.2026, 00:46:42",
+    "areaName": "Nordre Follo / Oppegård / O0003",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 23743,
+      "antallkunder": 15,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nordre Follo",
+      "nettstasjon": "O0003",
+      "poststed": "Oppegård",
+      "strombruddoppdaget": 1785618642000,
+      "utkoblingslutt": 1785631602000,
+      "utkoblingstart": 1785618642000
+    }
+  },
+  {
     "id": "linja-planned-3371493",
     "company": "Linja",
     "type": "planned",
