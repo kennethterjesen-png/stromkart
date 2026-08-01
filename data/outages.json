@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-5795",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 22,
+    "lat": 59.94177087104158,
+    "lng": 10.82356949071638,
+    "start": "1.8.2026, 15:59:06",
+    "end": "1.8.2026, 19:35:06",
+    "areaName": "Oslo / Oslo / 0177",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5795,
+      "antallkunder": 22,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "0177",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1785599946000,
+      "utkoblingslutt": 1785612906000,
+      "utkoblingstart": 1785599946000
+    }
+  },
+  {
     "id": "elvia-11363",
     "company": "Elvia",
     "type": "planned",
@@ -20,29 +43,6 @@
       "strombruddoppdaget": 1785501412000,
       "utkoblingslutt": 1785514372000,
       "utkoblingstart": 1785501412000
-    }
-  },
-  {
-    "id": "elvia-24116",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.68641059814518,
-    "lng": 10.683816805862438,
-    "start": "1.8.2026, 14:50:50",
-    "end": "1.8.2026, 18:26:50",
-    "areaName": "Frogn / Drøbak / P0408",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24116,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Frogn",
-      "nettstasjon": "P0408",
-      "poststed": "Drøbak",
-      "strombruddoppdaget": 1785595850000,
-      "utkoblingslutt": 1785608810000,
-      "utkoblingstart": 1785595850000
     }
   },
   {
