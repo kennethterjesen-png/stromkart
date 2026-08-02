@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 59.868174356194224,
+    "lng": 5.775225886633267,
+    "start": null,
+    "end": null,
+    "areaName": "Kvinnherad",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9824905,
+      "MUNICIPAL_TXT": "Kvinnherad",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1785646800000,
+      "TIMELIMIT": 1785655800000,
+      "NUM_AB": 51,
+      "CUSTOMER_WEB_TEXT": "5460 HUSNES; ONARHEIMSLIO,ONARHEIMSVEGEN,HUSNES INDUSTRIOMRÅDE,V/ONARHEIMSLIO",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 14,
+      "LAST_UPDATED": 1785647627000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 5,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 1,
+      "NUM_AB_REGAINED": 2,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-11363",
     "company": "Elvia",
     "type": "planned",
