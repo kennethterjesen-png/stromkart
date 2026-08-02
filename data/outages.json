@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-11363",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.82868298609126,
-    "lng": 10.423303395116209,
-    "start": "31.7.2026, 12:36:52",
-    "end": "31.7.2026, 16:12:52",
-    "areaName": "Asker / Asker / D0498",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11363,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Asker",
-      "nettstasjon": "D0498",
-      "poststed": "Asker",
-      "strombruddoppdaget": 1785501412000,
-      "utkoblingslutt": 1785514372000,
-      "utkoblingstart": 1785501412000
-    }
-  },
-  {
-    "id": "elvia-17695",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 29,
-    "lat": 61.0776169649697,
-    "lng": 12.463542668512773,
-    "start": "2.8.2026, 16:02:27",
-    "end": "2.8.2026, 19:38:27",
-    "areaName": "Trysil / Plassen / ENS08402",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17695,
-      "antallkunder": 29,
-      "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS08402",
-      "poststed": "Plassen",
-      "strombruddoppdaget": 1785686547000,
-      "utkoblingslutt": 1785699507000,
-      "utkoblingstart": 1785686547000
-    }
-  },
-  {
     "id": "linja-planned-3371609",
     "company": "Linja",
     "type": "planned",
