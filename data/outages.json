@@ -23,26 +23,26 @@
     }
   },
   {
-    "id": "elvia-28576",
+    "id": "elvia-17695",
     "company": "Elvia",
     "type": "planned",
-    "customers": 22,
-    "lat": 59.32875615771875,
-    "lng": 10.683042858270964,
-    "start": "2.8.2026, 14:20:32",
-    "end": "2.8.2026, 17:56:32",
-    "areaName": "Moss / Larkollen / Y0179",
+    "customers": 29,
+    "lat": 61.0776169649697,
+    "lng": 12.463542668512773,
+    "start": "2.8.2026, 16:02:27",
+    "end": "2.8.2026, 19:38:27",
+    "areaName": "Trysil / Plassen / ENS08402",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 28576,
-      "antallkunder": 22,
+      "OBJECTID": 17695,
+      "antallkunder": 29,
       "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0179",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1785680432000,
-      "utkoblingslutt": 1785693392000,
-      "utkoblingstart": 1785680432000
+      "kommune": "Trysil",
+      "nettstasjon": "ENS08402",
+      "poststed": "Plassen",
+      "strombruddoppdaget": 1785686547000,
+      "utkoblingslutt": 1785699507000,
+      "utkoblingstart": 1785686547000
     }
   },
   {
