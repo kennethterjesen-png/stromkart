@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-9489",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.983632516974325,
+    "lng": 11.522266096863294,
+    "start": "3.8.2026, 18:18:35",
+    "end": "3.8.2026, 21:54:35",
+    "areaName": "Aurskog-Høland / Aurskog / A7068",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9489,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Aurskog-Høland",
+      "nettstasjon": "A7068",
+      "poststed": "Aurskog",
+      "strombruddoppdaget": 1785781115000,
+      "utkoblingslutt": 1785794075000,
+      "utkoblingstart": 1785781115000
+    }
+  },
+  {
     "id": "linja-planned-3373069",
     "company": "Linja",
     "type": "planned",
