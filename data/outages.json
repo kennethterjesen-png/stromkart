@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.118466576607815,
+    "lng": 6.276023361937035,
+    "start": null,
+    "end": null,
+    "areaName": "Kvinnherad",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9838393,
+      "MUNICIPAL_TXT": "Kvinnherad",
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1785782700000,
+      "TIMELIMIT": 1785789000000,
+      "NUM_AB": 75,
+      "CUSTOMER_WEB_TEXT": "Linje i bakken ved Jonahamaren, montører på vei for å utbedre feilen.\r\n\r\n5476 MAURANGER; SUNNDALSVEGEN,GJETINGSDALEN,HAUGEN,ØSTRE BAKKE,SUNDAL,SUNDALSVEGEN,AUSTREPOLLEN,BONDHUS",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 6,
+      "LAST_UPDATED": 1785787705000,
+      "SCHEDULED_SMS_DAYS_BEFORE": -1,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 28,
+      "NUM_AB_REGAINED": 264,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-9489",
     "company": "Elvia",
     "type": "planned",
