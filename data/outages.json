@@ -55,6 +55,29 @@
     }
   },
   {
+    "id": "elvia-7754",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 84,
+    "lat": 59.923079420716775,
+    "lng": 10.728444745034793,
+    "start": "3.8.2026, 22:01:00",
+    "end": "4.8.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 3030",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7754,
+      "antallkunder": 84,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "3030",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1785816000000,
+      "utkoblingstart": 1785794460000
+    }
+  },
+  {
     "id": "elvia-9030",
     "company": "Elvia",
     "type": "planned",
@@ -98,6 +121,30 @@
       "strombruddoppdaget": 1785789034000,
       "utkoblingslutt": 1785801994000,
       "utkoblingstart": 1785789034000
+    }
+  },
+  {
+    "id": "linja-outage-3373692",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 1,
+    "lat": 62.61919254353761,
+    "lng": 7.085710275300125,
+    "start": "3.8.2026, 22:41:00",
+    "end": null,
+    "areaName": "VESTNES / Nordvestnett",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3373692,
+      "CUSTOMER_WEB_TEXT": null,
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1785796860000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "VESTNES",
+      "PURCHAREA_TXT": "Nordvestnett",
+      "NUM_NS": 0,
+      "NUM_AB": 1
     }
   },
   {
@@ -697,15 +744,15 @@
     "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
-    "customers": 554,
-    "lat": 59.06372377297872,
-    "lng": 5.416025025414399,
+    "customers": 318,
+    "lat": 59.06425289003073,
+    "lng": 5.415742998238744,
     "start": "3.8.2026, 23:02:00",
     "end": null,
     "areaName": "Planlagt vedlikehold",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 554",
+      "name": "Berørte kunder: 318",
       "description": "Planlagt strømstans\nStartet: 2026-08-03 23:02\nPlanlagt ferdig: 2026-08-04 03:00",
       "styleUrl": "#yellow"
     }
