@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-28443",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.41307775690877,
-    "lng": 10.765411615023108,
-    "start": "3.8.2026, 07:02:27",
-    "end": "3.8.2026, 10:38:27",
-    "areaName": "Moss / Rygge / Y0022",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28443,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0022",
-      "poststed": "Rygge",
-      "strombruddoppdaget": 1785740547000,
-      "utkoblingslutt": 1785753507000,
-      "utkoblingstart": 1785740547000
-    }
-  },
-  {
     "id": "linja-planned-3373069",
     "company": "Linja",
     "type": "planned",
@@ -602,16 +579,16 @@
     "id": "lnett-planned-1",
     "company": "Lnett",
     "type": "planned",
-    "customers": 79,
-    "lat": 59.00767198767722,
-    "lng": 5.65670629813274,
-    "start": "29.7.2026, 09:08:00",
+    "customers": 68,
+    "lat": 58.90263216281374,
+    "lng": 6.09209861425458,
+    "start": "3.8.2026, 09:57:00",
     "end": null,
     "areaName": "Planlagt vedlikehold",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 79",
-      "description": "Rettet\nStartet: 2026-07-29 09:08\nSluttid: 2026-08-03 00:00\nPlanlagt strømstans",
+      "name": "Berørte kunder: 68",
+      "description": "Rettet\nStartet: 2026-08-03 09:57\nSluttid: 2026-08-03 15:59\nPlanlagt strømstans",
       "styleUrl": "#green"
     }
   },
