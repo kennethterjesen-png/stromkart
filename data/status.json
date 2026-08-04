@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-04T21:06:29.544Z",
-  "count": 44,
+  "updatedAt": "2026-08-04T22:20:01.248Z",
+  "count": 32,
   "providers": [
     {
       "name": "Elvia",
       "ok": true,
-      "count": 14,
-      "rawCount": 14,
+      "count": 3,
+      "rawCount": 3,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -51,8 +51,8 @@
     {
       "name": "Lnett",
       "ok": true,
-      "count": 2,
-      "rawCount": 2,
+      "count": 1,
+      "rawCount": 1,
       "filteredOut": 0,
       "warning": false,
       "error": null
