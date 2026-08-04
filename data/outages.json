@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-11763",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 60.28380420601275,
-    "lng": 11.174672283181772,
-    "start": "4.8.2026, 16:06:35",
-    "end": "4.8.2026, 19:42:35",
-    "areaName": "Eidsvoll / Råholt / E0134",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11763,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0134",
-      "poststed": "Råholt",
-      "strombruddoppdaget": 1785859595000,
-      "utkoblingslutt": 1785872555000,
-      "utkoblingstart": 1785859595000
-    }
-  },
-  {
     "id": "linja-planned-3371609",
     "company": "Linja",
     "type": "planned",
