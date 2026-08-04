@@ -1,5 +1,51 @@
 [
   {
+    "id": "elvia-6046",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 60.00884281437355,
+    "lng": 10.71200146453975,
+    "start": "4.8.2026, 22:34:49",
+    "end": "5.8.2026, 02:19:49",
+    "areaName": "Oslo / Oslo / 0552",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6046,
+      "antallkunder": 7,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "0552",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1785882889770,
+      "utkoblingslutt": 1785896389000,
+      "utkoblingstart": 1785882889770
+    }
+  },
+  {
+    "id": "elvia-6047",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 60.00367356528421,
+    "lng": 10.686503042367582,
+    "start": "4.8.2026, 22:34:49",
+    "end": "5.8.2026, 02:19:49",
+    "areaName": "Oslo / Oslo / 0553",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6047,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "0553",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1785882889770,
+      "utkoblingslutt": 1785896389000,
+      "utkoblingstart": 1785882889770
+    }
+  },
+  {
     "id": "elvia-7902",
     "company": "Elvia",
     "type": "planned",
