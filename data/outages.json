@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-6546",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.92019684213222,
-    "lng": 10.73143428450224,
-    "start": "3.8.2026, 22:01:00",
-    "end": "4.8.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 1251",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6546,
-      "antallkunder": 11,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "1251",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1785816000000,
-      "utkoblingstart": 1785794460000
-    }
-  },
-  {
     "id": "elvia-7754",
     "company": "Elvia",
     "type": "planned",
@@ -78,26 +55,26 @@
     }
   },
   {
-    "id": "elvia-9030",
+    "id": "elvia-11454",
     "company": "Elvia",
     "type": "planned",
-    "customers": 13,
-    "lat": 59.919958556009504,
-    "lng": 10.733415572758856,
-    "start": "3.8.2026, 22:01:00",
-    "end": "4.8.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 5046",
+    "customers": 17,
+    "lat": 59.79866404855639,
+    "lng": 10.444873091334912,
+    "start": "4.8.2026, 00:14:48",
+    "end": "4.8.2026, 03:50:48",
+    "areaName": "Asker / Heggedal / D0628",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 9030,
-      "antallkunder": 13,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "5046",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1785816000000,
-      "utkoblingstart": 1785794460000
+      "OBJECTID": 11454,
+      "antallkunder": 17,
+      "avbruddstype": "Unplanned",
+      "kommune": "Asker",
+      "nettstasjon": "D0628",
+      "poststed": "Heggedal",
+      "strombruddoppdaget": 1785802488000,
+      "utkoblingslutt": 1785815448000,
+      "utkoblingstart": 1785802488000
     }
   },
   {
