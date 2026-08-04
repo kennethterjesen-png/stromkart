@@ -78,29 +78,6 @@
     }
   },
   {
-    "id": "elvia-25767",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 60.04952831641043,
-    "lng": 10.877177973826065,
-    "start": "3.8.2026, 20:30:34",
-    "end": "4.8.2026, 00:06:34",
-    "areaName": "Nittedal / Nittedal / T4100",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25767,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nittedal",
-      "nettstasjon": "T4100",
-      "poststed": "Nittedal",
-      "strombruddoppdaget": 1785789034000,
-      "utkoblingslutt": 1785801994000,
-      "utkoblingstart": 1785789034000
-    }
-  },
-  {
     "id": "linja-outage-3373692",
     "company": "Linja",
     "type": "outage",
@@ -221,30 +198,6 @@
     }
   },
   {
-    "id": "linja-planned-3370816",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.583184437496044,
-    "lng": 6.102343244602659,
-    "start": "4.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3370816,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Storebakken tirsdag 4. august mellom kl.08:00 og 11:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1785823200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3371300",
     "company": "Linja",
     "type": "planned",
@@ -312,30 +265,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ØRSTA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3370792",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.46682193157286,
-    "lng": 6.28376549273431,
-    "start": "4.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3370792,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Lerstad tirsdag 4. august mellom kl.08:00 og 15:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1785823200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -605,30 +534,6 @@
     }
   },
   {
-    "id": "linja-planned-3371397",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.770436651019935,
-    "lng": 6.2022679935427725,
-    "start": "4.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3371397,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Furelia, Lyngvegen, Orevegen og Åsavegen tirsdag 04. august fra kl. 0800 til 1130.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1785823200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3371449",
     "company": "Linja",
     "type": "planned",
@@ -718,29 +623,12 @@
     }
   },
   {
-    "id": "lnett-planned-3",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 318,
-    "lat": 59.06425289003073,
-    "lng": 5.415742998238744,
-    "start": "3.8.2026, 23:02:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 318",
-      "description": "Planlagt strømstans\nStartet: 2026-08-03 23:02\nPlanlagt ferdig: 2026-08-04 03:00",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2889-1",
     "company": "Norgesnett",
     "type": "planned",
     "customers": 6,
-    "lat": 59.72213048100002,
-    "lng": 10.845202844000028,
+    "lat": 59.72128822000002,
+    "lng": 10.845693929999982,
     "start": "10.8.2026, 07:00:00",
     "end": "10.8.2026, 13:00:00",
     "areaName": "DRØMTORP",
@@ -767,8 +655,8 @@
     "company": "Norgesnett",
     "type": "planned",
     "customers": 78,
-    "lat": 59.29433045500002,
-    "lng": 10.995814671000005,
+    "lat": 59.294365226000025,
+    "lng": 10.995874448999984,
     "start": "4.8.2026, 06:00:03",
     "end": "4.8.2026, 06:30:03",
     "areaName": "RAA",
@@ -795,8 +683,8 @@
     "company": "Norgesnett",
     "type": "planned",
     "customers": 12,
-    "lat": 59.74370031699999,
-    "lng": 10.343087853999975,
+    "lat": 59.74409643000001,
+    "lng": 10.344441109999991,
     "start": "4.8.2026, 08:00:00",
     "end": "4.8.2026, 13:00:00",
     "areaName": "SPIKKESTAD",
