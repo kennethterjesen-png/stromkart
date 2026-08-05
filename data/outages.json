@@ -832,13 +832,13 @@
     "customers": 614,
     "lat": 59.25046968437601,
     "lng": 5.8408092319828615,
-    "start": "5.8.2026, 22:28:00",
+    "start": "6.8.2026, 00:42:00",
     "end": null,
     "areaName": "Driftsforstyrrelse",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 614",
-      "description": "Driftsforstyrrelse\nStartet: 2026-08-05 22:28\n23:15 Montører er på veg til Sjernarøy for feilsøking/feilretting som vil foregå igjennom natten.\n23:08: Kunder på Mjølnsnes har fått tilbake strømmen.\n22:28 Kunder på Nord-Hidle har fått strømmen tilbake.\n22:23 Strørmbrudd",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-06 00:42\n23:15 Montører er på veg til Sjernarøy for feilsøking/feilretting som vil foregå igjennom natten.\n23:08: Kunder på Mjølnsnes har fått tilbake strømmen.\n22:28 Kunder på Nord-Hidle har fått strømmen tilbake.\n22:23 Strørmbrudd",
       "styleUrl": "#red"
     }
   },
