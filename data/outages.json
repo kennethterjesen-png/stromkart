@@ -22,7 +22,7 @@
       "GRIDLEVEL_TXT": "Høy",
       "REASON_TXT": null,
       "NUM_NS": 12,
-      "LAST_UPDATED": 1785958743000,
+      "LAST_UPDATED": 1785961395000,
       "SCHEDULED_SMS_DAYS_BEFORE": -1,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 27,
@@ -52,52 +52,6 @@
       "strombruddoppdaget": 1785954775777,
       "utkoblingslutt": 1785968275000,
       "utkoblingstart": 1785954775777
-    }
-  },
-  {
-    "id": "elvia-3739",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.62508008746592,
-    "lng": 11.023383641522031,
-    "start": "5.8.2026, 18:46:29",
-    "end": "5.8.2026, 22:31:29",
-    "areaName": "Indre Østfold / Knapstad / I1137",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 3739,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "I1137",
-      "poststed": "Knapstad",
-      "strombruddoppdaget": 1785955589667,
-      "utkoblingslutt": 1785969089000,
-      "utkoblingstart": 1785955589667
-    }
-  },
-  {
-    "id": "elvia-10371",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.88651448754943,
-    "lng": 10.621775768287604,
-    "start": "5.8.2026, 17:04:12",
-    "end": "5.8.2026, 20:40:12",
-    "areaName": "Bærum / Snarøya / B1610",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10371,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B1610",
-      "poststed": "Snarøya",
-      "strombruddoppdaget": 1785949452000,
-      "utkoblingslutt": 1785962412000,
-      "utkoblingstart": 1785949452000
     }
   },
   {
@@ -308,118 +262,22 @@
     }
   },
   {
-    "id": "elvia-22113",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 37,
-    "lat": 59.62511869626352,
-    "lng": 11.025316456585909,
-    "start": "5.8.2026, 18:46:29",
-    "end": "5.8.2026, 22:31:29",
-    "areaName": "Indre Østfold / Knapstad / I1138",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "id": "fagne-4573020",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 3,
+    "lat": 59.29031381406606,
+    "lng": 5.289320895607399,
+    "start": "8.5.2026, 15:53:00",
+    "end": "8.5.2026, 19:00:00",
+    "areaName": "KARMØY",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
-      "OBJECTID": 22113,
-      "antallkunder": 37,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "I1138",
-      "poststed": "Knapstad",
-      "strombruddoppdaget": 1785955589667,
-      "utkoblingslutt": 1785969089000,
-      "utkoblingstart": 1785955589667
-    }
-  },
-  {
-    "id": "elvia-26352",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 60.11408895781844,
-    "lng": 11.300233895340709,
-    "start": "5.8.2026, 16:10:08",
-    "end": "5.8.2026, 19:19:08",
-    "areaName": "Ullensaker / Kløfta / U3810",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26352,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ullensaker",
-      "nettstasjon": "U3810",
-      "poststed": "Kløfta",
-      "strombruddoppdaget": 1785946208562,
-      "utkoblingslutt": 1785957548000,
-      "utkoblingstart": 1785946208562
-    }
-  },
-  {
-    "id": "elvia-26355",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.11392314390168,
-    "lng": 11.309742261443736,
-    "start": "5.8.2026, 16:10:08",
-    "end": "5.8.2026, 19:19:08",
-    "areaName": "Ullensaker / Kløfta / U3820",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26355,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ullensaker",
-      "nettstasjon": "U3820",
-      "poststed": "Kløfta",
-      "strombruddoppdaget": 1785946208562,
-      "utkoblingslutt": 1785957548000,
-      "utkoblingstart": 1785946208562
-    }
-  },
-  {
-    "id": "elvia-26357",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 33,
-    "lat": 60.111349612279696,
-    "lng": 11.315065210234255,
-    "start": "5.8.2026, 16:10:08",
-    "end": "5.8.2026, 19:19:08",
-    "areaName": "Ullensaker / Kløfta / U3830",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26357,
-      "antallkunder": 33,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ullensaker",
-      "nettstasjon": "U3830",
-      "poststed": "Kløfta",
-      "strombruddoppdaget": 1785946208562,
-      "utkoblingslutt": 1785957548000,
-      "utkoblingstart": 1785946208562
-    }
-  },
-  {
-    "id": "elvia-27353",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.29251621296146,
-    "lng": 11.098478059806123,
-    "start": "5.8.2026, 19:40:50",
-    "end": "5.8.2026, 23:16:50",
-    "areaName": "Sarpsborg / Sarpsborg / X0144",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27353,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0144",
-      "poststed": "Sarpsborg",
-      "strombruddoppdaget": 1785958850000,
-      "utkoblingslutt": 1785971810000,
-      "utkoblingstart": 1785958850000
+      "description": "",
+      "state": "Pågående",
+      "municipal": "KARMØY",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
@@ -982,6 +840,23 @@
       "name": "Berørte kunder: 18",
       "description": "Rettet\nStartet: 2026-08-05 08:34\nSluttid: 2026-08-05 13:51\nPlanlagt strømstans",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-outage-9",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 614,
+    "lat": 59.25046968437601,
+    "lng": 5.8408092319828615,
+    "start": "5.8.2026, 22:28:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 614",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-05 22:28\n23:15 Montører er på veg til Sjernarøy for feilsøking/feilretting som vil foregå igjennom natten.\n23:08: Kunder på Lauvsnes har fått tilbake strømmen.\n22:28 Kunder på Nord-Hidle har fått strømmen tilbake.\n22:23 Strørmbrudd",
+      "styleUrl": "#red"
     }
   },
   {
