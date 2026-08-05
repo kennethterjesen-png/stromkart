@@ -1,60 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.43335569168434,
-    "lng": 5.821340058331125,
-    "start": null,
-    "end": null,
-    "areaName": "Samnanger",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9839603,
-      "MUNICIPAL_TXT": "Samnanger",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1785915000000,
-      "TIMELIMIT": 1785918600000,
-      "NUM_AB": 12,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 2,
-      "LAST_UPDATED": 1785920009000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-6976",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.95118184057793,
-    "lng": 10.94660334434118,
-    "start": "5.8.2026, 06:00:00",
-    "end": "5.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 1932",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6976,
-      "antallkunder": 12,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "1932",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1785934800000,
-      "utkoblingstart": 1785909600000
-    }
-  },
-  {
     "id": "elvia-7709",
     "company": "Elvia",
     "type": "planned",
@@ -147,52 +92,6 @@
     }
   },
   {
-    "id": "elvia-24365",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 103,
-    "lat": 59.1328793627626,
-    "lng": 11.38125714349311,
-    "start": "5.8.2026, 06:30:00",
-    "end": "5.8.2026, 13:00:00",
-    "areaName": "Halden / Halden / Q0131",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24365,
-      "antallkunder": 103,
-      "avbruddstype": "Planned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0131",
-      "poststed": "Halden",
-      "strombruddoppdaget": 1785911597588,
-      "utkoblingslutt": 1785934800000,
-      "utkoblingstart": 1785911400000
-    }
-  },
-  {
-    "id": "elvia-27346",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.27880953933244,
-    "lng": 11.08617102699665,
-    "start": "5.8.2026, 07:31:03",
-    "end": "5.8.2026, 11:07:03",
-    "areaName": "Sarpsborg / Sarpsborg / X0137",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27346,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0137",
-      "poststed": "Sarpsborg",
-      "strombruddoppdaget": 1785915063000,
-      "utkoblingslutt": 1785928023000,
-      "utkoblingstart": 1785915063000
-    }
-  },
-  {
     "id": "elvia-27910",
     "company": "Elvia",
     "type": "planned",
@@ -216,25 +115,6 @@
     }
   },
   {
-    "id": "fagne-4559381",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.871818171532155,
-    "lng": 6.8772548104055256,
-    "start": "8.5.2026, 07:00:00",
-    "end": "8.5.2026, 09:00:00",
-    "areaName": "ULLENSVANG",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "ULLENSVANG",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "fagne-4561361",
     "company": "Fagne",
     "type": "planned",
@@ -254,27 +134,27 @@
     }
   },
   {
-    "id": "linja-outage-3373240",
+    "id": "linja-outage-3371609",
     "company": "Linja",
     "type": "outage",
-    "customers": 3,
-    "lat": 62.3374259825275,
-    "lng": 6.035890126621596,
-    "start": "5.8.2026, 07:00:00",
+    "customers": 30,
+    "lat": 61.766485326427905,
+    "lng": 6.214827921138756,
+    "start": "5.8.2026, 10:30:00",
     "end": null,
-    "areaName": "HAREID / Linja Midt",
+    "areaName": "GLOPPEN / Linja Sør",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3373240,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Øvrelid onsdag 05. august mellom kl. 09:00 og 13:00",
+      "EVENTID": 3371609,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Elvebøvegen og Søråsen onsdag 05. august fra 12:30 til 1600.",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1785913200000,
+      "STARTTIME": 1785925800000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
-      "MUNICIPAL_TXT": "HAREID",
-      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 0,
-      "NUM_AB": 3
+      "NUM_AB": 30
     }
   },
   {
@@ -948,6 +828,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2882-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70845-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 176,
+    "lat": 60.517812057000015,
+    "lng": 5.076326275999975,
+    "start": "7.8.2026, 07:00:39",
+    "end": "7.8.2026, 11:00:39",
+    "areaName": "MERKESVIK",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218737,
+      "REFNR": "P70845",
+      "SEKUNDÆRSTASJON": "MERKESVIK",
+      "AVGANG": "FAUSKANGER",
+      "CNT": 176,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1786086039000,
+      "TIL_DATO": 1786100439000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70845-1",
       "description": ""
     }
   }
