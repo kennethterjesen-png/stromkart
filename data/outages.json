@@ -1,44 +1,21 @@
 [
   {
-    "id": "elvia-6046",
+    "id": "elvia-118",
     "company": "Elvia",
     "type": "planned",
-    "customers": 7,
-    "lat": 60.00884281437355,
-    "lng": 10.71200146453975,
+    "customers": 1,
+    "lat": 60.00007774614635,
+    "lng": 10.718351281901,
     "start": "4.8.2026, 22:34:49",
     "end": "5.8.2026, 02:19:49",
-    "areaName": "Oslo / Oslo / 0552",
+    "areaName": "Oslo / Oslo / 0575",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 6046,
-      "antallkunder": 7,
+      "OBJECTID": 118,
+      "antallkunder": 1,
       "avbruddstype": "Unplanned",
       "kommune": "Oslo",
-      "nettstasjon": "0552",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1785882889770,
-      "utkoblingslutt": 1785896389000,
-      "utkoblingstart": 1785882889770
-    }
-  },
-  {
-    "id": "elvia-6047",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.00367356528421,
-    "lng": 10.686503042367582,
-    "start": "4.8.2026, 22:34:49",
-    "end": "5.8.2026, 02:19:49",
-    "areaName": "Oslo / Oslo / 0553",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6047,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0553",
+      "nettstasjon": "0575",
       "poststed": "Oslo",
       "strombruddoppdaget": 1785882889770,
       "utkoblingslutt": 1785896389000,
@@ -66,52 +43,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1785902400000,
       "utkoblingstart": 1785880860000
-    }
-  },
-  {
-    "id": "elvia-17210",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.122272540053366,
-    "lng": 12.376535600871495,
-    "start": "4.8.2026, 19:41:28",
-    "end": "4.8.2026, 23:26:28",
-    "areaName": "Kongsvinger / Austmarka / ENS07647",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17210,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07647",
-      "poststed": "Austmarka",
-      "strombruddoppdaget": 1785872488741,
-      "utkoblingslutt": 1785885988000,
-      "utkoblingstart": 1785872488741
-    }
-  },
-  {
-    "id": "elvia-17211",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.12034159022884,
-    "lng": 12.388577208109718,
-    "start": "4.8.2026, 19:41:28",
-    "end": "4.8.2026, 23:26:28",
-    "areaName": "Kongsvinger / Austmarka / ENS07648",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17211,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07648",
-      "poststed": "Austmarka",
-      "strombruddoppdaget": 1785872488741,
-      "utkoblingslutt": 1785885988000,
-      "utkoblingstart": 1785872488741
     }
   },
   {
@@ -793,34 +724,6 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2882-1",
       "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70842-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 319,
-    "lat": 59.73152427000002,
-    "lng": 10.908041458000014,
-    "start": "4.8.2026, 18:58:09",
-    "end": null,
-    "areaName": "DRØMTORP",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218724,
-      "REFNR": "H70842",
-      "SEKUNDÆRSTASJON": "DRØMTORP",
-      "AVGANG": "L12",
-      "CNT": 319,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n\nMontører på vei for å prøvekoble. Feil funnet, anslått ferdig ca. 02:00\n \nBerørte områder: \n\nOPPSANDVEIEN 28, OPPSANDV.45, SØNDRE SOLBERG, BJERKE ØSTRE, STREVOP, OPSAND II, SKREMMAVEIEN, STUNNER, SLORA, HØYBRÅTEN, GJEDSJØ SKOLE, STUBBERUD, SKEIDARKOLLEN, SOLBOTTMÅSAN, NESHØGDA, VASSHAGEN, GRØSTAD, ENGA, OPPSAND 1, NÆRE II, NÆRE I, BEKKEVAR.",
-      "FRA_DATO": 1785869889000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70842-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n\nMontører på vei for å prøvekoble. Feil funnet, anslått ferdig ca. 02:00\n \nBerørte områder: \n\nOPPSANDVEIEN 28, OPPSANDV.45, SØNDRE SOLBERG, BJERKE ØSTRE, STREVOP, OPSAND II, SKREMMAVEIEN, STUNNER, SLORA, HØYBRÅTEN, GJEDSJØ SKOLE, STUBBERUD, SKEIDARKOLLEN, SOLBOTTMÅSAN, NESHØGDA, VASSHAGEN, GRØSTAD, ENGA, OPPSAND 1, NÆRE II, NÆRE I, BEKKEVAR."
     }
   }
 ]
