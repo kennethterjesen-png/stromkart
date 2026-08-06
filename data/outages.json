@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.13952797330706,
-    "lng": 5.36947551163636,
-    "start": null,
-    "end": null,
-    "areaName": "Bjørnafjorden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9842291,
-      "MUNICIPAL_TXT": "Bjørnafjorden",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1785933780000,
-      "TIMELIMIT": 1785974400000,
-      "NUM_AB": 488,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeidets omfang, etter graveuhell tidligere i kveld, \r\nregner vi med at arbeidet ikke blir ferdigstilt før tidligst 06.08. kl. 02:00. \r\n\r\n5200 OS; BJØRNARØYA\r\n5216 LEPSØY; RØTINGAVEGEN,SUNDØYHAGEN,BRATTHOLMEN,BJØRNARØYA,SUNDØYTANGEN\r\n5217 HAGAVIK; SØRSTRØNO",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 12,
-      "LAST_UPDATED": 1785961395000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 27,
-      "NUM_AB_REGAINED": 809,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-3736",
     "company": "Elvia",
     "type": "planned",
@@ -52,6 +20,29 @@
       "strombruddoppdaget": 1785954775777,
       "utkoblingslutt": 1785968275000,
       "utkoblingstart": 1785954775777
+    }
+  },
+  {
+    "id": "elvia-21303",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 28,
+    "lat": 60.51208901702797,
+    "lng": 11.247236270788825,
+    "start": "5.8.2026, 23:47:49",
+    "end": "6.8.2026, 03:23:49",
+    "areaName": "Stange / Espa / ENS14695",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21303,
+      "antallkunder": 28,
+      "avbruddstype": "Unplanned",
+      "kommune": "Stange",
+      "nettstasjon": "ENS14695",
+      "poststed": "Espa",
+      "strombruddoppdaget": 1785973669000,
+      "utkoblingslutt": 1785986629000,
+      "utkoblingstart": 1785973669000
     }
   },
   {
@@ -259,25 +250,6 @@
       "strombruddoppdaget": 1785954775777,
       "utkoblingslutt": 1785968275000,
       "utkoblingstart": 1785954775777
-    }
-  },
-  {
-    "id": "fagne-4573020",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 3,
-    "lat": 59.29031381406606,
-    "lng": 5.289320895607399,
-    "start": "8.5.2026, 15:53:00",
-    "end": "8.5.2026, 19:00:00",
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
@@ -829,15 +801,15 @@
     "id": "lnett-outage-5",
     "company": "Lnett",
     "type": "outage",
-    "customers": 614,
-    "lat": 59.25046968437601,
-    "lng": 5.8408092319828615,
+    "customers": 148,
+    "lat": 59.26347593759923,
+    "lng": 5.866312717750999,
     "start": "6.8.2026, 00:42:00",
     "end": null,
     "areaName": "Driftsforstyrrelse",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 614",
+      "name": "Berørte kunder: 148",
       "description": "Driftsforstyrrelse\nStartet: 2026-08-06 00:42\n23:15 Montører er på veg til Sjernarøy for feilsøking/feilretting som vil foregå igjennom natten.\n23:08: Kunder på Mjølnsnes har fått tilbake strømmen.\n22:28 Kunder på Nord-Hidle har fått strømmen tilbake.\n22:23 Strørmbrudd",
       "styleUrl": "#red"
     }
