@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-15423",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 13,
+    "lat": 60.7303084138739,
+    "lng": 10.966891602138118,
+    "start": "7.8.2026, 10:16:16",
+    "end": "7.8.2026, 13:52:16",
+    "areaName": "Ringsaker / Nes på hedmarken / ENS04789",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15423,
+      "antallkunder": 13,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ringsaker",
+      "nettstasjon": "ENS04789",
+      "poststed": "Nes på hedmarken",
+      "strombruddoppdaget": 1786097776000,
+      "utkoblingslutt": 1786110736000,
+      "utkoblingstart": 1786097776000
+    }
+  },
+  {
     "id": "elvia-17091",
     "company": "Elvia",
     "type": "planned",
@@ -135,25 +158,6 @@
       "strombruddoppdaget": 1786089859222,
       "utkoblingslutt": 1786107600000,
       "utkoblingstart": 1786082400000
-    }
-  },
-  {
-    "id": "fagne-4564305",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 42,
-    "lat": 59.63158626629297,
-    "lng": 6.2801460012539,
-    "start": "8.7.2026, 06:30:00",
-    "end": "8.7.2026, 11:00:00",
-    "areaName": "SAUDA",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SAUDA",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
