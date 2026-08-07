@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-10371",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.88651448754943,
+    "lng": 10.621775768287604,
+    "start": "7.8.2026, 14:00:13",
+    "end": "7.8.2026, 17:36:13",
+    "areaName": "Bærum / Snarøya / B1610",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 10371,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Bærum",
+      "nettstasjon": "B1610",
+      "poststed": "Snarøya",
+      "strombruddoppdaget": 1786111213000,
+      "utkoblingslutt": 1786124173000,
+      "utkoblingstart": 1786111213000
+    }
+  },
+  {
     "id": "elvia-13615",
     "company": "Elvia",
     "type": "planned",
@@ -729,6 +752,62 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2893-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2894-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.86110251000002,
+    "lng": 10.658927960000028,
+    "start": "21.8.2026, 07:00:00",
+    "end": "21.8.2026, 10:00:00",
+    "areaName": "TANGEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218773,
+      "REFNR": "PL2894",
+      "SEKUNDÆRSTASJON": "TANGEN",
+      "AVGANG": "L5",
+      "CNT": 1,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787295600000,
+      "TIL_DATO": 1787306400000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2894-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2895-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.80762374,
+    "lng": 10.68930266000001,
+    "start": "19.8.2026, 07:00:00",
+    "end": "19.8.2026, 10:00:00",
+    "areaName": "NYSTUEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218774,
+      "REFNR": "PL2895",
+      "SEKUNDÆRSTASJON": "NYSTUEN",
+      "AVGANG": "L5",
+      "CNT": 2,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787122800000,
+      "TIL_DATO": 1787133600000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2895-1",
       "description": ""
     }
   },
