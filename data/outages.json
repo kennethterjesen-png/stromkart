@@ -46,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-23697",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 22,
-    "lat": 60.17057964406091,
-    "lng": 11.525255114924654,
-    "start": "7.8.2026, 16:52:58",
-    "end": "7.8.2026, 20:28:58",
-    "areaName": "Nes / Oppaker / N7065",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23697,
-      "antallkunder": 22,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N7065",
-      "poststed": "Oppaker",
-      "strombruddoppdaget": 1786121578000,
-      "utkoblingslutt": 1786134538000,
-      "utkoblingstart": 1786121578000
-    }
-  },
-  {
     "id": "linja-planned-3373057",
     "company": "Linja",
     "type": "planned",
