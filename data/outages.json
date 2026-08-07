@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-10371",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.88651448754943,
-    "lng": 10.621775768287604,
-    "start": "7.8.2026, 14:00:13",
-    "end": "7.8.2026, 17:36:13",
-    "areaName": "Bærum / Snarøya / B1610",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10371,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B1610",
-      "poststed": "Snarøya",
-      "strombruddoppdaget": 1786111213000,
-      "utkoblingslutt": 1786124173000,
-      "utkoblingstart": 1786111213000
-    }
-  },
-  {
-    "id": "elvia-13615",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 41,
-    "lat": 60.70913013903214,
-    "lng": 10.877765990099096,
-    "start": "7.8.2026, 11:50:16",
-    "end": "7.8.2026, 15:26:16",
-    "areaName": "Østre Toten / Kapp / ENS02160",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13615,
-      "antallkunder": 41,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS02160",
-      "poststed": "Kapp",
-      "strombruddoppdaget": 1786103416000,
-      "utkoblingslutt": 1786116376000,
-      "utkoblingstart": 1786103416000
-    }
-  },
-  {
     "id": "elvia-20322",
     "company": "Elvia",
     "type": "planned",
@@ -66,6 +20,29 @@
       "strombruddoppdaget": 1786094207000,
       "utkoblingslutt": 1786107167000,
       "utkoblingstart": 1786094207000
+    }
+  },
+  {
+    "id": "elvia-23140",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 60.26006013713198,
+    "lng": 10.997438250661626,
+    "start": "7.8.2026, 15:23:11",
+    "end": "7.8.2026, 18:59:11",
+    "areaName": "Nannestad / Maura / M1535",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 23140,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nannestad",
+      "nettstasjon": "M1535",
+      "poststed": "Maura",
+      "strombruddoppdaget": 1786116191000,
+      "utkoblingslutt": 1786129151000,
+      "utkoblingstart": 1786116191000
     }
   },
   {
@@ -808,6 +785,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2895-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70849-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 140,
+    "lat": 59.85550576000003,
+    "lng": 10.664036689999989,
+    "start": "17.8.2026, 22:05:29",
+    "end": "18.8.2026, 01:00:29",
+    "areaName": "TANGEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218775,
+      "REFNR": "P70849",
+      "SEKUNDÆRSTASJON": "TANGEN",
+      "AVGANG": "L3",
+      "CNT": 140,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787004329000,
+      "TIL_DATO": 1787014829000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70849-1",
       "description": ""
     }
   },
