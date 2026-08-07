@@ -240,30 +240,6 @@
     }
   },
   {
-    "id": "linja-planned-3374529",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.57806530882771,
-    "lng": 6.451814326490524,
-    "start": "7.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "HARAM / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3374529,
-      "CUSTOMER_WEB_TEXT": "HÅVIKMYRANE INDRE - På grunn av arbeid i lågspentnettet vert det ein straumstans i om lag 4 timar. Berørte kundar er varsla på SMS. ",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1786086000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Nordvestnett",
-      "MUNICIPAL_TXT": "HARAM",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3374357",
     "company": "Linja",
     "type": "planned",
@@ -463,6 +439,23 @@
       "name": "Berørte kunder: 431",
       "description": "Rettet\nStartet: 2026-08-06 08:02\nSluttid: 2026-08-06 12:40\nPlanlagt strømstans",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-planned-11",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 184,
+    "lat": 59.261425602096494,
+    "lng": 5.862696394400327,
+    "start": "7.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 184",
+      "description": "Planlagt strømstans\nStartet: 2026-08-07 07:00\nPlanlagt strømstans. Feilretting.",
+      "styleUrl": "#yellow"
     }
   },
   {
