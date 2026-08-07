@@ -1,48 +1,25 @@
 [
   {
-    "id": "elvia-7846",
+    "id": "elvia-13615",
     "company": "Elvia",
     "type": "planned",
-    "customers": 300,
-    "lat": 59.921991624090076,
-    "lng": 10.738255360335401,
-    "start": "4.8.2026, 06:00:00",
-    "end": "11.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 3184",
+    "customers": 41,
+    "lat": 60.70913013903214,
+    "lng": 10.877765990099096,
+    "start": "7.8.2026, 11:50:16",
+    "end": "7.8.2026, 15:26:16",
+    "areaName": "Østre Toten / Kapp / ENS02160",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 7846,
-      "antallkunder": 300,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3184",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1785909936106,
-      "utkoblingslutt": 1786453200000,
-      "utkoblingstart": 1785823200000
-    }
-  },
-  {
-    "id": "elvia-7916",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.949520675432865,
-    "lng": 10.936520367055445,
-    "start": "7.8.2026, 11:11:13",
-    "end": "7.8.2026, 14:47:13",
-    "areaName": "Oslo / Oslo / 3285",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7916,
-      "antallkunder": 6,
+      "OBJECTID": 13615,
+      "antallkunder": 41,
       "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "3285",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786101073000,
-      "utkoblingslutt": 1786114033000,
-      "utkoblingstart": 1786101073000
+      "kommune": "Østre Toten",
+      "nettstasjon": "ENS02160",
+      "poststed": "Kapp",
+      "strombruddoppdaget": 1786103416000,
+      "utkoblingslutt": 1786116376000,
+      "utkoblingstart": 1786103416000
     }
   },
   {
@@ -259,6 +236,54 @@
     }
   },
   {
+    "id": "linja-planned-3377440",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.90626533320715,
+    "lng": 5.9897434111078125,
+    "start": "13.8.2026, 22:30:00",
+    "end": null,
+    "areaName": "EID / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3377440,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Sjøgata fredag 14. august mellom kl.00:30 og kl.01:00",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1786660200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "EID",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3377444",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.9045444262882,
+    "lng": 5.988613891111994,
+    "start": "14.8.2026, 10:00:00",
+    "end": null,
+    "areaName": "EID / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3377444,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Kaivegen fredag 14. august mellom kl.12:00 og 12:30",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1786701600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "EID",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3377400",
     "company": "Linja",
     "type": "planned",
@@ -278,6 +303,54 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3377436",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.90276019998044,
+    "lng": 5.98781090431039,
+    "start": "13.8.2026, 21:30:00",
+    "end": null,
+    "areaName": "EID / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3377436,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Osvegen torsdag 12.august mellom kl.23:30 og 00:00",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1786656600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "EID",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3377596",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.335206354694684,
+    "lng": 7.344814309897387,
+    "start": "12.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "FJORD / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3377596,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Omnosåsen onsdag 12. august mellom 09:00 til 14:00",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1786518000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "FJORD",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
