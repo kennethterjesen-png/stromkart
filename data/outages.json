@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-15423",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 60.7303084138739,
-    "lng": 10.966891602138118,
-    "start": "7.8.2026, 10:16:16",
-    "end": "7.8.2026, 13:52:16",
-    "areaName": "Ringsaker / Nes på hedmarken / ENS04789",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 15423,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS04789",
-      "poststed": "Nes på hedmarken",
-      "strombruddoppdaget": 1786097776000,
-      "utkoblingslutt": 1786110736000,
-      "utkoblingstart": 1786097776000
-    }
-  },
-  {
     "id": "elvia-20322",
     "company": "Elvia",
     "type": "planned",
@@ -66,53 +43,6 @@
       "strombruddoppdaget": 1786094207000,
       "utkoblingslutt": 1786107167000,
       "utkoblingstart": 1786094207000
-    }
-  },
-  {
-    "id": "elvia-25218",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.965522475197794,
-    "lng": 11.04103829066766,
-    "start": "7.8.2026, 06:00:00",
-    "end": "7.8.2026, 13:00:00",
-    "areaName": "Lillestrøm / Lillestrøm / S0208",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25218,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0208",
-      "poststed": "Lillestrøm",
-      "strombruddoppdaget": 1786089859222,
-      "utkoblingslutt": 1786107600000,
-      "utkoblingstart": 1786082400000
-    }
-  },
-  {
-    "id": "linja-outage-3374529",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 12,
-    "lat": 62.57806530882771,
-    "lng": 6.451814326490524,
-    "start": "7.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "HARAM / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3374529,
-      "CUSTOMER_WEB_TEXT": "HÅVIKMYRANE INDRE - På grunn av arbeid i lågspentnettet vert det ein straumstans i om lag 4 timar. Berørte kundar er varsla på SMS. ",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786086000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "HARAM",
-      "PURCHAREA_TXT": "Nordvestnett",
-      "NUM_NS": 0,
-      "NUM_AB": 12
     }
   },
   {
@@ -327,6 +257,30 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "EID",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3377616",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.93778409000674,
+    "lng": 5.110035861080223,
+    "start": "11.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "KINN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3377616,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gate 6, Gate 5 og Skram Skule tirsdag 11.august  fra kl. 09:00 til 12:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1786431600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "KINN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
