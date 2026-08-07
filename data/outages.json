@@ -3,46 +3,46 @@
     "id": "elvia-7846",
     "company": "Elvia",
     "type": "planned",
-    "customers": 29,
+    "customers": 300,
     "lat": 59.921991624090076,
     "lng": 10.738255360335401,
-    "start": "7.8.2026, 06:00:00",
-    "end": "7.8.2026, 13:00:00",
+    "start": "4.8.2026, 06:00:00",
+    "end": "11.8.2026, 13:00:00",
     "areaName": "Oslo / Oslo / 3184",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
       "OBJECTID": 7846,
-      "antallkunder": 29,
+      "antallkunder": 300,
       "avbruddstype": "Planned",
       "kommune": "Oslo",
       "nettstasjon": "3184",
       "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786107600000,
-      "utkoblingstart": 1786082400000
+      "strombruddoppdaget": 1785909936106,
+      "utkoblingslutt": 1786453200000,
+      "utkoblingstart": 1785823200000
     }
   },
   {
-    "id": "elvia-11454",
+    "id": "elvia-7916",
     "company": "Elvia",
     "type": "planned",
-    "customers": 17,
-    "lat": 59.79866404855639,
-    "lng": 10.444873091334912,
-    "start": "7.8.2026, 08:00:00",
-    "end": "7.8.2026, 13:00:00",
-    "areaName": "Asker / Heggedal / D0628",
+    "customers": 6,
+    "lat": 59.949520675432865,
+    "lng": 10.936520367055445,
+    "start": "7.8.2026, 11:11:13",
+    "end": "7.8.2026, 14:47:13",
+    "areaName": "Oslo / Oslo / 3285",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 11454,
-      "antallkunder": 17,
-      "avbruddstype": "Planned",
-      "kommune": "Asker",
-      "nettstasjon": "D0628",
-      "poststed": "Heggedal",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786107600000,
-      "utkoblingstart": 1786089600000
+      "OBJECTID": 7916,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "3285",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1786101073000,
+      "utkoblingslutt": 1786114033000,
+      "utkoblingstart": 1786101073000
     }
   },
   {
@@ -69,29 +69,6 @@
     }
   },
   {
-    "id": "elvia-17091",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 111,
-    "lat": 60.2432106413686,
-    "lng": 11.682174759663216,
-    "start": "7.8.2026, 07:15:05",
-    "end": "7.8.2026, 10:51:05",
-    "areaName": "Sør-Odal / Skarnes / ENS07469",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17091,
-      "antallkunder": 111,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS07469",
-      "poststed": "Skarnes",
-      "strombruddoppdaget": 1786086905000,
-      "utkoblingslutt": 1786099865000,
-      "utkoblingstart": 1786086905000
-    }
-  },
-  {
     "id": "elvia-20322",
     "company": "Elvia",
     "type": "planned",
@@ -112,29 +89,6 @@
       "strombruddoppdaget": 1786094207000,
       "utkoblingslutt": 1786107167000,
       "utkoblingstart": 1786094207000
-    }
-  },
-  {
-    "id": "elvia-23162",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 20,
-    "lat": 60.26486429515293,
-    "lng": 11.036515696878151,
-    "start": "7.8.2026, 06:30:00",
-    "end": "7.8.2026, 11:00:00",
-    "areaName": "Nannestad / Maura / M1633",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23162,
-      "antallkunder": 20,
-      "avbruddstype": "Planned",
-      "kommune": "Nannestad",
-      "nettstasjon": "M1633",
-      "poststed": "Maura",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786100400000,
-      "utkoblingstart": 1786084200000
     }
   },
   {
@@ -832,62 +786,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2891-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2882-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 12,
-    "lat": 59.74409643000001,
-    "lng": 10.344441109999991,
-    "start": "7.8.2026, 07:59:54",
-    "end": "7.8.2026, 13:00:00",
-    "areaName": "SPIKKESTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1217794,
-      "REFNR": "PL2882",
-      "SEKUNDÆRSTASJON": "SPIKKESTAD",
-      "AVGANG": "L3",
-      "CNT": 12,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1786089594000,
-      "TIL_DATO": 1786107600000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2882-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70845-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 176,
-    "lat": 60.51494526699997,
-    "lng": 5.0926071260000185,
-    "start": "7.8.2026, 07:00:39",
-    "end": "7.8.2026, 11:00:39",
-    "areaName": "MERKESVIK",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218737,
-      "REFNR": "P70845",
-      "SEKUNDÆRSTASJON": "MERKESVIK",
-      "AVGANG": "FAUSKANGER",
-      "CNT": 176,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1786086039000,
-      "TIL_DATO": 1786100439000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70845-1",
       "description": ""
     }
   }
