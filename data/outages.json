@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-7220",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 70,
+    "lat": 59.9127519918859,
+    "lng": 10.736302128183755,
+    "start": "7.8.2026, 22:05:00",
+    "end": "7.8.2026, 23:30:00",
+    "areaName": "Oslo / Oslo / 2286",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7220,
+      "antallkunder": 70,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2286",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1786140396438,
+      "utkoblingslutt": 1786145400000,
+      "utkoblingstart": 1786140300000
+    }
+  },
+  {
     "id": "elvia-20322",
     "company": "Elvia",
     "type": "planned",
@@ -575,41 +598,7 @@
     }
   },
   {
-    "id": "lnett-planned-1",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 176,
-    "lat": 58.90495328013143,
-    "lng": 5.7270742430082855,
-    "start": "4.8.2026, 08:01:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 176",
-      "description": "Rettet\nStartet: 2026-08-04 08:01\nSluttid: 2026-08-06 09:24\nPlanlagt strømstans",
-      "styleUrl": "#green"
-    }
-  },
-  {
     "id": "lnett-planned-3",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 431,
-    "lat": 58.999232372555035,
-    "lng": 5.919428217375195,
-    "start": "6.8.2026, 08:02:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 431",
-      "description": "Rettet\nStartet: 2026-08-06 08:02\nSluttid: 2026-08-06 12:40\nPlanlagt strømstans",
-      "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-7",
     "company": "Lnett",
     "type": "planned",
     "customers": 184,
