@@ -1,5 +1,51 @@
 [
   {
+    "id": "elvia-9985",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.90371036935922,
+    "lng": 10.477548926730766,
+    "start": "8.8.2026, 18:14:55",
+    "end": "8.8.2026, 21:50:55",
+    "areaName": "Bærum / Vøyenenga / B0981",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9985,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Bærum",
+      "nettstasjon": "B0981",
+      "poststed": "Vøyenenga",
+      "strombruddoppdaget": 1786212895000,
+      "utkoblingslutt": 1786225855000,
+      "utkoblingstart": 1786212895000
+    }
+  },
+  {
+    "id": "elvia-16770",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.97048937111308,
+    "lng": 12.210300632206156,
+    "start": "8.8.2026, 18:23:51",
+    "end": "8.8.2026, 21:59:51",
+    "areaName": "Eidskog / Magnor / ENS07013",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 16770,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidskog",
+      "nettstasjon": "ENS07013",
+      "poststed": "Magnor",
+      "strombruddoppdaget": 1786213431000,
+      "utkoblingslutt": 1786226391000,
+      "utkoblingstart": 1786213431000
+    }
+  },
+  {
     "id": "elvia-20322",
     "company": "Elvia",
     "type": "planned",
