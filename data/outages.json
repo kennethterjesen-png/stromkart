@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-18282",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 16,
+    "lat": 59.959635581901225,
+    "lng": 12.154392122876297,
+    "start": "8.8.2026, 15:03:23",
+    "end": "8.8.2026, 18:39:23",
+    "areaName": "Eidskog / Skotterud / ENS09312",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 18282,
+      "antallkunder": 16,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidskog",
+      "nettstasjon": "ENS09312",
+      "poststed": "Skotterud",
+      "strombruddoppdaget": 1786201403000,
+      "utkoblingslutt": 1786214363000,
+      "utkoblingstart": 1786201403000
+    }
+  },
+  {
     "id": "elvia-20322",
     "company": "Elvia",
     "type": "planned",
