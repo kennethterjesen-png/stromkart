@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-16770",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.97048937111308,
-    "lng": 12.210300632206156,
-    "start": "8.8.2026, 18:23:51",
-    "end": "8.8.2026, 21:59:51",
-    "areaName": "Eidskog / Magnor / ENS07013",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16770,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidskog",
-      "nettstasjon": "ENS07013",
-      "poststed": "Magnor",
-      "strombruddoppdaget": 1786213431000,
-      "utkoblingslutt": 1786226391000,
-      "utkoblingstart": 1786213431000
-    }
-  },
-  {
     "id": "elvia-20322",
     "company": "Elvia",
     "type": "planned",
@@ -75,25 +52,6 @@
       "strombruddoppdaget": 1786094207000,
       "utkoblingslutt": 1786107167000,
       "utkoblingstart": 1786094207000
-    }
-  },
-  {
-    "id": "fagne-4577876",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 6,
-    "lat": 60.07529287567323,
-    "lng": 6.55489083723184,
-    "start": "8.8.2026, 21:42:00",
-    "end": "8.9.2026, 00:30:00",
-    "areaName": "ULLENSVANG",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "ULLENSVANG",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
