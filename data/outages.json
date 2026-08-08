@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-17500",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 17,
+    "lat": 61.30025596312322,
+    "lng": 11.795626557892119,
+    "start": "8.8.2026, 10:53:22",
+    "end": "8.8.2026, 14:29:22",
+    "areaName": "Åmot / Osen / ENS08069",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17500,
+      "antallkunder": 17,
+      "avbruddstype": "Unplanned",
+      "kommune": "Åmot",
+      "nettstasjon": "ENS08069",
+      "poststed": "Osen",
+      "strombruddoppdaget": 1786186402000,
+      "utkoblingslutt": 1786199362000,
+      "utkoblingstart": 1786186402000
+    }
+  },
+  {
     "id": "elvia-20322",
     "company": "Elvia",
     "type": "planned",
