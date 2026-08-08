@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-17153",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 17,
-    "lat": 60.23323002740758,
-    "lng": 12.085881488868248,
-    "start": "8.8.2026, 15:53:18",
-    "end": "8.8.2026, 19:29:18",
-    "areaName": "Kongsvinger / Roverud / ENS07571",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17153,
-      "antallkunder": 17,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07571",
-      "poststed": "Roverud",
-      "strombruddoppdaget": 1786204398000,
-      "utkoblingslutt": 1786217358000,
-      "utkoblingstart": 1786204398000
-    }
-  },
-  {
-    "id": "elvia-18282",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 59.959635581901225,
-    "lng": 12.154392122876297,
-    "start": "8.8.2026, 15:03:23",
-    "end": "8.8.2026, 18:39:23",
-    "areaName": "Eidskog / Skotterud / ENS09312",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18282,
-      "antallkunder": 16,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidskog",
-      "nettstasjon": "ENS09312",
-      "poststed": "Skotterud",
-      "strombruddoppdaget": 1786201403000,
-      "utkoblingslutt": 1786214363000,
-      "utkoblingstart": 1786201403000
-    }
-  },
-  {
     "id": "elvia-20322",
     "company": "Elvia",
     "type": "planned",
