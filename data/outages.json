@@ -842,5 +842,33 @@
       "STROMSTANSID": "V-2891-1",
       "description": ""
     }
+  },
+  {
+    "id": "norgesnett-planned-V-70856-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 64,
+    "lat": 59.22731355600001,
+    "lng": 10.964738418000024,
+    "start": "14.8.2026, 07:00:50",
+    "end": "14.8.2026, 13:30:50",
+    "areaName": "BROGATA",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218785,
+      "REFNR": "P70856",
+      "SEKUNDÆRSTASJON": "BROGATA",
+      "AVGANG": "H1083",
+      "CNT": 64,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1786690850000,
+      "TIL_DATO": 1786714250000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70856-1",
+      "description": ""
+    }
   }
 ]
