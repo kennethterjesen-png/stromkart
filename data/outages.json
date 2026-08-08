@@ -78,6 +78,25 @@
     }
   },
   {
+    "id": "fagne-4577876",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 6,
+    "lat": 60.07529287567323,
+    "lng": 6.55489083723184,
+    "start": "8.8.2026, 21:42:00",
+    "end": "8.9.2026, 00:30:00",
+    "areaName": "ULLENSVANG",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "ULLENSVANG",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
     "id": "linja-planned-3373057",
     "company": "Linja",
     "type": "planned",
@@ -627,23 +646,6 @@
       "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-3",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 184,
-    "lat": 59.261425602096494,
-    "lng": 5.862696394400327,
-    "start": "7.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 184",
-      "description": "Rettet\nStartet: 2026-08-07 07:00\nSluttid: 2026-08-07 08:41\nPlanlagt strømstans. Feilretting.",
-      "styleUrl": "#green"
     }
   },
   {

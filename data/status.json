@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-08T21:48:04.453Z",
+  "updatedAt": "2026-08-08T22:11:45.169Z",
   "count": 37,
   "providers": [
     {
@@ -51,8 +51,8 @@
     {
       "name": "Lnett",
       "ok": true,
-      "count": 1,
-      "rawCount": 1,
+      "count": 0,
+      "rawCount": 0,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -78,8 +78,8 @@
     {
       "name": "Fagne",
       "ok": true,
-      "count": 0,
-      "rawCount": 0,
+      "count": 1,
+      "rawCount": 1,
       "filteredOut": 0,
       "warning": false,
       "error": null
