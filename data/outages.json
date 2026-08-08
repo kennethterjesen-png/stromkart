@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-7985",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 20,
-    "lat": 59.95500603021242,
-    "lng": 10.937198395064247,
-    "start": "8.8.2026, 12:32:40",
-    "end": "8.8.2026, 16:08:40",
-    "areaName": "Oslo / Oslo / 3400",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7985,
-      "antallkunder": 20,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "3400",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786192360000,
-      "utkoblingslutt": 1786205320000,
-      "utkoblingstart": 1786192360000
-    }
-  },
-  {
     "id": "elvia-20322",
     "company": "Elvia",
     "type": "planned",
