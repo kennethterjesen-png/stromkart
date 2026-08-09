@@ -1,97 +1,5 @@
 [
   {
-    "id": "elvia-16759",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.46328591215647,
-    "lng": 11.447645026281041,
-    "start": "9.8.2026, 12:05:15",
-    "end": "9.8.2026, 15:50:15",
-    "areaName": "Nord-Odal / Bruvoll / ENS06992",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16759,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06992",
-      "poststed": "Bruvoll",
-      "strombruddoppdaget": 1786277115880,
-      "utkoblingslutt": 1786290615000,
-      "utkoblingstart": 1786277115880
-    }
-  },
-  {
-    "id": "elvia-16760",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.47887352651362,
-    "lng": 11.413085557143148,
-    "start": "9.8.2026, 12:05:15",
-    "end": "9.8.2026, 15:50:15",
-    "areaName": "Nord-Odal / Bruvoll / ENS06993",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16760,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06993",
-      "poststed": "Bruvoll",
-      "strombruddoppdaget": 1786277115880,
-      "utkoblingslutt": 1786290615000,
-      "utkoblingstart": 1786277115880
-    }
-  },
-  {
-    "id": "elvia-16761",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 17,
-    "lat": 60.496237918353636,
-    "lng": 11.426869257607116,
-    "start": "9.8.2026, 12:05:15",
-    "end": "9.8.2026, 15:50:15",
-    "areaName": "Nord-Odal / Bruvoll / ENS06996",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16761,
-      "antallkunder": 17,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06996",
-      "poststed": "Bruvoll",
-      "strombruddoppdaget": 1786277115880,
-      "utkoblingslutt": 1786290615000,
-      "utkoblingstart": 1786277115880
-    }
-  },
-  {
-    "id": "elvia-16762",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 60.50188527465191,
-    "lng": 11.39445030918337,
-    "start": "9.8.2026, 12:05:15",
-    "end": "9.8.2026, 15:50:15",
-    "areaName": "Nord-Odal / Bruvoll / ENS06997",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16762,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06997",
-      "poststed": "Bruvoll",
-      "strombruddoppdaget": 1786277115880,
-      "utkoblingslutt": 1786290615000,
-      "utkoblingstart": 1786277115880
-    }
-  },
-  {
     "id": "elvia-16763",
     "company": "Elvia",
     "type": "planned",
@@ -154,29 +62,6 @@
       "avbruddstype": "Unplanned",
       "kommune": "Nord-Odal",
       "nettstasjon": "ENS07362",
-      "poststed": "Bruvoll",
-      "strombruddoppdaget": 1786277115880,
-      "utkoblingslutt": 1786290615000,
-      "utkoblingstart": 1786277115880
-    }
-  },
-  {
-    "id": "elvia-17019",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 60.49808517004552,
-    "lng": 11.403762631176894,
-    "start": "9.8.2026, 12:05:15",
-    "end": "9.8.2026, 15:50:15",
-    "areaName": "Nord-Odal / Bruvoll / ENS07363",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17019,
-      "antallkunder": 16,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS07363",
       "poststed": "Bruvoll",
       "strombruddoppdaget": 1786277115880,
       "utkoblingslutt": 1786290615000,
@@ -250,29 +135,6 @@
       "strombruddoppdaget": 1786094207000,
       "utkoblingslutt": 1786107167000,
       "utkoblingstart": 1786094207000
-    }
-  },
-  {
-    "id": "elvia-22529",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.05416327671796,
-    "lng": 11.179937746839666,
-    "start": "9.8.2026, 10:56:42",
-    "end": "9.8.2026, 14:32:42",
-    "areaName": "Lillestrøm / Sørum / K0518",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22529,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "K0518",
-      "poststed": "Sørum",
-      "strombruddoppdaget": 1786273002000,
-      "utkoblingslutt": 1786285962000,
-      "utkoblingstart": 1786273002000
     }
   },
   {
