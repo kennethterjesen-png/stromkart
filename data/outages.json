@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-22529",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 60.05416327671796,
+    "lng": 11.179937746839666,
+    "start": "9.8.2026, 10:56:42",
+    "end": "9.8.2026, 14:32:42",
+    "areaName": "Lillestrøm / Sørum / K0518",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22529,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "K0518",
+      "poststed": "Sørum",
+      "strombruddoppdaget": 1786273002000,
+      "utkoblingslutt": 1786285962000,
+      "utkoblingstart": 1786273002000
+    }
+  },
+  {
     "id": "fagne-4577004",
     "company": "Fagne",
     "type": "planned",
