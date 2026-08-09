@@ -138,6 +138,29 @@
     }
   },
   {
+    "id": "elvia-27951",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.246786838237696,
+    "lng": 11.1909410226385,
+    "start": "9.8.2026, 19:01:33",
+    "end": "9.8.2026, 22:37:33",
+    "areaName": "Sarpsborg / Klavestadhaugen / X0885",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27951,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0885",
+      "poststed": "Klavestadhaugen",
+      "strombruddoppdaget": 1786302093000,
+      "utkoblingslutt": 1786315053000,
+      "utkoblingstart": 1786302093000
+    }
+  },
+  {
     "id": "linja-planned-3373057",
     "company": "Linja",
     "type": "planned",
