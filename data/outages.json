@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-9987",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.90592657117042,
-    "lng": 10.47149878388343,
-    "start": "10.8.2026, 14:26:16",
-    "end": "10.8.2026, 18:02:16",
-    "areaName": "Bærum / Vøyenenga / B0983",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9987,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0983",
-      "poststed": "Vøyenenga",
-      "strombruddoppdaget": 1786371976000,
-      "utkoblingslutt": 1786384936000,
-      "utkoblingstart": 1786371976000
-    }
-  },
-  {
     "id": "elvia-18301",
     "company": "Elvia",
     "type": "planned",
@@ -164,9 +141,9 @@
     "id": "fagne-4579120",
     "company": "Fagne",
     "type": "outage",
-    "customers": 26,
-    "lat": 59.554980586441275,
-    "lng": 6.629031500432758,
+    "customers": 24,
+    "lat": 59.55503320397048,
+    "lng": 6.62791179668378,
     "start": "8.10.2026, 07:35:00",
     "end": "8.10.2026, 18:00:00",
     "areaName": "SULDAL",
