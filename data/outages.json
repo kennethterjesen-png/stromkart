@@ -64,38 +64,6 @@
     }
   },
   {
-    "id": "bkk-2",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.27269899403024,
-    "lng": 5.223648541155713,
-    "start": null,
-    "end": null,
-    "areaName": "Ukjent område",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9810555,
-      "MUNICIPAL_TXT": null,
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786341600000,
-      "TIMELIMIT": 1786356000000,
-      "NUM_AB": 3,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1786342365000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-192",
     "company": "Elvia",
     "type": "planned",
@@ -257,29 +225,6 @@
     }
   },
   {
-    "id": "elvia-16523",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 60.549863689574245,
-    "lng": 12.023284636079024,
-    "start": "10.8.2026, 06:00:00",
-    "end": "11.8.2026, 13:00:00",
-    "areaName": "Åsnes / Arneberg / ENS06672",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16523,
-      "antallkunder": 7,
-      "avbruddstype": "Planned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS06672",
-      "poststed": "Arneberg",
-      "strombruddoppdaget": 1786341871150,
-      "utkoblingslutt": 1786453200000,
-      "utkoblingstart": 1786341600000
-    }
-  },
-  {
     "id": "elvia-16534",
     "company": "Elvia",
     "type": "planned",
@@ -395,29 +340,6 @@
     }
   },
   {
-    "id": "elvia-18199",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.040863002200915,
-    "lng": 12.036000865425407,
-    "start": "10.8.2026, 07:20:54",
-    "end": "10.8.2026, 10:56:54",
-    "areaName": "Eidskog / Skotterud / ENS09186",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18199,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidskog",
-      "nettstasjon": "ENS09186",
-      "poststed": "Skotterud",
-      "strombruddoppdaget": 1786346454000,
-      "utkoblingslutt": 1786359414000,
-      "utkoblingstart": 1786346454000
-    }
-  },
-  {
     "id": "elvia-18773",
     "company": "Elvia",
     "type": "planned",
@@ -438,29 +360,6 @@
       "strombruddoppdaget": 1786346589000,
       "utkoblingslutt": 1786359549000,
       "utkoblingstart": 1786346589000
-    }
-  },
-  {
-    "id": "elvia-18995",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.14725529072716,
-    "lng": 11.694123118664594,
-    "start": "10.8.2026, 07:57:48",
-    "end": "10.8.2026, 11:33:48",
-    "areaName": "Sør-Odal / Disenå / ENS10367",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18995,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS10367",
-      "poststed": "Disenå",
-      "strombruddoppdaget": 1786348668000,
-      "utkoblingslutt": 1786361628000,
-      "utkoblingstart": 1786348668000
     }
   },
   {
@@ -510,26 +409,26 @@
     }
   },
   {
-    "id": "elvia-20437",
+    "id": "elvia-21723",
     "company": "Elvia",
     "type": "planned",
-    "customers": 9,
-    "lat": 60.55040151839253,
-    "lng": 12.015566199678288,
-    "start": "10.8.2026, 06:00:00",
-    "end": "11.8.2026, 13:00:00",
-    "areaName": "Åsnes / Arneberg / ENS12649",
+    "customers": 6,
+    "lat": 60.49422197374825,
+    "lng": 11.051564482857609,
+    "start": "10.8.2026, 08:39:16",
+    "end": "10.8.2026, 12:15:16",
+    "areaName": "Hurdal / Hurdal / H0129",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 20437,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS12649",
-      "poststed": "Arneberg",
-      "strombruddoppdaget": 1786341871150,
-      "utkoblingslutt": 1786453200000,
-      "utkoblingstart": 1786341600000
+      "OBJECTID": 21723,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Hurdal",
+      "nettstasjon": "H0129",
+      "poststed": "Hurdal",
+      "strombruddoppdaget": 1786351156000,
+      "utkoblingslutt": 1786364116000,
+      "utkoblingstart": 1786351156000
     }
   },
   {
@@ -553,6 +452,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1786366800000,
       "utkoblingstart": 1786345200000
+    }
+  },
+  {
+    "id": "elvia-27943",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.24331424844333,
+    "lng": 11.15927126209294,
+    "start": "10.8.2026, 08:52:49",
+    "end": "10.8.2026, 12:28:49",
+    "areaName": "Sarpsborg / Skjeberg / X0877",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27943,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0877",
+      "poststed": "Skjeberg",
+      "strombruddoppdaget": 1786351969000,
+      "utkoblingslutt": 1786364929000,
+      "utkoblingstart": 1786351969000
     }
   },
   {
@@ -582,9 +504,9 @@
     "id": "fagne-4578700",
     "company": "Fagne",
     "type": "outage",
-    "customers": 167,
-    "lat": 59.52872026783762,
-    "lng": 5.826571591223122,
+    "customers": 71,
+    "lat": 59.50135983968462,
+    "lng": 5.763951379058781,
     "start": "8.10.2026, 06:40:00",
     "end": "8.10.2026, 09:30:00",
     "areaName": "VINDAFJORD",
@@ -595,6 +517,30 @@
       "municipal": "VINDAFJORD",
       "typeTxt": "Driftsforstyrrelse",
       "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "linja-outage-3373061",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 9,
+    "lat": 62.53710032021023,
+    "lng": 6.02568932487114,
+    "start": "10.8.2026, 09:30:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3373061,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Synnesvegen mandag 10. august mellom kl.11:30 og 14:30",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786354200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GISKE",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 0,
+      "NUM_AB": 9
     }
   },
   {
@@ -1102,6 +1048,23 @@
     }
   },
   {
+    "id": "lnett-outage-1",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 75,
+    "lat": 58.84946334949903,
+    "lng": 5.73235590640333,
+    "start": "10.8.2026, 11:12:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 75",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-10 11:12\n11:12 Graveskade - Feilretting pågår",
+      "styleUrl": "#red"
+    }
+  },
+  {
     "id": "norgesnett-planned-V-2892-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1354,6 +1317,34 @@
     }
   },
   {
+    "id": "norgesnett-planned-V-2897-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 23,
+    "lat": 59.80186134899998,
+    "lng": 10.612788522000017,
+    "start": "14.8.2026, 07:00:00",
+    "end": "14.8.2026, 13:00:00",
+    "areaName": "NYSTUEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218802,
+      "REFNR": "PL2897",
+      "SEKUNDÆRSTASJON": "NYSTUEN",
+      "AVGANG": "L9",
+      "CNT": 23,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1786690800000,
+      "TIL_DATO": 1786712400000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2897-1",
+      "description": ""
+    }
+  },
+  {
     "id": "norgesnett-planned-V-70856-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1378,34 +1369,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70856-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2889-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 6,
-    "lat": 59.72213048100002,
-    "lng": 10.845202844000028,
-    "start": "10.8.2026, 07:02:09",
-    "end": "10.8.2026, 13:00:00",
-    "areaName": "DRØMTORP",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218706,
-      "REFNR": "PL2889",
-      "SEKUNDÆRSTASJON": "DRØMTORP",
-      "AVGANG": "L15",
-      "CNT": 6,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1786345329000,
-      "TIL_DATO": 1786366800000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2889-1",
       "description": ""
     }
   }
