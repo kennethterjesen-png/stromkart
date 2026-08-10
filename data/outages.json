@@ -1,163 +1,25 @@
 [
   {
-    "id": "elvia-5905",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.87085456232051,
-    "lng": 10.757975025386406,
-    "start": "10.8.2026, 06:30:00",
-    "end": "10.8.2026, 12:00:00",
-    "areaName": "Oslo / Oslo / 0346",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5905,
-      "antallkunder": 10,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0346",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786363200000,
-      "utkoblingstart": 1786343400000
-    }
-  },
-  {
-    "id": "elvia-8942",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 19,
-    "lat": 59.94095612842496,
-    "lng": 10.688740092482357,
-    "start": "10.8.2026, 06:00:00",
-    "end": "10.8.2026, 13:30:00",
-    "areaName": "Oslo / Oslo / 4927",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8942,
-      "antallkunder": 19,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "4927",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786368600000,
-      "utkoblingstart": 1786341600000
-    }
-  },
-  {
-    "id": "elvia-9387",
+    "id": "elvia-8646",
     "company": "Elvia",
     "type": "planned",
     "customers": 11,
-    "lat": 59.98853397460032,
-    "lng": 11.726718302778586,
-    "start": "10.8.2026, 08:11:47",
-    "end": "10.8.2026, 11:56:47",
-    "areaName": "Aurskog-Høland / Aurskog / A1122",
+    "lat": 59.94528494838056,
+    "lng": 10.887836766951972,
+    "start": "10.8.2026, 13:10:01",
+    "end": "10.8.2026, 16:46:01",
+    "areaName": "Oslo / Oslo / 4483",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 9387,
+      "OBJECTID": 8646,
       "antallkunder": 11,
       "avbruddstype": "Unplanned",
-      "kommune": "Aurskog-Høland",
-      "nettstasjon": "A1122",
-      "poststed": "Aurskog",
-      "strombruddoppdaget": 1786349507631,
-      "utkoblingslutt": 1786363007000,
-      "utkoblingstart": 1786349507631
-    }
-  },
-  {
-    "id": "elvia-9388",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.99283895807627,
-    "lng": 11.756606685886258,
-    "start": "10.8.2026, 08:11:47",
-    "end": "10.8.2026, 11:56:47",
-    "areaName": "Aurskog-Høland / Aurskog / A1125",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9388,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Aurskog-Høland",
-      "nettstasjon": "A1125",
-      "poststed": "Aurskog",
-      "strombruddoppdaget": 1786349507631,
-      "utkoblingslutt": 1786363007000,
-      "utkoblingstart": 1786349507631
-    }
-  },
-  {
-    "id": "elvia-9389",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.99083226188022,
-    "lng": 11.77437316996535,
-    "start": "10.8.2026, 08:11:47",
-    "end": "10.8.2026, 11:56:47",
-    "areaName": "Aurskog-Høland / Aurskog / A1130",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9389,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Aurskog-Høland",
-      "nettstasjon": "A1130",
-      "poststed": "Aurskog",
-      "strombruddoppdaget": 1786349507631,
-      "utkoblingslutt": 1786363007000,
-      "utkoblingstart": 1786349507631
-    }
-  },
-  {
-    "id": "elvia-9390",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.99710821232396,
-    "lng": 11.773847354469881,
-    "start": "10.8.2026, 08:11:47",
-    "end": "10.8.2026, 11:56:47",
-    "areaName": "Aurskog-Høland / Aurskog / A1134",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9390,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Aurskog-Høland",
-      "nettstasjon": "A1134",
-      "poststed": "Aurskog",
-      "strombruddoppdaget": 1786349507631,
-      "utkoblingslutt": 1786363007000,
-      "utkoblingstart": 1786349507631
-    }
-  },
-  {
-    "id": "elvia-11999",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.335916753507824,
-    "lng": 11.303391547500322,
-    "start": "9.8.2026, 21:00:44",
-    "end": "10.8.2026, 00:36:44",
-    "areaName": "Eidsvoll / Eidsvoll / E0438",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11999,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0438",
-      "poststed": "Eidsvoll",
-      "strombruddoppdaget": 1786309244000,
-      "utkoblingslutt": 1786322204000,
-      "utkoblingstart": 1786309244000
+      "kommune": "Oslo",
+      "nettstasjon": "4483",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1786367401000,
+      "utkoblingslutt": 1786380361000,
+      "utkoblingstart": 1786367401000
     }
   },
   {
@@ -181,94 +43,6 @@
       "strombruddoppdaget": 1786364307626,
       "utkoblingslutt": 1786377807000,
       "utkoblingstart": 1786364307626
-    }
-  },
-  {
-    "id": "elvia-20322",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 61.34990131623749,
-    "lng": 11.01297058037862,
-    "start": "7.8.2026, 09:16:47",
-    "end": "7.8.2026, 12:52:47",
-    "areaName": "Stor-Elvdal / Koppang / ENS12433",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20322,
-      "antallkunder": 16,
-      "avbruddstype": "Unplanned",
-      "kommune": "Stor-Elvdal",
-      "nettstasjon": "ENS12433",
-      "poststed": "Koppang",
-      "strombruddoppdaget": 1786094207000,
-      "utkoblingslutt": 1786107167000,
-      "utkoblingstart": 1786094207000
-    }
-  },
-  {
-    "id": "elvia-21723",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.49422197374825,
-    "lng": 11.051564482857609,
-    "start": "10.8.2026, 08:39:16",
-    "end": "10.8.2026, 12:15:16",
-    "areaName": "Hurdal / Hurdal / H0129",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21723,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Hurdal",
-      "nettstasjon": "H0129",
-      "poststed": "Hurdal",
-      "strombruddoppdaget": 1786351156000,
-      "utkoblingslutt": 1786364116000,
-      "utkoblingstart": 1786351156000
-    }
-  },
-  {
-    "id": "elvia-26882",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.50595715350735,
-    "lng": 11.629011247876672,
-    "start": "10.8.2026, 10:12:28",
-    "end": "10.8.2026, 13:48:28",
-    "areaName": "Marker / Ørje / W0189",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26882,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Marker",
-      "nettstasjon": "W0189",
-      "poststed": "Ørje",
-      "strombruddoppdaget": 1786356748000,
-      "utkoblingslutt": 1786369708000,
-      "utkoblingstart": 1786356748000
-    }
-  },
-  {
-    "id": "fagne-4578700",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 113,
-    "lat": 59.514370906665434,
-    "lng": 5.795620234106694,
-    "start": "8.10.2026, 06:40:00",
-    "end": "8.10.2026, 13:00:00",
-    "areaName": "VINDAFJORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "VINDAFJORD",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
@@ -776,20 +550,20 @@
     }
   },
   {
-    "id": "lnett-outage-1",
+    "id": "lnett-planned-1",
     "company": "Lnett",
-    "type": "outage",
-    "customers": 97,
-    "lat": 58.849655515620455,
-    "lng": 5.7319584404147985,
-    "start": "10.8.2026, 11:12:00",
+    "type": "planned",
+    "customers": 13,
+    "lat": 59.07381322431556,
+    "lng": 5.765743061606312,
+    "start": "10.8.2026, 14:31:00",
     "end": null,
-    "areaName": "Driftsforstyrrelse",
+    "areaName": "Planlagt vedlikehold",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 97",
-      "description": "Driftsforstyrrelse\nStartet: 2026-08-10 11:12\n11:12 Graveskade - Feilretting pågår\n12:10 Skadeomfang er større enn forventet, strømstans for feilretting er estimert 12:30 - 15:00.\n12:16 Kunder i Kanalgata 8 vil fortsatt være uten strøm etter strømstansen. Vi jobber så raskt som mulig, men har foreløpig ikke estimert rettetid.",
-      "styleUrl": "#red"
+      "name": "Berørte kunder: 13",
+      "description": "Planlagt strømstans\nStartet: 2026-08-10 14:31",
+      "styleUrl": "#yellow"
     }
   },
   {
