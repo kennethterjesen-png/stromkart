@@ -69,25 +69,6 @@
     }
   },
   {
-    "id": "fagne-4581100",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 5,
-    "lat": 59.56104748030583,
-    "lng": 6.607639755735828,
-    "start": "8.10.2026, 11:56:00",
-    "end": "8.10.2026, 15:00:00",
-    "areaName": "SVEIO",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SVEIO",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "fagne-4579120",
     "company": "Fagne",
     "type": "outage",
@@ -102,6 +83,25 @@
       "description": "",
       "state": "Pågående",
       "municipal": "SULDAL",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "fagne-4581100",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 5,
+    "lat": 59.56104748030583,
+    "lng": 6.607639755735828,
+    "start": "8.10.2026, 11:56:00",
+    "end": "8.10.2026, 15:00:00",
+    "areaName": "SVEIO",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "SVEIO",
       "typeTxt": "Driftsforstyrrelse",
       "issueStateChangeEmail": ""
     }
