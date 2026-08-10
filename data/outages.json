@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-192",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 60.024843815802605,
-    "lng": 10.688206804837975,
-    "start": "10.8.2026, 06:00:00",
-    "end": "10.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 0889",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 192,
-      "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0889",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786343139771,
-      "utkoblingslutt": 1786366800000,
-      "utkoblingstart": 1786341600000
-    }
-  },
-  {
     "id": "elvia-2673",
     "company": "Elvia",
     "type": "planned",
@@ -115,6 +92,29 @@
     }
   },
   {
+    "id": "elvia-7113",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.957952674991375,
+    "lng": 10.760599031617943,
+    "start": "10.8.2026, 10:55:28",
+    "end": "10.8.2026, 14:31:28",
+    "areaName": "Oslo / Oslo / 2127",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7113,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "2127",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1786359328000,
+      "utkoblingslutt": 1786372288000,
+      "utkoblingstart": 1786359328000
+    }
+  },
+  {
     "id": "elvia-7846",
     "company": "Elvia",
     "type": "planned",
@@ -158,6 +158,98 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1786368600000,
       "utkoblingstart": 1786341600000
+    }
+  },
+  {
+    "id": "elvia-9387",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.98853397460032,
+    "lng": 11.726718302778586,
+    "start": "10.8.2026, 08:11:47",
+    "end": "10.8.2026, 11:56:47",
+    "areaName": "Aurskog-Høland / Aurskog / A1122",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9387,
+      "antallkunder": 11,
+      "avbruddstype": "Unplanned",
+      "kommune": "Aurskog-Høland",
+      "nettstasjon": "A1122",
+      "poststed": "Aurskog",
+      "strombruddoppdaget": 1786349507631,
+      "utkoblingslutt": 1786363007000,
+      "utkoblingstart": 1786349507631
+    }
+  },
+  {
+    "id": "elvia-9388",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.99283895807627,
+    "lng": 11.756606685886258,
+    "start": "10.8.2026, 08:11:47",
+    "end": "10.8.2026, 11:56:47",
+    "areaName": "Aurskog-Høland / Aurskog / A1125",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9388,
+      "antallkunder": 3,
+      "avbruddstype": "Unplanned",
+      "kommune": "Aurskog-Høland",
+      "nettstasjon": "A1125",
+      "poststed": "Aurskog",
+      "strombruddoppdaget": 1786349507631,
+      "utkoblingslutt": 1786363007000,
+      "utkoblingstart": 1786349507631
+    }
+  },
+  {
+    "id": "elvia-9389",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.99083226188022,
+    "lng": 11.77437316996535,
+    "start": "10.8.2026, 08:11:47",
+    "end": "10.8.2026, 11:56:47",
+    "areaName": "Aurskog-Høland / Aurskog / A1130",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9389,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Aurskog-Høland",
+      "nettstasjon": "A1130",
+      "poststed": "Aurskog",
+      "strombruddoppdaget": 1786349507631,
+      "utkoblingslutt": 1786363007000,
+      "utkoblingstart": 1786349507631
+    }
+  },
+  {
+    "id": "elvia-9390",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.99710821232396,
+    "lng": 11.773847354469881,
+    "start": "10.8.2026, 08:11:47",
+    "end": "10.8.2026, 11:56:47",
+    "areaName": "Aurskog-Høland / Aurskog / A1134",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9390,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Aurskog-Høland",
+      "nettstasjon": "A1134",
+      "poststed": "Aurskog",
+      "strombruddoppdaget": 1786349507631,
+      "utkoblingslutt": 1786363007000,
+      "utkoblingstart": 1786349507631
     }
   },
   {
@@ -437,29 +529,6 @@
     }
   },
   {
-    "id": "elvia-27943",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.24331424844333,
-    "lng": 11.15927126209294,
-    "start": "10.8.2026, 08:52:49",
-    "end": "10.8.2026, 12:28:49",
-    "areaName": "Sarpsborg / Skjeberg / X0877",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27943,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0877",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1786351969000,
-      "utkoblingslutt": 1786364929000,
-      "utkoblingstart": 1786351969000
-    }
-  },
-  {
     "id": "fagne-4578700",
     "company": "Fagne",
     "type": "outage",
@@ -476,30 +545,6 @@
       "municipal": "VINDAFJORD",
       "typeTxt": "Driftsforstyrrelse",
       "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "linja-outage-3373061",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 9,
-    "lat": 62.53710032021023,
-    "lng": 6.02568932487114,
-    "start": "10.8.2026, 09:30:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3373061,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Synnesvegen mandag 10. august mellom kl.11:30 og 14:30",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786354200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GISKE",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 0,
-      "NUM_AB": 9
     }
   },
   {
@@ -522,6 +567,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "FJORD",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3378844",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.43042232894865,
+    "lng": 6.768102564594459,
+    "start": "12.8.2026, 06:30:00",
+    "end": null,
+    "areaName": "SYKKYLVEN / Sykkylven",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3378844,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i straumnettetblir det straumstans for kunder i område Klokkstranda. Berørte kunder er varsla.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1786516200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Sykkylven",
+      "MUNICIPAL_TXT": "SYKKYLVEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
