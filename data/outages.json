@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-6389",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.92434132797076,
+    "lng": 10.714080518359722,
+    "start": "10.8.2026, 22:01:00",
+    "end": "11.8.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 1040",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6389,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1040",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1786420800000,
+      "utkoblingstart": 1786399260000
+    }
+  },
+  {
     "id": "linja-planned-3377596",
     "company": "Linja",
     "type": "planned",
