@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-26599",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.55763633617116,
-    "lng": 10.732415297323586,
-    "start": "10.8.2026, 16:37:02",
-    "end": "10.8.2026, 20:13:02",
-    "areaName": "Vestby / Vestby / V0259",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26599,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Vestby",
-      "nettstasjon": "V0259",
-      "poststed": "Vestby",
-      "strombruddoppdaget": 1786379822000,
-      "utkoblingslutt": 1786392782000,
-      "utkoblingstart": 1786379822000
-    }
-  },
-  {
     "id": "linja-planned-3377596",
     "company": "Linja",
     "type": "planned",
