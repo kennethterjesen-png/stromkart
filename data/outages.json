@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-18230",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.97269331039367,
+    "lng": 12.051308927095384,
+    "start": "10.8.2026, 03:58:46",
+    "end": "10.8.2026, 07:34:46",
+    "areaName": "Eidskog / Tobøl / ENS09224",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 18230,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidskog",
+      "nettstasjon": "ENS09224",
+      "poststed": "Tobøl",
+      "strombruddoppdaget": 1786334326000,
+      "utkoblingslutt": 1786347286000,
+      "utkoblingstart": 1786334326000
+    }
+  },
+  {
     "id": "elvia-20322",
     "company": "Elvia",
     "type": "planned",
@@ -43,30 +66,6 @@
       "strombruddoppdaget": 1786094207000,
       "utkoblingslutt": 1786107167000,
       "utkoblingstart": 1786094207000
-    }
-  },
-  {
-    "id": "linja-planned-3373057",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.582618132769895,
-    "lng": 6.124510873793803,
-    "start": "10.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3373057,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Postvegen mandag 10.august mellom kl.08:00 og kl.11:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1786341600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
     }
   },
   {
