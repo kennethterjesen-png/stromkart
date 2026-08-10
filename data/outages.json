@@ -1,25 +1,48 @@
 [
   {
-    "id": "elvia-8646",
+    "id": "elvia-7475",
     "company": "Elvia",
     "type": "planned",
-    "customers": 11,
-    "lat": 59.94528494838056,
-    "lng": 10.887836766951972,
-    "start": "10.8.2026, 13:10:01",
-    "end": "10.8.2026, 16:46:01",
-    "areaName": "Oslo / Oslo / 4483",
+    "customers": 9,
+    "lat": 59.957112213131886,
+    "lng": 10.675508839187625,
+    "start": "10.8.2026, 14:13:36",
+    "end": "10.8.2026, 17:49:36",
+    "areaName": "Oslo / Oslo / 2641",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 8646,
-      "antallkunder": 11,
+      "OBJECTID": 7475,
+      "antallkunder": 9,
       "avbruddstype": "Unplanned",
       "kommune": "Oslo",
-      "nettstasjon": "4483",
+      "nettstasjon": "2641",
       "poststed": "Oslo",
-      "strombruddoppdaget": 1786367401000,
-      "utkoblingslutt": 1786380361000,
-      "utkoblingstart": 1786367401000
+      "strombruddoppdaget": 1786371216000,
+      "utkoblingslutt": 1786384176000,
+      "utkoblingstart": 1786371216000
+    }
+  },
+  {
+    "id": "elvia-9987",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 14,
+    "lat": 59.90592657117042,
+    "lng": 10.47149878388343,
+    "start": "10.8.2026, 14:26:16",
+    "end": "10.8.2026, 18:02:16",
+    "areaName": "Bærum / Vøyenenga / B0983",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9987,
+      "antallkunder": 14,
+      "avbruddstype": "Unplanned",
+      "kommune": "Bærum",
+      "nettstasjon": "B0983",
+      "poststed": "Vøyenenga",
+      "strombruddoppdaget": 1786371976000,
+      "utkoblingslutt": 1786384936000,
+      "utkoblingstart": 1786371976000
     }
   },
   {
@@ -43,6 +66,44 @@
       "strombruddoppdaget": 1786364307626,
       "utkoblingslutt": 1786377807000,
       "utkoblingstart": 1786364307626
+    }
+  },
+  {
+    "id": "fagne-4581100",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 5,
+    "lat": 59.56104748030583,
+    "lng": 6.607639755735828,
+    "start": "8.10.2026, 11:56:00",
+    "end": "8.10.2026, 15:00:00",
+    "areaName": "SVEIO",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "SVEIO",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "fagne-4579120",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 21,
+    "lat": 59.55358002683118,
+    "lng": 6.6339669720432894,
+    "start": "8.10.2026, 07:35:00",
+    "end": "8.10.2026, 18:00:00",
+    "areaName": "SULDAL",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "SULDAL",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
@@ -547,23 +608,6 @@
       "MUNICIPAL_TXT": "EID",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-1",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.07381322431556,
-    "lng": 5.765743061606312,
-    "start": "10.8.2026, 14:31:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 13",
-      "description": "Planlagt strømstans\nStartet: 2026-08-10 14:31",
-      "styleUrl": "#yellow"
     }
   },
   {
