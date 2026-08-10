@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-7475",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.957112213131886,
-    "lng": 10.675508839187625,
-    "start": "10.8.2026, 14:13:36",
-    "end": "10.8.2026, 17:49:36",
-    "areaName": "Oslo / Oslo / 2641",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7475,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2641",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786371216000,
-      "utkoblingslutt": 1786384176000,
-      "utkoblingstart": 1786371216000
-    }
-  },
-  {
     "id": "elvia-18301",
     "company": "Elvia",
     "type": "planned",
@@ -135,25 +112,6 @@
       "strombruddoppdaget": 1786379822000,
       "utkoblingslutt": 1786392782000,
       "utkoblingstart": 1786379822000
-    }
-  },
-  {
-    "id": "fagne-4579120",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 24,
-    "lat": 59.55503320397048,
-    "lng": 6.62791179668378,
-    "start": "8.10.2026, 07:35:00",
-    "end": "8.10.2026, 18:00:00",
-    "areaName": "SULDAL",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SULDAL",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
