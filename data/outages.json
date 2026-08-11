@@ -147,121 +147,6 @@
     }
   },
   {
-    "id": "elvia-9836",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 43,
-    "lat": 59.96785458176593,
-    "lng": 10.48133179111075,
-    "start": "11.8.2026, 06:00:00",
-    "end": "11.8.2026, 13:00:00",
-    "areaName": "Bærum / Lommedalen / B0719",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9836,
-      "antallkunder": 43,
-      "avbruddstype": "Planned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0719",
-      "poststed": "Lommedalen",
-      "strombruddoppdaget": 1786428136431,
-      "utkoblingslutt": 1786453200000,
-      "utkoblingstart": 1786428000000
-    }
-  },
-  {
-    "id": "elvia-9837",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 59.970272332154664,
-    "lng": 10.489205547639767,
-    "start": "11.8.2026, 06:00:00",
-    "end": "11.8.2026, 13:00:00",
-    "areaName": "Bærum / Lommedalen / B0727",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9837,
-      "antallkunder": 16,
-      "avbruddstype": "Planned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0727",
-      "poststed": "Lommedalen",
-      "strombruddoppdaget": 1786428136431,
-      "utkoblingslutt": 1786453200000,
-      "utkoblingstart": 1786428000000
-    }
-  },
-  {
-    "id": "elvia-11306",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 21,
-    "lat": 59.81577385082737,
-    "lng": 10.426204584000597,
-    "start": "11.8.2026, 06:30:00",
-    "end": "11.8.2026, 12:30:00",
-    "areaName": "Asker / Borgen / D0412",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11306,
-      "antallkunder": 21,
-      "avbruddstype": "Planned",
-      "kommune": "Asker",
-      "nettstasjon": "D0412",
-      "poststed": "Borgen",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786451400000,
-      "utkoblingstart": 1786429800000
-    }
-  },
-  {
-    "id": "elvia-11451",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.816948334345184,
-    "lng": 10.429160038428494,
-    "start": "11.8.2026, 06:30:00",
-    "end": "11.8.2026, 12:30:00",
-    "areaName": "Asker / Borgen / D0622",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11451,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Asker",
-      "nettstasjon": "D0622",
-      "poststed": "Borgen",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786451400000,
-      "utkoblingstart": 1786429800000
-    }
-  },
-  {
-    "id": "elvia-11721",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.29765257520595,
-    "lng": 11.144581180287,
-    "start": "11.8.2026, 06:00:00",
-    "end": "11.8.2026, 08:00:00",
-    "areaName": "Eidsvoll / Eidsvoll verk / E0074",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11721,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0074",
-      "poststed": "Eidsvoll verk",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786435200000,
-      "utkoblingstart": 1786428000000
-    }
-  },
-  {
     "id": "elvia-13152",
     "company": "Elvia",
     "type": "planned",
@@ -308,49 +193,22 @@
     }
   },
   {
-    "id": "elvia-17717",
-    "company": "Elvia",
+    "id": "fagne-4569277",
+    "company": "Fagne",
     "type": "planned",
-    "customers": 19,
-    "lat": 61.14080080989934,
-    "lng": 11.36691005493346,
-    "start": "11.8.2026, 07:00:00",
-    "end": "11.8.2026, 11:00:00",
-    "areaName": "Åmot / Rena / ENS08438",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "customers": 22,
+    "lat": 59.51103151823196,
+    "lng": 5.489118352766935,
+    "start": "8.11.2026, 09:30:00",
+    "end": "8.11.2026, 12:30:00",
+    "areaName": "VINDAFJORD",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
-      "OBJECTID": 17717,
-      "antallkunder": 19,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS08438",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786431715636,
-      "utkoblingslutt": 1786446000000,
-      "utkoblingstart": 1786431600000
-    }
-  },
-  {
-    "id": "elvia-21560",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 27,
-    "lat": 59.793540042506635,
-    "lng": 11.262096888813383,
-    "start": "11.8.2026, 06:00:00",
-    "end": "11.8.2026, 09:00:00",
-    "areaName": "Lillestrøm / Enebakkneset / F5040",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21560,
-      "antallkunder": 27,
-      "avbruddstype": "Planned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "F5040",
-      "poststed": "Enebakkneset",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786438800000,
-      "utkoblingstart": 1786428000000
+      "description": "",
+      "state": "Pågående",
+      "municipal": "VINDAFJORD",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
     }
   },
   {
@@ -413,6 +271,30 @@
       "PURCHAREA_TXT": "Linja Nord",
       "NUM_NS": 0,
       "NUM_AB": 11
+    }
+  },
+  {
+    "id": "linja-outage-3373065",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 5,
+    "lat": 62.532221981376594,
+    "lng": 6.125965473081902,
+    "start": "11.8.2026, 09:30:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3373065,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gjøsund tirsdag 11. august mellom kl.11:30 og 14:30",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786440600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GISKE",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 0,
+      "NUM_AB": 5
     }
   },
   {
