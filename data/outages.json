@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-9351",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.9181716206388,
-    "lng": 11.449983090593594,
-    "start": "11.8.2026, 15:00:54",
-    "end": "11.8.2026, 18:36:54",
-    "areaName": "Aurskog-Høland / Aurskog / A0032",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9351,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Aurskog-Høland",
-      "nettstasjon": "A0032",
-      "poststed": "Aurskog",
-      "strombruddoppdaget": 1786460454000,
-      "utkoblingslutt": 1786473414000,
-      "utkoblingstart": 1786460454000
-    }
-  },
-  {
     "id": "elvia-18414",
     "company": "Elvia",
     "type": "planned",
@@ -521,30 +498,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ØRSTA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3373069",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.55538788271625,
-    "lng": 6.073955435850368,
-    "start": "11.8.2026, 19:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3373069,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Vikevegen tirsdag 11. august mellom kl.21:00 og onsdag 12. august kl.00:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1786474800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 384,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
