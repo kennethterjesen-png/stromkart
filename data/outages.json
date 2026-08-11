@@ -92,29 +92,6 @@
     }
   },
   {
-    "id": "elvia-11988",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 60.2510432723013,
-    "lng": 11.21340604040915,
-    "start": "11.8.2026, 10:08:41",
-    "end": "11.8.2026, 13:44:41",
-    "areaName": "Eidsvoll / Dal / E0420",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11988,
-      "antallkunder": 18,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0420",
-      "poststed": "Dal",
-      "strombruddoppdaget": 1786442921000,
-      "utkoblingslutt": 1786455881000,
-      "utkoblingstart": 1786442921000
-    }
-  },
-  {
     "id": "linja-outage-3377400",
     "company": "Linja",
     "type": "outage",
@@ -719,6 +696,34 @@
     }
   },
   {
+    "id": "norgesnett-planned-V-2898-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.80339155299998,
+    "lng": 10.683486421999987,
+    "start": "17.8.2026, 07:00:00",
+    "end": "17.8.2026, 13:00:00",
+    "areaName": "NYSTUEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218818,
+      "REFNR": "PL2898",
+      "SEKUNDÆRSTASJON": "NYSTUEN",
+      "AVGANG": "L8",
+      "CNT": 5,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1786950000000,
+      "TIL_DATO": 1786971600000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2898-1",
+      "description": ""
+    }
+  },
+  {
     "id": "norgesnett-planned-V-2891-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -855,34 +860,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70856-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2890-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 29,
-    "lat": 60.409522200000026,
-    "lng": 5.189333022000028,
-    "start": "11.8.2026, 07:01:43",
-    "end": "11.8.2026, 12:30:00",
-    "areaName": "KLEPPE",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218722,
-      "REFNR": "PL2890",
-      "SEKUNDÆRSTASJON": "KLEPPE",
-      "AVGANG": "ASKØY SENTER",
-      "CNT": 29,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1786431703000,
-      "TIL_DATO": 1786451400000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2890-1",
       "description": ""
     }
   }
