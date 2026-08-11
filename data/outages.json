@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-5356",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.35515024322905,
-    "lng": 10.74883611953166,
-    "start": "11.8.2026, 07:30:00",
-    "end": "11.8.2026, 13:00:00",
-    "areaName": "Moss / Rygge / Y0276",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5356,
-      "antallkunder": 3,
-      "avbruddstype": "Planned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0276",
-      "poststed": "Rygge",
-      "strombruddoppdaget": 1786433618253,
-      "utkoblingslutt": 1786453200000,
-      "utkoblingstart": 1786433400000
-    }
-  },
-  {
     "id": "elvia-5751",
     "company": "Elvia",
     "type": "planned",
@@ -147,49 +124,26 @@
     }
   },
   {
-    "id": "elvia-13152",
+    "id": "elvia-11988",
     "company": "Elvia",
     "type": "planned",
-    "customers": 73,
-    "lat": 60.77324097656157,
-    "lng": 10.694366193647907,
-    "start": "11.8.2026, 06:00:00",
-    "end": "11.8.2026, 11:00:00",
-    "areaName": "Gjøvik / Gjøvik / ENS01429",
+    "customers": 18,
+    "lat": 60.2510432723013,
+    "lng": 11.21340604040915,
+    "start": "11.8.2026, 10:08:41",
+    "end": "11.8.2026, 13:44:41",
+    "areaName": "Eidsvoll / Dal / E0420",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 13152,
-      "antallkunder": 73,
-      "avbruddstype": "Planned",
-      "kommune": "Gjøvik",
-      "nettstasjon": "ENS01429",
-      "poststed": "Gjøvik",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786446000000,
-      "utkoblingstart": 1786428000000
-    }
-  },
-  {
-    "id": "elvia-16523",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 60.549863689574245,
-    "lng": 12.023284636079024,
-    "start": "10.8.2026, 06:00:00",
-    "end": "11.8.2026, 13:00:00",
-    "areaName": "Åsnes / Arneberg / ENS06672",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16523,
-      "antallkunder": 7,
-      "avbruddstype": "Planned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS06672",
-      "poststed": "Arneberg",
-      "strombruddoppdaget": 1786341871150,
-      "utkoblingslutt": 1786453200000,
-      "utkoblingstart": 1786341600000
+      "OBJECTID": 11988,
+      "antallkunder": 18,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidsvoll",
+      "nettstasjon": "E0420",
+      "poststed": "Dal",
+      "strombruddoppdaget": 1786442921000,
+      "utkoblingslutt": 1786455881000,
+      "utkoblingstart": 1786442921000
     }
   },
   {
@@ -207,44 +161,6 @@
       "description": "",
       "state": "Pågående",
       "municipal": "VINDAFJORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4565233",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.63038326148517,
-    "lng": 6.256969040151969,
-    "start": "8.11.2026, 06:30:00",
-    "end": "8.11.2026, 12:00:00",
-    "areaName": "SAUDA",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SAUDA",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4576944",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.442642548489616,
-    "lng": 5.285148585975877,
-    "start": "8.11.2026, 07:00:00",
-    "end": "8.11.2026, 12:00:00",
-    "areaName": "HAUGESUND",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "HAUGESUND",
       "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
     }
@@ -295,6 +211,30 @@
       "PURCHAREA_TXT": "Linja Nord",
       "NUM_NS": 0,
       "NUM_AB": 5
+    }
+  },
+  {
+    "id": "linja-outage-3375249",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 26,
+    "lat": 62.44476314634595,
+    "lng": 6.228942344477747,
+    "start": "11.8.2026, 10:00:00",
+    "end": null,
+    "areaName": "SULA / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3375249,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hansgjerdet tirsdag 11. august mellom kl.12:00 og 15:00",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786442400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "SULA",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 1,
+      "NUM_AB": 26
     }
   },
   {
