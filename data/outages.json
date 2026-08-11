@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-6389",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.92434132797076,
-    "lng": 10.714080518359722,
-    "start": "10.8.2026, 22:01:00",
-    "end": "11.8.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 1040",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6389,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "1040",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786420800000,
-      "utkoblingstart": 1786399260000
-    }
-  },
-  {
     "id": "elvia-8019",
     "company": "Elvia",
     "type": "planned",
@@ -209,30 +186,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "EID",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3377616",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.93778409000674,
-    "lng": 5.110035861080223,
-    "start": "11.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "KINN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3377616,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gate 6, Gate 5 og Skram Skule tirsdag 11.august  fra kl. 09:00 til 12:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1786431600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "KINN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
