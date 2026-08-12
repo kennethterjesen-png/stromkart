@@ -1,52 +1,5 @@
 [
   {
-    "id": "elvia-16502",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.54305377825585,
-    "lng": 11.905730903235886,
-    "start": "12.8.2026, 13:11:43",
-    "end": "12.8.2026, 16:47:43",
-    "areaName": "Åsnes / Arneberg / ENS06643",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16502,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS06643",
-      "poststed": "Arneberg",
-      "strombruddoppdaget": 1786540303000,
-      "utkoblingslutt": 1786553263000,
-      "utkoblingstart": 1786540303000
-    }
-  },
-  {
-    "id": "linja-outage-3381876",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 6,
-    "lat": 61.92979539119079,
-    "lng": 6.540233741107366,
-    "start": "12.8.2026, 12:02:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3381876,
-      "CUSTOMER_WEB_TEXT": "14:04 - Strømbrudd i område Kjøs, Holmøy, Sindre, Skrede. Feilsøking pågår. Rettetid er foreløbig ukjent. Montører på veg ut.\r\n\r\n14:25 - Alle fått strømmen tilbake med unntak av kunder på Sindre. Mulig trafohavari - Montører på veg for å sjekke.\r\n\r\n15:43 - Det må kobles til aggregat for kundene på Sindre. Det vil ta noen timer å få fraktet å satt opp dette. Nærmere tidspunkt kommer når vi vet mer.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786536120000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "VOLDA",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 1,
-      "NUM_AB": 6
-    }
-  },
-  {
     "id": "linja-planned-3379661",
     "company": "Linja",
     "type": "planned",
