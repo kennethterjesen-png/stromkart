@@ -110,29 +110,6 @@
     }
   },
   {
-    "id": "elvia-3929",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.8717355911065,
-    "lng": 10.975645098624423,
-    "start": "12.8.2026, 07:00:00",
-    "end": "12.8.2026, 13:00:00",
-    "areaName": "Lørenskog / Finstadjordet / L0039",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 3929,
-      "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0039",
-      "poststed": "Finstadjordet",
-      "strombruddoppdaget": 1786518232422,
-      "utkoblingslutt": 1786539600000,
-      "utkoblingstart": 1786518000000
-    }
-  },
-  {
     "id": "elvia-5998",
     "company": "Elvia",
     "type": "planned",
@@ -153,52 +130,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1786539600000,
       "utkoblingstart": 1786516200000
-    }
-  },
-  {
-    "id": "elvia-6068",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.94403081777808,
-    "lng": 10.784092890387061,
-    "start": "12.8.2026, 06:00:00",
-    "end": "12.8.2026, 12:00:00",
-    "areaName": "Oslo / Oslo / 0577",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6068,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0577",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786536000000,
-      "utkoblingstart": 1786514400000
-    }
-  },
-  {
-    "id": "elvia-7499",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 26,
-    "lat": 59.934476570666774,
-    "lng": 10.788195253591372,
-    "start": "12.8.2026, 08:13:54",
-    "end": "12.8.2026, 11:49:54",
-    "areaName": "Oslo / Oslo / 2668",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7499,
-      "antallkunder": 26,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2668",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786522434000,
-      "utkoblingslutt": 1786535394000,
-      "utkoblingstart": 1786522434000
     }
   },
   {
@@ -245,6 +176,29 @@
       "strombruddoppdaget": 1786521734000,
       "utkoblingslutt": 1786534694000,
       "utkoblingstart": 1786521734000
+    }
+  },
+  {
+    "id": "elvia-20570",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 11,
+    "lat": 60.9078588874807,
+    "lng": 10.872031117291296,
+    "start": "12.8.2026, 10:00:00",
+    "end": "12.8.2026, 13:00:00",
+    "areaName": "Ringsaker / Brumunddal / ENS12894",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20570,
+      "antallkunder": 11,
+      "avbruddstype": "Planned",
+      "kommune": "Ringsaker",
+      "nettstasjon": "ENS12894",
+      "poststed": "Brumunddal",
+      "strombruddoppdaget": 1786528870570,
+      "utkoblingslutt": 1786539600000,
+      "utkoblingstart": 1786528800000
     }
   },
   {
@@ -317,140 +271,6 @@
     }
   },
   {
-    "id": "elvia-22694",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.884186116030364,
-    "lng": 10.990655581756196,
-    "start": "12.8.2026, 07:00:00",
-    "end": "12.8.2026, 13:00:00",
-    "areaName": "Lørenskog / Finstadjordet / L0044",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22694,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0044",
-      "poststed": "Finstadjordet",
-      "strombruddoppdaget": 1786518232422,
-      "utkoblingslutt": 1786539600000,
-      "utkoblingstart": 1786518000000
-    }
-  },
-  {
-    "id": "elvia-22709",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.87764151059514,
-    "lng": 10.990811793461019,
-    "start": "12.8.2026, 07:00:00",
-    "end": "12.8.2026, 13:00:00",
-    "areaName": "Lørenskog / Finstadjordet / L0065",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22709,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0065",
-      "poststed": "Finstadjordet",
-      "strombruddoppdaget": 1786518232422,
-      "utkoblingslutt": 1786539600000,
-      "utkoblingstart": 1786518000000
-    }
-  },
-  {
-    "id": "elvia-22770",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.86969162126445,
-    "lng": 10.995706634985448,
-    "start": "12.8.2026, 07:00:00",
-    "end": "12.8.2026, 13:00:00",
-    "areaName": "Lørenskog / Finstadjordet / L0154",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22770,
-      "antallkunder": 3,
-      "avbruddstype": "Planned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0154",
-      "poststed": "Finstadjordet",
-      "strombruddoppdaget": 1786518232422,
-      "utkoblingslutt": 1786539600000,
-      "utkoblingstart": 1786518000000
-    }
-  },
-  {
-    "id": "elvia-26771",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.478537439016335,
-    "lng": 11.658307113878774,
-    "start": "12.8.2026, 06:30:00",
-    "end": "12.8.2026, 13:00:00",
-    "areaName": "Marker / Ørje / W0064",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26771,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Marker",
-      "nettstasjon": "W0064",
-      "poststed": "Ørje",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786539600000,
-      "utkoblingstart": 1786516200000
-    }
-  },
-  {
-    "id": "elvia-28203",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.21699687198611,
-    "lng": 10.844306968534447,
-    "start": "12.8.2026, 07:00:00",
-    "end": "12.8.2026, 12:30:00",
-    "areaName": "Fredrikstad / Gressvik / X2114",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28203,
-      "antallkunder": 11,
-      "avbruddstype": "Planned",
-      "kommune": "Fredrikstad",
-      "nettstasjon": "X2114",
-      "poststed": "Gressvik",
-      "strombruddoppdaget": 1786518096371,
-      "utkoblingslutt": 1786537800000,
-      "utkoblingstart": 1786518000000
-    }
-  },
-  {
-    "id": "fagne-4541929",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 17,
-    "lat": 59.48154366804758,
-    "lng": 6.184907006583655,
-    "start": "8.12.2026, 06:00:00",
-    "end": "9.12.2026, 10:00:00",
-    "areaName": "SULDAL",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SULDAL",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "fagne-4568728",
     "company": "Fagne",
     "type": "planned",
@@ -489,27 +309,22 @@
     }
   },
   {
-    "id": "linja-outage-3377596",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 11,
-    "lat": 62.335206354694684,
-    "lng": 7.344814309897387,
-    "start": "12.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "FJORD / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
+    "id": "fagne-4541929",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 17,
+    "lat": 59.48154366804758,
+    "lng": 6.184907006583655,
+    "start": "8.12.2026, 06:00:00",
+    "end": "8.12.2026, 11:30:00",
+    "areaName": "SULDAL",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
-      "EVENTID": 3377596,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Omnosåsen onsdag 12. august mellom 09:00 til 14:00",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786518000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "FJORD",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 0,
-      "NUM_AB": 11
+      "description": "",
+      "state": "Pågående",
+      "municipal": "SULDAL",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
     }
   },
   {
@@ -564,9 +379,9 @@
     "id": "linja-outage-3376789",
     "company": "Linja",
     "type": "outage",
-    "customers": 51,
-    "lat": 62.21954459930047,
-    "lng": 5.5481621386983555,
+    "customers": 19,
+    "lat": 62.215984671235894,
+    "lng": 5.556438696955426,
     "start": "12.8.2026, 08:00:00",
     "end": null,
     "areaName": "SANDE / Linja Midt",
@@ -580,8 +395,8 @@
       "FLAG": 400,
       "MUNICIPAL_TXT": "SANDE",
       "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 3,
-      "NUM_AB": 51
+      "NUM_NS": 1,
+      "NUM_AB": 19
     }
   },
   {
