@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-12T13:39:53.438Z",
-  "count": 40,
+  "updatedAt": "2026-08-12T14:42:41.336Z",
+  "count": 39,
   "providers": [
     {
       "name": "Elvia",
@@ -78,8 +78,8 @@
     {
       "name": "Fagne",
       "ok": true,
-      "count": 1,
-      "rawCount": 1,
+      "count": 0,
+      "rawCount": 0,
       "filteredOut": 0,
       "warning": false,
       "error": null
