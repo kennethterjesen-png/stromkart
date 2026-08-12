@@ -32,38 +32,6 @@
     }
   },
   {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.62452889909645,
-    "lng": 5.479057050835482,
-    "start": null,
-    "end": null,
-    "areaName": "Alver",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9830879,
-      "MUNICIPAL_TXT": "Alver",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786518000000,
-      "TIMELIMIT": 1786536000000,
-      "NUM_AB": 7,
-      "CUSTOMER_WEB_TEXT": "5993 OSTEREIDET; LADBERGET,OSTEREIDET,EIDAVEGEN",
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1786518933000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 5,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-556",
     "company": "Elvia",
     "type": "planned",
@@ -133,6 +101,29 @@
     }
   },
   {
+    "id": "elvia-6636",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 23,
+    "lat": 59.88622255340331,
+    "lng": 10.801930697623382,
+    "start": "12.8.2026, 11:12:16",
+    "end": "12.8.2026, 14:48:16",
+    "areaName": "Oslo / Oslo / 1396",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6636,
+      "antallkunder": 23,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "1396",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1786533136000,
+      "utkoblingslutt": 1786546096000,
+      "utkoblingstart": 1786533136000
+    }
+  },
+  {
     "id": "elvia-8978",
     "company": "Elvia",
     "type": "planned",
@@ -153,29 +144,6 @@
       "strombruddoppdaget": 1786519194000,
       "utkoblingslutt": 1786532154000,
       "utkoblingstart": 1786519194000
-    }
-  },
-  {
-    "id": "elvia-10222",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.880777648785745,
-    "lng": 10.602611204340812,
-    "start": "12.8.2026, 08:02:14",
-    "end": "12.8.2026, 11:38:14",
-    "areaName": "Bærum / Snarøya / B1366",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10222,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B1366",
-      "poststed": "Snarøya",
-      "strombruddoppdaget": 1786521734000,
-      "utkoblingslutt": 1786534694000,
-      "utkoblingstart": 1786521734000
     }
   },
   {
@@ -271,25 +239,6 @@
     }
   },
   {
-    "id": "fagne-4568728",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.526643289621944,
-    "lng": 5.226668099815218,
-    "start": "8.12.2026, 07:00:00",
-    "end": "8.12.2026, 09:00:00",
-    "areaName": "SVEIO",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SVEIO",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "fagne-4570989",
     "company": "Fagne",
     "type": "planned",
@@ -304,25 +253,6 @@
       "description": "",
       "state": "Pågående",
       "municipal": "SAUDA",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4541929",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 17,
-    "lat": 59.48154366804758,
-    "lng": 6.184907006583655,
-    "start": "8.12.2026, 06:00:00",
-    "end": "8.12.2026, 11:30:00",
-    "areaName": "SULDAL",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SULDAL",
       "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
     }
@@ -373,30 +303,6 @@
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 3,
       "NUM_AB": 22
-    }
-  },
-  {
-    "id": "linja-outage-3376789",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 19,
-    "lat": 62.215984671235894,
-    "lng": 5.556438696955426,
-    "start": "12.8.2026, 08:00:00",
-    "end": null,
-    "areaName": "SANDE / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3376789,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hallebygda onsdag 12. august mellom kl.10:00 og 13:00",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786521600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "SANDE",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 1,
-      "NUM_AB": 19
     }
   },
   {
@@ -539,6 +445,78 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3381516",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.43118515187825,
+    "lng": 6.351469578615882,
+    "start": "14.8.2026, 10:00:00",
+    "end": null,
+    "areaName": "SULA / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3381516,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Kildehaugen og Veibuststranda fredag 14.august fra kl. 12:00 til 15:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1786701600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "SULA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3381524",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.43001538102109,
+    "lng": 6.351578271392325,
+    "start": "17.8.2026, 15:00:00",
+    "end": null,
+    "areaName": "SULA / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3381524,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Vassmyra, Veibust og Kongshaugstranda mandag 17.august fra kl. 17:00 til 22:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1786978800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 128,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "SULA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3381512",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.4305858235226,
+    "lng": 6.350757531981978,
+    "start": "14.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "SULA / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3381512,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Veibuststranda fredag 14.august fra kl. 08:00 til 11:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1786687200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "SULA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
