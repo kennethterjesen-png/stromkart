@@ -1,29 +1,5 @@
 [
   {
-    "id": "linja-outage-3382416",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 1,
-    "lat": 62.45431458666898,
-    "lng": 6.591408453232525,
-    "start": "12.8.2026, 17:29:00",
-    "end": null,
-    "areaName": "ÅLESUND / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3382416,
-      "CUSTOMER_WEB_TEXT": "18:00 Brann i låve på Glomset.  Strøm til bolighuset vil bli reparert senere i kveld.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786555740000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "PURCHAREA_TXT": "Nordvestnett",
-      "NUM_NS": 0,
-      "NUM_AB": 1
-    }
-  },
-  {
     "id": "linja-planned-3379661",
     "company": "Linja",
     "type": "planned",
