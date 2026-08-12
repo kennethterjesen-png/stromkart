@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.32248568301476,
-    "lng": 5.346144785860746,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9854074,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786553880000,
-      "TIMELIMIT": 1786564800000,
-      "NUM_AB": 126,
-      "CUSTOMER_WEB_TEXT": "5043 BERGEN; HOVDENLIA\r\n5221 NESTTUN; NESTTUNVEGEN,HOVDENVEGEN,KLOPPEDALSVEGEN,STOREHOVDEN,GJERDEVEGEN,NESTTUNHALSEN\r\n5225 NESTTUN; SANDDALSKOLLEN,SANDDALSRINGEN,KORGELIA,KRINGLEBOTN,SANDALSKOLLEN\r\n5232 PARADIS; ANKERVEGEN,HOVDENFLATEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 1,
-      "LAST_UPDATED": 1786556125000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 13,
-      "NUM_AB_REGAINED": 306,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "linja-outage-3382416",
     "company": "Linja",
     "type": "outage",
