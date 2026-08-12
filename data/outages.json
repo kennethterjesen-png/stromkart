@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-11481",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 59.83319394458502,
-    "lng": 10.441380321495679,
-    "start": "11.8.2026, 22:05:00",
-    "end": "12.8.2026, 04:00:00",
-    "areaName": "Asker / Asker / D0667",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11481,
-      "antallkunder": 16,
-      "avbruddstype": "Planned",
-      "kommune": "Asker",
-      "nettstasjon": "D0667",
-      "poststed": "Asker",
-      "strombruddoppdaget": 1786486905415,
-      "utkoblingslutt": 1786507200000,
-      "utkoblingstart": 1786485900000
-    }
-  },
-  {
     "id": "linja-planned-3376345",
     "company": "Linja",
     "type": "planned",
