@@ -78,29 +78,6 @@
     }
   },
   {
-    "id": "elvia-5998",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 59.95071094390569,
-    "lng": 10.679267518746357,
-    "start": "12.8.2026, 06:30:00",
-    "end": "12.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 0484",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5998,
-      "antallkunder": 16,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0484",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786539600000,
-      "utkoblingstart": 1786516200000
-    }
-  },
-  {
     "id": "elvia-6636",
     "company": "Elvia",
     "type": "planned",
@@ -144,29 +121,6 @@
       "strombruddoppdaget": 1786519194000,
       "utkoblingslutt": 1786532154000,
       "utkoblingstart": 1786519194000
-    }
-  },
-  {
-    "id": "elvia-20570",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 60.9078588874807,
-    "lng": 10.872031117291296,
-    "start": "12.8.2026, 10:00:00",
-    "end": "12.8.2026, 13:00:00",
-    "areaName": "Ringsaker / Brumunddal / ENS12894",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20570,
-      "antallkunder": 11,
-      "avbruddstype": "Planned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS12894",
-      "poststed": "Brumunddal",
-      "strombruddoppdaget": 1786528870570,
-      "utkoblingslutt": 1786539600000,
-      "utkoblingstart": 1786528800000
     }
   },
   {
@@ -216,29 +170,6 @@
     }
   },
   {
-    "id": "elvia-22245",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 59.347044740468306,
-    "lng": 10.897499348612243,
-    "start": "12.8.2026, 06:00:00",
-    "end": "12.8.2026, 13:00:00",
-    "areaName": "Råde / Råde / J0099",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22245,
-      "antallkunder": 7,
-      "avbruddstype": "Planned",
-      "kommune": "Råde",
-      "nettstasjon": "J0099",
-      "poststed": "Råde",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786539600000,
-      "utkoblingstart": 1786514400000
-    }
-  },
-  {
     "id": "fagne-4570989",
     "company": "Fagne",
     "type": "planned",
@@ -279,6 +210,30 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 5,
       "NUM_AB": 67
+    }
+  },
+  {
+    "id": "linja-outage-3381876",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 159,
+    "lat": 61.93608467416711,
+    "lng": 6.44773075622631,
+    "start": "12.8.2026, 12:02:00",
+    "end": null,
+    "areaName": "VOLDA",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3381876,
+      "CUSTOMER_WEB_TEXT": null,
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786536120000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "VOLDA",
+      "PURCHAREA_TXT": null,
+      "NUM_NS": 20,
+      "NUM_AB": 159
     }
   },
   {
@@ -1235,34 +1190,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70856-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2893-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 11,
-    "lat": 59.76565054700001,
-    "lng": 10.865273897000009,
-    "start": "12.8.2026, 07:07:14",
-    "end": "12.8.2026, 13:00:00",
-    "areaName": "VEVELSTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218770,
-      "REFNR": "PL2893",
-      "SEKUNDÆRSTASJON": "VEVELSTAD",
-      "AVGANG": "103",
-      "CNT": 11,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1786518434000,
-      "TIL_DATO": 1786539600000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2893-1",
       "description": ""
     }
   }
