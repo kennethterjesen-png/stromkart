@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-27032",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.509917957196855,
+    "lng": 11.352322392618067,
+    "start": "12.8.2026, 18:47:29",
+    "end": "12.8.2026, 22:23:29",
+    "areaName": "Indre Østfold / Mysen / W2084",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27032,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2084",
+      "poststed": "Mysen",
+      "strombruddoppdaget": 1786560449000,
+      "utkoblingslutt": 1786573409000,
+      "utkoblingstart": 1786560449000
+    }
+  },
+  {
     "id": "linja-outage-3382416",
     "company": "Linja",
     "type": "outage",
@@ -12,7 +35,7 @@
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
       "EVENTID": 3382416,
-      "CUSTOMER_WEB_TEXT": "18:00 Brann i låve på Glomset.  Strøm til bolighuset vil bli reparert sener i kveld.",
+      "CUSTOMER_WEB_TEXT": "18:00 Brann i låve på Glomset.  Strøm til bolighuset vil bli reparert senere i kveld.",
       "STATE_TXT": "Pågående",
       "STARTTIME": 1786555740000,
       "TYPE_TXT": "Driftsforstyrrelse",
@@ -21,30 +44,6 @@
       "PURCHAREA_TXT": "Nordvestnett",
       "NUM_NS": 0,
       "NUM_AB": 1
-    }
-  },
-  {
-    "id": "linja-outage-3382348",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 14,
-    "lat": 62.4832645322808,
-    "lng": 6.8069901859343895,
-    "start": "12.8.2026, 15:18:00",
-    "end": null,
-    "areaName": "ÅLESUND / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3382348,
-      "CUSTOMER_WEB_TEXT": "Nedkjørt kabelskap ved Synnesmarka 3 på Sjøholt.  Dette medfører at 14 kunder er uten strøm fra kl 17:20",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786547880000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "PURCHAREA_TXT": "Nordvestnett",
-      "NUM_NS": 0,
-      "NUM_AB": 14
     }
   },
   {
