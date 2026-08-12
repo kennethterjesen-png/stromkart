@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-5968",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.97386177278163,
-    "lng": 10.628219005696952,
-    "start": "12.8.2026, 05:41:11",
-    "end": "12.8.2026, 09:26:11",
-    "areaName": "Oslo / Oslo / 0438",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5968,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0438",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786513271657,
-      "utkoblingslutt": 1786526771000,
-      "utkoblingstart": 1786513271657
-    }
-  },
-  {
     "id": "linja-outage-3382416",
     "company": "Linja",
     "type": "outage",
