@@ -69,29 +69,6 @@
     }
   },
   {
-    "id": "elvia-14239",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 29,
-    "lat": 61.13767112106689,
-    "lng": 10.49000105647615,
-    "start": "13.8.2026, 12:51:20",
-    "end": "13.8.2026, 16:27:20",
-    "areaName": "Lillehammer / Lillehammer / ENS03043",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14239,
-      "antallkunder": 29,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03043",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": 1786625480000,
-      "utkoblingslutt": 1786638440000,
-      "utkoblingstart": 1786625480000
-    }
-  },
-  {
     "id": "elvia-16761",
     "company": "Elvia",
     "type": "planned",
@@ -138,29 +115,6 @@
     }
   },
   {
-    "id": "elvia-23363",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.15755923562674,
-    "lng": 11.49866485129334,
-    "start": "13.8.2026, 12:28:07",
-    "end": "13.8.2026, 16:04:07",
-    "areaName": "Nes / Årnes / N2029",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23363,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N2029",
-      "poststed": "Årnes",
-      "strombruddoppdaget": 1786624087000,
-      "utkoblingslutt": 1786637047000,
-      "utkoblingstart": 1786624087000
-    }
-  },
-  {
     "id": "elvia-25406",
     "company": "Elvia",
     "type": "planned",
@@ -184,26 +138,46 @@
     }
   },
   {
-    "id": "elvia-28720",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 33,
-    "lat": 59.438699597490164,
-    "lng": 10.633547696145191,
-    "start": "13.8.2026, 11:22:48",
-    "end": "13.8.2026, 14:58:48",
-    "areaName": "Moss / Moss / Y1033",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "id": "fagne-4592789",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 10,
+    "lat": 59.17429286483172,
+    "lng": 5.197922912360996,
+    "start": null,
+    "end": null,
+    "areaName": "KARMØY",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
-      "OBJECTID": 28720,
-      "antallkunder": 33,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y1033",
-      "poststed": "Moss",
-      "strombruddoppdaget": 1786620168000,
-      "utkoblingslutt": 1786633128000,
-      "utkoblingstart": 1786620168000
+      "description": "",
+      "state": "Pågående",
+      "municipal": "KARMØY",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "linja-outage-3384333",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 11,
+    "lat": 61.85812543436082,
+    "lng": 6.2162867160989235,
+    "start": "13.8.2026, 13:37:00",
+    "end": null,
+    "areaName": "STRYN / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3384333,
+      "CUSTOMER_WEB_TEXT": "17:25 Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi oppdaterer så snart vi vet mer om feilen.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786628220000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "STRYN",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 0,
+      "NUM_AB": 11
     }
   },
   {
@@ -845,23 +819,6 @@
       "name": "Berørte kunder: 94",
       "description": "Rettet\nStartet: 2026-08-12 09:22\nSluttid: 2026-08-12 15:14\nPlanlagt strømstans",
       "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-7",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 32,
-    "lat": 58.98564807775741,
-    "lng": 5.941193392879539,
-    "start": "13.8.2026, 13:54:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 32",
-      "description": "Planlagt strømstans\nStartet: 2026-08-13 13:54\nPlanlagt ferdig: 2026-08-13 16:30\nArbeidet tar desverre lengre tid enn anslått, vi jobber med å få strømmen tilbake så fort som mulig.",
-      "styleUrl": "#yellow"
     }
   },
   {
