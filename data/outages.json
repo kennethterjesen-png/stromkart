@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-9906",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.92462945987949,
+    "lng": 10.481783676564339,
+    "start": "13.8.2026, 14:13:20",
+    "end": "13.8.2026, 17:49:20",
+    "areaName": "Bærum / Rykkinn / B0850",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9906,
+      "antallkunder": 7,
+      "avbruddstype": "Unplanned",
+      "kommune": "Bærum",
+      "nettstasjon": "B0850",
+      "poststed": "Rykkinn",
+      "strombruddoppdaget": 1786630400000,
+      "utkoblingslutt": 1786643360000,
+      "utkoblingstart": 1786630400000
+    }
+  },
+  {
     "id": "elvia-12306",
     "company": "Elvia",
     "type": "planned",
@@ -808,7 +831,7 @@
     }
   },
   {
-    "id": "lnett-planned-1",
+    "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
     "customers": 94,
@@ -825,37 +848,20 @@
     }
   },
   {
-    "id": "lnett-planned-5",
+    "id": "lnett-planned-7",
     "company": "Lnett",
     "type": "planned",
-    "customers": 35,
-    "lat": 58.9860952756008,
-    "lng": 5.941655983070981,
+    "customers": 32,
+    "lat": 58.98564807775741,
+    "lng": 5.941193392879539,
     "start": "13.8.2026, 13:54:00",
     "end": null,
     "areaName": "Planlagt vedlikehold",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 35",
+      "name": "Berørte kunder: 32",
       "description": "Planlagt strømstans\nStartet: 2026-08-13 13:54\nPlanlagt ferdig: 2026-08-13 16:30\nArbeidet tar desverre lengre tid enn anslått, vi jobber med å få strømmen tilbake så fort som mulig.",
       "styleUrl": "#yellow"
-    }
-  },
-  {
-    "id": "lnett-outage-7",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 203,
-    "lat": 58.83725642584863,
-    "lng": 5.646612560606319,
-    "start": "13.8.2026, 15:34:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 203",
-      "description": "Driftsforstyrrelse\nStartet: 2026-08-13 15:34",
-      "styleUrl": "#red"
     }
   },
   {
@@ -1163,6 +1169,62 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70875-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70883-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.658399659999986,
+    "lng": 10.91557648700001,
+    "start": "18.8.2026, 07:00:37",
+    "end": "18.8.2026, 13:00:37",
+    "areaName": "KRÅKSTAD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218849,
+      "REFNR": "P70883",
+      "SEKUNDÆRSTASJON": "KRÅKSTAD",
+      "AVGANG": "L54",
+      "CNT": 3,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787036437000,
+      "TIL_DATO": 1787058037000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70883-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70881-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 109,
+    "lat": 59.788370934,
+    "lng": 10.605476004000025,
+    "start": "21.8.2026, 06:30:47",
+    "end": "21.8.2026, 09:00:47",
+    "areaName": "NYSTUEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218850,
+      "REFNR": "P70881",
+      "SEKUNDÆRSTASJON": "NYSTUEN",
+      "AVGANG": "L7",
+      "CNT": 109,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787293847000,
+      "TIL_DATO": 1787302847000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70881-1",
       "description": ""
     }
   },
