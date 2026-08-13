@@ -23,6 +23,52 @@
     }
   },
   {
+    "id": "elvia-11145",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.87762120589749,
+    "lng": 10.49616005691784,
+    "start": "13.8.2026, 17:43:41",
+    "end": "13.8.2026, 21:19:41",
+    "areaName": "Bærum / Slependen / D0185",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11145,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Bærum",
+      "nettstasjon": "D0185",
+      "poststed": "Slependen",
+      "strombruddoppdaget": 1786643021000,
+      "utkoblingslutt": 1786655981000,
+      "utkoblingstart": 1786643021000
+    }
+  },
+  {
+    "id": "elvia-11546",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.81259256170003,
+    "lng": 10.48438556231465,
+    "start": "13.8.2026, 18:01:10",
+    "end": "13.8.2026, 21:37:10",
+    "areaName": "Asker / Vollen / D0752",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11546,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Asker",
+      "nettstasjon": "D0752",
+      "poststed": "Vollen",
+      "strombruddoppdaget": 1786644070000,
+      "utkoblingslutt": 1786657030000,
+      "utkoblingstart": 1786644070000
+    }
+  },
+  {
     "id": "elvia-14235",
     "company": "Elvia",
     "type": "planned",
@@ -89,30 +135,6 @@
       "strombruddoppdaget": 1786625259000,
       "utkoblingslutt": 1786638219000,
       "utkoblingstart": 1786625259000
-    }
-  },
-  {
-    "id": "linja-outage-3384333",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 11,
-    "lat": 61.85812543436082,
-    "lng": 6.2162867160989235,
-    "start": "13.8.2026, 13:37:00",
-    "end": null,
-    "areaName": "STRYN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3384333,
-      "CUSTOMER_WEB_TEXT": "17:25 Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi oppdaterer så snart vi vet mer om feilen.\r\n18:20 Vi har aggregat på vei, Estimert rettetid 21:30",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786628220000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "STRYN",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 0,
-      "NUM_AB": 11
     }
   },
   {
