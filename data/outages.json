@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-9906",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 59.92462945987949,
-    "lng": 10.481783676564339,
-    "start": "13.8.2026, 14:13:20",
-    "end": "13.8.2026, 17:49:20",
-    "areaName": "Bærum / Rykkinn / B0850",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9906,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0850",
-      "poststed": "Rykkinn",
-      "strombruddoppdaget": 1786630400000,
-      "utkoblingslutt": 1786643360000,
-      "utkoblingstart": 1786630400000
-    }
-  },
-  {
     "id": "elvia-11145",
     "company": "Elvia",
     "type": "planned",
@@ -369,30 +346,6 @@
       "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Sjøgata fredag 14. august mellom kl.00:30 og kl.01:00",
       "STATE_TXT": "Godkjent",
       "STARTTIME": 1786660200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "EID",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3377436",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.90276019998044,
-    "lng": 5.98781090431039,
-    "start": "13.8.2026, 21:30:00",
-    "end": null,
-    "areaName": "EID / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3377436,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Osvegen torsdag 12.august mellom kl.23:30 og 00:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1786656600000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
