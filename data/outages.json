@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-12111",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 60.2811759901911,
-    "lng": 11.16526100894607,
-    "start": null,
-    "end": "13.8.2026, 13:57:36",
-    "areaName": "Eidsvoll / Råholt / E0608",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12111,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0608",
-      "poststed": "Råholt",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786629456000,
-      "utkoblingstart": null
-    }
-  },
-  {
     "id": "elvia-12306",
     "company": "Elvia",
     "type": "planned",
@@ -69,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-17948",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 57,
-    "lat": 61.311695859886065,
-    "lng": 12.26785348331124,
-    "start": "13.8.2026, 06:00:00",
-    "end": "13.8.2026, 12:00:00",
-    "areaName": "Trysil / Trysil / ENS08851",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17948,
-      "antallkunder": 57,
-      "avbruddstype": "Planned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS08851",
-      "poststed": "Trysil",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786622400000,
-      "utkoblingstart": 1786600800000
-    }
-  },
-  {
     "id": "elvia-22244",
     "company": "Elvia",
     "type": "planned",
@@ -110,29 +64,6 @@
       "nettstasjon": "J0098",
       "poststed": "Rygge",
       "strombruddoppdaget": 1786602613534,
-      "utkoblingslutt": 1786626000000,
-      "utkoblingstart": 1786600800000
-    }
-  },
-  {
-    "id": "elvia-22295",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.34490864701762,
-    "lng": 10.90184734163543,
-    "start": "13.8.2026, 06:00:00",
-    "end": "13.8.2026, 13:00:00",
-    "areaName": "Råde / Råde / J0156",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22295,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Råde",
-      "nettstasjon": "J0156",
-      "poststed": "Råde",
-      "strombruddoppdaget": null,
       "utkoblingslutt": 1786626000000,
       "utkoblingstart": 1786600800000
     }
@@ -207,6 +138,29 @@
     }
   },
   {
+    "id": "elvia-28720",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 33,
+    "lat": 59.438699597490164,
+    "lng": 10.633547696145191,
+    "start": "13.8.2026, 11:22:48",
+    "end": "13.8.2026, 14:58:48",
+    "areaName": "Moss / Moss / Y1033",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28720,
+      "antallkunder": 33,
+      "avbruddstype": "Unplanned",
+      "kommune": "Moss",
+      "nettstasjon": "Y1033",
+      "poststed": "Moss",
+      "strombruddoppdaget": 1786620168000,
+      "utkoblingslutt": 1786633128000,
+      "utkoblingstart": 1786620168000
+    }
+  },
+  {
     "id": "fagne-4575785",
     "company": "Fagne",
     "type": "planned",
@@ -226,22 +180,27 @@
     }
   },
   {
-    "id": "fagne-4586289",
-    "company": "Fagne",
+    "id": "linja-planned-3383969",
+    "company": "Linja",
     "type": "planned",
-    "customers": 2,
-    "lat": 59.79733554475097,
-    "lng": 5.4354807851960665,
-    "start": null,
+    "customers": 0,
+    "lat": 62.040356942966326,
+    "lng": 6.400094850433328,
+    "start": "17.8.2026, 08:00:00",
     "end": null,
-    "areaName": "STORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "areaName": "VOLDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "STORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
+      "EVENTID": 3383969,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Månanesvegen mandag 17.august fra kl. 10:00 til 14:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1786953600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "VOLDA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
     }
   },
   {
@@ -844,13 +803,13 @@
     "customers": 35,
     "lat": 58.9860952756008,
     "lng": 5.941655983070981,
-    "start": "13.8.2026, 08:42:00",
+    "start": "13.8.2026, 13:54:00",
     "end": null,
     "areaName": "Planlagt vedlikehold",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 35",
-      "description": "Planlagt strømstans\nStartet: 2026-08-13 08:42\nPlanlagt ferdig: 2026-08-13 15:00",
+      "description": "Planlagt strømstans\nStartet: 2026-08-13 13:54\nPlanlagt ferdig: 2026-08-13 15:00",
       "styleUrl": "#yellow"
     }
   },
