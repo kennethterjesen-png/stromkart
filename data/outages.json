@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.414195901465305,
+    "lng": 5.476522307412334,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9832169,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786651200000,
+      "TIMELIMIT": 1786676400000,
+      "NUM_AB": 177,
+      "CUSTOMER_WEB_TEXT": "5260 INDRE ARNA; GOTEVOLLEN,ARHAUGEN\r\n5261 INDRE ARNA; VOLLAVEGEN\r\n5262 ARNATVEIT; STØLSHAUGEN,STØLSVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 1,
+      "LAST_UPDATED": 1786651534000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-11145",
     "company": "Elvia",
     "type": "planned",
@@ -1092,6 +1124,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70881-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2899-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 31,
+    "lat": 59.23306763699998,
+    "lng": 11.006518717999995,
+    "start": "25.8.2026, 06:30:00",
+    "end": "25.8.2026, 13:00:00",
+    "areaName": "SANDEM",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1218851,
+      "REFNR": "PL2899",
+      "SEKUNDÆRSTASJON": "SANDEM",
+      "AVGANG": "H913",
+      "CNT": 31,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787639400000,
+      "TIL_DATO": 1787662800000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2899-1",
       "description": ""
     }
   },
