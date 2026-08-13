@@ -119,6 +119,29 @@
     }
   },
   {
+    "id": "elvia-1020",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.88721857494137,
+    "lng": 10.7591041611846,
+    "start": "13.8.2026, 09:00:00",
+    "end": "13.8.2026, 10:00:00",
+    "areaName": "Oslo / Oslo / 4604",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 1020,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "4604",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1786611975318,
+      "utkoblingslutt": 1786615200000,
+      "utkoblingstart": 1786611600000
+    }
+  },
+  {
     "id": "elvia-7557",
     "company": "Elvia",
     "type": "planned",
@@ -139,6 +162,52 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1786624200000,
       "utkoblingstart": 1786602600000
+    }
+  },
+  {
+    "id": "elvia-12306",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 64,
+    "lat": 60.81319229077592,
+    "lng": 11.084155342214386,
+    "start": "13.8.2026, 09:05:29",
+    "end": "13.8.2026, 12:41:29",
+    "areaName": "Hamar / Hamar / ENS00175",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 12306,
+      "antallkunder": 64,
+      "avbruddstype": "Unplanned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS00175",
+      "poststed": "Hamar",
+      "strombruddoppdaget": 1786611929000,
+      "utkoblingslutt": 1786624889000,
+      "utkoblingstart": 1786611929000
+    }
+  },
+  {
+    "id": "elvia-17424",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 38,
+    "lat": 61.48293034533703,
+    "lng": 11.959124146700987,
+    "start": "13.8.2026, 09:13:55",
+    "end": "13.8.2026, 12:49:55",
+    "areaName": "Trysil / Jordet / ENS07958",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17424,
+      "antallkunder": 38,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS07958",
+      "poststed": "Jordet",
+      "strombruddoppdaget": 1786612435000,
+      "utkoblingslutt": 1786625395000,
+      "utkoblingstart": 1786612435000
     }
   },
   {
@@ -257,29 +326,6 @@
     }
   },
   {
-    "id": "elvia-22126",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.56093972603762,
-    "lng": 10.820479894388999,
-    "start": "13.8.2026, 06:00:00",
-    "end": "13.8.2026, 13:00:00",
-    "areaName": "Indre Østfold / Hobøl / I1153",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22126,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "I1153",
-      "poststed": "Hobøl",
-      "strombruddoppdaget": 1786601503583,
-      "utkoblingslutt": 1786626000000,
-      "utkoblingstart": 1786600800000
-    }
-  },
-  {
     "id": "elvia-22244",
     "company": "Elvia",
     "type": "planned",
@@ -326,29 +372,6 @@
     }
   },
   {
-    "id": "elvia-23266",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 17,
-    "lat": 60.035645831775085,
-    "lng": 11.359062292031473,
-    "start": "13.8.2026, 07:00:00",
-    "end": "13.8.2026, 11:00:00",
-    "areaName": "Nes / Auli / N0098",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23266,
-      "antallkunder": 17,
-      "avbruddstype": "Planned",
-      "kommune": "Nes",
-      "nettstasjon": "N0098",
-      "poststed": "Auli",
-      "strombruddoppdaget": 1786605640142,
-      "utkoblingslutt": 1786618800000,
-      "utkoblingstart": 1786604400000
-    }
-  },
-  {
     "id": "elvia-23780",
     "company": "Elvia",
     "type": "planned",
@@ -392,52 +415,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1786626000000,
       "utkoblingstart": 1786600800000
-    }
-  },
-  {
-    "id": "elvia-25958",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.13322513348701,
-    "lng": 11.188202698701907,
-    "start": "13.8.2026, 06:00:00",
-    "end": "13.8.2026, 13:00:00",
-    "areaName": "Ullensaker / Jessheim / U0179",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25958,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Ullensaker",
-      "nettstasjon": "U0179",
-      "poststed": "Jessheim",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786626000000,
-      "utkoblingstart": 1786600800000
-    }
-  },
-  {
-    "id": "elvia-27691",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 59.28170800183481,
-    "lng": 11.191303530312663,
-    "start": "6.7.2026, 21:00:00",
-    "end": "7.7.2026, 04:00:00",
-    "areaName": "Sarpsborg / Borgenhaugen / X0567",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27691,
-      "antallkunder": 15,
-      "avbruddstype": "Planned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0567",
-      "poststed": "Borgenhaugen",
-      "strombruddoppdaget": 1783372247559,
-      "utkoblingslutt": 1783396800000,
-      "utkoblingstart": 1783371600000
     }
   },
   {
@@ -506,39 +483,20 @@
     }
   },
   {
-    "id": "fagne-4583436",
+    "id": "fagne-4586289",
     "company": "Fagne",
     "type": "planned",
-    "customers": 15,
-    "lat": 59.28426738599416,
-    "lng": 5.296149573615483,
+    "customers": 2,
+    "lat": 59.79733554475097,
+    "lng": 5.4354807851960665,
     "start": null,
     "end": null,
-    "areaName": "KARMØY",
+    "areaName": "STORD",
     "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
       "description": "",
       "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4569297",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 7,
-    "lat": 59.14889056771329,
-    "lng": 5.2387226079559515,
-    "start": null,
-    "end": null,
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
+      "municipal": "STORD",
       "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
     }
@@ -611,6 +569,30 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ØRSTA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3383721",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.503248555112535,
+    "lng": 6.819406563717893,
+    "start": "14.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Nordvestnett",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3383721,
+      "CUSTOMER_WEB_TEXT": "BARLINDHAUG - På grunn av arbeid i lågspentnettet vert det ein straumstans på nokre kundar. Berørte kundar er varsla på SMS. ",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1786690800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Nordvestnett",
+      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -947,30 +929,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3380553",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.03118199526842,
-    "lng": 6.733695100636387,
-    "start": "13.8.2026, 10:30:00",
-    "end": null,
-    "areaName": "STRANDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3380553,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Kjelstadlia torsdag 13.august fra kl. 12:30 til 14:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1786617000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "STRANDA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
