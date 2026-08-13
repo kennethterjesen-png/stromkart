@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-12306",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 64,
-    "lat": 60.81319229077592,
-    "lng": 11.084155342214386,
-    "start": "13.8.2026, 09:05:29",
-    "end": "13.8.2026, 12:41:29",
-    "areaName": "Hamar / Hamar / ENS00175",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12306,
-      "antallkunder": 64,
-      "avbruddstype": "Unplanned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS00175",
-      "poststed": "Hamar",
-      "strombruddoppdaget": 1786611929000,
-      "utkoblingslutt": 1786624889000,
-      "utkoblingstart": 1786611929000
-    }
-  },
-  {
     "id": "elvia-14235",
     "company": "Elvia",
     "type": "planned",
@@ -115,48 +92,6 @@
     }
   },
   {
-    "id": "elvia-25406",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.988479608675405,
-    "lng": 11.001337120639388,
-    "start": "13.8.2026, 06:00:00",
-    "end": "13.8.2026, 13:00:00",
-    "areaName": "Lillestrøm / Slattum / S0769",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25406,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0769",
-      "poststed": "Slattum",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786626000000,
-      "utkoblingstart": 1786600800000
-    }
-  },
-  {
-    "id": "fagne-4592789",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 10,
-    "lat": 59.17429286483172,
-    "lng": 5.197922912360996,
-    "start": null,
-    "end": null,
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-outage-3384333",
     "company": "Linja",
     "type": "outage",
@@ -169,7 +104,7 @@
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
       "EVENTID": 3384333,
-      "CUSTOMER_WEB_TEXT": "17:25 Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi oppdaterer så snart vi vet mer om feilen.",
+      "CUSTOMER_WEB_TEXT": "17:25 Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi oppdaterer så snart vi vet mer om feilen.\r\n18:20 Vi har aggregat på vei, Estimert rettetid 21:30",
       "STATE_TXT": "Pågående",
       "STARTTIME": 1786628220000,
       "TYPE_TXT": "Driftsforstyrrelse",
