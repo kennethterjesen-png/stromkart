@@ -271,29 +271,6 @@
     }
   },
   {
-    "id": "elvia-11145",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.87762120589749,
-    "lng": 10.49616005691784,
-    "start": "13.8.2026, 17:43:41",
-    "end": "13.8.2026, 21:19:41",
-    "areaName": "Bærum / Slependen / D0185",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11145,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "D0185",
-      "poststed": "Slependen",
-      "strombruddoppdaget": 1786643021000,
-      "utkoblingslutt": 1786655981000,
-      "utkoblingstart": 1786643021000
-    }
-  },
-  {
     "id": "elvia-14235",
     "company": "Elvia",
     "type": "planned",
