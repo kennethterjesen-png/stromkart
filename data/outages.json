@@ -23,6 +23,52 @@
     }
   },
   {
+    "id": "elvia-14235",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 61.16408197374677,
+    "lng": 10.40268270708935,
+    "start": "13.8.2026, 12:28:07",
+    "end": "13.8.2026, 16:04:07",
+    "areaName": "Lillehammer / Fåberg / ENS03037",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 14235,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillehammer",
+      "nettstasjon": "ENS03037",
+      "poststed": "Fåberg",
+      "strombruddoppdaget": 1786624087000,
+      "utkoblingslutt": 1786637047000,
+      "utkoblingstart": 1786624087000
+    }
+  },
+  {
+    "id": "elvia-14239",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 29,
+    "lat": 61.13767112106689,
+    "lng": 10.49000105647615,
+    "start": "13.8.2026, 12:51:20",
+    "end": "13.8.2026, 16:27:20",
+    "areaName": "Lillehammer / Lillehammer / ENS03043",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 14239,
+      "antallkunder": 29,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillehammer",
+      "nettstasjon": "ENS03043",
+      "poststed": "Lillehammer",
+      "strombruddoppdaget": 1786625480000,
+      "utkoblingslutt": 1786638440000,
+      "utkoblingstart": 1786625480000
+    }
+  },
+  {
     "id": "elvia-16761",
     "company": "Elvia",
     "type": "planned",
@@ -46,26 +92,49 @@
     }
   },
   {
-    "id": "elvia-22244",
+    "id": "elvia-18342",
     "company": "Elvia",
     "type": "planned",
-    "customers": 56,
-    "lat": 59.33600996670421,
-    "lng": 10.75009826770686,
-    "start": "13.8.2026, 06:00:00",
-    "end": "13.8.2026, 13:00:00",
-    "areaName": "Råde / Rygge / J0098",
+    "customers": 20,
+    "lat": 60.129625191327975,
+    "lng": 12.235880774695772,
+    "start": "13.8.2026, 12:47:39",
+    "end": "13.8.2026, 16:23:39",
+    "areaName": "Eidskog / Åbogen / ENS09389",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 22244,
-      "antallkunder": 56,
-      "avbruddstype": "Planned",
-      "kommune": "Råde",
-      "nettstasjon": "J0098",
-      "poststed": "Rygge",
-      "strombruddoppdaget": 1786602613534,
-      "utkoblingslutt": 1786626000000,
-      "utkoblingstart": 1786600800000
+      "OBJECTID": 18342,
+      "antallkunder": 20,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidskog",
+      "nettstasjon": "ENS09389",
+      "poststed": "Åbogen",
+      "strombruddoppdaget": 1786625259000,
+      "utkoblingslutt": 1786638219000,
+      "utkoblingstart": 1786625259000
+    }
+  },
+  {
+    "id": "elvia-23363",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 60.15755923562674,
+    "lng": 11.49866485129334,
+    "start": "13.8.2026, 12:28:07",
+    "end": "13.8.2026, 16:04:07",
+    "areaName": "Nes / Årnes / N2029",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 23363,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nes",
+      "nettstasjon": "N2029",
+      "poststed": "Årnes",
+      "strombruddoppdaget": 1786624087000,
+      "utkoblingslutt": 1786637047000,
+      "utkoblingstart": 1786624087000
     }
   },
   {
@@ -92,52 +161,6 @@
     }
   },
   {
-    "id": "elvia-27710",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 59.267348423574845,
-    "lng": 11.165676206848874,
-    "start": "13.8.2026, 06:00:00",
-    "end": "13.8.2026, 13:00:00",
-    "areaName": "Sarpsborg / Borgenhaugen / X0591",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27710,
-      "antallkunder": 15,
-      "avbruddstype": "Planned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0591",
-      "poststed": "Borgenhaugen",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786626000000,
-      "utkoblingstart": 1786600800000
-    }
-  },
-  {
-    "id": "elvia-28356",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.242440991841725,
-    "lng": 10.814635984357285,
-    "start": "13.8.2026, 07:00:00",
-    "end": "13.8.2026, 13:00:00",
-    "areaName": "Fredrikstad / Gressvik / X2295",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28356,
-      "antallkunder": 8,
-      "avbruddstype": "Planned",
-      "kommune": "Fredrikstad",
-      "nettstasjon": "X2295",
-      "poststed": "Gressvik",
-      "strombruddoppdaget": 1786604895510,
-      "utkoblingslutt": 1786626000000,
-      "utkoblingstart": 1786604400000
-    }
-  },
-  {
     "id": "elvia-28720",
     "company": "Elvia",
     "type": "planned",
@@ -161,25 +184,6 @@
     }
   },
   {
-    "id": "fagne-4575785",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 18,
-    "lat": 59.657207464185284,
-    "lng": 6.364597560023883,
-    "start": null,
-    "end": null,
-    "areaName": "SAUDA",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SAUDA",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-planned-3383969",
     "company": "Linja",
     "type": "planned",
@@ -199,6 +203,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "VOLDA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3384097",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.71370882119375,
+    "lng": 6.6163072909970735,
+    "start": "20.8.2026, 06:30:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3384097,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Sandalsvatnet til Myklebust torsdag 20.august fra kl. 08:30 til 15:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787207400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -809,8 +837,25 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 35",
-      "description": "Planlagt strømstans\nStartet: 2026-08-13 13:54\nPlanlagt ferdig: 2026-08-13 15:00",
+      "description": "Planlagt strømstans\nStartet: 2026-08-13 13:54\nPlanlagt ferdig: 2026-08-13 16:30\nArbeidet tar desverre lengre tid enn anslått, vi jobber med å få strømmen tilbake så fort som mulig.",
       "styleUrl": "#yellow"
+    }
+  },
+  {
+    "id": "lnett-outage-7",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 203,
+    "lat": 58.83725642584863,
+    "lng": 5.646612560606319,
+    "start": "13.8.2026, 15:34:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 203",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-13 15:34",
+      "styleUrl": "#red"
     }
   },
   {
