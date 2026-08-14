@@ -1,5 +1,83 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.48733100615384,
+    "lng": 5.386441719453778,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9842107,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786687200000,
+      "TIMELIMIT": 1786712400000,
+      "NUM_AB": 10,
+      "CUSTOMER_WEB_TEXT": "5111 BREISTEIN; TRAVPARKVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 1,
+      "LAST_UPDATED": 1786687294000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "elvia-5881",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.89651129428097,
+    "lng": 10.781574073531523,
+    "start": "14.8.2026, 06:00:00",
+    "end": "14.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 0308",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5881,
+      "antallkunder": 8,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "0308",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1786712400000,
+      "utkoblingstart": 1786687200000
+    }
+  },
+  {
+    "id": "elvia-6547",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.91791709239213,
+    "lng": 10.742034121195607,
+    "start": "14.8.2026, 06:00:00",
+    "end": "14.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 1252",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6547,
+      "antallkunder": 5,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1252",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1786712400000,
+      "utkoblingstart": 1786687200000
+    }
+  },
+  {
     "id": "elvia-14235",
     "company": "Elvia",
     "type": "planned",
@@ -66,6 +144,49 @@
       "strombruddoppdaget": 1786625259000,
       "utkoblingslutt": 1786638219000,
       "utkoblingstart": 1786625259000
+    }
+  },
+  {
+    "id": "fagne-4577784",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 10,
+    "lat": 59.482008024623894,
+    "lng": 5.516934902040385,
+    "start": null,
+    "end": null,
+    "areaName": "VINDAFJORD",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "VINDAFJORD",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "linja-outage-3381512",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 1,
+    "lat": 62.4305858235226,
+    "lng": 6.350757531981978,
+    "start": "14.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "SULA / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3381512,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Veibuststranda fredag 14.august fra kl. 08:00 til 11:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786687200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "SULA",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 0,
+      "NUM_AB": 1
     }
   },
   {
@@ -285,54 +406,6 @@
     }
   },
   {
-    "id": "linja-planned-3379673",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.74301495320933,
-    "lng": 6.482062521849572,
-    "start": "18.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3379673,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Holevegen, Skrøppavegen og Fjellvegen tirsdag 18.august fra kl. 09:00 til 12:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787036400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 128,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3379701",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.77714848816205,
-    "lng": 6.217635045443162,
-    "start": "18.8.2026, 21:30:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3379701,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Breimsvegen, Firdavegen og Sagevegen tirsdag 18.august fra kl. 23:30 til 03:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787088600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 128,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3379709",
     "company": "Linja",
     "type": "planned",
@@ -501,6 +574,30 @@
     }
   },
   {
+    "id": "linja-planned-3379701",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.77714848816205,
+    "lng": 6.217635045443162,
+    "start": "18.8.2026, 21:30:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3379701,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Breimsvegen, Firdavegen og Sagevegen tirsdag 18.august fra kl. 23:30 til 03:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787088600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3379681",
     "company": "Linja",
     "type": "planned",
@@ -592,6 +689,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "ASKVOLL",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3379673",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.74301495320933,
+    "lng": 6.482062521849572,
+    "start": "18.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3379673,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Holevegen, Skrøppavegen og Fjellvegen tirsdag 18.august fra kl. 09:00 til 12:30.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787036400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -761,34 +882,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2898-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-planned-V-2896-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 28,
-    "lat": 60.446755670000016,
-    "lng": 5.221552141000018,
-    "start": "14.8.2026, 06:00:00",
-    "end": "14.8.2026, 06:30:00",
-    "areaName": "KLEPPE",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218801,
-      "REFNR": "PL2896",
-      "SEKUNDÆRSTASJON": "KLEPPE",
-      "AVGANG": "SKOGEDAL",
-      "CNT": 28,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1786687200000,
-      "TIL_DATO": 1786689000000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2896-1",
       "description": ""
     }
   },
