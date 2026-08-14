@@ -46,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-24006",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.66485603290095,
-    "lng": 10.636135543725224,
-    "start": "14.8.2026, 13:47:51",
-    "end": "14.8.2026, 17:23:51",
-    "areaName": "Frogn / Drøbak / P0114",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24006,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Frogn",
-      "nettstasjon": "P0114",
-      "poststed": "Drøbak",
-      "strombruddoppdaget": 1786715271000,
-      "utkoblingslutt": 1786728231000,
-      "utkoblingstart": 1786715271000
-    }
-  },
-  {
     "id": "elvia-28686",
     "company": "Elvia",
     "type": "planned",
@@ -896,6 +873,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2899-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70886-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 132,
+    "lat": 60.459783844000015,
+    "lng": 5.23033273599998,
+    "start": "24.8.2026, 06:30:57",
+    "end": "24.8.2026, 09:30:57",
+    "areaName": "RAVNANGER",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219028,
+      "REFNR": "P70886",
+      "SEKUNDÆRSTASJON": "RAVNANGER",
+      "AVGANG": "ÅSEBØ",
+      "CNT": 132,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787553057000,
+      "TIL_DATO": 1787563857000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70886-1",
       "description": ""
     }
   },
