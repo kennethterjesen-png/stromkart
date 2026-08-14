@@ -23,52 +23,6 @@
     }
   },
   {
-    "id": "elvia-14991",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 46,
-    "lat": 60.83216410589775,
-    "lng": 11.315120832742677,
-    "start": "14.8.2026, 14:42:27",
-    "end": "14.8.2026, 18:18:27",
-    "areaName": "Løten / Løten / ENS04091",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14991,
-      "antallkunder": 46,
-      "avbruddstype": "Unplanned",
-      "kommune": "Løten",
-      "nettstasjon": "ENS04091",
-      "poststed": "Løten",
-      "strombruddoppdaget": 1786718547000,
-      "utkoblingslutt": 1786731507000,
-      "utkoblingstart": 1786718547000
-    }
-  },
-  {
-    "id": "elvia-28686",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.407990030532595,
-    "lng": 10.689998294699212,
-    "start": "14.8.2026, 12:51:28",
-    "end": "14.8.2026, 16:27:28",
-    "areaName": "Moss / Dilling / Y0340",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28686,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0340",
-      "poststed": "Dilling",
-      "strombruddoppdaget": 1786711888000,
-      "utkoblingslutt": 1786724848000,
-      "utkoblingstart": 1786711888000
-    }
-  },
-  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
