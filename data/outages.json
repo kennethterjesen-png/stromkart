@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-10739",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.66790409513644,
-    "lng": 10.808323282203762,
-    "start": "14.8.2026, 11:09:27",
-    "end": "14.8.2026, 14:45:27",
-    "areaName": "Ås / Ås / C0138",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10739,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ås",
-      "nettstasjon": "C0138",
-      "poststed": "Ås",
-      "strombruddoppdaget": 1786705767000,
-      "utkoblingslutt": 1786718727000,
-      "utkoblingstart": 1786705767000
-    }
-  },
-  {
     "id": "elvia-14235",
     "company": "Elvia",
     "type": "planned",
@@ -89,90 +66,6 @@
       "strombruddoppdaget": 1786694613439,
       "utkoblingslutt": 1786712400000,
       "utkoblingstart": 1786694400000
-    }
-  },
-  {
-    "id": "elvia-20374",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 60.18379305143739,
-    "lng": 12.012325098572047,
-    "start": "14.8.2026, 09:22:48",
-    "end": "14.8.2026, 12:58:48",
-    "areaName": "Kongsvinger / Kongsvinger / ENS12525",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20374,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS12525",
-      "poststed": "Kongsvinger",
-      "strombruddoppdaget": 1786699368000,
-      "utkoblingslutt": 1786712328000,
-      "utkoblingstart": 1786699368000
-    }
-  },
-  {
-    "id": "elvia-21691",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.39565868840393,
-    "lng": 11.08324321195873,
-    "start": "14.8.2026, 10:20:56",
-    "end": "14.8.2026, 13:56:56",
-    "areaName": "Hurdal / Hurdal / H0018",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21691,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Hurdal",
-      "nettstasjon": "H0018",
-      "poststed": "Hurdal",
-      "strombruddoppdaget": 1786702856000,
-      "utkoblingslutt": 1786715816000,
-      "utkoblingstart": 1786702856000
-    }
-  },
-  {
-    "id": "fagne-4587389",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 7,
-    "lat": 59.62313323196528,
-    "lng": 5.786482148321852,
-    "start": null,
-    "end": null,
-    "areaName": "VINDAFJORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "VINDAFJORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4587373",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.61995104051253,
-    "lng": 5.785807260625608,
-    "start": null,
-    "end": null,
-    "areaName": "VINDAFJORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "VINDAFJORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
