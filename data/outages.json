@@ -4,26 +4,26 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.589504617661895,
-    "lng": 5.819307044474186,
+    "lat": 60.514748830588594,
+    "lng": 4.903747561062888,
     "start": null,
     "end": null,
-    "areaName": "Vaksdal",
+    "areaName": "Øygarden",
     "sourceUrl": "https://geonis.bkk.no/",
     "raw": {
-      "EVENTID": 9842027,
-      "MUNICIPAL_TXT": "Vaksdal",
-      "TYPE_TXT": "Utkobling",
+      "EVENTID": 9853838,
+      "MUNICIPAL_TXT": "Øygarden",
+      "TYPE_TXT": "Driftsforstyrrelse",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1786689000000,
-      "TIMELIMIT": 1786710600000,
-      "NUM_AB": 5,
-      "CUSTOMER_WEB_TEXT": "5722 DALEKVAM; BRÅTET,DALSEIDVEGEN",
+      "STARTTIME": 1786703940000,
+      "TIMELIMIT": 1786712400000,
+      "NUM_AB": 2,
+      "CUSTOMER_WEB_TEXT": null,
       "GRIDLEVEL_TXT": "Lav",
       "REASON_TXT": null,
       "NUM_NS": 0,
-      "LAST_UPDATED": 1786689573000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "LAST_UPDATED": 1786703930000,
+      "SCHEDULED_SMS_DAYS_BEFORE": -1,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 0,
       "NUM_AB_REGAINED": 0,
@@ -52,29 +52,6 @@
       "strombruddoppdaget": 1786701600000,
       "utkoblingslutt": 1786714560000,
       "utkoblingstart": 1786701600000
-    }
-  },
-  {
-    "id": "elvia-6547",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.91791709239213,
-    "lng": 10.742034121195607,
-    "start": "14.8.2026, 06:00:00",
-    "end": "14.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 1252",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6547,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "1252",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786712400000,
-      "utkoblingstart": 1786687200000
     }
   },
   {
@@ -147,29 +124,6 @@
     }
   },
   {
-    "id": "elvia-18342",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 20,
-    "lat": 60.129625191327975,
-    "lng": 12.235880774695772,
-    "start": "13.8.2026, 12:47:39",
-    "end": "13.8.2026, 16:23:39",
-    "areaName": "Eidskog / Åbogen / ENS09389",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18342,
-      "antallkunder": 20,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidskog",
-      "nettstasjon": "ENS09389",
-      "poststed": "Åbogen",
-      "strombruddoppdaget": 1786625259000,
-      "utkoblingslutt": 1786638219000,
-      "utkoblingstart": 1786625259000
-    }
-  },
-  {
     "id": "elvia-20023",
     "company": "Elvia",
     "type": "planned",
@@ -216,26 +170,26 @@
     }
   },
   {
-    "id": "elvia-24270",
+    "id": "elvia-21691",
     "company": "Elvia",
     "type": "planned",
-    "customers": 9,
-    "lat": 59.15248134905169,
-    "lng": 11.47086189164492,
-    "start": "14.8.2026, 07:32:25",
-    "end": "14.8.2026, 11:08:25",
-    "areaName": "Halden / Halden / Q0023",
+    "customers": 5,
+    "lat": 60.39565868840393,
+    "lng": 11.08324321195873,
+    "start": "14.8.2026, 10:20:56",
+    "end": "14.8.2026, 13:56:56",
+    "areaName": "Hurdal / Hurdal / H0018",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 24270,
-      "antallkunder": 9,
+      "OBJECTID": 21691,
+      "antallkunder": 5,
       "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0023",
-      "poststed": "Halden",
-      "strombruddoppdaget": 1786692745000,
-      "utkoblingslutt": 1786705705000,
-      "utkoblingstart": 1786692745000
+      "kommune": "Hurdal",
+      "nettstasjon": "H0018",
+      "poststed": "Hurdal",
+      "strombruddoppdaget": 1786702856000,
+      "utkoblingslutt": 1786715816000,
+      "utkoblingstart": 1786702856000
     }
   },
   {
@@ -277,27 +231,27 @@
     }
   },
   {
-    "id": "linja-outage-3377444",
+    "id": "linja-outage-3381516",
     "company": "Linja",
     "type": "outage",
-    "customers": 34,
-    "lat": 61.9045444262882,
-    "lng": 5.988613891111994,
+    "customers": 27,
+    "lat": 62.43118515187825,
+    "lng": 6.351469578615882,
     "start": "14.8.2026, 10:00:00",
     "end": null,
-    "areaName": "EID / Linja Sør",
+    "areaName": "SULA / Linja Nord",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3377444,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Kaivegen fredag 14. august mellom kl.12:00 og 12:30",
+      "EVENTID": 3381516,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Kildehaugen og Veibuststranda fredag 14.august fra kl. 12:00 til 15:00.",
       "STATE_TXT": "Pågående",
       "STARTTIME": 1786701600000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
-      "MUNICIPAL_TXT": "EID",
-      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "SULA",
+      "PURCHAREA_TXT": "Linja Nord",
       "NUM_NS": 0,
-      "NUM_AB": 34
+      "NUM_AB": 27
     }
   },
   {
@@ -826,23 +780,6 @@
       "MUNICIPAL_TXT": null,
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-7",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 16,
-    "lat": 58.94224606720373,
-    "lng": 5.668855389797142,
-    "start": "14.8.2026, 08:35:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 16",
-      "description": "Planlagt strømstans\nStartet: 2026-08-14 08:35\nPlanlagt ferdig: 2026-08-14 14:00",
-      "styleUrl": "#yellow"
     }
   },
   {
