@@ -1,57 +1,25 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.514748830588594,
-    "lng": 4.903747561062888,
-    "start": null,
-    "end": null,
-    "areaName": "Øygarden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9853838,
-      "MUNICIPAL_TXT": "Øygarden",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786703940000,
-      "TIMELIMIT": 1786712400000,
-      "NUM_AB": 2,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1786703930000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-6502",
+    "id": "elvia-10739",
     "company": "Elvia",
     "type": "planned",
-    "customers": 7,
-    "lat": 59.92398475272029,
-    "lng": 10.710331938926,
-    "start": "14.8.2026, 10:00:00",
-    "end": "14.8.2026, 13:36:00",
-    "areaName": "Oslo / Oslo / 1190",
+    "customers": 11,
+    "lat": 59.66790409513644,
+    "lng": 10.808323282203762,
+    "start": "14.8.2026, 11:09:27",
+    "end": "14.8.2026, 14:45:27",
+    "areaName": "Ås / Ås / C0138",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 6502,
-      "antallkunder": 7,
+      "OBJECTID": 10739,
+      "antallkunder": 11,
       "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "1190",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786701600000,
-      "utkoblingslutt": 1786714560000,
-      "utkoblingstart": 1786701600000
+      "kommune": "Ås",
+      "nettstasjon": "C0138",
+      "poststed": "Ås",
+      "strombruddoppdaget": 1786705767000,
+      "utkoblingslutt": 1786718727000,
+      "utkoblingstart": 1786705767000
     }
   },
   {
@@ -75,29 +43,6 @@
       "strombruddoppdaget": 1786624087000,
       "utkoblingslutt": 1786637047000,
       "utkoblingstart": 1786624087000
-    }
-  },
-  {
-    "id": "elvia-16582",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.5340066421719,
-    "lng": 12.013419929766053,
-    "start": "14.8.2026, 09:06:04",
-    "end": "14.8.2026, 12:42:04",
-    "areaName": "Åsnes / Arneberg / ENS06748",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16582,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS06748",
-      "poststed": "Arneberg",
-      "strombruddoppdaget": 1786698364000,
-      "utkoblingslutt": 1786711324000,
-      "utkoblingstart": 1786698364000
     }
   },
   {
@@ -193,12 +138,12 @@
     }
   },
   {
-    "id": "fagne-4587373",
+    "id": "fagne-4587389",
     "company": "Fagne",
     "type": "planned",
-    "customers": 8,
-    "lat": 59.61995104051253,
-    "lng": 5.785807260625608,
+    "customers": 7,
+    "lat": 59.62313323196528,
+    "lng": 5.786482148321852,
     "start": null,
     "end": null,
     "areaName": "VINDAFJORD",
@@ -212,12 +157,12 @@
     }
   },
   {
-    "id": "fagne-4587389",
+    "id": "fagne-4587373",
     "company": "Fagne",
     "type": "planned",
-    "customers": 7,
-    "lat": 59.62313323196528,
-    "lng": 5.786482148321852,
+    "customers": 8,
+    "lat": 59.61995104051253,
+    "lng": 5.785807260625608,
     "start": null,
     "end": null,
     "areaName": "VINDAFJORD",
@@ -780,34 +725,6 @@
       "MUNICIPAL_TXT": null,
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "norgesnett-planned-V-70848-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 43,
-    "lat": 59.78035229599999,
-    "lng": 10.49619678800002,
-    "start": "14.8.2026, 11:00:25",
-    "end": "14.8.2026, 12:00:25",
-    "areaName": "BØDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218769,
-      "REFNR": "P70848",
-      "SEKUNDÆRSTASJON": "BØDALEN",
-      "AVGANG": "K2_R303",
-      "CNT": 43,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1786705225000,
-      "TIL_DATO": 1786708825000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70848-1",
-      "description": ""
     }
   },
   {
