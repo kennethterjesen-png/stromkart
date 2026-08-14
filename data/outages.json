@@ -23,6 +23,30 @@
     }
   },
   {
+    "id": "linja-outage-3385793",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 44,
+    "lat": 62.62563426204165,
+    "lng": 7.088573232951698,
+    "start": "14.8.2026, 19:11:00",
+    "end": null,
+    "areaName": "VESTNES / Nordvestnett",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3385793,
+      "CUSTOMER_WEB_TEXT": null,
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786734660000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "VESTNES",
+      "PURCHAREA_TXT": "Nordvestnett",
+      "NUM_NS": 0,
+      "NUM_AB": 44
+    }
+  },
+  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
