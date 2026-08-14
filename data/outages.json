@@ -941,7 +941,7 @@
     "id": "norgesnett-outage-V-70889-1",
     "company": "Norgesnett",
     "type": "outage",
-    "customers": 151,
+    "customers": 161,
     "lat": 59.989652326,
     "lng": 8.943785784,
     "start": "14.8.2026, 21:48:43",
@@ -953,16 +953,16 @@
       "REFNR": "H70889",
       "SEKUNDÆRSTASJON": "RAVNANGER",
       "AVGANG": "ÅSEBØ",
-      "CNT": 151,
+      "CNT": 161,
       "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
+      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nOPPSANDV.45, SØNDRE SOLBERG, BJERKE ØSTRE, STREVOP, OPSAND II, SKREMMAVEIEN, STUNNER, SLORA, HØYBRÅTEN, GJEDSJØ SKOLE, STUBBERUD, SKEIDARKOLLEN, SOLBOTTMÅSAN, NESHØGDA, VASSHAGEN, GRØSTAD, ENGA, OPPSAND 1, BEKKEVAR, ÅSEBØ SAGBRUK.",
       "FRA_DATO": 1786744123000,
       "TIL_DATO": null,
       "LOGGTYPE": "Høyspent",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70889-1",
-      "description": ""
+      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nOPPSANDV.45, SØNDRE SOLBERG, BJERKE ØSTRE, STREVOP, OPSAND II, SKREMMAVEIEN, STUNNER, SLORA, HØYBRÅTEN, GJEDSJØ SKOLE, STUBBERUD, SKEIDARKOLLEN, SOLBOTTMÅSAN, NESHØGDA, VASSHAGEN, GRØSTAD, ENGA, OPPSAND 1, BEKKEVAR, ÅSEBØ SAGBRUK."
     }
   }
 ]
