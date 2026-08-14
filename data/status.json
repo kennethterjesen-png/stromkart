@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-13T23:35:43.073Z",
-  "count": 54,
+  "updatedAt": "2026-08-14T00:41:09.262Z",
+  "count": 47,
   "providers": [
     {
       "name": "Elvia",
       "ok": true,
-      "count": 12,
-      "rawCount": 12,
+      "count": 7,
+      "rawCount": 7,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -33,8 +33,8 @@
     {
       "name": "BKK",
       "ok": true,
-      "count": 2,
-      "rawCount": 2,
+      "count": 0,
+      "rawCount": 0,
       "filteredOut": 0,
       "warning": false,
       "error": null
