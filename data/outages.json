@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-6565",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 29,
-    "lat": 59.937801785602595,
-    "lng": 10.75152783705344,
-    "start": "13.8.2026, 22:01:00",
-    "end": "14.8.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 1289",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6565,
-      "antallkunder": 29,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "1289",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786680000000,
-      "utkoblingstart": 1786658460000
-    }
-  },
-  {
-    "id": "elvia-7607",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 25,
-    "lat": 59.94623901225076,
-    "lng": 10.807152891423195,
-    "start": "13.8.2026, 22:05:00",
-    "end": "14.8.2026, 05:00:00",
-    "areaName": "Oslo / Oslo / 2813",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7607,
-      "antallkunder": 25,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2813",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786683600000,
-      "utkoblingstart": 1786658700000
-    }
-  },
-  {
     "id": "elvia-14235",
     "company": "Elvia",
     "type": "planned",
@@ -206,30 +160,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ØRSTA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3383721",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.503248555112535,
-    "lng": 6.819406563717893,
-    "start": "14.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3383721,
-      "CUSTOMER_WEB_TEXT": "BARLINDHAUG - På grunn av arbeid i lågspentnettet vert det ein straumstans på nokre kundar. Berørte kundar er varsla på SMS. ",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1786690800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Nordvestnett",
-      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -518,30 +448,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3381512",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.4305858235226,
-    "lng": 6.350757531981978,
-    "start": "14.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "SULA / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3381512,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Veibuststranda fredag 14.august fra kl. 08:00 til 11:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1786687200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "SULA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
