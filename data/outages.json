@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-26404",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.56682531757169,
-    "lng": 10.735924083777617,
-    "start": "15.8.2026, 10:57:34",
-    "end": "15.8.2026, 14:33:34",
-    "areaName": "Vestby / Vestby / V0019",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26404,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Vestby",
-      "nettstasjon": "V0019",
-      "poststed": "Vestby",
-      "strombruddoppdaget": 1786791454000,
-      "utkoblingslutt": 1786804414000,
-      "utkoblingstart": 1786791454000
-    }
-  },
-  {
     "id": "fagne-4595517",
     "company": "Fagne",
     "type": "outage",
