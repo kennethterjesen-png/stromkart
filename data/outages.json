@@ -98,7 +98,7 @@
     "customers": 6,
     "lat": 60.75105583500635,
     "lng": 11.293370564940954,
-    "start": null,
+    "start": "15.8.2026, 09:51:20",
     "end": null,
     "areaName": "Stange / Ilseng / ENS14432",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -109,9 +109,9 @@
       "kommune": "Stange",
       "nettstasjon": "ENS14432",
       "poststed": "Ilseng",
-      "strombruddoppdaget": null,
+      "strombruddoppdaget": 1786787480000,
       "utkoblingslutt": null,
-      "utkoblingstart": null
+      "utkoblingstart": 1786787480000
     }
   },
   {
@@ -963,29 +963,6 @@
       "strombruddoppdaget": 1786784052864,
       "utkoblingslutt": 1786797552000,
       "utkoblingstart": 1786784052864
-    }
-  },
-  {
-    "id": "elvia-28251",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 59.272573848367806,
-    "lng": 10.732915403620945,
-    "start": "15.8.2026, 08:35:21",
-    "end": "15.8.2026, 12:11:21",
-    "areaName": "Fredrikstad / Manstad / X2172",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28251,
-      "antallkunder": 15,
-      "avbruddstype": "Unplanned",
-      "kommune": "Fredrikstad",
-      "nettstasjon": "X2172",
-      "poststed": "Manstad",
-      "strombruddoppdaget": 1786782921000,
-      "utkoblingslutt": 1786795881000,
-      "utkoblingstart": 1786782921000
     }
   },
   {
