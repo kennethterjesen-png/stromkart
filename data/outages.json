@@ -959,33 +959,5 @@
       "STROMSTANSID": "V-2901-1",
       "description": ""
     }
-  },
-  {
-    "id": "norgesnett-outage-V-70889-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 42,
-    "lat": 59.715638032000015,
-    "lng": 10.909356004000017,
-    "start": "14.8.2026, 21:48:43",
-    "end": null,
-    "areaName": "DRØMTORP",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219041,
-      "REFNR": "H70889",
-      "SEKUNDÆRSTASJON": "DRØMTORP",
-      "AVGANG": "L12",
-      "CNT": 42,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nOPPSANDV.45, SØNDRE SOLBERG, BJERKE ØSTRE, STREVOP, OPSAND II, SKREMMAVEIEN, STUNNER, SLORA, HØYBRÅTEN, GJEDSJØ SKOLE, STUBBERUD, SKEIDARKOLLEN, SOLBOTTMÅSAN, NESHØGDA, VASSHAGEN, GRØSTAD, ENGA, OPPSAND 1, BEKKEVAR, ÅSEBØ SAGBRUK.",
-      "FRA_DATO": 1786744123000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70889-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\nOPPSANDV.45, SØNDRE SOLBERG, BJERKE ØSTRE, STREVOP, OPSAND II, SKREMMAVEIEN, STUNNER, SLORA, HØYBRÅTEN, GJEDSJØ SKOLE, STUBBERUD, SKEIDARKOLLEN, SOLBOTTMÅSAN, NESHØGDA, VASSHAGEN, GRØSTAD, ENGA, OPPSAND 1, BEKKEVAR, ÅSEBØ SAGBRUK."
-    }
   }
 ]
