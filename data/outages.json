@@ -92,29 +92,6 @@
     }
   },
   {
-    "id": "elvia-21098",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.75105583500635,
-    "lng": 11.293370564940954,
-    "start": "15.8.2026, 09:51:20",
-    "end": null,
-    "areaName": "Stange / Ilseng / ENS14432",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21098,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14432",
-      "poststed": "Ilseng",
-      "strombruddoppdaget": 1786787480000,
-      "utkoblingslutt": null,
-      "utkoblingstart": 1786787480000
-    }
-  },
-  {
     "id": "elvia-24866",
     "company": "Elvia",
     "type": "planned",
@@ -986,6 +963,25 @@
       "strombruddoppdaget": 1786784052864,
       "utkoblingslutt": 1786797552000,
       "utkoblingstart": 1786784052864
+    }
+  },
+  {
+    "id": "fagne-4595517",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 4,
+    "lat": 59.343565735529786,
+    "lng": 5.709100937935241,
+    "start": null,
+    "end": null,
+    "areaName": "TYSVÆR",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "TYSVÆR",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
