@@ -23,26 +23,26 @@
     }
   },
   {
-    "id": "elvia-21719",
+    "id": "elvia-16204",
     "company": "Elvia",
     "type": "planned",
-    "customers": 5,
-    "lat": 60.47283860859759,
-    "lng": 11.022361528637393,
-    "start": "15.8.2026, 16:53:58",
-    "end": "15.8.2026, 20:29:58",
-    "areaName": "Hurdal / Hurdal / H0125",
+    "customers": 8,
+    "lat": 60.31020788150182,
+    "lng": 12.489763443124215,
+    "start": "15.8.2026, 23:03:19",
+    "end": "16.8.2026, 02:39:19",
+    "areaName": "Grue / Grue finnskog / ENS06029",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 21719,
-      "antallkunder": 5,
+      "OBJECTID": 16204,
+      "antallkunder": 8,
       "avbruddstype": "Unplanned",
-      "kommune": "Hurdal",
-      "nettstasjon": "H0125",
-      "poststed": "Hurdal",
-      "strombruddoppdaget": 1786812838000,
-      "utkoblingslutt": 1786825798000,
-      "utkoblingstart": 1786812838000
+      "kommune": "Grue",
+      "nettstasjon": "ENS06029",
+      "poststed": "Grue finnskog",
+      "strombruddoppdaget": 1786834999000,
+      "utkoblingslutt": 1786847959000,
+      "utkoblingstart": 1786834999000
     }
   },
   {
@@ -53,7 +53,7 @@
     "lat": 59.541525575404805,
     "lng": 11.631075540752704,
     "start": "15.8.2026, 22:53:02",
-    "end": null,
+    "end": "16.8.2026, 02:29:02",
     "areaName": "Marker / Ørje / W0017",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -64,7 +64,7 @@
       "nettstasjon": "W0017",
       "poststed": "Ørje",
       "strombruddoppdaget": 1786834382000,
-      "utkoblingslutt": null,
+      "utkoblingslutt": 1786847342000,
       "utkoblingstart": 1786834382000
     }
   },
