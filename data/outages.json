@@ -23,21 +23,21 @@
     }
   },
   {
-    "id": "fagne-4595517",
+    "id": "fagne-4590692",
     "company": "Fagne",
-    "type": "outage",
-    "customers": 4,
-    "lat": 59.343565735529786,
-    "lng": 5.709100937935241,
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.210606592743765,
+    "lng": 5.462278135428734,
     "start": null,
     "end": null,
-    "areaName": "TYSVÆR",
+    "areaName": "BOKN",
     "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
       "description": "",
       "state": "Pågående",
-      "municipal": "TYSVÆR",
-      "typeTxt": "Driftsforstyrrelse",
+      "municipal": "BOKN",
+      "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
     }
   },
