@@ -46,52 +46,6 @@
     }
   },
   {
-    "id": "elvia-23071",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.146186751437675,
-    "lng": 11.04910274633653,
-    "start": "15.8.2026, 12:49:48",
-    "end": "15.8.2026, 16:25:48",
-    "areaName": "Nannestad / Holter / M1292",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23071,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nannestad",
-      "nettstasjon": "M1292",
-      "poststed": "Holter",
-      "strombruddoppdaget": 1786798188000,
-      "utkoblingslutt": 1786811148000,
-      "utkoblingstart": 1786798188000
-    }
-  },
-  {
-    "id": "elvia-24332",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.13633357763686,
-    "lng": 11.245067076534031,
-    "start": "15.8.2026, 12:57:37",
-    "end": "15.8.2026, 16:33:37",
-    "areaName": "Halden / Berg i østfold / Q0093",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24332,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0093",
-      "poststed": "Berg i østfold",
-      "strombruddoppdaget": 1786798657000,
-      "utkoblingslutt": 1786811617000,
-      "utkoblingstart": 1786798657000
-    }
-  },
-  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
