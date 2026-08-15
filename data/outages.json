@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-19439",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 61.483062281627674,
+    "lng": 12.29037016154019,
+    "start": "14.8.2026, 23:55:32",
+    "end": "15.8.2026, 03:31:32",
+    "areaName": "Trysil / Trysil / ENS10978",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 19439,
+      "antallkunder": 10,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS10978",
+      "poststed": "Trysil",
+      "strombruddoppdaget": 1786751732000,
+      "utkoblingslutt": 1786764692000,
+      "utkoblingstart": 1786751732000
+    }
+  },
+  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
