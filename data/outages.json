@@ -69,29 +69,6 @@
     }
   },
   {
-    "id": "elvia-23511",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.133534837481335,
-    "lng": 11.381216908841463,
-    "start": "15.8.2026, 18:26:54",
-    "end": "15.8.2026, 22:02:54",
-    "areaName": "Nes / Vormsund / N4054",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23511,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N4054",
-      "poststed": "Vormsund",
-      "strombruddoppdaget": 1786818414000,
-      "utkoblingslutt": 1786831374000,
-      "utkoblingstart": 1786818414000
-    }
-  },
-  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
