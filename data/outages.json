@@ -52,7 +52,7 @@
     "customers": 2,
     "lat": 59.34968797052834,
     "lng": 11.521823041201634,
-    "start": "15.8.2026, 21:33:54",
+    "start": "14.8.2026, 22:26:31",
     "end": "16.8.2026, 01:09:54",
     "areaName": "Rakkestad / Degernes / W289",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
@@ -63,9 +63,32 @@
       "kommune": "Rakkestad",
       "nettstasjon": "W289",
       "poststed": "Degernes",
-      "strombruddoppdaget": 1786829634000,
+      "strombruddoppdaget": 1786746391000,
       "utkoblingslutt": 1786842594000,
-      "utkoblingstart": 1786829634000
+      "utkoblingstart": 1786746391000
+    }
+  },
+  {
+    "id": "elvia-30426",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.33740485304272,
+    "lng": 11.522257020524941,
+    "start": "14.8.2026, 22:26:31",
+    "end": "16.8.2026, 01:09:54",
+    "areaName": "Rakkestad / Degernes / W327",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 30426,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Rakkestad",
+      "nettstasjon": "W327",
+      "poststed": "Degernes",
+      "strombruddoppdaget": 1786746391000,
+      "utkoblingslutt": 1786842594000,
+      "utkoblingstart": 1786746391000
     }
   },
   {
