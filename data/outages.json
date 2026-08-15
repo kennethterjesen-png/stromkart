@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-2668",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.40878357551327,
-    "lng": 11.566614927132818,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Nord-Odal / Sagstua / ENS06634",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 2668,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06634",
-      "poststed": "Sagstua",
-      "strombruddoppdaget": 1786763105699,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105699
-    }
-  },
-  {
     "id": "elvia-2669",
     "company": "Elvia",
     "type": "planned",
@@ -69,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-2670",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.40997606308838,
-    "lng": 11.56490169692406,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Nord-Odal / Sagstua / ENS06637",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 2670,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06637",
-      "poststed": "Sagstua",
-      "strombruddoppdaget": 1786763105699,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105699
-    }
-  },
-  {
     "id": "elvia-3417",
     "company": "Elvia",
     "type": "planned",
@@ -108,52 +62,6 @@
       "avbruddstype": "Unplanned",
       "kommune": "Nord-Odal",
       "nettstasjon": "ENS13077",
-      "poststed": "Sagstua",
-      "strombruddoppdaget": 1786763105699,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105699
-    }
-  },
-  {
-    "id": "elvia-12245",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.215627667150116,
-    "lng": 11.787486882908869,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Sør-Odal / Sander / ENS00069",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12245,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS00069",
-      "poststed": "Sander",
-      "strombruddoppdaget": 1786763105110,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105110
-    }
-  },
-  {
-    "id": "elvia-13929",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.41372369901748,
-    "lng": 11.571990026799776,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Nord-Odal / Sagstua / ENS02590",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13929,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS02590",
       "poststed": "Sagstua",
       "strombruddoppdaget": 1786763105699,
       "utkoblingslutt": 1786776605000,
@@ -253,52 +161,6 @@
     }
   },
   {
-    "id": "elvia-16499",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.40686341266371,
-    "lng": 11.564029163966168,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Nord-Odal / Sagstua / ENS06638",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16499,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06638",
-      "poststed": "Sagstua",
-      "strombruddoppdaget": 1786763105699,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105699
-    }
-  },
-  {
-    "id": "elvia-16500",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.40979299738467,
-    "lng": 11.56424736142615,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Nord-Odal / Sagstua / ENS06639",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16500,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06639",
-      "poststed": "Sagstua",
-      "strombruddoppdaget": 1786763105699,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105699
-    }
-  },
-  {
     "id": "elvia-16530",
     "company": "Elvia",
     "type": "planned",
@@ -322,121 +184,6 @@
     }
   },
   {
-    "id": "elvia-16544",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.41263857713791,
-    "lng": 11.57162321185995,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Nord-Odal / Sagstua / ENS06697",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16544,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06697",
-      "poststed": "Sagstua",
-      "strombruddoppdaget": 1786763105699,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105699
-    }
-  },
-  {
-    "id": "elvia-17036",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 32,
-    "lat": 60.220318081517775,
-    "lng": 11.801965280976628,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Sør-Odal / Sander / ENS07390",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17036,
-      "antallkunder": 32,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS07390",
-      "poststed": "Sander",
-      "strombruddoppdaget": 1786763105110,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105110
-    }
-  },
-  {
-    "id": "elvia-17037",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 60.2163935706142,
-    "lng": 11.775839130054623,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Sør-Odal / Sander / ENS07392",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17037,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS07392",
-      "poststed": "Sander",
-      "strombruddoppdaget": 1786763105110,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105110
-    }
-  },
-  {
-    "id": "elvia-17038",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.22093115747423,
-    "lng": 11.778140413693626,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Sør-Odal / Sander / ENS07393",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17038,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS07393",
-      "poststed": "Sander",
-      "strombruddoppdaget": 1786763105110,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105110
-    }
-  },
-  {
-    "id": "elvia-17039",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.225929867351184,
-    "lng": 11.767204045978655,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Sør-Odal / Skarnes / ENS07394",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17039,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS07394",
-      "poststed": "Skarnes",
-      "strombruddoppdaget": 1786763105110,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105110
-    }
-  },
-  {
     "id": "elvia-17040",
     "company": "Elvia",
     "type": "planned",
@@ -457,52 +204,6 @@
       "strombruddoppdaget": 1786763105110,
       "utkoblingslutt": 1786776605000,
       "utkoblingstart": 1786763105110
-    }
-  },
-  {
-    "id": "elvia-19982",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.21881847443628,
-    "lng": 11.792207804109262,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Sør-Odal / Sander / ENS11806",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 19982,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS11806",
-      "poststed": "Sander",
-      "strombruddoppdaget": 1786763105110,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105110
-    }
-  },
-  {
-    "id": "elvia-30398",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.41477317405018,
-    "lng": 11.572763648089747,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Nord-Odal / Sagstua / ENS12182",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30398,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS12182",
-      "poststed": "Sagstua",
-      "strombruddoppdaget": 1786763105699,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105699
     }
   },
   {
