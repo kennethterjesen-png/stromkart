@@ -966,29 +966,6 @@
     }
   },
   {
-    "id": "elvia-27144",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.55685852268949,
-    "lng": 11.328651215559665,
-    "start": "15.8.2026, 08:00:00",
-    "end": "15.8.2026, 10:00:00",
-    "areaName": "Indre Østfold / Mysen / W2217",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27144,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "W2217",
-      "poststed": "Mysen",
-      "strombruddoppdaget": 1786781243590,
-      "utkoblingslutt": 1786788000000,
-      "utkoblingstart": 1786780800000
-    }
-  },
-  {
     "id": "elvia-28251",
     "company": "Elvia",
     "type": "planned",
