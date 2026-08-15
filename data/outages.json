@@ -92,29 +92,6 @@
     }
   },
   {
-    "id": "elvia-3380",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.23752148099087,
-    "lng": 11.757075721483014,
-    "start": "15.8.2026, 03:05:05",
-    "end": "15.8.2026, 06:50:05",
-    "areaName": "Sør-Odal / Skarnes / ENS12930",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 3380,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS12930",
-      "poststed": "Skarnes",
-      "strombruddoppdaget": 1786763105110,
-      "utkoblingslutt": 1786776605000,
-      "utkoblingstart": 1786763105110
-    }
-  },
-  {
     "id": "elvia-3417",
     "company": "Elvia",
     "type": "planned",
