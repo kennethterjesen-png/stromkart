@@ -46,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-18584",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 61.528792946120504,
-    "lng": 12.50452141855811,
-    "start": "15.8.2026, 18:20:16",
-    "end": "15.8.2026, 21:56:16",
-    "areaName": "Trysil / Ljørdalen / ENS09736",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18584,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS09736",
-      "poststed": "Ljørdalen",
-      "strombruddoppdaget": 1786818016000,
-      "utkoblingslutt": 1786830976000,
-      "utkoblingstart": 1786818016000
-    }
-  },
-  {
     "id": "elvia-21719",
     "company": "Elvia",
     "type": "planned",
