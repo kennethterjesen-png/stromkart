@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-9715",
+    "id": "elvia-11598",
     "company": "Elvia",
     "type": "planned",
-    "customers": 14,
-    "lat": 59.950212207949306,
-    "lng": 10.518478722963014,
-    "start": "15.8.2026, 14:17:36",
-    "end": "15.8.2026, 17:53:36",
-    "areaName": "Bærum / Lommedalen / B0426",
+    "customers": 19,
+    "lat": 59.84395360591859,
+    "lng": 10.468030088749428,
+    "start": "15.8.2026, 18:06:49",
+    "end": "15.8.2026, 21:42:49",
+    "areaName": "Asker / Asker / D5350",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 9715,
-      "antallkunder": 14,
+      "OBJECTID": 11598,
+      "antallkunder": 19,
       "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0426",
-      "poststed": "Lommedalen",
-      "strombruddoppdaget": 1786803456000,
-      "utkoblingslutt": 1786816416000,
-      "utkoblingstart": 1786803456000
+      "kommune": "Asker",
+      "nettstasjon": "D5350",
+      "poststed": "Asker",
+      "strombruddoppdaget": 1786817209000,
+      "utkoblingslutt": 1786830169000,
+      "utkoblingstart": 1786817209000
     }
   },
   {
