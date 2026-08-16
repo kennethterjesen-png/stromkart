@@ -22,36 +22,13 @@
       "GRIDLEVEL_TXT": "Høy",
       "REASON_TXT": null,
       "NUM_NS": 5,
-      "LAST_UPDATED": 1786895853000,
+      "LAST_UPDATED": 1786898110000,
       "SCHEDULED_SMS_DAYS_BEFORE": -1,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 0,
       "NUM_AB_REGAINED": 0,
       "SCHEDULED_SMS_INHABITANT_TEXT": null,
       "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-18359",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 60.02526522855888,
-    "lng": 12.110095422363406,
-    "start": "16.8.2026, 13:47:46",
-    "end": "16.8.2026, 17:32:46",
-    "areaName": "Eidskog / Matrand / ENS09416",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18359,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidskog",
-      "nettstasjon": "ENS09416",
-      "poststed": "Matrand",
-      "strombruddoppdaget": 1786888066540,
-      "utkoblingslutt": 1786901566000,
-      "utkoblingstart": 1786888066540
     }
   },
   {
