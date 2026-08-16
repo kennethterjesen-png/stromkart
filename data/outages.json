@@ -23,26 +23,26 @@
     }
   },
   {
-    "id": "elvia-27132",
+    "id": "elvia-21719",
     "company": "Elvia",
     "type": "planned",
-    "customers": 24,
-    "lat": 59.5487658179292,
-    "lng": 11.332651774062517,
-    "start": "16.8.2026, 11:54:21",
-    "end": "16.8.2026, 15:30:21",
-    "areaName": "Indre Østfold / Mysen / W2201",
+    "customers": 5,
+    "lat": 60.47283860859759,
+    "lng": 11.022361528637393,
+    "start": "15.8.2026, 16:53:58",
+    "end": "15.8.2026, 20:29:58",
+    "areaName": "Hurdal / Hurdal / H0125",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 27132,
-      "antallkunder": 24,
+      "OBJECTID": 21719,
+      "antallkunder": 5,
       "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "W2201",
-      "poststed": "Mysen",
-      "strombruddoppdaget": 1786881261000,
-      "utkoblingslutt": 1786894221000,
-      "utkoblingstart": 1786881261000
+      "kommune": "Hurdal",
+      "nettstasjon": "H0125",
+      "poststed": "Hurdal",
+      "strombruddoppdaget": 1786812838000,
+      "utkoblingslutt": 1786825798000,
+      "utkoblingstart": 1786812838000
     }
   },
   {
