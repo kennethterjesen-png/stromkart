@@ -32,98 +32,6 @@
     }
   },
   {
-    "id": "elvia-406",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.846947086227786,
-    "lng": 10.804751973626132,
-    "start": "16.8.2026, 00:17:20",
-    "end": "16.8.2026, 04:02:20",
-    "areaName": "Oslo / Oslo / 1903",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 406,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "1903",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786839440914,
-      "utkoblingslutt": 1786852940000,
-      "utkoblingstart": 1786839440914
-    }
-  },
-  {
-    "id": "elvia-6633",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 127,
-    "lat": 59.84569636446648,
-    "lng": 10.80513783663864,
-    "start": "16.8.2026, 00:17:20",
-    "end": "16.8.2026, 04:02:20",
-    "areaName": "Oslo / Oslo / 1393",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6633,
-      "antallkunder": 127,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "1393",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786839440914,
-      "utkoblingslutt": 1786852940000,
-      "utkoblingstart": 1786839440914
-    }
-  },
-  {
-    "id": "elvia-8376",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.84750103635788,
-    "lng": 10.809665093676111,
-    "start": "16.8.2026, 00:17:20",
-    "end": "16.8.2026, 04:02:20",
-    "areaName": "Oslo / Oslo / 4060",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8376,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "4060",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786839440914,
-      "utkoblingslutt": 1786852940000,
-      "utkoblingstart": 1786839440914
-    }
-  },
-  {
-    "id": "elvia-8403",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 24,
-    "lat": 59.84677917446732,
-    "lng": 10.80652395532585,
-    "start": "16.8.2026, 00:17:20",
-    "end": "16.8.2026, 04:02:20",
-    "areaName": "Oslo / Oslo / 4100",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8403,
-      "antallkunder": 24,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "4100",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786839440914,
-      "utkoblingslutt": 1786852940000,
-      "utkoblingstart": 1786839440914
-    }
-  },
-  {
     "id": "elvia-14235",
     "company": "Elvia",
     "type": "planned",
@@ -144,29 +52,6 @@
       "strombruddoppdaget": 1786624087000,
       "utkoblingslutt": 1786637047000,
       "utkoblingstart": 1786624087000
-    }
-  },
-  {
-    "id": "elvia-16204",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.31020788150182,
-    "lng": 12.489763443124215,
-    "start": "15.8.2026, 23:03:19",
-    "end": "16.8.2026, 02:39:19",
-    "areaName": "Grue / Grue finnskog / ENS06029",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16204,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Grue",
-      "nettstasjon": "ENS06029",
-      "poststed": "Grue finnskog",
-      "strombruddoppdaget": 1786834999000,
-      "utkoblingslutt": 1786847959000,
-      "utkoblingstart": 1786834999000
     }
   },
   {
