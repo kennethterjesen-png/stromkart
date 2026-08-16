@@ -23,52 +23,6 @@
     }
   },
   {
-    "id": "elvia-26727",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.53421778287709,
-    "lng": 11.670679904522634,
-    "start": "16.8.2026, 09:56:47",
-    "end": "16.8.2026, 13:32:47",
-    "areaName": "Marker / Ørje / W0013",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26727,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Marker",
-      "nettstasjon": "W0013",
-      "poststed": "Ørje",
-      "strombruddoppdaget": 1786874207000,
-      "utkoblingslutt": 1786887167000,
-      "utkoblingstart": 1786874207000
-    }
-  },
-  {
-    "id": "elvia-26738",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.53837264138635,
-    "lng": 11.65354650934837,
-    "start": "16.8.2026, 07:19:07",
-    "end": "16.8.2026, 11:04:07",
-    "areaName": "Marker / Ørje / W0024",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26738,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Marker",
-      "nettstasjon": "W0024",
-      "poststed": "Ørje",
-      "strombruddoppdaget": 1786864747540,
-      "utkoblingslutt": 1786878247000,
-      "utkoblingstart": 1786864747540
-    }
-  },
-  {
     "id": "elvia-29620",
     "company": "Elvia",
     "type": "planned",
