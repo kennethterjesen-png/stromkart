@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-14235",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 61.16408197374677,
-    "lng": 10.40268270708935,
-    "start": "13.8.2026, 12:28:07",
-    "end": "13.8.2026, 16:04:07",
-    "areaName": "Lillehammer / Fåberg / ENS03037",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14235,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03037",
-      "poststed": "Fåberg",
-      "strombruddoppdaget": 1786624087000,
-      "utkoblingslutt": 1786637047000,
-      "utkoblingstart": 1786624087000
-    }
-  },
-  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
