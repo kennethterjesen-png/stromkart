@@ -58,23 +58,46 @@
     "id": "elvia-26738",
     "company": "Elvia",
     "type": "planned",
-    "customers": 3,
+    "customers": 1,
     "lat": 59.53837264138635,
     "lng": 11.65354650934837,
-    "start": "16.8.2026, 07:19:07",
-    "end": "16.8.2026, 11:04:07",
+    "start": "16.8.2026, 06:44:34",
+    "end": "16.8.2026, 10:20:34",
     "areaName": "Marker / Ørje / W0024",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
       "OBJECTID": 26738,
-      "antallkunder": 3,
+      "antallkunder": 1,
       "avbruddstype": "Unplanned",
       "kommune": "Marker",
       "nettstasjon": "W0024",
       "poststed": "Ørje",
-      "strombruddoppdaget": 1786864747540,
-      "utkoblingslutt": 1786878247000,
-      "utkoblingstart": 1786864747540
+      "strombruddoppdaget": 1786862674000,
+      "utkoblingslutt": 1786875634000,
+      "utkoblingstart": 1786862674000
+    }
+  },
+  {
+    "id": "elvia-29620",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 16,
+    "lat": 59.47323167185941,
+    "lng": 11.15731849929134,
+    "start": "16.8.2026, 09:18:09",
+    "end": "16.8.2026, 12:54:09",
+    "areaName": "Skiptvet / Skiptvet / Z2159",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 29620,
+      "antallkunder": 16,
+      "avbruddstype": "Unplanned",
+      "kommune": "Skiptvet",
+      "nettstasjon": "Z2159",
+      "poststed": "Skiptvet",
+      "strombruddoppdaget": 1786871889000,
+      "utkoblingslutt": 1786884849000,
+      "utkoblingstart": 1786871889000
     }
   },
   {
