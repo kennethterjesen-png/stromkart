@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-26727",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.53421778287709,
+    "lng": 11.670679904522634,
+    "start": "16.8.2026, 09:56:47",
+    "end": "16.8.2026, 13:32:47",
+    "areaName": "Marker / Ørje / W0013",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26727,
+      "antallkunder": 3,
+      "avbruddstype": "Unplanned",
+      "kommune": "Marker",
+      "nettstasjon": "W0013",
+      "poststed": "Ørje",
+      "strombruddoppdaget": 1786874207000,
+      "utkoblingslutt": 1786887167000,
+      "utkoblingstart": 1786874207000
+    }
+  },
+  {
     "id": "elvia-26738",
     "company": "Elvia",
     "type": "planned",
@@ -66,25 +89,6 @@
       "strombruddoppdaget": 1786871889000,
       "utkoblingslutt": 1786884849000,
       "utkoblingstart": 1786871889000
-    }
-  },
-  {
-    "id": "fagne-4591064",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 16,
-    "lat": 59.377258889811195,
-    "lng": 5.307635740219288,
-    "start": null,
-    "end": null,
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
