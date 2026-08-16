@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.13952797330706,
+    "lng": 5.36947551163636,
+    "start": null,
+    "end": null,
+    "areaName": "Bjørnafjorden",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9857024,
+      "MUNICIPAL_TXT": "Bjørnafjorden",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786910400000,
+      "TIMELIMIT": 1786935600000,
+      "NUM_AB": 488,
+      "CUSTOMER_WEB_TEXT": "5200 OS; BJØRNARØYA\r\n5216 LEPSØY; RØTINGAVEGEN,SUNDØYHAGEN,BRATTHOLMEN,BJØRNARØYA,SUNDØYTANGEN\r\n5217 HAGAVIK; SØRSTRØNO",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 12,
+      "LAST_UPDATED": 1786911326000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-21047",
     "company": "Elvia",
     "type": "planned",
@@ -20,29 +52,6 @@
       "strombruddoppdaget": 1786906928000,
       "utkoblingslutt": 1786919888000,
       "utkoblingstart": 1786906928000
-    }
-  },
-  {
-    "id": "elvia-22021",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.605106568048946,
-    "lng": 10.92347568643086,
-    "start": "16.8.2026, 18:05:44",
-    "end": "16.8.2026, 21:41:44",
-    "areaName": "Indre Østfold / Hobøl / I1034",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22021,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "I1034",
-      "poststed": "Hobøl",
-      "strombruddoppdaget": 1786903544000,
-      "utkoblingslutt": 1786916504000,
-      "utkoblingstart": 1786903544000
     }
   },
   {
