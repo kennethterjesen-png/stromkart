@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.13952797330706,
-    "lng": 5.36947551163636,
-    "start": null,
-    "end": null,
-    "areaName": "Bjørnafjorden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9857024,
-      "MUNICIPAL_TXT": "Bjørnafjorden",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786910400000,
-      "TIMELIMIT": 1786935600000,
-      "NUM_AB": 488,
-      "CUSTOMER_WEB_TEXT": "5200 OS; BJØRNARØYA\r\n5216 LEPSØY; RØTINGAVEGEN,SUNDØYHAGEN,BRATTHOLMEN,BJØRNARØYA,SUNDØYTANGEN\r\n5217 HAGAVIK; SØRSTRØNO",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 12,
-      "LAST_UPDATED": 1786911391000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
