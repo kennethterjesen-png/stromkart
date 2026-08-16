@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-21047",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 60.779497675232086,
+    "lng": 11.297914074888672,
+    "start": "16.8.2026, 19:02:08",
+    "end": "16.8.2026, 22:38:08",
+    "areaName": "Stange / Ådalsbruk / ENS14379",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21047,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Stange",
+      "nettstasjon": "ENS14379",
+      "poststed": "Ådalsbruk",
+      "strombruddoppdaget": 1786906928000,
+      "utkoblingslutt": 1786919888000,
+      "utkoblingstart": 1786906928000
+    }
+  },
+  {
     "id": "elvia-22021",
     "company": "Elvia",
     "type": "planned",
