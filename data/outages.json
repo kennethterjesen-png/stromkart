@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-22021",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.605106568048946,
+    "lng": 10.92347568643086,
+    "start": "16.8.2026, 18:05:44",
+    "end": "16.8.2026, 21:41:44",
+    "areaName": "Indre Østfold / Hobøl / I1034",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22021,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "I1034",
+      "poststed": "Hobøl",
+      "strombruddoppdaget": 1786903544000,
+      "utkoblingslutt": 1786916504000,
+      "utkoblingstart": 1786903544000
+    }
+  },
+  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
