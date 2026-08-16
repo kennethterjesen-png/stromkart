@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-26731",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.541525575404805,
-    "lng": 11.631075540752704,
-    "start": "14.8.2026, 23:56:26",
-    "end": "16.8.2026, 02:29:02",
-    "areaName": "Marker / Ørje / W0017",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26731,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Marker",
-      "nettstasjon": "W0017",
-      "poststed": "Ørje",
-      "strombruddoppdaget": 1786751786000,
-      "utkoblingslutt": 1786847342000,
-      "utkoblingstart": 1786751786000
-    }
-  },
-  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
