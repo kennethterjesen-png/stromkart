@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.38374364396697,
-    "lng": 5.362532722984886,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9860160,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786837080000,
-      "TIMELIMIT": 1786847400000,
-      "NUM_AB": 20,
-      "CUSTOMER_WEB_TEXT": "Svartediksveien i Bergen. Flere kunder strømløse pga trefall over strømledning i området. BKK arbeider med reperasjon.",
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": "Veltet tre over linjen",
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1786840122000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-14235",
     "company": "Elvia",
     "type": "planned",
