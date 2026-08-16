@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.20248980893901,
-    "lng": 5.451333200480964,
-    "start": null,
-    "end": null,
-    "areaName": "Bjørnafjorden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9860352,
-      "MUNICIPAL_TXT": "Bjørnafjorden",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786863840000,
-      "TIMELIMIT": 1786874400000,
-      "NUM_AB": 22,
-      "CUSTOMER_WEB_TEXT": "Personell arbeider med feilretting. ",
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1786867183000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-14235",
     "company": "Elvia",
     "type": "planned",
@@ -58,23 +26,23 @@
     "id": "elvia-26738",
     "company": "Elvia",
     "type": "planned",
-    "customers": 1,
+    "customers": 3,
     "lat": 59.53837264138635,
     "lng": 11.65354650934837,
-    "start": "16.8.2026, 06:44:34",
-    "end": "16.8.2026, 10:20:34",
+    "start": "16.8.2026, 07:19:07",
+    "end": "16.8.2026, 11:04:07",
     "areaName": "Marker / Ørje / W0024",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
       "OBJECTID": 26738,
-      "antallkunder": 1,
+      "antallkunder": 3,
       "avbruddstype": "Unplanned",
       "kommune": "Marker",
       "nettstasjon": "W0024",
       "poststed": "Ørje",
-      "strombruddoppdaget": 1786862674000,
-      "utkoblingslutt": 1786875634000,
-      "utkoblingstart": 1786862674000
+      "strombruddoppdaget": 1786864747540,
+      "utkoblingslutt": 1786878247000,
+      "utkoblingstart": 1786864747540
     }
   },
   {
@@ -98,6 +66,25 @@
       "strombruddoppdaget": 1786871889000,
       "utkoblingslutt": 1786884849000,
       "utkoblingstart": 1786871889000
+    }
+  },
+  {
+    "id": "fagne-4591064",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 16,
+    "lat": 59.377258889811195,
+    "lng": 5.307635740219288,
+    "start": null,
+    "end": null,
+    "areaName": "KARMØY",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "KARMØY",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
     }
   },
   {
