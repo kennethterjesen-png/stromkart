@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-26738",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.53837264138635,
+    "lng": 11.65354650934837,
+    "start": "16.8.2026, 06:44:34",
+    "end": "16.8.2026, 10:20:34",
+    "areaName": "Marker / Ørje / W0024",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26738,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Marker",
+      "nettstasjon": "W0024",
+      "poststed": "Ørje",
+      "strombruddoppdaget": 1786862674000,
+      "utkoblingslutt": 1786875634000,
+      "utkoblingstart": 1786862674000
+    }
+  },
+  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
@@ -687,6 +710,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2898-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70880-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 27,
+    "lat": 59.096598949999986,
+    "lng": 10.846927713000014,
+    "start": "21.8.2026, 06:30:09",
+    "end": "21.8.2026, 11:00:09",
+    "areaName": "RØD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219057,
+      "REFNR": "P70880",
+      "SEKUNDÆRSTASJON": "RØD",
+      "AVGANG": "H3053",
+      "CNT": 27,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787293809000,
+      "TIL_DATO": 1787310009000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70880-1",
       "description": ""
     }
   },
