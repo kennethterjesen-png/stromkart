@@ -32,6 +32,38 @@
     }
   },
   {
+    "id": "bkk-1",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.39196023213344,
+    "lng": 5.319544446619955,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9856112,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787007600000,
+      "TIMELIMIT": 1787025600000,
+      "NUM_AB": 9,
+      "CUSTOMER_WEB_TEXT": null,
+      "GRIDLEVEL_TXT": "Lav",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1787008608000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-6094",
     "company": "Elvia",
     "type": "planned",
@@ -1064,7 +1096,7 @@
     "areaName": "TANGEN",
     "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
     "raw": {
-      "OBJECTID": 1218775,
+      "OBJECTID": 1219090,
       "REFNR": "P70849",
       "SEKUNDÆRSTASJON": "TANGEN",
       "AVGANG": "L3",
