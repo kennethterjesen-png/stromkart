@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-3654",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.872307995148724,
+    "lng": 11.300637415386317,
+    "start": "17.8.2026, 16:22:59",
+    "end": "17.8.2026, 20:07:59",
+    "areaName": "Lillestrøm / Gan / F3285",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 3654,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "F3285",
+      "poststed": "Gan",
+      "strombruddoppdaget": 1786983779493,
+      "utkoblingslutt": 1786997279000,
+      "utkoblingstart": 1786983779493
+    }
+  },
+  {
     "id": "elvia-6094",
     "company": "Elvia",
     "type": "planned",
@@ -52,6 +75,52 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1786971600000,
       "utkoblingstart": 1786957200000
+    }
+  },
+  {
+    "id": "elvia-21540",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.86032118600169,
+    "lng": 11.317654137727283,
+    "start": "17.8.2026, 16:22:59",
+    "end": "17.8.2026, 20:07:59",
+    "areaName": "Lillestrøm / Gan / F3290",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21540,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "F3290",
+      "poststed": "Gan",
+      "strombruddoppdaget": 1786983779493,
+      "utkoblingslutt": 1786997279000,
+      "utkoblingstart": 1786983779493
+    }
+  },
+  {
+    "id": "elvia-21541",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.86264708021078,
+    "lng": 11.32877156779006,
+    "start": "17.8.2026, 16:22:59",
+    "end": "17.8.2026, 20:07:59",
+    "areaName": "Lillestrøm / Gan / F3300",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21541,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "F3300",
+      "poststed": "Gan",
+      "strombruddoppdaget": 1786983779493,
+      "utkoblingslutt": 1786997279000,
+      "utkoblingstart": 1786983779493
     }
   },
   {
