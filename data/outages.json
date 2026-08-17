@@ -909,33 +909,5 @@
       "STROMSTANSID": "V-2902-1",
       "description": ""
     }
-  },
-  {
-    "id": "norgesnett-outage-V-70893-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 65,
-    "lat": 59.74108909900002,
-    "lng": 10.825914580000017,
-    "start": "17.8.2026, 12:58:19",
-    "end": null,
-    "areaName": "FINSTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219079,
-      "REFNR": "H70893",
-      "SEKUNDÆRSTASJON": "FINSTAD",
-      "AVGANG": "L81",
-      "CNT": 65,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1786971499000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70893-1",
-      "description": ""
-    }
   }
 ]
