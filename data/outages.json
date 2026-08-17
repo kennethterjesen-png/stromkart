@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-2612",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 49,
+    "lat": 60.190647736096416,
+    "lng": 11.995869597389254,
+    "start": "17.8.2026, 11:51:03",
+    "end": "17.8.2026, 15:27:03",
+    "areaName": "Kongsvinger / Kongsvinger / ENS05899",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 2612,
+      "antallkunder": 49,
+      "avbruddstype": "Unplanned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS05899",
+      "poststed": "Kongsvinger",
+      "strombruddoppdaget": 1786967463000,
+      "utkoblingslutt": 1786980423000,
+      "utkoblingstart": 1786967463000
+    }
+  },
+  {
     "id": "elvia-6094",
     "company": "Elvia",
     "type": "planned",
@@ -43,29 +66,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1786971600000,
       "utkoblingstart": 1786948200000
-    }
-  },
-  {
-    "id": "elvia-9589",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 59.96059721120755,
-    "lng": 10.477420760420975,
-    "start": "17.8.2026, 09:54:05",
-    "end": "17.8.2026, 13:30:05",
-    "areaName": "Bærum / Lommedalen / B0170",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9589,
-      "antallkunder": 18,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0170",
-      "poststed": "Lommedalen",
-      "strombruddoppdaget": 1786960445000,
-      "utkoblingslutt": 1786973405000,
-      "utkoblingstart": 1786960445000
     }
   },
   {
@@ -207,52 +207,6 @@
     }
   },
   {
-    "id": "elvia-19725",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 68,
-    "lat": 60.9046151777881,
-    "lng": 11.551022712184984,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 12:30:00",
-    "areaName": "Elverum / Elverum / ENS11417",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 19725,
-      "antallkunder": 68,
-      "avbruddstype": "Planned",
-      "kommune": "Elverum",
-      "nettstasjon": "ENS11417",
-      "poststed": "Elverum",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786969800000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
-    "id": "elvia-19769",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 114,
-    "lat": 60.90365131141363,
-    "lng": 11.560944223249626,
-    "start": "17.8.2026, 11:41:15",
-    "end": "17.8.2026, 15:17:15",
-    "areaName": "Elverum / Elverum / ENS11484",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 19769,
-      "antallkunder": 114,
-      "avbruddstype": "Unplanned",
-      "kommune": "Elverum",
-      "nettstasjon": "ENS11484",
-      "poststed": "Elverum",
-      "strombruddoppdaget": 1786966875000,
-      "utkoblingslutt": 1786979835000,
-      "utkoblingstart": 1786966875000
-    }
-  },
-  {
     "id": "elvia-21810",
     "company": "Elvia",
     "type": "planned",
@@ -273,29 +227,6 @@
       "strombruddoppdaget": 1786948606430,
       "utkoblingslutt": 1786971600000,
       "utkoblingstart": 1786946400000
-    }
-  },
-  {
-    "id": "elvia-22310",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.30264766251267,
-    "lng": 10.778143919176765,
-    "start": "17.8.2026, 11:04:54",
-    "end": "17.8.2026, 14:40:54",
-    "areaName": "Råde / Saltnes / J0176",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22310,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Råde",
-      "nettstasjon": "J0176",
-      "poststed": "Saltnes",
-      "strombruddoppdaget": 1786964694000,
-      "utkoblingslutt": 1786977654000,
-      "utkoblingstart": 1786964694000
     }
   },
   {
@@ -345,59 +276,36 @@
     }
   },
   {
-    "id": "elvia-28681",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.409280931589336,
-    "lng": 10.696479363679627,
-    "start": "17.8.2026, 10:10:37",
-    "end": "17.8.2026, 13:46:37",
-    "areaName": "Moss / Moss / Y0333",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28681,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0333",
-      "poststed": "Moss",
-      "strombruddoppdaget": 1786961437000,
-      "utkoblingslutt": 1786974397000,
-      "utkoblingstart": 1786961437000
-    }
-  },
-  {
-    "id": "linja-outage-3382848",
+    "id": "linja-outage-3379665",
     "company": "Linja",
     "type": "outage",
-    "customers": 8,
-    "lat": 61.438175025178765,
-    "lng": 5.050328518331517,
-    "start": "17.8.2026, 10:00:00",
+    "customers": 56,
+    "lat": 61.784711526270485,
+    "lng": 6.2055237125376035,
+    "start": "17.8.2026, 12:00:00",
     "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
+    "areaName": "GLOPPEN / Linja Sør",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3382848,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Stubseidvågen mandag 17.august fra kl. 12:00 til 15:00.",
+      "EVENTID": 3379665,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Leirbrekka mandag 17.august fra kl. 14:00 til 16:00",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1786960800000,
+      "STARTTIME": 1786968000000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
-      "MUNICIPAL_TXT": "ASKVOLL",
+      "MUNICIPAL_TXT": "GLOPPEN",
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 1,
-      "NUM_AB": 8
+      "NUM_AB": 56
     }
   },
   {
     "id": "linja-outage-3384745",
     "company": "Linja",
     "type": "outage",
-    "customers": 13,
-    "lat": 61.858759530819576,
-    "lng": 6.217271996264394,
+    "customers": 46,
+    "lat": 61.85971262228293,
+    "lng": 6.218412558168426,
     "start": "17.8.2026, 07:00:00",
     "end": null,
     "areaName": "Linja Sør",
@@ -411,32 +319,8 @@
       "FLAG": 400,
       "MUNICIPAL_TXT": null,
       "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 2,
-      "NUM_AB": 13
-    }
-  },
-  {
-    "id": "linja-outage-3381712",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 9,
-    "lat": 62.489022905760656,
-    "lng": 6.725090401320692,
-    "start": "17.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3381712,
-      "CUSTOMER_WEB_TEXT": "Solnør og Dragsund - På grunn av arbeid i høgspentnettet vert det ein straumstans i om lag 7 timar. ",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786946400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "PURCHAREA_TXT": "Nordvestnett",
-      "NUM_NS": 2,
-      "NUM_AB": 9
+      "NUM_NS": 6,
+      "NUM_AB": 46
     }
   },
   {
