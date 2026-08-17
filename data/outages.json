@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-7341",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 38,
-    "lat": 59.91961862254034,
-    "lng": 10.751570953220277,
-    "start": "17.8.2026, 06:00:00",
-    "end": "17.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 2449",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7341,
-      "antallkunder": 38,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2449",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786971600000,
-      "utkoblingstart": 1786946400000
-    }
-  },
-  {
     "id": "elvia-7496",
     "company": "Elvia",
     "type": "planned",
@@ -66,29 +43,6 @@
       "strombruddoppdaget": 1786511166324,
       "utkoblingslutt": 1786539600000,
       "utkoblingstart": 1786514400000
-    }
-  },
-  {
-    "id": "elvia-9232",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 21,
-    "lat": 59.91911786102099,
-    "lng": 10.749316638372349,
-    "start": "17.8.2026, 06:00:00",
-    "end": "17.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 5329",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9232,
-      "antallkunder": 21,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "5329",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786971600000,
-      "utkoblingstart": 1786946400000
     }
   },
   {
@@ -276,29 +230,6 @@
     }
   },
   {
-    "id": "elvia-21754",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 60.37974566547948,
-    "lng": 11.075940494640786,
-    "start": "17.8.2026, 07:16:39",
-    "end": "17.8.2026, 10:52:39",
-    "areaName": "Hurdal / Hurdal / H0205",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21754,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Hurdal",
-      "nettstasjon": "H0205",
-      "poststed": "Hurdal",
-      "strombruddoppdaget": 1786950999000,
-      "utkoblingslutt": 1786963959000,
-      "utkoblingstart": 1786950999000
-    }
-  },
-  {
     "id": "elvia-21810",
     "company": "Elvia",
     "type": "planned",
@@ -411,54 +342,6 @@
       "strombruddoppdaget": 1786955986000,
       "utkoblingslutt": 1786968946000,
       "utkoblingstart": 1786955986000
-    }
-  },
-  {
-    "id": "linja-outage-3385100",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 6,
-    "lat": 61.929946748026836,
-    "lng": 6.540554633763244,
-    "start": "14.8.2026, 07:47:00",
-    "end": null,
-    "areaName": "STRYN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3385100,
-      "CUSTOMER_WEB_TEXT": null,
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786693620000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "STRYN",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 0,
-      "NUM_AB": 6
-    }
-  },
-  {
-    "id": "linja-outage-3379661",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 11,
-    "lat": 61.73529474918582,
-    "lng": 6.4911494353021935,
-    "start": "17.8.2026, 09:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3379661,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Breimsvegen og Dalevegen mandag 17.august fra kl. 11:00 til 13:30.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786957200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 11
     }
   },
   {
