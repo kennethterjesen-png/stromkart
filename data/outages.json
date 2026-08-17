@@ -264,30 +264,6 @@
     }
   },
   {
-    "id": "linja-planned-3381712",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.48875383267812,
-    "lng": 6.725405417205142,
-    "start": "17.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3381712,
-      "CUSTOMER_WEB_TEXT": "Solnør og Dragsund - På grunn av arbeid i høgspentnettet vert det ein straumstans i om lag 7 timar. ",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1786946400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Nordvestnett",
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3379693",
     "company": "Linja",
     "type": "planned",
