@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-3653",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.872707815882244,
-    "lng": 11.271915029037816,
-    "start": "17.8.2026, 16:22:59",
-    "end": "17.8.2026, 20:07:59",
-    "areaName": "Lillestrøm / Gan / F3270",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 3653,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "F3270",
-      "poststed": "Gan",
-      "strombruddoppdaget": 1786983779493,
-      "utkoblingslutt": 1786997279000,
-      "utkoblingstart": 1786983779493
-    }
-  },
-  {
     "id": "elvia-3654",
     "company": "Elvia",
     "type": "planned",
@@ -69,75 +46,6 @@
     }
   },
   {
-    "id": "elvia-21374",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.86683757225478,
-    "lng": 11.289843728524794,
-    "start": "17.8.2026, 16:22:59",
-    "end": "17.8.2026, 20:07:59",
-    "areaName": "Lillestrøm / Gan / F1008",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21374,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "F1008",
-      "poststed": "Gan",
-      "strombruddoppdaget": 1786983779493,
-      "utkoblingslutt": 1786997279000,
-      "utkoblingstart": 1786983779493
-    }
-  },
-  {
-    "id": "elvia-21538",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.86990450931467,
-    "lng": 11.269820259951553,
-    "start": "17.8.2026, 16:22:59",
-    "end": "17.8.2026, 20:07:59",
-    "areaName": "Lillestrøm / Gan / F3267",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21538,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "F3267",
-      "poststed": "Gan",
-      "strombruddoppdaget": 1786983779493,
-      "utkoblingslutt": 1786997279000,
-      "utkoblingstart": 1786983779493
-    }
-  },
-  {
-    "id": "elvia-21539",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.879229360843986,
-    "lng": 11.28571910251586,
-    "start": "17.8.2026, 16:22:59",
-    "end": "17.8.2026, 20:07:59",
-    "areaName": "Lillestrøm / Gan / F3271",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21539,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "F3271",
-      "poststed": "Gan",
-      "strombruddoppdaget": 1786983779493,
-      "utkoblingslutt": 1786997279000,
-      "utkoblingstart": 1786983779493
-    }
-  },
-  {
     "id": "elvia-21540",
     "company": "Elvia",
     "type": "planned",
@@ -177,29 +85,6 @@
       "avbruddstype": "Unplanned",
       "kommune": "Lillestrøm",
       "nettstasjon": "F3300",
-      "poststed": "Gan",
-      "strombruddoppdaget": 1786983779493,
-      "utkoblingslutt": 1786997279000,
-      "utkoblingstart": 1786983779493
-    }
-  },
-  {
-    "id": "elvia-21569",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 20,
-    "lat": 59.86867802801391,
-    "lng": 11.28362689977624,
-    "start": "17.8.2026, 16:22:59",
-    "end": "17.8.2026, 20:07:59",
-    "areaName": "Lillestrøm / Gan / F5121",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21569,
-      "antallkunder": 20,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "F5121",
       "poststed": "Gan",
       "strombruddoppdaget": 1786983779493,
       "utkoblingslutt": 1786997279000,
