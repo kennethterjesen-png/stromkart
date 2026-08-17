@@ -30,7 +30,7 @@
     "lat": 60.95328019466612,
     "lng": 11.293413517087847,
     "start": "17.8.2026, 15:34:02",
-    "end": null,
+    "end": "17.8.2026, 19:10:02",
     "areaName": "Løten / Løten / ENS00258",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -41,7 +41,7 @@
       "nettstasjon": "ENS00258",
       "poststed": "Løten",
       "strombruddoppdaget": 1786980842000,
-      "utkoblingslutt": null,
+      "utkoblingslutt": 1786993802000,
       "utkoblingstart": 1786980842000
     }
   },
