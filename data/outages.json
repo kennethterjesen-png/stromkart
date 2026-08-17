@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-9499",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 20,
-    "lat": 59.931545525213764,
-    "lng": 10.617993724490713,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 13:00:00",
-    "areaName": "Bærum / Jar / B0005",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9499,
-      "antallkunder": 20,
-      "avbruddstype": "Planned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0005",
-      "poststed": "Jar",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1786971600000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
     "id": "elvia-15622",
     "company": "Elvia",
     "type": "planned",
@@ -66,72 +43,6 @@
       "strombruddoppdaget": 1786970906000,
       "utkoblingslutt": 1786983866000,
       "utkoblingstart": 1786970906000
-    }
-  },
-  {
-    "id": "elvia-21810",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.44933571275925,
-    "lng": 11.060867440644873,
-    "start": "17.8.2026, 06:00:00",
-    "end": "17.8.2026, 13:00:00",
-    "areaName": "Hurdal / Hurdal / H0502",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21810,
-      "antallkunder": 4,
-      "avbruddstype": "Planned",
-      "kommune": "Hurdal",
-      "nettstasjon": "H0502",
-      "poststed": "Hurdal",
-      "strombruddoppdaget": 1786948606430,
-      "utkoblingslutt": 1786971600000,
-      "utkoblingstart": 1786946400000
-    }
-  },
-  {
-    "id": "fagne-4598197",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.54948009259067,
-    "lng": 5.860801883287772,
-    "start": null,
-    "end": null,
-    "areaName": "VINDAFJORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "VINDAFJORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "linja-outage-3379665",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 56,
-    "lat": 61.784711526270485,
-    "lng": 6.2055237125376035,
-    "start": "17.8.2026, 12:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3379665,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Leirbrekka mandag 17.august fra kl. 14:00 til 16:00",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786968000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 1,
-      "NUM_AB": 56
     }
   },
   {
@@ -927,34 +838,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2902-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70893-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 65,
-    "lat": 59.74108909900002,
-    "lng": 10.825914580000017,
-    "start": "17.8.2026, 12:58:19",
-    "end": null,
-    "areaName": "FINSTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219077,
-      "REFNR": "H70893",
-      "SEKUNDÆRSTASJON": "FINSTAD",
-      "AVGANG": "L81",
-      "CNT": 65,
-      "STATUS": "Ikke Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1786971499000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70893-1",
       "description": ""
     }
   }
