@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-2803",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 61.05200132519416,
-    "lng": 11.376687351139992,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 08:30:00",
-    "areaName": "Åmot / Rena / ENS08187",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 2803,
-      "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS08187",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786948803676,
-      "utkoblingslutt": 1786955400000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
-    "id": "elvia-2804",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 61.05559419093532,
-    "lng": 11.374835875924274,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 08:30:00",
-    "areaName": "Åmot / Rena / ENS08188",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 2804,
-      "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS08188",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786948803676,
-      "utkoblingslutt": 1786955400000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
     "id": "elvia-7341",
     "company": "Elvia",
     "type": "planned",
@@ -181,213 +135,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1786971600000,
       "utkoblingstart": 1786950000000
-    }
-  },
-  {
-    "id": "elvia-17589",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 61.04771383477951,
-    "lng": 11.364478812739964,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 08:30:00",
-    "areaName": "Åmot / Rena / ENS08185",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17589,
-      "antallkunder": 4,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS08185",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786948803676,
-      "utkoblingslutt": 1786955400000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
-    "id": "elvia-17590",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 61.03951726930121,
-    "lng": 11.40462805556803,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 08:30:00",
-    "areaName": "Åmot / Rena / ENS08186",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17590,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS08186",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786948803676,
-      "utkoblingslutt": 1786955400000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
-    "id": "elvia-17591",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 61.06108040164537,
-    "lng": 11.37485205299867,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 08:30:00",
-    "areaName": "Åmot / Rena / ENS08189",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17591,
-      "antallkunder": 12,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS08189",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786948803676,
-      "utkoblingslutt": 1786955400000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
-    "id": "elvia-17592",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 61.06685082638536,
-    "lng": 11.372287183521138,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 08:30:00",
-    "areaName": "Åmot / Rena / ENS08190",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17592,
-      "antallkunder": 14,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS08190",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786948803676,
-      "utkoblingslutt": 1786955400000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
-    "id": "elvia-17593",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 61.07985547986974,
-    "lng": 11.376467351155963,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 08:30:00",
-    "areaName": "Åmot / Rena / ENS08197",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17593,
-      "antallkunder": 3,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS08197",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786948803676,
-      "utkoblingslutt": 1786955400000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
-    "id": "elvia-17594",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 61.08360705544099,
-    "lng": 11.37332209302574,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 08:30:00",
-    "areaName": "Åmot / Rena / ENS08198",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17594,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS08198",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786948803676,
-      "utkoblingslutt": 1786955400000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
-    "id": "elvia-19130",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 61.07778902630015,
-    "lng": 11.370104980309364,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 08:30:00",
-    "areaName": "Åmot / Rena / ENS10543",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 19130,
-      "antallkunder": 12,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS10543",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786948803676,
-      "utkoblingslutt": 1786955400000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
-    "id": "elvia-19288",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 19,
-    "lat": 61.07113361815852,
-    "lng": 11.368781725128166,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 08:30:00",
-    "areaName": "Åmot / Rena / ENS10783",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 19288,
-      "antallkunder": 19,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS10783",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786948803676,
-      "utkoblingslutt": 1786955400000,
-      "utkoblingstart": 1786948200000
-    }
-  },
-  {
-    "id": "elvia-19290",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 61.07223326489421,
-    "lng": 11.374672361800355,
-    "start": "17.8.2026, 06:30:00",
-    "end": "17.8.2026, 08:30:00",
-    "areaName": "Åmot / Rena / ENS10787",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 19290,
-      "antallkunder": 11,
-      "avbruddstype": "Planned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS10787",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1786948803676,
-      "utkoblingslutt": 1786955400000,
-      "utkoblingstart": 1786948200000
     }
   },
   {
@@ -552,12 +299,36 @@
     }
   },
   {
+    "id": "linja-outage-3383969",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 6,
+    "lat": 62.04049477800702,
+    "lng": 6.399817098329845,
+    "start": "17.8.2026, 08:00:00",
+    "end": null,
+    "areaName": "VOLDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3383969,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Månanesvegen mandag 17.august fra kl. 10:00 til 14:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786953600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "VOLDA",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 1,
+      "NUM_AB": 6
+    }
+  },
+  {
     "id": "linja-outage-3384745",
     "company": "Linja",
     "type": "outage",
-    "customers": 35,
-    "lat": 61.86014909295071,
-    "lng": 6.218997202595971,
+    "customers": 2,
+    "lat": 61.86108448927112,
+    "lng": 6.2208850344877185,
     "start": "17.8.2026, 07:00:00",
     "end": null,
     "areaName": "Linja Sør",
@@ -571,8 +342,8 @@
       "FLAG": 400,
       "MUNICIPAL_TXT": null,
       "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 6,
-      "NUM_AB": 35
+      "NUM_NS": 2,
+      "NUM_AB": 2
     }
   },
   {
@@ -816,30 +587,6 @@
     }
   },
   {
-    "id": "linja-planned-3382848",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.437973252370824,
-    "lng": 5.04789075977201,
-    "start": "17.8.2026, 10:00:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3382848,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Stubseidvågen mandag 17.august fra kl. 12:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1786960800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "ASKVOLL",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3379673",
     "company": "Linja",
     "type": "planned",
@@ -907,6 +654,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "SANDE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3386637",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.56488937288858,
+    "lng": 4.805491324246994,
+    "start": "19.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "KINN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3386637,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Søre Nekkøy til Kinn onsdag 19.august fra kl. 09:00 til 17:00. ",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787122800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "KINN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1003,6 +774,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "FJORD",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3386697",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.25731832020416,
+    "lng": 5.915058591078819,
+    "start": "24.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "ULSTEIN / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3386697,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Ødegårdsvegen mandag 24.august fra kl. 09:00 til 15:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787554800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "ULSTEIN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
