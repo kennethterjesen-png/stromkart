@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-21810",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 60.44933571275925,
+    "lng": 11.060867440644873,
+    "start": "17.8.2026, 06:00:00",
+    "end": "17.8.2026, 13:00:00",
+    "areaName": "Hurdal / Hurdal / H0502",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21810,
+      "antallkunder": 4,
+      "avbruddstype": "Planned",
+      "kommune": "Hurdal",
+      "nettstasjon": "H0502",
+      "poststed": "Hurdal",
+      "strombruddoppdaget": 1786948606430,
+      "utkoblingslutt": 1786971600000,
+      "utkoblingstart": 1786946400000
+    }
+  },
+  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
