@@ -46,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-7709",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.955142781326224,
-    "lng": 10.932441139512397,
-    "start": "17.8.2026, 19:27:39",
-    "end": "17.8.2026, 23:03:39",
-    "areaName": "Oslo / Oslo / 2960",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7709,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2960",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1786994859000,
-      "utkoblingslutt": 1787007819000,
-      "utkoblingstart": 1786994859000
-    }
-  },
-  {
     "id": "elvia-21540",
     "company": "Elvia",
     "type": "planned",
@@ -907,6 +884,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2902-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70895-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 88,
+    "lat": 59.236946666999984,
+    "lng": 10.921780952000006,
+    "start": "17.8.2026, 20:14:55",
+    "end": null,
+    "areaName": "GLUPPE",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219080,
+      "REFNR": "L70895",
+      "SEKUNDÆRSTASJON": "GLUPPE",
+      "AVGANG": "H1154",
+      "CNT": 88,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1786997695000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70895-1",
       "description": ""
     }
   }
