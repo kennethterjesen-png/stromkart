@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-8384",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.88059048141641,
+    "lng": 10.811070326670823,
+    "start": "17.8.2026, 10:38:31",
+    "end": "17.8.2026, 14:14:31",
+    "areaName": "Oslo / Oslo / 4072",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8384,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "4072",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1786963111000,
+      "utkoblingslutt": 1786976071000,
+      "utkoblingstart": 1786963111000
+    }
+  },
+  {
     "id": "elvia-9499",
     "company": "Elvia",
     "type": "planned",
@@ -299,29 +322,6 @@
     }
   },
   {
-    "id": "elvia-24824",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.12290240262146,
-    "lng": 11.440023577798213,
-    "start": "17.8.2026, 06:07:55",
-    "end": "17.8.2026, 09:43:55",
-    "areaName": "Halden / Tistedal / Q0705",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24824,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0705",
-      "poststed": "Tistedal",
-      "strombruddoppdaget": 1786946875000,
-      "utkoblingslutt": 1786959835000,
-      "utkoblingstart": 1786946875000
-    }
-  },
-  {
     "id": "elvia-25318",
     "company": "Elvia",
     "type": "planned",
@@ -365,6 +365,29 @@
       "strombruddoppdaget": 1786961597000,
       "utkoblingslutt": 1786974557000,
       "utkoblingstart": 1786961597000
+    }
+  },
+  {
+    "id": "elvia-28681",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 13,
+    "lat": 59.409280931589336,
+    "lng": 10.696479363679627,
+    "start": "17.8.2026, 10:10:37",
+    "end": "17.8.2026, 13:46:37",
+    "areaName": "Moss / Moss / Y0333",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28681,
+      "antallkunder": 13,
+      "avbruddstype": "Unplanned",
+      "kommune": "Moss",
+      "nettstasjon": "Y0333",
+      "poststed": "Moss",
+      "strombruddoppdaget": 1786961437000,
+      "utkoblingslutt": 1786974397000,
+      "utkoblingstart": 1786961437000
     }
   },
   {
