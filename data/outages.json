@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-6094",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.91302478288781,
+    "lng": 10.761167781599418,
+    "start": "17.8.2026, 09:00:00",
+    "end": "17.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 0619",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6094,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "0619",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1786971600000,
+      "utkoblingstart": 1786957200000
+    }
+  },
+  {
     "id": "elvia-7341",
     "company": "Elvia",
     "type": "planned",
@@ -138,6 +161,98 @@
     }
   },
   {
+    "id": "elvia-11670",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 60.331135177576456,
+    "lng": 11.299773246451783,
+    "start": "17.8.2026, 09:00:00",
+    "end": "17.8.2026, 13:00:00",
+    "areaName": "Eidsvoll / Eidsvoll / E0014",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11670,
+      "antallkunder": 12,
+      "avbruddstype": "Planned",
+      "kommune": "Eidsvoll",
+      "nettstasjon": "E0014",
+      "poststed": "Eidsvoll",
+      "strombruddoppdaget": 1786957200836,
+      "utkoblingslutt": 1786971600000,
+      "utkoblingstart": 1786957200000
+    }
+  },
+  {
+    "id": "elvia-11949",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 39,
+    "lat": 60.33106703632643,
+    "lng": 11.304962829282887,
+    "start": "17.8.2026, 09:00:00",
+    "end": "17.8.2026, 13:00:00",
+    "areaName": "Eidsvoll / Eidsvoll / E0373",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11949,
+      "antallkunder": 39,
+      "avbruddstype": "Planned",
+      "kommune": "Eidsvoll",
+      "nettstasjon": "E0373",
+      "poststed": "Eidsvoll",
+      "strombruddoppdaget": 1786957200836,
+      "utkoblingslutt": 1786971600000,
+      "utkoblingstart": 1786957200000
+    }
+  },
+  {
+    "id": "elvia-11953",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 64,
+    "lat": 60.33251481742706,
+    "lng": 11.303979517453394,
+    "start": "17.8.2026, 09:00:00",
+    "end": "17.8.2026, 13:00:00",
+    "areaName": "Eidsvoll / Eidsvoll / E0377",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11953,
+      "antallkunder": 64,
+      "avbruddstype": "Planned",
+      "kommune": "Eidsvoll",
+      "nettstasjon": "E0377",
+      "poststed": "Eidsvoll",
+      "strombruddoppdaget": 1786957200836,
+      "utkoblingslutt": 1786971600000,
+      "utkoblingstart": 1786957200000
+    }
+  },
+  {
+    "id": "elvia-11960",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 48,
+    "lat": 60.331494900927844,
+    "lng": 11.301977988907565,
+    "start": "17.8.2026, 09:00:00",
+    "end": "17.8.2026, 13:00:00",
+    "areaName": "Eidsvoll / Eidsvoll / E0386",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11960,
+      "antallkunder": 48,
+      "avbruddstype": "Planned",
+      "kommune": "Eidsvoll",
+      "nettstasjon": "E0386",
+      "poststed": "Eidsvoll",
+      "strombruddoppdaget": 1786957200836,
+      "utkoblingslutt": 1786971600000,
+      "utkoblingstart": 1786957200000
+    }
+  },
+  {
     "id": "elvia-19725",
     "company": "Elvia",
     "type": "planned",
@@ -204,29 +319,6 @@
       "strombruddoppdaget": 1786948606430,
       "utkoblingslutt": 1786971600000,
       "utkoblingstart": 1786946400000
-    }
-  },
-  {
-    "id": "elvia-22021",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.605106568048946,
-    "lng": 10.92347568643086,
-    "start": "16.8.2026, 17:57:28",
-    "end": "16.8.2026, 21:33:28",
-    "areaName": "Indre Østfold / Hobøl / I1034",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22021,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "I1034",
-      "poststed": "Hobøl",
-      "strombruddoppdaget": 1786903048000,
-      "utkoblingslutt": 1786916008000,
-      "utkoblingstart": 1786903048000
     }
   },
   {
@@ -299,6 +391,101 @@
     }
   },
   {
+    "id": "elvia-27630",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 18,
+    "lat": 59.271959613090694,
+    "lng": 11.026034163142024,
+    "start": "17.8.2026, 08:39:46",
+    "end": "17.8.2026, 12:15:46",
+    "areaName": "Sarpsborg / Greåker / X0487",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27630,
+      "antallkunder": 18,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0487",
+      "poststed": "Greåker",
+      "strombruddoppdaget": 1786955986000,
+      "utkoblingslutt": 1786968946000,
+      "utkoblingstart": 1786955986000
+    }
+  },
+  {
+    "id": "linja-outage-3385100",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 6,
+    "lat": 61.929946748026836,
+    "lng": 6.540554633763244,
+    "start": "14.8.2026, 07:47:00",
+    "end": null,
+    "areaName": "STRYN / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3385100,
+      "CUSTOMER_WEB_TEXT": null,
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786693620000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "STRYN",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 0,
+      "NUM_AB": 6
+    }
+  },
+  {
+    "id": "linja-outage-3379661",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 11,
+    "lat": 61.73529474918582,
+    "lng": 6.4911494353021935,
+    "start": "17.8.2026, 09:00:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3379661,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Breimsvegen og Dalevegen mandag 17.august fra kl. 11:00 til 13:30.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786957200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 11
+    }
+  },
+  {
+    "id": "linja-outage-3384745",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 13,
+    "lat": 61.858759530819576,
+    "lng": 6.217271996264394,
+    "start": "17.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3384745,
+      "CUSTOMER_WEB_TEXT": "PGA feilretting vil Hennebygda og Skjæret vere utan straum frå kl 09-10 og frå kl 15-16 mandag den 17. Jølåna kraft blir utkobla frå 08:45 tom 16:15",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1786950000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": null,
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 2,
+      "NUM_AB": 13
+    }
+  },
+  {
     "id": "linja-outage-3383969",
     "company": "Linja",
     "type": "outage",
@@ -320,30 +507,6 @@
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 1,
       "NUM_AB": 6
-    }
-  },
-  {
-    "id": "linja-outage-3384745",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 2,
-    "lat": 61.86108448927112,
-    "lng": 6.2208850344877185,
-    "start": "17.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3384745,
-      "CUSTOMER_WEB_TEXT": "PGA feilretting vil Hennebygda og Skjæret vere utan straum frå kl 09-10 og frå kl 15-16 mandag den 17. Jølåna kraft blir utkobla frå 08:45 tom 16:15",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786950000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": null,
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 2,
-      "NUM_AB": 2
     }
   },
   {
@@ -840,23 +1003,6 @@
     "raw": {
       "name": "Berørte kunder: 7",
       "description": "Planlagt strømstans\nStartet: 2026-08-17 09:04\nPlanlagt ferdig: 2026-08-13 14:00",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
-    "id": "lnett-planned-13",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 17,
-    "lat": 58.794532930327726,
-    "lng": 5.779017253446324,
-    "start": "17.8.2026, 09:10:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 17",
-      "description": "Planlagt strømstans\nStartet: 2026-08-17 09:10\nPlanlagt ferdig: 2026-08-17 11:00",
       "styleUrl": "#yellow"
     }
   },
