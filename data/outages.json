@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-7709",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.955142781326224,
+    "lng": 10.932441139512397,
+    "start": "17.8.2026, 19:27:39",
+    "end": "17.8.2026, 23:03:39",
+    "areaName": "Oslo / Oslo / 2960",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7709,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "2960",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1786994859000,
+      "utkoblingslutt": 1787007819000,
+      "utkoblingstart": 1786994859000
+    }
+  },
+  {
     "id": "elvia-21540",
     "company": "Elvia",
     "type": "planned",
@@ -89,30 +112,6 @@
       "strombruddoppdaget": 1786983779493,
       "utkoblingslutt": 1786997279000,
       "utkoblingstart": 1786983779493
-    }
-  },
-  {
-    "id": "linja-outage-3381524",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 4,
-    "lat": 62.43001538102109,
-    "lng": 6.351578271392325,
-    "start": "17.8.2026, 15:00:00",
-    "end": null,
-    "areaName": "SULA / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3381524,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Vassmyra, Veibust og Kongshaugstranda mandag 17.august fra kl. 17:00 til 22:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1786978800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "SULA",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 0,
-      "NUM_AB": 4
     }
   },
   {
@@ -923,7 +922,7 @@
     "areaName": "FINSTAD",
     "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
     "raw": {
-      "OBJECTID": 1219078,
+      "OBJECTID": 1219079,
       "REFNR": "H70893",
       "SEKUNDÆRSTASJON": "FINSTAD",
       "AVGANG": "L81",
