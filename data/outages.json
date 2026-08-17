@@ -483,15 +483,15 @@
     "id": "lnett-outage-9",
     "company": "Lnett",
     "type": "outage",
-    "customers": 140,
-    "lat": 59.034878210643996,
-    "lng": 5.977376741034741,
+    "customers": 65,
+    "lat": 59.036477744575976,
+    "lng": 5.952066890945988,
     "start": "17.8.2026, 06:45:00",
     "end": null,
     "areaName": "Driftsforstyrrelse",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 140",
+      "name": "Berørte kunder: 65",
       "description": "Driftsforstyrrelse\nStartet: 2026-08-17 06:45\n06:50 Montører jobber med å lokalisere feilen. Strømmen kan komme og gå i forbindelse med seksjonering.",
       "styleUrl": "#red"
     }
