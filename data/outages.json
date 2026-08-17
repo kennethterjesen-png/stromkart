@@ -23,49 +23,26 @@
     }
   },
   {
-    "id": "elvia-15622",
+    "id": "elvia-15512",
     "company": "Elvia",
     "type": "planned",
-    "customers": 13,
-    "lat": 60.88963011805595,
-    "lng": 10.9501901742241,
-    "start": "17.8.2026, 12:48:26",
-    "end": "17.8.2026, 16:24:26",
-    "areaName": "Ringsaker / Brumunddal / ENS05118",
+    "customers": 12,
+    "lat": 60.784986662591386,
+    "lng": 10.763770072857035,
+    "start": "17.8.2026, 14:35:11",
+    "end": "17.8.2026, 18:11:11",
+    "areaName": "Ringsaker / Nes på hedmarken / ENS04961",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 15622,
-      "antallkunder": 13,
+      "OBJECTID": 15512,
+      "antallkunder": 12,
       "avbruddstype": "Unplanned",
       "kommune": "Ringsaker",
-      "nettstasjon": "ENS05118",
-      "poststed": "Brumunddal",
-      "strombruddoppdaget": 1786970906000,
-      "utkoblingslutt": 1786983866000,
-      "utkoblingstart": 1786970906000
-    }
-  },
-  {
-    "id": "elvia-21810",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.44933571275925,
-    "lng": 11.060867440644873,
-    "start": "17.8.2026, 06:00:00",
-    "end": "17.8.2026, 13:00:00",
-    "areaName": "Hurdal / Hurdal / H0502",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21810,
-      "antallkunder": 4,
-      "avbruddstype": "Planned",
-      "kommune": "Hurdal",
-      "nettstasjon": "H0502",
-      "poststed": "Hurdal",
-      "strombruddoppdaget": 1786948606430,
-      "utkoblingslutt": 1786971600000,
-      "utkoblingstart": 1786946400000
+      "nettstasjon": "ENS04961",
+      "poststed": "Nes på hedmarken",
+      "strombruddoppdaget": 1786977311000,
+      "utkoblingslutt": 1786990271000,
+      "utkoblingstart": 1786977311000
     }
   },
   {
