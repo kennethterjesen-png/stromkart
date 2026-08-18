@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.40601909248589,
-    "lng": 5.331282573108829,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9865521,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787066640000,
-      "TIMELIMIT": 1787077800000,
-      "NUM_AB": 508,
-      "CUSTOMER_WEB_TEXT": "5009 BERGEN; TARLEBØVEIEN\r\n5014 BERGEN; FLØYFJELLET,BYFJELLENE\r\n5019 BERGEN; FJELLVEIEN,FLØYFJ RUNDEM SENDE\r\n5034 BERGEN; BREISTØLEN,PERSENBAKKEN,MULESVINGEN,GUTENBERGSVEIEN\r\n5037 BERGEN; CHRISTINEGÅRD,HEIEN,FORMANNS VEI,ØVRE HEIEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 7,
-      "LAST_UPDATED": 1787067575000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-6094",
     "company": "Elvia",
     "type": "planned",
@@ -144,54 +112,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "linja-outage-3389253",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 2,
-    "lat": 61.68393178634753,
-    "lng": 6.521101847123263,
-    "start": "18.8.2026, 11:37:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3389253,
-      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi er på staden og feilsøker.\r\nFeilen er funnet og vi jobber med retting. Noen av kundene har fått igjen strøm. Ukjent rettetid for kunder mellom Hjelle og Egge\r\n16:06 Gåsemyr Hjelle kr. v og Egge Ytre vil få tilbake straumen rundt kl. 17. \r\n",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787053020000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 1,
-      "NUM_AB": 2
-    }
-  },
-  {
-    "id": "linja-outage-3379681",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 11,
-    "lat": 61.686562671418244,
-    "lng": 6.522674425193209,
-    "start": "18.8.2026, 11:30:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3379681,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Breimsvegen tirsdag 18.august fra kl. 13:30 til 17:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787052600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 1,
-      "NUM_AB": 11
     }
   },
   {
