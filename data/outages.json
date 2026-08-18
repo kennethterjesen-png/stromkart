@@ -46,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-9233",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.940081131759136,
-    "lng": 10.878425826414004,
-    "start": "18.8.2026, 18:00:00",
-    "end": "18.8.2026, 21:59:00",
-    "areaName": "Oslo / Oslo / 5331",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9233,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "5331",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787076230570,
-      "utkoblingslutt": 1787090340000,
-      "utkoblingstart": 1787076000000
-    }
-  },
-  {
     "id": "elvia-21532",
     "company": "Elvia",
     "type": "planned",
@@ -112,75 +89,6 @@
       "strombruddoppdaget": 1787047300000,
       "utkoblingslutt": 1787060260000,
       "utkoblingstart": 1787047300000
-    }
-  },
-  {
-    "id": "elvia-25401",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 21,
-    "lat": 59.986354697058985,
-    "lng": 11.06494976651321,
-    "start": "18.8.2026, 16:28:17",
-    "end": "18.8.2026, 20:13:17",
-    "areaName": "Lillestrøm / Leirsund / S0761",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25401,
-      "antallkunder": 21,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0761",
-      "poststed": "Leirsund",
-      "strombruddoppdaget": 1787070497516,
-      "utkoblingslutt": 1787083997000,
-      "utkoblingstart": 1787070497516
-    }
-  },
-  {
-    "id": "elvia-25446",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 59.98583674505349,
-    "lng": 11.059671792033878,
-    "start": "18.8.2026, 16:28:17",
-    "end": "18.8.2026, 20:13:17",
-    "areaName": "Lillestrøm / Leirsund / S0818",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25446,
-      "antallkunder": 18,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0818",
-      "poststed": "Leirsund",
-      "strombruddoppdaget": 1787070497516,
-      "utkoblingslutt": 1787083997000,
-      "utkoblingstart": 1787070497516
-    }
-  },
-  {
-    "id": "elvia-25487",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.98100451721066,
-    "lng": 11.06219819998431,
-    "start": "18.8.2026, 16:28:17",
-    "end": "18.8.2026, 20:13:17",
-    "areaName": "Lillestrøm / Kjeller / S0876",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25487,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0876",
-      "poststed": "Kjeller",
-      "strombruddoppdaget": 1787070497516,
-      "utkoblingslutt": 1787083997000,
-      "utkoblingstart": 1787070497516
     }
   },
   {
@@ -534,30 +442,6 @@
       "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Sandalsvatnet til Myklebust torsdag 20.august fra kl. 08:30 til 15:00.",
       "STATE_TXT": "Godkjent",
       "STARTTIME": 1787207400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3379701",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.77714848816205,
-    "lng": 6.217635045443162,
-    "start": "18.8.2026, 21:30:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3379701,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Breimsvegen, Firdavegen og Sagevegen tirsdag 18.august fra kl. 23:30 til 03:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787088600000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
