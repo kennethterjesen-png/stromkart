@@ -69,6 +69,29 @@
     }
   },
   {
+    "id": "elvia-14531",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 102,
+    "lat": 61.10226670943405,
+    "lng": 10.485522642035775,
+    "start": "18.8.2026, 12:56:39",
+    "end": "18.8.2026, 16:32:39",
+    "areaName": "Lillehammer / Lillehammer / ENS03444",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 14531,
+      "antallkunder": 102,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillehammer",
+      "nettstasjon": "ENS03444",
+      "poststed": "Lillehammer",
+      "strombruddoppdaget": 1787057799000,
+      "utkoblingslutt": 1787070759000,
+      "utkoblingstart": 1787057799000
+    }
+  },
+  {
     "id": "elvia-21532",
     "company": "Elvia",
     "type": "planned",
@@ -89,29 +112,6 @@
       "strombruddoppdaget": 1787028933000,
       "utkoblingslutt": 1787041893000,
       "utkoblingstart": 1787028933000
-    }
-  },
-  {
-    "id": "elvia-22233",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.340378674455096,
-    "lng": 10.892324452630154,
-    "start": "17.8.2026, 06:00:00",
-    "end": "18.8.2026, 13:00:00",
-    "areaName": "Råde / Råde / J0086",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22233,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Råde",
-      "nettstasjon": "J0086",
-      "poststed": "Råde",
-      "strombruddoppdaget": 1787049010240,
-      "utkoblingslutt": 1787058000000,
-      "utkoblingstart": 1786946400000
     }
   },
   {
@@ -184,6 +184,30 @@
     }
   },
   {
+    "id": "linja-outage-3389253",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 22,
+    "lat": 61.69553015792761,
+    "lng": 6.528604046563969,
+    "start": "18.8.2026, 11:37:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3389253,
+      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi er på staden og feilsøker.\r\nFeilen er funnet og vi jobber med retting. Noen av kundene har fått igjen strøm. Ukjent rettetid for kunder mellom Hjelle og Egge",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787053020000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 4,
+      "NUM_AB": 22
+    }
+  },
+  {
     "id": "linja-outage-3379681",
     "company": "Linja",
     "type": "outage",
@@ -205,30 +229,6 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 1,
       "NUM_AB": 11
-    }
-  },
-  {
-    "id": "linja-outage-3389253",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 22,
-    "lat": 61.69553015792761,
-    "lng": 6.528604046563969,
-    "start": "18.8.2026, 11:37:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3389253,
-      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi er på staden og feilsøker.\r\nFeilen er funnet og vi jobber med retting. Noen av kundene har fått igjen strøm, men de som ligger ute nå har ukjent rettetid.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787053020000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 4,
-      "NUM_AB": 22
     }
   },
   {
@@ -1048,6 +1048,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2899-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70894-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 39,
+    "lat": 60.458607219999976,
+    "lng": 5.131782482999995,
+    "start": "25.8.2026, 06:00:20",
+    "end": "25.8.2026, 13:00:20",
+    "areaName": "RAVNANGER",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219093,
+      "REFNR": "P70894",
+      "SEKUNDÆRSTASJON": "RAVNANGER",
+      "AVGANG": "KOLLEVÅG",
+      "CNT": 39,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787637620000,
+      "TIL_DATO": 1787662820000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70894-1",
       "description": ""
     }
   },
