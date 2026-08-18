@@ -138,6 +138,29 @@
     }
   },
   {
+    "id": "elvia-27289",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.58246944317635,
+    "lng": 11.24054231274246,
+    "start": "18.8.2026, 13:49:32",
+    "end": "18.8.2026, 17:25:32",
+    "areaName": "Indre Østfold / Askim / W2389",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27289,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2389",
+      "poststed": "Askim",
+      "strombruddoppdaget": 1787060972000,
+      "utkoblingslutt": 1787073932000,
+      "utkoblingstart": 1787060972000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -161,29 +184,6 @@
     }
   },
   {
-    "id": "elvia-30514",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.428672272270525,
-    "lng": 11.401638952328478,
-    "start": "18.8.2026, 11:44:08",
-    "end": "18.8.2026, 15:20:08",
-    "areaName": "Rakkestad / Rakkestad / W047",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30514,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W047",
-      "poststed": "Rakkestad",
-      "strombruddoppdaget": 1787053448000,
-      "utkoblingslutt": 1787066408000,
-      "utkoblingstart": 1787053448000
-    }
-  },
-  {
     "id": "linja-outage-3389253",
     "company": "Linja",
     "type": "outage",
@@ -196,7 +196,7 @@
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
       "EVENTID": 3389253,
-      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi er på staden og feilsøker.\r\nFeilen er funnet og vi jobber med retting. Noen av kundene har fått igjen strøm. Ukjent rettetid for kunder mellom Hjelle og Egge",
+      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi er på staden og feilsøker.\r\nFeilen er funnet og vi jobber med retting. Noen av kundene har fått igjen strøm. Ukjent rettetid for kunder mellom Hjelle og Egge\r\n16:06 Gåsemyr Hjelle kr. v og Egge Ytre vil få tilbake straumen rundt kl. 17. \r\n",
       "STATE_TXT": "Pågående",
       "STARTTIME": 1787053020000,
       "TYPE_TXT": "Driftsforstyrrelse",
@@ -1048,6 +1048,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2899-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70897-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.802398933999996,
+    "lng": 10.844072992999997,
+    "start": "25.8.2026, 07:00:31",
+    "end": "25.8.2026, 11:00:31",
+    "areaName": "VEVELSTAD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219095,
+      "REFNR": "P70897",
+      "SEKUNDÆRSTASJON": "VEVELSTAD",
+      "AVGANG": "303",
+      "CNT": 11,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787641231000,
+      "TIL_DATO": 1787655631000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70897-1",
       "description": ""
     }
   },
