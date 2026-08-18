@@ -92,29 +92,6 @@
     }
   },
   {
-    "id": "elvia-7537",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 59.86681661431744,
-    "lng": 10.79001211289251,
-    "start": "18.8.2026, 11:00:00",
-    "end": "18.8.2026, 12:30:00",
-    "areaName": "Oslo / Oslo / 2716",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7537,
-      "antallkunder": 15,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2716",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787056200000,
-      "utkoblingstart": 1787050800000
-    }
-  },
-  {
     "id": "elvia-8920",
     "company": "Elvia",
     "type": "planned",
@@ -253,29 +230,6 @@
     }
   },
   {
-    "id": "elvia-26287",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.14262476889663,
-    "lng": 11.255526209387657,
-    "start": "18.8.2026, 06:30:00",
-    "end": "18.8.2026, 12:00:00",
-    "areaName": "Ullensaker / Algarheim / U3197",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26287,
-      "antallkunder": 8,
-      "avbruddstype": "Planned",
-      "kommune": "Ullensaker",
-      "nettstasjon": "U3197",
-      "poststed": "Algarheim",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787054400000,
-      "utkoblingstart": 1787034600000
-    }
-  },
-  {
     "id": "elvia-28114",
     "company": "Elvia",
     "type": "planned",
@@ -322,26 +276,50 @@
     }
   },
   {
-    "id": "elvia-30269",
+    "id": "elvia-30514",
     "company": "Elvia",
     "type": "planned",
-    "customers": 79,
-    "lat": 59.97907243784072,
-    "lng": 12.139771072831921,
-    "start": "18.8.2026, 06:00:00",
-    "end": "18.8.2026, 13:00:00",
-    "areaName": "Eidskog / Skotterud / ENS13469",
+    "customers": 2,
+    "lat": 59.428672272270525,
+    "lng": 11.401638952328478,
+    "start": "18.8.2026, 11:44:08",
+    "end": "18.8.2026, 15:20:08",
+    "areaName": "Rakkestad / Rakkestad / W047",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 30269,
-      "antallkunder": 79,
-      "avbruddstype": "Planned",
-      "kommune": "Eidskog",
-      "nettstasjon": "ENS13469",
-      "poststed": "Skotterud",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787058000000,
-      "utkoblingstart": 1787032800000
+      "OBJECTID": 30514,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Rakkestad",
+      "nettstasjon": "W047",
+      "poststed": "Rakkestad",
+      "strombruddoppdaget": 1787053448000,
+      "utkoblingslutt": 1787066408000,
+      "utkoblingstart": 1787053448000
+    }
+  },
+  {
+    "id": "linja-outage-3389253",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 167,
+    "lat": 61.726722433277594,
+    "lng": 6.483373734747089,
+    "start": "18.8.2026, 11:37:00",
+    "end": null,
+    "areaName": "GLOPPEN",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3389253,
+      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi er på staden og feilsøker.\r\nFeilen er funnet og vi jobber med retting",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787053020000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "PURCHAREA_TXT": null,
+      "NUM_NS": 20,
+      "NUM_AB": 167
     }
   },
   {
