@@ -310,6 +310,30 @@
     }
   },
   {
+    "id": "linja-planned-3387765",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.860760278075446,
+    "lng": 5.014660007511037,
+    "start": "20.8.2026, 08:00:00",
+    "end": null,
+    "areaName": "BREMANGER / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3387765,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Dalavagen torsdag 20.august fra kl. 10:00 til 14:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787212800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "BREMANGER",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3386637",
     "company": "Linja",
     "type": "planned",
@@ -457,6 +481,23 @@
     "id": "lnett-outage-5",
     "company": "Lnett",
     "type": "outage",
+    "customers": 1,
+    "lat": 58.80642245388335,
+    "lng": 6.2527944302546254,
+    "start": "18.8.2026, 07:36:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 1",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-18 07:36",
+      "styleUrl": "#red"
+    }
+  },
+  {
+    "id": "lnett-outage-7",
+    "company": "Lnett",
+    "type": "outage",
     "customers": 9,
     "lat": 58.93991849106471,
     "lng": 5.646668426156782,
@@ -467,6 +508,23 @@
     "raw": {
       "name": "Berørte kunder: 9",
       "description": "Driftsforstyrrelse\nStartet: 2026-08-18 06:43\nFlere kunder berørt av strømfeil. Feilsøking pågår.",
+      "styleUrl": "#red"
+    }
+  },
+  {
+    "id": "lnett-outage-9",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 483,
+    "lat": 59.03280806617036,
+    "lng": 5.980737320524007,
+    "start": "18.8.2026, 07:39:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 483",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-18 07:39",
       "styleUrl": "#red"
     }
   },
