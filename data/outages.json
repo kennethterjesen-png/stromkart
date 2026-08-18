@@ -22,7 +22,7 @@
       "GRIDLEVEL_TXT": "Høy",
       "REASON_TXT": null,
       "NUM_NS": 7,
-      "LAST_UPDATED": 1787066695000,
+      "LAST_UPDATED": 1787067575000,
       "SCHEDULED_SMS_DAYS_BEFORE": -1,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 0,
@@ -75,29 +75,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787058000000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "elvia-15274",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 42,
-    "lat": 60.811991965414734,
-    "lng": 11.087698757598638,
-    "start": "18.8.2026, 15:00:00",
-    "end": "18.8.2026, 17:00:00",
-    "areaName": "Hamar / Hamar / ENS04540",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 15274,
-      "antallkunder": 42,
-      "avbruddstype": "Planned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS04540",
-      "poststed": "Hamar",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787072400000,
-      "utkoblingstart": 1787065200000
     }
   },
   {
