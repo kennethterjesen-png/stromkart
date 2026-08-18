@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-21532",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 21,
+    "lat": 59.859881407087656,
+    "lng": 11.23873563242923,
+    "start": "18.8.2026, 04:55:33",
+    "end": "18.8.2026, 08:31:33",
+    "areaName": "Lillestrøm / Gan / F3245",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21532,
+      "antallkunder": 21,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "F3245",
+      "poststed": "Gan",
+      "strombruddoppdaget": 1787028933000,
+      "utkoblingslutt": 1787041893000,
+      "utkoblingstart": 1787028933000
+    }
+  },
+  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
@@ -239,30 +262,6 @@
     }
   },
   {
-    "id": "linja-planned-3379673",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.74301495320933,
-    "lng": 6.482062521849572,
-    "start": "18.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3379673,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Holevegen, Skrøppavegen og Fjellvegen tirsdag 18.august fra kl. 09:00 til 12:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787036400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3379701",
     "company": "Linja",
     "type": "planned",
@@ -452,6 +451,23 @@
       "MUNICIPAL_TXT": "ULSTEIN",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-outage-5",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 9,
+    "lat": 58.93991849106471,
+    "lng": 5.646668426156782,
+    "start": "18.8.2026, 06:43:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 9",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-18 06:43\nFlere kunder berørt av strømfeil. Feilsøking pågår.",
+      "styleUrl": "#red"
     }
   },
   {
