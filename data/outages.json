@@ -36,6 +36,38 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
+    "lat": 60.1918026598913,
+    "lng": 5.4902266550167464,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9856588,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787040000000,
+      "TIMELIMIT": 1787047200000,
+      "NUM_AB": 33,
+      "CUSTOMER_WEB_TEXT": "5211 OS; MIDTBØVEGEN,HATVIKVEGEN,SJOARVEGEN",
+      "GRIDLEVEL_TXT": "Lav",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1787040191000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 4,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "bkk-2",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
     "lat": 60.370334058213615,
     "lng": 5.357939639180635,
     "start": null,
@@ -352,6 +384,30 @@
       "municipal": "SAUDA",
       "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "linja-outage-3387205",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 11,
+    "lat": 61.385756708105426,
+    "lng": 4.908057188467218,
+    "start": "18.8.2026, 08:00:00",
+    "end": null,
+    "areaName": "ASKVOLL / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3387205,
+      "CUSTOMER_WEB_TEXT": "På grunn av feilretting blir det strømstans for kunder i område Høyvikvegen og Heggøyna tirsdag 18.august fra kl. 10:00 til 14:30.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787040000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "ASKVOLL",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 11
     }
   },
   {
@@ -1183,34 +1239,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70883-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2901-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 23,
-    "lat": 59.23538487299999,
-    "lng": 10.963495232000014,
-    "start": "18.8.2026, 06:30:58",
-    "end": "18.8.2026, 11:00:00",
-    "areaName": "OREDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219026,
-      "REFNR": "PL2901",
-      "SEKUNDÆRSTASJON": "OREDALEN",
-      "AVGANG": "H5794",
-      "CNT": 23,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787034658000,
-      "TIL_DATO": 1787050800000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2901-1",
       "description": ""
     }
   }
