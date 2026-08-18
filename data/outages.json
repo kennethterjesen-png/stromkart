@@ -78,6 +78,98 @@
     }
   },
   {
+    "id": "elvia-5101",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.55790158603313,
+    "lng": 11.247244574416696,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Eidsberg / W2256",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5101,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2256",
+      "poststed": "Eidsberg",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-5102",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.54741288537194,
+    "lng": 11.277858030858955,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2261",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5102,
+      "antallkunder": 3,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2261",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-5103",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.56223774592011,
+    "lng": 11.237896198601335,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Eidsberg / W2267",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5103,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2267",
+      "poststed": "Eidsberg",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-5104",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.55647843262784,
+    "lng": 11.258163837798707,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2270",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5104,
+      "antallkunder": 3,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2270",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
     "id": "elvia-5743",
     "company": "Elvia",
     "type": "planned",
@@ -147,6 +239,29 @@
     }
   },
   {
+    "id": "elvia-7537",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 15,
+    "lat": 59.86681661431744,
+    "lng": 10.79001211289251,
+    "start": "18.8.2026, 11:00:00",
+    "end": "18.8.2026, 12:30:00",
+    "areaName": "Oslo / Oslo / 2716",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7537,
+      "antallkunder": 15,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2716",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787056200000,
+      "utkoblingstart": 1787050800000
+    }
+  },
+  {
     "id": "elvia-8920",
     "company": "Elvia",
     "type": "planned",
@@ -190,6 +305,29 @@
       "strombruddoppdaget": 1787032860802,
       "utkoblingslutt": 1787058000000,
       "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "elvia-18390",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 16,
+    "lat": 59.91523984883946,
+    "lng": 11.995001838901862,
+    "start": "18.8.2026, 10:55:41",
+    "end": "18.8.2026, 14:31:41",
+    "areaName": "Eidskog / Vestmarka / ENS09457",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 18390,
+      "antallkunder": 16,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidskog",
+      "nettstasjon": "ENS09457",
+      "poststed": "Vestmarka",
+      "strombruddoppdaget": 1787050541000,
+      "utkoblingslutt": 1787063501000,
+      "utkoblingstart": 1787050541000
     }
   },
   {
@@ -262,29 +400,6 @@
     }
   },
   {
-    "id": "elvia-23310",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 21,
-    "lat": 60.10777468587947,
-    "lng": 11.533304381051519,
-    "start": "18.8.2026, 07:00:00",
-    "end": "18.8.2026, 12:00:00",
-    "areaName": "Nes / Årnes / N1051",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23310,
-      "antallkunder": 21,
-      "avbruddstype": "Planned",
-      "kommune": "Nes",
-      "nettstasjon": "N1051",
-      "poststed": "Årnes",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787054400000,
-      "utkoblingstart": 1787036400000
-    }
-  },
-  {
     "id": "elvia-24104",
     "company": "Elvia",
     "type": "planned",
@@ -331,14 +446,520 @@
     }
   },
   {
+    "id": "elvia-26287",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 60.14262476889663,
+    "lng": 11.255526209387657,
+    "start": "18.8.2026, 06:30:00",
+    "end": "18.8.2026, 12:00:00",
+    "areaName": "Ullensaker / Algarheim / U3197",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26287,
+      "antallkunder": 8,
+      "avbruddstype": "Planned",
+      "kommune": "Ullensaker",
+      "nettstasjon": "U3197",
+      "poststed": "Algarheim",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787054400000,
+      "utkoblingstart": 1787034600000
+    }
+  },
+  {
+    "id": "elvia-27172",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.5540204018626,
+    "lng": 11.246736056572155,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Eidsberg / W2249",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27172,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2249",
+      "poststed": "Eidsberg",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27173",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 49,
+    "lat": 59.58482176973628,
+    "lng": 11.259481433586242,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2250",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27173,
+      "antallkunder": 49,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2250",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27175",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 59.59647865016399,
+    "lng": 11.282240845544196,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2253",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27175,
+      "antallkunder": 10,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2253",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27176",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.599589154331476,
+    "lng": 11.266053920328712,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2254",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27176,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2254",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27177",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 49,
+    "lat": 59.5843690275344,
+    "lng": 11.26796580056012,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2255",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27177,
+      "antallkunder": 49,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2255",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27178",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.5908987072726,
+    "lng": 11.26597365272811,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2257",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27178,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2257",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27179",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 34,
+    "lat": 59.582495635068554,
+    "lng": 11.260524219901887,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2258",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27179,
+      "antallkunder": 34,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2258",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27180",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.58296479352425,
+    "lng": 11.25079766045115,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2260",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27180,
+      "antallkunder": 7,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2260",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27183",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 34,
+    "lat": 59.58957428678558,
+    "lng": 11.266989028044591,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2264",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27183,
+      "antallkunder": 34,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2264",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27184",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 87,
+    "lat": 59.583892000327445,
+    "lng": 11.263101447304514,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2265",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27184,
+      "antallkunder": 87,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2265",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27185",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 69,
+    "lat": 59.58116222760174,
+    "lng": 11.263049056012486,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2266",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27185,
+      "antallkunder": 69,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2266",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27186",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.57515251921857,
+    "lng": 11.258781516999667,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2268",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27186,
+      "antallkunder": 11,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2268",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27187",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.55733299122629,
+    "lng": 11.226172800803688,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Eidsberg / W2269",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27187,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2269",
+      "poststed": "Eidsberg",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27188",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.54714323761684,
+    "lng": 11.266382943731461,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2271",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27188,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2271",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27189",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.548954215638986,
+    "lng": 11.24909736909929,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Eidsberg / W2272",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27189,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2272",
+      "poststed": "Eidsberg",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27190",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.54414402216326,
+    "lng": 11.260846919092664,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Eidsberg / W2273",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27190,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2273",
+      "poststed": "Eidsberg",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27191",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 40,
+    "lat": 59.58529635805398,
+    "lng": 11.263190789849862,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2274",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27191,
+      "antallkunder": 40,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2274",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27192",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.575228254282656,
+    "lng": 11.269045849555315,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2275",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27192,
+      "antallkunder": 7,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2275",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27193",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 17,
+    "lat": 59.57876791031917,
+    "lng": 11.258934440972366,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2276",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27193,
+      "antallkunder": 17,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2276",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27194",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.574636371485795,
+    "lng": 11.247670989050299,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2277",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27194,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2277",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
+    "id": "elvia-27290",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.565601642845806,
+    "lng": 11.258581724868328,
+    "start": "18.8.2026, 11:03:27",
+    "end": "18.8.2026, 14:48:27",
+    "areaName": "Indre Østfold / Slitu / W2392",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27290,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2392",
+      "poststed": "Slitu",
+      "strombruddoppdaget": 1787051007401,
+      "utkoblingslutt": 1787064507000,
+      "utkoblingstart": 1787051007401
+    }
+  },
+  {
     "id": "elvia-28114",
     "company": "Elvia",
     "type": "planned",
     "customers": 24,
     "lat": 59.1824460642836,
     "lng": 10.870567085310915,
-    "start": "18.8.2026, 09:20:35",
-    "end": "18.8.2026, 12:56:35",
+    "start": null,
+    "end": "18.8.2026, 11:49:33",
     "areaName": "Fredrikstad / Gressvik / X2017",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
@@ -348,9 +969,9 @@
       "kommune": "Fredrikstad",
       "nettstasjon": "X2017",
       "poststed": "Gressvik",
-      "strombruddoppdaget": 1787044835000,
-      "utkoblingslutt": 1787057795000,
-      "utkoblingstart": 1787044835000
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787053773000,
+      "utkoblingstart": null
     }
   },
   {
@@ -397,30 +1018,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787058000000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "linja-outage-3387205",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 11,
-    "lat": 61.385756708105426,
-    "lng": 4.908057188467218,
-    "start": "18.8.2026, 08:00:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3387205,
-      "CUSTOMER_WEB_TEXT": "På grunn av feilretting blir det strømstans for kunder i område Høyvikvegen og Heggøyna tirsdag 18.august fra kl. 10:00 til 14:30.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787040000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "ASKVOLL",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 11
     }
   },
   {
@@ -688,54 +1285,6 @@
     }
   },
   {
-    "id": "linja-planned-3388389",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.543823403832285,
-    "lng": 6.063308284013617,
-    "start": "26.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388389,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnevegen og Romsdalsvegen onsdag 26.august fra kl. 08:00 til 11:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787724000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 128,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3388397",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.54700914827248,
-    "lng": 6.0599395072509825,
-    "start": "26.8.2026, 09:30:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388397,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnevegen og Synesvegen onsdag 26.august fra kl. 11:30 til 14:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787736600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 128,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3379693",
     "company": "Linja",
     "type": "planned",
@@ -827,6 +1376,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "SANDE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3388389",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.543823403832285,
+    "lng": 6.063308284013617,
+    "start": "27.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3388389,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnevegen og Romsdalsvegen torsdag 27.august fra kl. 08:00 til 11:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787810400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 128,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1000,6 +1573,30 @@
     }
   },
   {
+    "id": "linja-planned-3388397",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.54700914827248,
+    "lng": 6.0599395072509825,
+    "start": "27.8.2026, 09:30:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3388397,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnevegen og Synesvegen torsdag 27.august fra kl. 11:30 til 14:30.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787823000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 128,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3387965",
     "company": "Linja",
     "type": "planned",
@@ -1024,7 +1621,7 @@
     }
   },
   {
-    "id": "lnett-outage-9",
+    "id": "lnett-outage-11",
     "company": "Lnett",
     "type": "outage",
     "customers": 1,
@@ -1041,7 +1638,7 @@
     }
   },
   {
-    "id": "lnett-planned-11",
+    "id": "lnett-planned-13",
     "company": "Lnett",
     "type": "planned",
     "customers": 6,
@@ -1334,34 +1931,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2902-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70883-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 3,
-    "lat": 59.658399659999986,
-    "lng": 10.91557648700001,
-    "start": "18.8.2026, 07:00:37",
-    "end": "18.8.2026, 13:00:37",
-    "areaName": "KRÅKSTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218849,
-      "REFNR": "P70883",
-      "SEKUNDÆRSTASJON": "KRÅKSTAD",
-      "AVGANG": "L54",
-      "CNT": 3,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787036437000,
-      "TIL_DATO": 1787058037000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70883-1",
       "description": ""
     }
   }
