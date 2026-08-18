@@ -216,6 +216,29 @@
     }
   },
   {
+    "id": "elvia-22233",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.340378674455096,
+    "lng": 10.892324452630154,
+    "start": "17.8.2026, 06:00:00",
+    "end": "18.8.2026, 13:00:00",
+    "areaName": "Råde / Råde / J0086",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22233,
+      "antallkunder": 6,
+      "avbruddstype": "Planned",
+      "kommune": "Råde",
+      "nettstasjon": "J0086",
+      "poststed": "Råde",
+      "strombruddoppdaget": 1787049010240,
+      "utkoblingslutt": 1787058000000,
+      "utkoblingstart": 1786946400000
+    }
+  },
+  {
     "id": "elvia-22687",
     "company": "Elvia",
     "type": "planned",
@@ -259,6 +282,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787054400000,
       "utkoblingstart": 1787036400000
+    }
+  },
+  {
+    "id": "elvia-24104",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.71224740143223,
+    "lng": 10.649336541170525,
+    "start": "18.8.2026, 10:01:40",
+    "end": "18.8.2026, 13:37:40",
+    "areaName": "Frogn / Nordre frogn / P0324",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24104,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Frogn",
+      "nettstasjon": "P0324",
+      "poststed": "Nordre frogn",
+      "strombruddoppdaget": 1787047300000,
+      "utkoblingslutt": 1787060260000,
+      "utkoblingstart": 1787047300000
     }
   },
   {
@@ -354,25 +400,6 @@
     }
   },
   {
-    "id": "fagne-4584904",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.62627929578833,
-    "lng": 6.263858184479949,
-    "start": null,
-    "end": null,
-    "areaName": "SAUDA",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SAUDA",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-outage-3387205",
     "company": "Linja",
     "type": "outage",
@@ -394,54 +421,6 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 0,
       "NUM_AB": 11
-    }
-  },
-  {
-    "id": "linja-outage-3388813",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 2,
-    "lat": 61.79582684710356,
-    "lng": 5.168042739699108,
-    "start": "18.8.2026, 09:18:00",
-    "end": null,
-    "areaName": "Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388813,
-      "CUSTOMER_WEB_TEXT": null,
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787044680000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 128,
-      "MUNICIPAL_TXT": null,
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 2
-    }
-  },
-  {
-    "id": "linja-outage-3379673",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 14,
-    "lat": 61.74300983059682,
-    "lng": 6.482149017581962,
-    "start": "18.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3379673,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Holevegen, Skrøppavegen og Fjellvegen tirsdag 18.august fra kl. 09:00 til 12:30.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787036400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 1,
-      "NUM_AB": 14
     }
   },
   {
@@ -1075,23 +1054,6 @@
     "raw": {
       "name": "Berørte kunder: 6",
       "description": "Planlagt strømstans\nStartet: 2026-08-18 08:05\nPlanlagt ferdig: 2026-08-18 16:00",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
-    "id": "lnett-planned-13",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 47,
-    "lat": 59.28113609369477,
-    "lng": 5.955897478266556,
-    "start": "18.8.2026, 09:05:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 47",
-      "description": "Planlagt strømstans\nStartet: 2026-08-18 09:05\nPlanlagt ferdig: 2026-08-18 14:00",
       "styleUrl": "#yellow"
     }
   },
