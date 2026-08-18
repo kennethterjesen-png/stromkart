@@ -1,5 +1,74 @@
 [
   {
+    "id": "elvia-2766",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 60.155443390723136,
+    "lng": 12.40077223401474,
+    "start": "18.8.2026, 06:00:00",
+    "end": "18.8.2026, 13:00:00",
+    "areaName": "Kongsvinger / Austmarka / ENS07637",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 2766,
+      "antallkunder": 3,
+      "avbruddstype": "Planned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS07637",
+      "poststed": "Austmarka",
+      "strombruddoppdaget": 1787032860802,
+      "utkoblingslutt": 1787058000000,
+      "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "elvia-3180",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 60.15938321740132,
+    "lng": 12.418114090506215,
+    "start": "18.8.2026, 06:00:00",
+    "end": "18.8.2026, 13:00:00",
+    "areaName": "Kongsvinger / Austmarka / ENS11966",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 3180,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS11966",
+      "poststed": "Austmarka",
+      "strombruddoppdaget": 1787032860802,
+      "utkoblingslutt": 1787058000000,
+      "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "elvia-5743",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 20,
+    "lat": 59.91103903460368,
+    "lng": 10.72237757923415,
+    "start": "18.8.2026, 06:00:00",
+    "end": "18.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 0106",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5743,
+      "antallkunder": 20,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "0106",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787058000000,
+      "utkoblingstart": 1787032800000
+    }
+  },
+  {
     "id": "elvia-6094",
     "company": "Elvia",
     "type": "planned",
@@ -23,6 +92,75 @@
     }
   },
   {
+    "id": "elvia-6404",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.91670280581892,
+    "lng": 10.71874975488211,
+    "start": "18.8.2026, 06:00:00",
+    "end": "18.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 1057",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6404,
+      "antallkunder": 11,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1057",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787058000000,
+      "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "elvia-8920",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 25,
+    "lat": 59.91126600863983,
+    "lng": 10.720822959837129,
+    "start": "18.8.2026, 06:00:00",
+    "end": "18.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 4900",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8920,
+      "antallkunder": 25,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "4900",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787058000000,
+      "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "elvia-17200",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 23,
+    "lat": 60.15520934294099,
+    "lng": 12.4568327812473,
+    "start": "18.8.2026, 06:00:00",
+    "end": "18.8.2026, 13:00:00",
+    "areaName": "Kongsvinger / Austmarka / ENS07636",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17200,
+      "antallkunder": 23,
+      "avbruddstype": "Planned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS07636",
+      "poststed": "Austmarka",
+      "strombruddoppdaget": 1787032860802,
+      "utkoblingslutt": 1787058000000,
+      "utkoblingstart": 1787032800000
+    }
+  },
+  {
     "id": "elvia-21532",
     "company": "Elvia",
     "type": "planned",
@@ -43,6 +181,94 @@
       "strombruddoppdaget": 1787028933000,
       "utkoblingslutt": 1787041893000,
       "utkoblingstart": 1787028933000
+    }
+  },
+  {
+    "id": "elvia-23310",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 21,
+    "lat": 60.10777468587947,
+    "lng": 11.533304381051519,
+    "start": "18.8.2026, 07:00:00",
+    "end": "18.8.2026, 12:00:00",
+    "areaName": "Nes / Årnes / N1051",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 23310,
+      "antallkunder": 21,
+      "avbruddstype": "Planned",
+      "kommune": "Nes",
+      "nettstasjon": "N1051",
+      "poststed": "Årnes",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787054400000,
+      "utkoblingstart": 1787036400000
+    }
+  },
+  {
+    "id": "elvia-28185",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 59.17331331070292,
+    "lng": 10.848405077343466,
+    "start": "18.8.2026, 06:00:00",
+    "end": "18.8.2026, 09:00:00",
+    "areaName": "Fredrikstad / Gressvik / X2095",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28185,
+      "antallkunder": 10,
+      "avbruddstype": "Planned",
+      "kommune": "Fredrikstad",
+      "nettstasjon": "X2095",
+      "poststed": "Gressvik",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787043600000,
+      "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "elvia-30269",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 79,
+    "lat": 59.97907243784072,
+    "lng": 12.139771072831921,
+    "start": "18.8.2026, 06:00:00",
+    "end": "18.8.2026, 13:00:00",
+    "areaName": "Eidskog / Skotterud / ENS13469",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 30269,
+      "antallkunder": 79,
+      "avbruddstype": "Planned",
+      "kommune": "Eidskog",
+      "nettstasjon": "ENS13469",
+      "poststed": "Skotterud",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787058000000,
+      "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "fagne-3857808",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 153,
+    "lat": 59.706029593150426,
+    "lng": 6.526122829106831,
+    "start": null,
+    "end": null,
+    "areaName": "SAUDA",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "SAUDA",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
     }
   },
   {
@@ -238,30 +464,6 @@
     }
   },
   {
-    "id": "linja-planned-3387205",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.385756708105426,
-    "lng": 4.908057188467218,
-    "start": "18.8.2026, 08:00:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3387205,
-      "CUSTOMER_WEB_TEXT": "På grunn av feilretting blir det strømstans for kunder i område Høyvikvegen og Heggøyna tirsdag 18.august fra kl. 10:00 til 14:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787040000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "ASKVOLL",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3379701",
     "company": "Linja",
     "type": "planned",
@@ -326,7 +528,7 @@
       "STATE_TXT": "Godkjent",
       "STARTTIME": 1787212800000,
       "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
+      "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "BREMANGER",
       "NUM_NS": 0,
@@ -478,7 +680,7 @@
     }
   },
   {
-    "id": "lnett-outage-5",
+    "id": "lnett-outage-7",
     "company": "Lnett",
     "type": "outage",
     "customers": 1,
@@ -495,7 +697,7 @@
     }
   },
   {
-    "id": "lnett-outage-7",
+    "id": "lnett-outage-9",
     "company": "Lnett",
     "type": "outage",
     "customers": 9,
@@ -507,25 +709,25 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 9",
-      "description": "Driftsforstyrrelse\nStartet: 2026-08-18 06:43\nFlere kunder berørt av strømfeil. Feilsøking pågår.",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-18 06:43\nKabelfeil.",
       "styleUrl": "#red"
     }
   },
   {
-    "id": "lnett-outage-9",
+    "id": "lnett-planned-11",
     "company": "Lnett",
-    "type": "outage",
-    "customers": 483,
-    "lat": 59.03280806617036,
-    "lng": 5.980737320524007,
-    "start": "18.8.2026, 07:39:00",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.22955335944722,
+    "lng": 6.080355969420705,
+    "start": "18.8.2026, 08:05:00",
     "end": null,
-    "areaName": "Driftsforstyrrelse",
+    "areaName": "Planlagt vedlikehold",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 483",
-      "description": "Driftsforstyrrelse\nStartet: 2026-08-18 07:39",
-      "styleUrl": "#red"
+      "name": "Berørte kunder: 6",
+      "description": "Planlagt strømstans\nStartet: 2026-08-18 08:05\nPlanlagt ferdig: 2026-08-18 16:00",
+      "styleUrl": "#yellow"
     }
   },
   {
