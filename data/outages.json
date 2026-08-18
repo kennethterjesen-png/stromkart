@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-6235",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.86680550566031,
-    "lng": 10.805505913281724,
-    "start": "18.8.2026, 11:13:40",
-    "end": "18.8.2026, 14:49:40",
-    "areaName": "Oslo / Oslo / 0828",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6235,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0828",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787051620000,
-      "utkoblingslutt": 1787064580000,
-      "utkoblingstart": 1787051620000
-    }
-  },
-  {
     "id": "elvia-6404",
     "company": "Elvia",
     "type": "planned",
@@ -66,29 +43,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787058000000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "elvia-14531",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 102,
-    "lat": 61.10226670943405,
-    "lng": 10.485522642035775,
-    "start": "18.8.2026, 12:56:39",
-    "end": "18.8.2026, 16:32:39",
-    "areaName": "Lillehammer / Lillehammer / ENS03444",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14531,
-      "antallkunder": 102,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03444",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": 1787057799000,
-      "utkoblingslutt": 1787070759000,
-      "utkoblingstart": 1787057799000
     }
   },
   {
@@ -135,29 +89,6 @@
       "strombruddoppdaget": 1787047300000,
       "utkoblingslutt": 1787060260000,
       "utkoblingstart": 1787047300000
-    }
-  },
-  {
-    "id": "elvia-27289",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.58246944317635,
-    "lng": 11.24054231274246,
-    "start": "18.8.2026, 13:49:32",
-    "end": "18.8.2026, 17:25:32",
-    "areaName": "Indre Østfold / Askim / W2389",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27289,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "W2389",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1787060972000,
-      "utkoblingslutt": 1787073932000,
-      "utkoblingstart": 1787060972000
     }
   },
   {
