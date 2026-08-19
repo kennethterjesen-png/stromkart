@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-15274",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 42,
+    "lat": 60.811991965414734,
+    "lng": 11.087698757598638,
+    "start": "11.8.2026, 07:00:00",
+    "end": "31.8.2026, 13:00:00",
+    "areaName": "Hamar / Hamar / ENS04540",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15274,
+      "antallkunder": 42,
+      "avbruddstype": "Planned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS04540",
+      "poststed": "Hamar",
+      "strombruddoppdaget": 1786443466200,
+      "utkoblingslutt": 1788181200000,
+      "utkoblingstart": 1786431600000
+    }
+  },
+  {
     "id": "elvia-21532",
     "company": "Elvia",
     "type": "planned",
@@ -112,30 +135,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "linja-outage-3389841",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 213,
-    "lat": 62.48125684191566,
-    "lng": 6.7782517765849315,
-    "start": "19.8.2026, 04:56:00",
-    "end": null,
-    "areaName": "ÅLESUND / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3389841,
-      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Se https://linja.no/straumbrot for mer info\r\n07:12 Det er framleis straumlaust frå Lid Øvre til Tøsse. Vi har sendt personell til området. Rettetid uvisst.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787115360000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "PURCHAREA_TXT": "Nordvestnett",
-      "NUM_NS": 11,
-      "NUM_AB": 213
     }
   },
   {
