@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-7214",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 21,
-    "lat": 59.94325225476254,
-    "lng": 10.693428517367263,
-    "start": "19.8.2026, 08:22:00",
-    "end": "19.8.2026, 11:58:00",
-    "areaName": "Oslo / Oslo / 2279",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7214,
-      "antallkunder": 21,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2279",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787127720000,
-      "utkoblingslutt": 1787140680000,
-      "utkoblingstart": 1787127720000
-    }
-  },
-  {
     "id": "elvia-11868",
     "company": "Elvia",
     "type": "planned",
