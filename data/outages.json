@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-7214",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 21,
+    "lat": 59.94325225476254,
+    "lng": 10.693428517367263,
+    "start": "19.8.2026, 08:22:00",
+    "end": "19.8.2026, 11:58:00",
+    "areaName": "Oslo / Oslo / 2279",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7214,
+      "antallkunder": 21,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "2279",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1787127720000,
+      "utkoblingslutt": 1787140680000,
+      "utkoblingstart": 1787127720000
+    }
+  },
+  {
     "id": "elvia-9933",
     "company": "Elvia",
     "type": "planned",
@@ -43,29 +66,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787144400000,
       "utkoblingstart": 1787122800000
-    }
-  },
-  {
-    "id": "elvia-12090",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.359407887925265,
-    "lng": 11.23315717094392,
-    "start": "19.8.2026, 09:20:06",
-    "end": "19.8.2026, 12:56:06",
-    "areaName": "Eidsvoll / Eidsvoll / E0559",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12090,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0559",
-      "poststed": "Eidsvoll",
-      "strombruddoppdaget": 1787131206000,
-      "utkoblingslutt": 1787144166000,
-      "utkoblingstart": 1787131206000
     }
   },
   {
@@ -161,6 +161,29 @@
     }
   },
   {
+    "id": "elvia-22164",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.3492507071788,
+    "lng": 10.880118953402812,
+    "start": "19.8.2026, 11:48:53",
+    "end": "19.8.2026, 15:24:53",
+    "areaName": "Råde / Råde / J0009",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22164,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Råde",
+      "nettstasjon": "J0009",
+      "poststed": "Råde",
+      "strombruddoppdaget": 1787140133000,
+      "utkoblingslutt": 1787153093000,
+      "utkoblingstart": 1787140133000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -207,29 +230,6 @@
     }
   },
   {
-    "id": "elvia-29290",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.61577548693197,
-    "lng": 11.185752314794897,
-    "start": "19.8.2026, 06:30:00",
-    "end": "19.8.2026, 12:00:00",
-    "areaName": "Indre Østfold / Askim / Z1079",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29290,
-      "antallkunder": 4,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1079",
-      "poststed": "Askim",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787140800000,
-      "utkoblingstart": 1787121000000
-    }
-  },
-  {
     "id": "elvia-29375",
     "company": "Elvia",
     "type": "planned",
@@ -250,25 +250,6 @@
       "strombruddoppdaget": 1787128675000,
       "utkoblingslutt": 1787141635000,
       "utkoblingstart": 1787128675000
-    }
-  },
-  {
-    "id": "fagne-4584944",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 72,
-    "lat": 59.6248689451803,
-    "lng": 6.256405653374738,
-    "start": null,
-    "end": null,
-    "areaName": "SAUDA",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SAUDA",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
