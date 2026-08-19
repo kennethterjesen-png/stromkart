@@ -127,7 +127,7 @@
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
       "EVENTID": 3391060,
-      "CUSTOMER_WEB_TEXT": "Feil i område Bondalen, Feilsøking pågår. ",
+      "CUSTOMER_WEB_TEXT": "Feil i område Bondalen, Feilsøking pågår. \r\n\r\n",
       "STATE_TXT": "Pågående",
       "STARTTIME": 1787166120000,
       "TYPE_TXT": "Driftsforstyrrelse",
