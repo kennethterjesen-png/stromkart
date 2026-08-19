@@ -4,38 +4,6 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.88379459408409,
-    "lng": 5.0207365566778925,
-    "start": null,
-    "end": null,
-    "areaName": "Gulen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9851329,
-      "MUNICIPAL_TXT": "Gulen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787119200000,
-      "TIMELIMIT": 1787144400000,
-      "NUM_AB": 6,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 3,
-      "LAST_UPDATED": 1787134517000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
     "lat": 60.3506579179575,
     "lng": 5.22562137473972,
     "start": null,
@@ -130,29 +98,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787144400000,
       "utkoblingstart": 1787122800000
-    }
-  },
-  {
-    "id": "elvia-10775",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.64974241008075,
-    "lng": 10.802003548074728,
-    "start": "19.8.2026, 08:50:45",
-    "end": "19.8.2026, 12:26:45",
-    "areaName": "Ås / Ås / C0187",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10775,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ås",
-      "nettstasjon": "C0187",
-      "poststed": "Ås",
-      "strombruddoppdaget": 1787129445000,
-      "utkoblingslutt": 1787142405000,
-      "utkoblingstart": 1787129445000
     }
   },
   {
@@ -340,144 +285,6 @@
     }
   },
   {
-    "id": "elvia-27840",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 59.18943770108329,
-    "lng": 11.101790642226943,
-    "start": "19.8.2026, 07:39:06",
-    "end": "19.8.2026, 11:24:06",
-    "areaName": "Sarpsborg / Skjeberg / X0754",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27840,
-      "antallkunder": 18,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0754",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1787125146104,
-      "utkoblingslutt": 1787138646000,
-      "utkoblingstart": 1787125146104
-    }
-  },
-  {
-    "id": "elvia-27841",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.184078289882876,
-    "lng": 11.115537097671295,
-    "start": "19.8.2026, 07:39:06",
-    "end": "19.8.2026, 11:24:06",
-    "areaName": "Sarpsborg / Skjeberg / X0755",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27841,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0755",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1787125146104,
-      "utkoblingslutt": 1787138646000,
-      "utkoblingstart": 1787125146104
-    }
-  },
-  {
-    "id": "elvia-27843",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 60,
-    "lat": 59.16530091471458,
-    "lng": 11.117803276493358,
-    "start": "19.8.2026, 07:39:06",
-    "end": "19.8.2026, 11:24:06",
-    "areaName": "Sarpsborg / Skjeberg / X0758",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27843,
-      "antallkunder": 60,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0758",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1787125146104,
-      "utkoblingslutt": 1787138646000,
-      "utkoblingstart": 1787125146104
-    }
-  },
-  {
-    "id": "elvia-27844",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 62,
-    "lat": 59.17305883352477,
-    "lng": 11.113385545207668,
-    "start": "19.8.2026, 07:39:06",
-    "end": "19.8.2026, 11:24:06",
-    "areaName": "Sarpsborg / Skjeberg / X0759",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27844,
-      "antallkunder": 62,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0759",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1787125146104,
-      "utkoblingslutt": 1787138646000,
-      "utkoblingstart": 1787125146104
-    }
-  },
-  {
-    "id": "elvia-27846",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 71,
-    "lat": 59.17763758753943,
-    "lng": 11.109570366802489,
-    "start": "19.8.2026, 07:39:06",
-    "end": "19.8.2026, 11:24:06",
-    "areaName": "Sarpsborg / Skjeberg / X0761",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27846,
-      "antallkunder": 71,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0761",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1787125146104,
-      "utkoblingslutt": 1787138646000,
-      "utkoblingstart": 1787125146104
-    }
-  },
-  {
-    "id": "elvia-27859",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.19504363081399,
-    "lng": 11.108267446596837,
-    "start": "19.8.2026, 07:39:06",
-    "end": "19.8.2026, 11:24:06",
-    "areaName": "Sarpsborg / Skjeberg / X0774",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27859,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0774",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1787125146104,
-      "utkoblingslutt": 1787138646000,
-      "utkoblingstart": 1787125146104
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -544,29 +351,6 @@
       "strombruddoppdaget": 1787128675000,
       "utkoblingslutt": 1787141635000,
       "utkoblingstart": 1787128675000
-    }
-  },
-  {
-    "id": "elvia-30390",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 17,
-    "lat": 59.178953910133906,
-    "lng": 11.103612931330506,
-    "start": "19.8.2026, 07:39:06",
-    "end": "19.8.2026, 11:24:06",
-    "areaName": "Sarpsborg / Skjeberg / X1102",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30390,
-      "antallkunder": 17,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X1102",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1787125146104,
-      "utkoblingslutt": 1787138646000,
-      "utkoblingstart": 1787125146104
     }
   },
   {
@@ -648,30 +432,6 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 11,
       "NUM_AB": 199
-    }
-  },
-  {
-    "id": "linja-outage-3380285",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 33,
-    "lat": 62.470560529549616,
-    "lng": 6.140907995605284,
-    "start": "19.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3380285,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Øvre Strandgate og Gange Rolvs Gate onsdag 19.august fra kl. 08:00 til 15:00",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787119200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 0,
-      "NUM_AB": 33
     }
   },
   {
