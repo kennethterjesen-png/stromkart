@@ -46,26 +46,26 @@
     }
   },
   {
-    "id": "elvia-9933",
+    "id": "elvia-7776",
     "company": "Elvia",
     "type": "planned",
-    "customers": 13,
-    "lat": 59.89840457671805,
-    "lng": 10.518600624373383,
-    "start": "19.8.2026, 07:00:00",
-    "end": "19.8.2026, 13:00:00",
-    "areaName": "Bærum / Sandvika / B0889",
+    "customers": 1,
+    "lat": 59.96464549092058,
+    "lng": 10.73111173819036,
+    "start": "19.8.2026, 12:52:55",
+    "end": "19.8.2026, 16:28:55",
+    "areaName": "Oslo / Oslo / 3075",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 9933,
-      "antallkunder": 13,
-      "avbruddstype": "Planned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0889",
-      "poststed": "Sandvika",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787144400000,
-      "utkoblingstart": 1787122800000
+      "OBJECTID": 7776,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "3075",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1787143975000,
+      "utkoblingslutt": 1787156935000,
+      "utkoblingstart": 1787143975000
     }
   },
   {
@@ -115,6 +115,29 @@
     }
   },
   {
+    "id": "elvia-25453",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 21,
+    "lat": 59.96759302473159,
+    "lng": 11.056859189511744,
+    "start": "19.8.2026, 13:02:46",
+    "end": "19.8.2026, 16:38:46",
+    "areaName": "Lillestrøm / Kjeller / S0827",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 25453,
+      "antallkunder": 21,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "S0827",
+      "poststed": "Kjeller",
+      "strombruddoppdaget": 1787144566000,
+      "utkoblingslutt": 1787157526000,
+      "utkoblingstart": 1787144566000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -158,6 +181,25 @@
       "strombruddoppdaget": 1787138462000,
       "utkoblingslutt": 1787151422000,
       "utkoblingstart": 1787138462000
+    }
+  },
+  {
+    "id": "fagne-3857808",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 117,
+    "lat": 59.70526674899847,
+    "lng": 6.535558365778229,
+    "start": null,
+    "end": null,
+    "areaName": "SAUDA",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "SAUDA",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
     }
   },
   {
