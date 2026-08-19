@@ -69,72 +69,26 @@
     }
   },
   {
-    "id": "elvia-12696",
+    "id": "elvia-11868",
     "company": "Elvia",
     "type": "planned",
-    "customers": 154,
-    "lat": 60.77501372663358,
-    "lng": 10.678721504370285,
-    "start": "19.8.2026, 06:30:00",
-    "end": "19.8.2026, 12:30:00",
-    "areaName": "Gjøvik / Gjøvik / ENS00753",
+    "customers": 12,
+    "lat": 60.32178835171058,
+    "lng": 11.290162436000198,
+    "start": "19.8.2026, 12:26:14",
+    "end": "19.8.2026, 16:02:14",
+    "areaName": "Eidsvoll / Eidsvoll / E0263",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 12696,
-      "antallkunder": 154,
-      "avbruddstype": "Planned",
-      "kommune": "Gjøvik",
-      "nettstasjon": "ENS00753",
-      "poststed": "Gjøvik",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787142600000,
-      "utkoblingstart": 1787121000000
-    }
-  },
-  {
-    "id": "elvia-17201",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.14413675708443,
-    "lng": 12.418760651078282,
-    "start": "19.8.2026, 09:00:00",
-    "end": "19.8.2026, 13:00:00",
-    "areaName": "Kongsvinger / Austmarka / ENS07638",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17201,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07638",
-      "poststed": "Austmarka",
-      "strombruddoppdaget": 1787131267689,
-      "utkoblingslutt": 1787144400000,
-      "utkoblingstart": 1787130000000
-    }
-  },
-  {
-    "id": "elvia-17202",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.13275044940453,
-    "lng": 12.424764183551416,
-    "start": "19.8.2026, 09:00:00",
-    "end": "19.8.2026, 13:00:00",
-    "areaName": "Kongsvinger / Austmarka / ENS07639",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17202,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07639",
-      "poststed": "Austmarka",
-      "strombruddoppdaget": 1787131267689,
-      "utkoblingslutt": 1787144400000,
-      "utkoblingstart": 1787130000000
+      "OBJECTID": 11868,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidsvoll",
+      "nettstasjon": "E0263",
+      "poststed": "Eidsvoll",
+      "strombruddoppdaget": 1787142374000,
+      "utkoblingslutt": 1787155334000,
+      "utkoblingstart": 1787142374000
     }
   },
   {
@@ -158,29 +112,6 @@
       "strombruddoppdaget": 1787028933000,
       "utkoblingslutt": 1787041893000,
       "utkoblingstart": 1787028933000
-    }
-  },
-  {
-    "id": "elvia-22164",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.3492507071788,
-    "lng": 10.880118953402812,
-    "start": "19.8.2026, 11:48:53",
-    "end": "19.8.2026, 15:24:53",
-    "areaName": "Råde / Råde / J0009",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22164,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Råde",
-      "nettstasjon": "J0009",
-      "poststed": "Råde",
-      "strombruddoppdaget": 1787140133000,
-      "utkoblingslutt": 1787153093000,
-      "utkoblingstart": 1787140133000
     }
   },
   {
@@ -227,29 +158,6 @@
       "strombruddoppdaget": 1787138462000,
       "utkoblingslutt": 1787151422000,
       "utkoblingstart": 1787138462000
-    }
-  },
-  {
-    "id": "elvia-29375",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.57276324478267,
-    "lng": 11.1279005387979,
-    "start": "19.8.2026, 08:37:55",
-    "end": "19.8.2026, 12:13:55",
-    "areaName": "Indre Østfold / Askim / Z1196",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29375,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1196",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1787128675000,
-      "utkoblingslutt": 1787141635000,
-      "utkoblingstart": 1787128675000
     }
   },
   {
@@ -440,30 +348,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ØRSTA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3379709",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.76729415657245,
-    "lng": 6.198808834904385,
-    "start": "19.8.2026, 14:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3379709,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Mardalsvegen og Sørestrandsvegen onsdag 19.august fra kl. 16:00 til 19:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787148000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
