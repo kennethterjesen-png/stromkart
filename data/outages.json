@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-3143",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 60.87756528105508,
+    "lng": 11.571807192833822,
+    "start": "19.8.2026, 14:45:00",
+    "end": "19.8.2026, 15:15:00",
+    "areaName": "Elverum / Elverum / ENS11803",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 3143,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Elverum",
+      "nettstasjon": "ENS11803",
+      "poststed": "Elverum",
+      "strombruddoppdaget": 1787150712954,
+      "utkoblingslutt": 1787152500000,
+      "utkoblingstart": 1787150700000
+    }
+  },
+  {
     "id": "elvia-6404",
     "company": "Elvia",
     "type": "planned",
@@ -193,29 +216,6 @@
     }
   },
   {
-    "id": "elvia-28407",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.21437005692671,
-    "lng": 10.882012166436812,
-    "start": "19.8.2026, 11:21:02",
-    "end": "19.8.2026, 14:57:02",
-    "areaName": "Fredrikstad / Gressvik / X2353",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28407,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Fredrikstad",
-      "nettstasjon": "X2353",
-      "poststed": "Gressvik",
-      "strombruddoppdaget": 1787138462000,
-      "utkoblingslutt": 1787151422000,
-      "utkoblingstart": 1787138462000
-    }
-  },
-  {
     "id": "linja-outage-3379709",
     "company": "Linja",
     "type": "outage",
@@ -237,30 +237,6 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 0,
       "NUM_AB": 12
-    }
-  },
-  {
-    "id": "linja-outage-3390888",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 11,
-    "lat": 62.47426549573848,
-    "lng": 6.037852362831403,
-    "start": "19.8.2026, 13:17:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3390888,
-      "CUSTOMER_WEB_TEXT": null,
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787145420000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "GISKE",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 0,
-      "NUM_AB": 11
     }
   },
   {
@@ -804,7 +780,7 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 183",
-      "description": "Planlagt strømstans\nStartet: 2026-08-19 08:53\nPlanlagt ferdig: 2026-08-19 15:30",
+      "description": "Planlagt strømstans\nStartet: 2026-08-19 08:53\nPlanlagt ferdig: 2026-08-19 15:30\n16:14 - Det har oppstått uventede utfordringer og vi anslår at strømstansen kan vare til kl. 20:30",
       "styleUrl": "#yellow"
     }
   },
