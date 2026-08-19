@@ -46,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-18700",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 77,
-    "lat": 61.11573514734808,
-    "lng": 10.486487556080311,
-    "start": "19.8.2026, 17:08:51",
-    "end": "19.8.2026, 20:44:51",
-    "areaName": "Lillehammer / Lillehammer / ENS09921",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18700,
-      "antallkunder": 77,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS09921",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": 1787159331000,
-      "utkoblingslutt": 1787172291000,
-      "utkoblingstart": 1787159331000
-    }
-  },
-  {
     "id": "elvia-21532",
     "company": "Elvia",
     "type": "planned",
@@ -157,30 +134,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "SANDE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3379717",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.766396412213396,
-    "lng": 6.192984199236793,
-    "start": "19.8.2026, 20:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3379717,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Sørestrandsvegen onsdag 19.august fra kl. 22:00 til 01:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787169600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
