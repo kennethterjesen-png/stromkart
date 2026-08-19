@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-3143",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 60.87756528105508,
-    "lng": 11.571807192833822,
-    "start": "19.8.2026, 14:45:00",
-    "end": "19.8.2026, 15:15:00",
-    "areaName": "Elverum / Elverum / ENS11803",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 3143,
-      "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Elverum",
-      "nettstasjon": "ENS11803",
-      "poststed": "Elverum",
-      "strombruddoppdaget": 1787150712954,
-      "utkoblingslutt": 1787152500000,
-      "utkoblingstart": 1787150700000
-    }
-  },
-  {
     "id": "elvia-6404",
     "company": "Elvia",
     "type": "planned",
@@ -98,29 +75,6 @@
       "strombruddoppdaget": 1787127720000,
       "utkoblingslutt": 1787140680000,
       "utkoblingstart": 1787127720000
-    }
-  },
-  {
-    "id": "elvia-7776",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.96464549092058,
-    "lng": 10.73111173819036,
-    "start": "19.8.2026, 12:52:55",
-    "end": "19.8.2026, 16:28:55",
-    "areaName": "Oslo / Oslo / 3075",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7776,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "3075",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787143975000,
-      "utkoblingslutt": 1787156935000,
-      "utkoblingstart": 1787143975000
     }
   },
   {
@@ -977,6 +931,90 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70900-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2905-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.71328316500001,
+    "lng": 10.817468475999988,
+    "start": "28.8.2026, 08:00:00",
+    "end": "28.8.2026, 12:00:00",
+    "areaName": "FINSTAD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219106,
+      "REFNR": "PL2905",
+      "SEKUNDÆRSTASJON": "FINSTAD",
+      "AVGANG": "L79",
+      "CNT": 4,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787904000000,
+      "TIL_DATO": 1787918400000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2905-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2903-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.26435289599999,
+    "lng": 11.000465711000004,
+    "start": "24.8.2026, 06:30:00",
+    "end": "24.8.2026, 11:00:00",
+    "areaName": "RAA",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219107,
+      "REFNR": "PL2903",
+      "SEKUNDÆRSTASJON": "RAA",
+      "AVGANG": "H10416",
+      "CNT": 6,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787553000000,
+      "TIL_DATO": 1787569200000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2903-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2904-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.73974816600003,
+    "lng": 10.402417542000023,
+    "start": "25.8.2026, 07:30:00",
+    "end": "25.8.2026, 12:00:00",
+    "areaName": "SPIKKESTAD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219108,
+      "REFNR": "PL2904",
+      "SEKUNDÆRSTASJON": "SPIKKESTAD",
+      "AVGANG": "L3",
+      "CNT": 8,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787643000000,
+      "TIL_DATO": 1787659200000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2904-1",
       "description": ""
     }
   },
