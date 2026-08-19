@@ -139,30 +139,6 @@
     }
   },
   {
-    "id": "linja-outage-3391060",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 654,
-    "lat": 62.19792143836494,
-    "lng": 6.4877303806829,
-    "start": "19.8.2026, 19:02:00",
-    "end": null,
-    "areaName": "ØRSTA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3391060,
-      "CUSTOMER_WEB_TEXT": "Feil i område Bondalen, Feilsøking pågår. \r\n\r\n21:40 Feil funnet og isolert. Forventer kort rettetid \r\n",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787166120000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "ØRSTA",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 45,
-      "NUM_AB": 654
-    }
-  },
-  {
     "id": "linja-planned-3390504",
     "company": "Linja",
     "type": "planned",
