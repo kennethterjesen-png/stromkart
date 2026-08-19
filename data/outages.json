@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-7278",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 227,
+    "lat": 59.91318949651493,
+    "lng": 10.769885126281931,
+    "start": "18.8.2026, 06:00:00",
+    "end": "21.8.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 2357",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7278,
+      "antallkunder": 227,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2357",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1787090938000,
+      "utkoblingslutt": 1787284800000,
+      "utkoblingstart": 1787032800000
+    }
+  },
+  {
     "id": "elvia-11868",
     "company": "Elvia",
     "type": "planned",
@@ -112,30 +135,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "linja-outage-3379717",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 5,
-    "lat": 61.766396412213396,
-    "lng": 6.192984199236793,
-    "start": "19.8.2026, 20:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3379717,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Sørestrandsvegen onsdag 19.august fra kl. 22:00 til 01:30.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787169600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 5
     }
   },
   {
