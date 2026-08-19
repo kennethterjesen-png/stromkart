@@ -619,23 +619,6 @@
     }
   },
   {
-    "id": "lnett-planned-9",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 183,
-    "lat": 58.952697984134915,
-    "lng": 5.725898014491964,
-    "start": "19.8.2026, 08:53:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 183",
-      "description": "Planlagt strømstans\nStartet: 2026-08-19 08:53\nPlanlagt ferdig: 2026-08-19 15:30\n16:14 - Det har oppstått uventede utfordringer og vi anslår at strømstansen kan vare til kl. 20:30",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2894-1",
     "company": "Norgesnett",
     "type": "planned",
