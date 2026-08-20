@@ -119,6 +119,29 @@
     }
   },
   {
+    "id": "elvia-6387",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 13,
+    "lat": 59.927639379825344,
+    "lng": 10.719186480308085,
+    "start": "20.8.2026, 06:30:00",
+    "end": "20.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 1038",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6387,
+      "antallkunder": 13,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1038",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787230800000,
+      "utkoblingstart": 1787207400000
+    }
+  },
+  {
     "id": "elvia-6404",
     "company": "Elvia",
     "type": "planned",
@@ -188,29 +211,6 @@
     }
   },
   {
-    "id": "elvia-11868",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 60.32178835171058,
-    "lng": 11.290162436000198,
-    "start": "19.8.2026, 12:26:14",
-    "end": "19.8.2026, 16:02:14",
-    "areaName": "Eidsvoll / Eidsvoll / E0263",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11868,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0263",
-      "poststed": "Eidsvoll",
-      "strombruddoppdaget": 1787142374000,
-      "utkoblingslutt": 1787155334000,
-      "utkoblingstart": 1787142374000
-    }
-  },
-  {
     "id": "elvia-12588",
     "company": "Elvia",
     "type": "planned",
@@ -234,26 +234,49 @@
     }
   },
   {
-    "id": "elvia-12629",
+    "id": "elvia-17201",
     "company": "Elvia",
     "type": "planned",
-    "customers": 12,
-    "lat": 61.2199327028081,
-    "lng": 10.270809669848399,
-    "start": "20.8.2026, 07:00:13",
-    "end": null,
-    "areaName": "Gausdal / Follebu / ENS00667",
+    "customers": 6,
+    "lat": 60.14413675708443,
+    "lng": 12.418760651078282,
+    "start": "20.8.2026, 06:00:00",
+    "end": "20.8.2026, 13:00:00",
+    "areaName": "Kongsvinger / Austmarka / ENS07638",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 12629,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Gausdal",
-      "nettstasjon": "ENS00667",
-      "poststed": "Follebu",
-      "strombruddoppdaget": 1787209213500,
-      "utkoblingslutt": null,
-      "utkoblingstart": 1787209213500
+      "OBJECTID": 17201,
+      "antallkunder": 6,
+      "avbruddstype": "Planned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS07638",
+      "poststed": "Austmarka",
+      "strombruddoppdaget": 1787206224000,
+      "utkoblingslutt": 1787230800000,
+      "utkoblingstart": 1787205600000
+    }
+  },
+  {
+    "id": "elvia-17202",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 60.13275044940453,
+    "lng": 12.424764183551416,
+    "start": "20.8.2026, 06:00:00",
+    "end": "20.8.2026, 13:00:00",
+    "areaName": "Kongsvinger / Austmarka / ENS07639",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17202,
+      "antallkunder": 6,
+      "avbruddstype": "Planned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS07639",
+      "poststed": "Austmarka",
+      "strombruddoppdaget": 1787206224000,
+      "utkoblingslutt": 1787230800000,
+      "utkoblingstart": 1787205600000
     }
   },
   {
@@ -1241,7 +1264,7 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 186",
-      "description": "Planlagt strømstans\nStartet: 2026-08-20 09:00\nPlanlagt ferdig: 2026-08-20 16:00",
+      "description": "Planlagt strømstans\nStartet: 2026-08-20 09:00\nPlanlagt ferdig: 2026-08-20 16:00\nPlanlagt strømstans. Utbedringer på høyspentlinje.",
       "styleUrl": "#yellow"
     }
   },
