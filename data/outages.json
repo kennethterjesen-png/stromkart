@@ -1267,33 +1267,5 @@
       "STROMSTANSID": "V-2902-1",
       "description": ""
     }
-  },
-  {
-    "id": "norgesnett-outage-V-70868-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 41,
-    "lat": 59.752955859,
-    "lng": 10.502615642000023,
-    "start": "20.8.2026, 07:00:34",
-    "end": "20.8.2026, 13:30:34",
-    "areaName": "BØDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218817,
-      "REFNR": "P70868",
-      "SEKUNDÆRSTASJON": "BØDALEN",
-      "AVGANG": "K9_R365",
-      "CNT": 41,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787209234000,
-      "TIL_DATO": 1787232634000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70868-1",
-      "description": ""
-    }
   }
 ]
