@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-28521",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 59.36905492112886,
-    "lng": 10.663135854124047,
-    "start": "20.8.2026, 12:34:24",
-    "end": "20.8.2026, 16:10:24",
-    "areaName": "Moss / Dilling / Y0112",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28521,
-      "antallkunder": 15,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0112",
-      "poststed": "Dilling",
-      "strombruddoppdaget": 1787229264000,
-      "utkoblingslutt": 1787242224000,
-      "utkoblingstart": 1787229264000
-    }
-  },
-  {
     "id": "linja-planned-3383405",
     "company": "Linja",
     "type": "planned",
