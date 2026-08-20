@@ -55,6 +55,29 @@
     }
   },
   {
+    "id": "elvia-13564",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 37,
+    "lat": 60.18140147368951,
+    "lng": 12.02016974373351,
+    "start": "20.8.2026, 20:00:00",
+    "end": "21.8.2026, 04:00:00",
+    "areaName": "Kongsvinger / Kongsvinger / ENS02086",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 13564,
+      "antallkunder": 37,
+      "avbruddstype": "Planned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS02086",
+      "poststed": "Kongsvinger",
+      "strombruddoppdaget": 1787256975304,
+      "utkoblingslutt": 1787284800000,
+      "utkoblingstart": 1787256000000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
