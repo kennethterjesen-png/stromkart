@@ -1,60 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 61.23018615380112,
-    "lng": 5.181706937940571,
-    "start": null,
-    "end": null,
-    "areaName": "Hyllestad",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9865193,
-      "MUNICIPAL_TXT": "Hyllestad",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787230800000,
-      "TIMELIMIT": 1787238000000,
-      "NUM_AB": 3,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1787222018000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-5751",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.9588744850889,
-    "lng": 10.761220768763746,
-    "start": "20.8.2026, 09:00:00",
-    "end": "20.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 0114",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5751,
-      "antallkunder": 11,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0114",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787230800000,
-      "utkoblingstart": 1787216400000
-    }
-  },
-  {
     "id": "elvia-6387",
     "company": "Elvia",
     "type": "planned",
@@ -75,29 +20,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787230800000,
       "utkoblingstart": 1787207400000
-    }
-  },
-  {
-    "id": "elvia-7113",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 17,
-    "lat": 59.957952674991375,
-    "lng": 10.760599031617943,
-    "start": "20.8.2026, 09:00:00",
-    "end": "20.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 2127",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7113,
-      "antallkunder": 17,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2127",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787230800000,
-      "utkoblingstart": 1787216400000
     }
   },
   {
@@ -124,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-8146",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.83547545634625,
-    "lng": 10.871936690898956,
-    "start": "20.8.2026, 07:00:00",
-    "end": "20.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 3651",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8146,
-      "antallkunder": 10,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3651",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787230800000,
-      "utkoblingstart": 1787209200000
-    }
-  },
-  {
     "id": "elvia-9530",
     "company": "Elvia",
     "type": "planned",
@@ -170,29 +69,6 @@
     }
   },
   {
-    "id": "elvia-10874",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 29,
-    "lat": 59.6680901658664,
-    "lng": 10.802574952882372,
-    "start": "20.8.2026, 09:55:58",
-    "end": "20.8.2026, 13:31:58",
-    "areaName": "Ås / Ås / C0408",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10874,
-      "antallkunder": 29,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ås",
-      "nettstasjon": "C0408",
-      "poststed": "Ås",
-      "strombruddoppdaget": 1787219758000,
-      "utkoblingslutt": 1787232718000,
-      "utkoblingstart": 1787219758000
-    }
-  },
-  {
     "id": "elvia-14531",
     "company": "Elvia",
     "type": "planned",
@@ -213,29 +89,6 @@
       "strombruddoppdaget": 1787224975000,
       "utkoblingslutt": 1787237935000,
       "utkoblingstart": 1787224975000
-    }
-  },
-  {
-    "id": "elvia-19212",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 50,
-    "lat": 61.17001152922406,
-    "lng": 10.721857527005989,
-    "start": "20.8.2026, 08:05:19",
-    "end": "20.8.2026, 11:41:19",
-    "areaName": "Ringsaker / Sjusjøen / ENS10658",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 19212,
-      "antallkunder": 50,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS10658",
-      "poststed": "Sjusjøen",
-      "strombruddoppdaget": 1787213119000,
-      "utkoblingslutt": 1787226079000,
-      "utkoblingstart": 1787213119000
     }
   },
   {
@@ -1486,34 +1339,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70868-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70866-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 49,
-    "lat": 59.742875543000025,
-    "lng": 10.421927125000025,
-    "start": "20.8.2026, 07:00:02",
-    "end": "20.8.2026, 13:00:02",
-    "areaName": "SPIKKESTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218806,
-      "REFNR": "P70866",
-      "SEKUNDÆRSTASJON": "SPIKKESTAD",
-      "AVGANG": "L3",
-      "CNT": 49,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787209202000,
-      "TIL_DATO": 1787230802000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70866-1",
       "description": ""
     }
   }
