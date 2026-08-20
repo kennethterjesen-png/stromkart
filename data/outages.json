@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-7896",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.831337756286935,
-    "lng": 10.806528202279228,
-    "start": "20.8.2026, 11:43:41",
-    "end": "20.8.2026, 15:19:41",
-    "areaName": "Oslo / Oslo / 3251",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7896,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "3251",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787226221000,
-      "utkoblingslutt": 1787239181000,
-      "utkoblingstart": 1787226221000
-    }
-  },
-  {
-    "id": "elvia-14531",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 102,
-    "lat": 61.10226670943405,
-    "lng": 10.485522642035775,
-    "start": "20.8.2026, 11:22:55",
-    "end": "20.8.2026, 14:58:55",
-    "areaName": "Lillehammer / Lillehammer / ENS03444",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14531,
-      "antallkunder": 102,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03444",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": 1787224975000,
-      "utkoblingslutt": 1787237935000,
-      "utkoblingstart": 1787224975000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
