@@ -92,29 +92,6 @@
     }
   },
   {
-    "id": "elvia-25453",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 21,
-    "lat": 59.96759302473159,
-    "lng": 11.056859189511744,
-    "start": "19.8.2026, 13:02:46",
-    "end": "19.8.2026, 16:38:46",
-    "areaName": "Lillestrøm / Kjeller / S0827",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25453,
-      "antallkunder": 21,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0827",
-      "poststed": "Kjeller",
-      "strombruddoppdaget": 1787144566000,
-      "utkoblingslutt": 1787157526000,
-      "utkoblingstart": 1787144566000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
