@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-6387",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.927639379825344,
-    "lng": 10.719186480308085,
-    "start": "20.8.2026, 06:30:00",
-    "end": "20.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 1038",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6387,
-      "antallkunder": 13,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "1038",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787230800000,
-      "utkoblingstart": 1787207400000
-    }
-  },
-  {
     "id": "elvia-7896",
     "company": "Elvia",
     "type": "planned",
@@ -43,29 +20,6 @@
       "strombruddoppdaget": 1787226221000,
       "utkoblingslutt": 1787239181000,
       "utkoblingstart": 1787226221000
-    }
-  },
-  {
-    "id": "elvia-9530",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.924103145414186,
-    "lng": 10.6114394342021,
-    "start": "20.8.2026, 10:23:06",
-    "end": "20.8.2026, 13:59:06",
-    "areaName": "Bærum / Jar / B0061",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9530,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0061",
-      "poststed": "Jar",
-      "strombruddoppdaget": 1787221386000,
-      "utkoblingslutt": 1787234346000,
-      "utkoblingstart": 1787221386000
     }
   },
   {
@@ -92,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-28018",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.273953505136376,
-    "lng": 11.092627400514791,
-    "start": "20.8.2026, 06:00:00",
-    "end": "20.8.2026, 13:00:00",
-    "areaName": "Sarpsborg / Sarpsborg / X0970",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28018,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0970",
-      "poststed": "Sarpsborg",
-      "strombruddoppdaget": 1787205720000,
-      "utkoblingslutt": 1787230800000,
-      "utkoblingstart": 1787205600000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -135,6 +66,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "elvia-28521",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 15,
+    "lat": 59.36905492112886,
+    "lng": 10.663135854124047,
+    "start": "20.8.2026, 12:34:24",
+    "end": "20.8.2026, 16:10:24",
+    "areaName": "Moss / Dilling / Y0112",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28521,
+      "antallkunder": 15,
+      "avbruddstype": "Unplanned",
+      "kommune": "Moss",
+      "nettstasjon": "Y0112",
+      "poststed": "Dilling",
+      "strombruddoppdaget": 1787229264000,
+      "utkoblingslutt": 1787242224000,
+      "utkoblingstart": 1787229264000
     }
   },
   {
