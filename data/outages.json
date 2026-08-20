@@ -202,6 +202,29 @@
     }
   },
   {
+    "id": "elvia-17951",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 24,
+    "lat": 61.31465561532569,
+    "lng": 12.269817354240322,
+    "start": "20.8.2026, 09:45:13",
+    "end": "20.8.2026, 13:21:13",
+    "areaName": "Trysil / Trysil / ENS08855",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17951,
+      "antallkunder": 24,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS08855",
+      "poststed": "Trysil",
+      "strombruddoppdaget": 1787219113000,
+      "utkoblingslutt": 1787232073000,
+      "utkoblingstart": 1787219113000
+    }
+  },
+  {
     "id": "elvia-19212",
     "company": "Elvia",
     "type": "planned",
@@ -222,29 +245,6 @@
       "strombruddoppdaget": 1787213119000,
       "utkoblingslutt": 1787226079000,
       "utkoblingstart": 1787213119000
-    }
-  },
-  {
-    "id": "elvia-19875",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 60.95913584513902,
-    "lng": 11.503041622166045,
-    "start": "20.8.2026, 05:43:18",
-    "end": "20.8.2026, 09:19:18",
-    "areaName": "Elverum / Elverum / ENS11626",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 19875,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Elverum",
-      "nettstasjon": "ENS11626",
-      "poststed": "Elverum",
-      "strombruddoppdaget": 1787204598000,
-      "utkoblingslutt": 1787217558000,
-      "utkoblingstart": 1787204598000
     }
   },
   {
@@ -402,30 +402,6 @@
       "municipal": "TYSNES",
       "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "linja-outage-3392192",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 3,
-    "lat": 61.552836156110395,
-    "lng": 5.112682971752013,
-    "start": "20.8.2026, 06:51:00",
-    "end": null,
-    "areaName": "KINN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3392192,
-      "CUSTOMER_WEB_TEXT": null,
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787208660000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "KINN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 3
     }
   },
   {
