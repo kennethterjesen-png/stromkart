@@ -4,38 +4,6 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.366214799799444,
-    "lng": 5.181239894777061,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9862156,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787207400000,
-      "TIMELIMIT": 1787229000000,
-      "NUM_AB": 19,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1787207521000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
     "lat": 60.726686275861674,
     "lng": 5.642952082752836,
     "start": null,
@@ -64,7 +32,7 @@
     }
   },
   {
-    "id": "bkk-2",
+    "id": "bkk-1",
     "company": "BKK",
     "type": "outage",
     "customers": 0,
@@ -96,6 +64,29 @@
     }
   },
   {
+    "id": "elvia-5751",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.9588744850889,
+    "lng": 10.761220768763746,
+    "start": "20.8.2026, 09:00:00",
+    "end": "20.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 0114",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5751,
+      "antallkunder": 11,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "0114",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787230800000,
+      "utkoblingstart": 1787216400000
+    }
+  },
+  {
     "id": "elvia-6387",
     "company": "Elvia",
     "type": "planned",
@@ -119,26 +110,26 @@
     }
   },
   {
-    "id": "elvia-6844",
+    "id": "elvia-7113",
     "company": "Elvia",
     "type": "planned",
-    "customers": 11,
-    "lat": 59.936362932067546,
-    "lng": 10.766080876818663,
-    "start": "20.8.2026, 06:00:00",
-    "end": "20.8.2026, 12:00:00",
-    "areaName": "Oslo / Oslo / 1740",
+    "customers": 17,
+    "lat": 59.957952674991375,
+    "lng": 10.760599031617943,
+    "start": "20.8.2026, 09:00:00",
+    "end": "20.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 2127",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 6844,
-      "antallkunder": 11,
+      "OBJECTID": 7113,
+      "antallkunder": 17,
       "avbruddstype": "Planned",
       "kommune": "Oslo",
-      "nettstasjon": "1740",
+      "nettstasjon": "2127",
       "poststed": "Oslo",
       "strombruddoppdaget": null,
-      "utkoblingslutt": 1787227200000,
-      "utkoblingstart": 1787205600000
+      "utkoblingslutt": 1787230800000,
+      "utkoblingstart": 1787216400000
     }
   },
   {
@@ -349,6 +340,29 @@
     }
   },
   {
+    "id": "elvia-28410",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.2750793231463,
+    "lng": 10.800709005509788,
+    "start": "20.8.2026, 08:45:01",
+    "end": "20.8.2026, 12:21:01",
+    "areaName": "Fredrikstad / Manstad / X2358",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28410,
+      "antallkunder": 11,
+      "avbruddstype": "Unplanned",
+      "kommune": "Fredrikstad",
+      "nettstasjon": "X2358",
+      "poststed": "Manstad",
+      "strombruddoppdaget": 1787215501000,
+      "utkoblingslutt": 1787228461000,
+      "utkoblingstart": 1787215501000
+    }
+  },
+  {
     "id": "elvia-30342",
     "company": "Elvia",
     "type": "planned",
@@ -388,6 +402,30 @@
       "municipal": "TYSNES",
       "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "linja-outage-3392192",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 3,
+    "lat": 61.552836156110395,
+    "lng": 5.112682971752013,
+    "start": "20.8.2026, 06:51:00",
+    "end": null,
+    "areaName": "KINN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3392192,
+      "CUSTOMER_WEB_TEXT": null,
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787208660000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "KINN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 3
     }
   },
   {
