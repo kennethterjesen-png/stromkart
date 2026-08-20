@@ -1,5 +1,60 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.4028029561918,
+    "lng": 5.475001394428205,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9851805,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787252400000,
+      "TIMELIMIT": 1787279400000,
+      "NUM_AB": 96,
+      "CUSTOMER_WEB_TEXT": "5262 ARNATVEIT; ARNATVEITVEGEN,LANGEREKKJA,ARNATVEITLIA",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 1,
+      "LAST_UPDATED": 1787252821000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "elvia-8123",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.92373449301135,
+    "lng": 10.864332166526408,
+    "start": "20.8.2026, 22:05:00",
+    "end": "21.8.2026, 04:30:00",
+    "areaName": "Oslo / Oslo / 3613",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8123,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "3613",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1787252801311,
+      "utkoblingslutt": 1787286600000,
+      "utkoblingstart": 1787263500000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -20,30 +75,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "linja-planned-3383405",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.138933979861136,
-    "lng": 7.18829139078733,
-    "start": "20.8.2026, 21:00:00",
-    "end": null,
-    "areaName": "FJORD / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3383405,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Veiberg til Geiranger torsdag 20.august fra kl. 23:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787259600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "FJORD",
-      "NUM_NS": 0,
-      "NUM_AB": 0
     }
   },
   {
