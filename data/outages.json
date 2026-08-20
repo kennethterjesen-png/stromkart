@@ -32,35 +32,26 @@
     }
   },
   {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.342790381689056,
-    "lng": 5.375086698395663,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
+    "id": "elvia-1020",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.88721857494137,
+    "lng": 10.7591041611846,
+    "start": "20.8.2026, 10:00:00",
+    "end": "20.8.2026, 11:00:00",
+    "areaName": "Oslo / Oslo / 4604",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "EVENTID": 9845117,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787209200000,
-      "TIMELIMIT": 1787227200000,
-      "NUM_AB": 10,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1787209295000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
+      "OBJECTID": 1020,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "4604",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1786611975318,
+      "utkoblingslutt": 1787223600000,
+      "utkoblingstart": 1787220000000
     }
   },
   {
@@ -156,49 +147,26 @@
     }
   },
   {
-    "id": "elvia-17201",
+    "id": "elvia-10874",
     "company": "Elvia",
     "type": "planned",
-    "customers": 6,
-    "lat": 60.14413675708443,
-    "lng": 12.418760651078282,
-    "start": "20.8.2026, 06:00:00",
-    "end": "20.8.2026, 13:00:00",
-    "areaName": "Kongsvinger / Austmarka / ENS07638",
+    "customers": 29,
+    "lat": 59.6680901658664,
+    "lng": 10.802574952882372,
+    "start": "20.8.2026, 09:55:58",
+    "end": "20.8.2026, 13:31:58",
+    "areaName": "Ås / Ås / C0408",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 17201,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07638",
-      "poststed": "Austmarka",
-      "strombruddoppdaget": 1787206224000,
-      "utkoblingslutt": 1787230800000,
-      "utkoblingstart": 1787205600000
-    }
-  },
-  {
-    "id": "elvia-17202",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.13275044940453,
-    "lng": 12.424764183551416,
-    "start": "20.8.2026, 06:00:00",
-    "end": "20.8.2026, 13:00:00",
-    "areaName": "Kongsvinger / Austmarka / ENS07639",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17202,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07639",
-      "poststed": "Austmarka",
-      "strombruddoppdaget": 1787206224000,
-      "utkoblingslutt": 1787230800000,
-      "utkoblingstart": 1787205600000
+      "OBJECTID": 10874,
+      "antallkunder": 29,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ås",
+      "nettstasjon": "C0408",
+      "poststed": "Ås",
+      "strombruddoppdaget": 1787219758000,
+      "utkoblingslutt": 1787232718000,
+      "utkoblingstart": 1787219758000
     }
   },
   {
@@ -245,6 +213,29 @@
       "strombruddoppdaget": 1787213119000,
       "utkoblingslutt": 1787226079000,
       "utkoblingstart": 1787213119000
+    }
+  },
+  {
+    "id": "elvia-22822",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 15,
+    "lat": 59.94500153317208,
+    "lng": 10.991790687443729,
+    "start": "20.8.2026, 10:15:19",
+    "end": "20.8.2026, 13:51:19",
+    "areaName": "Lørenskog / Fjellhamar / L0232",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22822,
+      "antallkunder": 15,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lørenskog",
+      "nettstasjon": "L0232",
+      "poststed": "Fjellhamar",
+      "strombruddoppdaget": 1787220919000,
+      "utkoblingslutt": 1787233879000,
+      "utkoblingstart": 1787220919000
     }
   },
   {
@@ -340,29 +331,6 @@
     }
   },
   {
-    "id": "elvia-28410",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.2750793231463,
-    "lng": 10.800709005509788,
-    "start": "20.8.2026, 08:45:01",
-    "end": "20.8.2026, 12:21:01",
-    "areaName": "Fredrikstad / Manstad / X2358",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28410,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Fredrikstad",
-      "nettstasjon": "X2358",
-      "poststed": "Manstad",
-      "strombruddoppdaget": 1787215501000,
-      "utkoblingslutt": 1787228461000,
-      "utkoblingstart": 1787215501000
-    }
-  },
-  {
     "id": "elvia-30342",
     "company": "Elvia",
     "type": "planned",
@@ -383,25 +351,6 @@
       "strombruddoppdaget": 1787204992000,
       "utkoblingslutt": 1787217952000,
       "utkoblingstart": 1787204992000
-    }
-  },
-  {
-    "id": "fagne-4595149",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 182,
-    "lat": 59.84899991204972,
-    "lng": 5.576051818184349,
-    "start": null,
-    "end": null,
-    "areaName": "TYSNES",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "TYSNES",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
