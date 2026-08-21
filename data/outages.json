@@ -69,6 +69,29 @@
     }
   },
   {
+    "id": "elvia-22224",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 21,
+    "lat": 59.36986494044579,
+    "lng": 10.788969577383652,
+    "start": "21.8.2026, 19:42:49",
+    "end": "21.8.2026, 23:18:49",
+    "areaName": "Moss / Rygge / J0076",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22224,
+      "antallkunder": 21,
+      "avbruddstype": "Unplanned",
+      "kommune": "Moss",
+      "nettstasjon": "J0076",
+      "poststed": "Rygge",
+      "strombruddoppdaget": 1787341369000,
+      "utkoblingslutt": 1787354329000,
+      "utkoblingstart": 1787341369000
+    }
+  },
+  {
     "id": "elvia-23977",
     "company": "Elvia",
     "type": "planned",
