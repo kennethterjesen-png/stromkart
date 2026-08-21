@@ -64,38 +64,6 @@
     }
   },
   {
-    "id": "bkk-2",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.040993889593956,
-    "lng": 5.5299276067523415,
-    "start": null,
-    "end": null,
-    "areaName": "Tysnes",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9853582,
-      "MUNICIPAL_TXT": "Tysnes",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787296200000,
-      "TIMELIMIT": 1787304000000,
-      "NUM_AB": 25,
-      "CUSTOMER_WEB_TEXT": "5680 TYSNES; GROVARVEGEN,HEGGLANDSVEGEN,GJERSTADNESET,GEILAVEGEN,VÅGSÅSEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 1,
-      "LAST_UPDATED": 1787296536000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-5751",
     "company": "Elvia",
     "type": "planned",
@@ -736,54 +704,6 @@
     }
   },
   {
-    "id": "linja-outage-3388345",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 2,
-    "lat": 62.56402083454696,
-    "lng": 6.093876318959939,
-    "start": "21.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388345,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Postvegen fredag 21.august fra kl. 08:00 til 11:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787292000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GISKE",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 1,
-      "NUM_AB": 2
-    }
-  },
-  {
-    "id": "linja-outage-3383405",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 1,
-    "lat": 62.2254033569878,
-    "lng": 7.143706544738825,
-    "start": "20.8.2026, 21:00:00",
-    "end": null,
-    "areaName": "FJORD / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3383405,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Veiberg til Geiranger torsdag 20.august fra kl. 23:00 til 06:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787259600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "FJORD",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 1,
-      "NUM_AB": 1
-    }
-  },
-  {
     "id": "linja-planned-3388357",
     "company": "Linja",
     "type": "planned",
@@ -899,30 +819,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3388349",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.55164285800981,
-    "lng": 6.0390997227795395,
-    "start": "21.8.2026, 09:30:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388349,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Fjellvegen og Kyrkjevegen fredag 21.august fra kl. 11:30 til 14:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787304600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1569,24 +1465,7 @@
     }
   },
   {
-    "id": "lnett-outage-3",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 18,
-    "lat": 59.26620235123739,
-    "lng": 6.155443584281991,
-    "start": "21.8.2026, 06:13:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 18",
-      "description": "Driftsforstyrrelse\nStartet: 2026-08-21 06:13\n06:13 Strømfeil, montør på veg for feilsøk.",
-      "styleUrl": "#red"
-    }
-  },
-  {
-    "id": "lnett-planned-5",
+    "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
     "customers": 176,
@@ -1600,6 +1479,40 @@
       "name": "Berørte kunder: 176",
       "description": "Planlagt strømstans\nStartet: 2026-08-21 08:34\nPlanlagt ferdig: 2026-08-21 15:00",
       "styleUrl": "#yellow"
+    }
+  },
+  {
+    "id": "lnett-outage-5",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 18,
+    "lat": 59.26620235123739,
+    "lng": 6.155443584281991,
+    "start": "21.8.2026, 06:13:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 18",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-21 06:13\n09:33 Feilen er lokalisert, montør er i gang med å fikse opp i feilen.\n06:13 Strømfeil, montør på veg for feilsøk.",
+      "styleUrl": "#red"
+    }
+  },
+  {
+    "id": "lnett-outage-7",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 61,
+    "lat": 59.02115544114393,
+    "lng": 6.373216210139207,
+    "start": "21.8.2026, 09:44:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 61",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-21 09:44",
+      "styleUrl": "#red"
     }
   },
   {
@@ -1907,34 +1820,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70880-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70908-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 3,
-    "lat": 59.793574965000005,
-    "lng": 10.612675576000015,
-    "start": "21.8.2026, 06:06:21",
-    "end": null,
-    "areaName": "NYSTUEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219137,
-      "REFNR": "L70908",
-      "SEKUNDÆRSTASJON": "NYSTUEN",
-      "AVGANG": "L7",
-      "CNT": 3,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787292381000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70908-1",
       "description": ""
     }
   },
