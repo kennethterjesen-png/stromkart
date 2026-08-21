@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-930",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.92649646073184,
+    "lng": 10.799977516953103,
+    "start": "21.8.2026, 16:00:00",
+    "end": "21.8.2026, 21:00:00",
+    "areaName": "Oslo / Oslo / 4319",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 930,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "4319",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1787328128333,
+      "utkoblingslutt": 1787346000000,
+      "utkoblingstart": 1787328000000
+    }
+  },
+  {
     "id": "elvia-5751",
     "company": "Elvia",
     "type": "planned",
