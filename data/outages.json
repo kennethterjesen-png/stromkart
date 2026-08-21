@@ -179,6 +179,29 @@
     }
   },
   {
+    "id": "elvia-8788",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 49,
+    "lat": 59.928497503174306,
+    "lng": 10.763718292626391,
+    "start": "21.8.2026, 08:15:21",
+    "end": "21.8.2026, 11:51:21",
+    "areaName": "Oslo / Oslo / 4711",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8788,
+      "antallkunder": 49,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "4711",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1787300121000,
+      "utkoblingslutt": 1787313081000,
+      "utkoblingstart": 1787300121000
+    }
+  },
+  {
     "id": "elvia-9228",
     "company": "Elvia",
     "type": "planned",
@@ -198,29 +221,6 @@
       "poststed": "Oslo",
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787293800000
-    }
-  },
-  {
-    "id": "elvia-12815",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 60.895996621987095,
-    "lng": 11.22287433728725,
-    "start": "21.8.2026, 06:30:00",
-    "end": "21.8.2026, 09:30:00",
-    "areaName": "Hamar / Vang på hedmarken / ENS00940",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12815,
-      "antallkunder": 11,
-      "avbruddstype": "Planned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS00940",
-      "poststed": "Vang på hedmarken",
-      "strombruddoppdaget": 1787293111800,
-      "utkoblingslutt": 1787304600000,
       "utkoblingstart": 1787293800000
     }
   },
@@ -386,98 +386,6 @@
     }
   },
   {
-    "id": "elvia-17203",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.10531063907864,
-    "lng": 12.463725434929676,
-    "start": "21.8.2026, 06:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Kongsvinger / Austmarka / ENS07640",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17203,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07640",
-      "poststed": "Austmarka",
-      "strombruddoppdaget": 1787292652783,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787292000000
-    }
-  },
-  {
-    "id": "elvia-17204",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.11861682270224,
-    "lng": 12.451354224103499,
-    "start": "21.8.2026, 06:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Kongsvinger / Austmarka / ENS07641",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17204,
-      "antallkunder": 8,
-      "avbruddstype": "Planned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07641",
-      "poststed": "Austmarka",
-      "strombruddoppdaget": 1787292652783,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787292000000
-    }
-  },
-  {
-    "id": "elvia-17205",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.12772988423254,
-    "lng": 12.435246818567036,
-    "start": "21.8.2026, 06:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Kongsvinger / Austmarka / ENS07642",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17205,
-      "antallkunder": 4,
-      "avbruddstype": "Planned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07642",
-      "poststed": "Austmarka",
-      "strombruddoppdaget": 1787292652783,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787292000000
-    }
-  },
-  {
-    "id": "elvia-17206",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 60.12058300105913,
-    "lng": 12.427456985309943,
-    "start": "21.8.2026, 06:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Kongsvinger / Austmarka / ENS07643",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17206,
-      "antallkunder": 18,
-      "avbruddstype": "Planned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07643",
-      "poststed": "Austmarka",
-      "strombruddoppdaget": 1787292652783,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787292000000
-    }
-  },
-  {
     "id": "elvia-18556",
     "company": "Elvia",
     "type": "planned",
@@ -593,29 +501,6 @@
     }
   },
   {
-    "id": "elvia-21794",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 60.44301601609453,
-    "lng": 10.969507946112863,
-    "start": "21.8.2026, 07:05:23",
-    "end": "21.8.2026, 10:41:23",
-    "areaName": "Hurdal / Hurdal / H0407",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21794,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Hurdal",
-      "nettstasjon": "H0407",
-      "poststed": "Hurdal",
-      "strombruddoppdaget": 1787295923000,
-      "utkoblingslutt": 1787308883000,
-      "utkoblingstart": 1787295923000
-    }
-  },
-  {
     "id": "elvia-22068",
     "company": "Elvia",
     "type": "planned",
@@ -636,6 +521,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787313600000,
       "utkoblingstart": 1787293800000
+    }
+  },
+  {
+    "id": "elvia-23288",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 60.07346583619647,
+    "lng": 11.635556039082136,
+    "start": "21.8.2026, 08:39:34",
+    "end": "21.8.2026, 12:15:34",
+    "areaName": "Nes / Årnes / N1023",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 23288,
+      "antallkunder": 3,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nes",
+      "nettstasjon": "N1023",
+      "poststed": "Årnes",
+      "strombruddoppdaget": 1787301574000,
+      "utkoblingslutt": 1787314534000,
+      "utkoblingstart": 1787301574000
     }
   },
   {
@@ -682,145 +590,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "fagne-4605252",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 169,
-    "lat": 59.95632357124644,
-    "lng": 6.669521080727618,
-    "start": null,
-    "end": null,
-    "areaName": "ULLENSVANG",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "ULLENSVANG",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "linja-planned-3388357",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.54130192022107,
-    "lng": 6.040516145238497,
-    "start": "25.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388357,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Kyrkjevegen og Synesvegen tirsdag 25.august fra kl. 08:00 til 11:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787637600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3388365",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.539717439923386,
-    "lng": 6.030516650224948,
-    "start": "25.8.2026, 09:30:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388365,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Synnes og Synesvegen tirsdag 25.august fra kl. 11:30 til 14:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787650200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3391628",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.77137246521057,
-    "lng": 6.222306819991219,
-    "start": "26.8.2026, 20:30:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3391628,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Ulvesbakken og Gotevegen onsdag 26.august fra kl. 22:30 til 02:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787776200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3393909",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.65961801163665,
-    "lng": 5.952321392546882,
-    "start": "27.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3393909,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Austredalen og Mjellemsvegen torsdag 27.august fra kl. 09:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787814000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3393573",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.35264090474284,
-    "lng": 6.8506281823153,
-    "start": "26.8.2026, 06:30:00",
-    "end": null,
-    "areaName": "STRANDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3393573,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Fausadal onsdag 26.august fra kl. 08:30 til 14:30. ",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787725800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
     }
   },
   {
@@ -944,6 +713,78 @@
     }
   },
   {
+    "id": "linja-planned-3388365",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.539717439923386,
+    "lng": 6.030516650224948,
+    "start": "25.8.2026, 09:30:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3388365,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Synnes og Synesvegen tirsdag 25.august fra kl. 11:30 til 14:30.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787650200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3391628",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.77137246521057,
+    "lng": 6.222306819991219,
+    "start": "26.8.2026, 20:30:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3391628,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Ulvesbakken og Gotevegen onsdag 26.august fra kl. 22:30 til 02:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787776200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3393909",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.65961801163665,
+    "lng": 5.952321392546882,
+    "start": "27.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3393909,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Austredalen og Mjellemsvegen torsdag 27.august fra kl. 09:00 til 15:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787814000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3388397",
     "company": "Linja",
     "type": "planned",
@@ -968,30 +809,6 @@
     }
   },
   {
-    "id": "linja-planned-3391912",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.770786559140205,
-    "lng": 6.2293478476103195,
-    "start": "26.8.2026, 20:30:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3391912,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gotevegen og Åsavegen onsdag 26.august fra kl. 22:30 til 02:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787776200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3388389",
     "company": "Linja",
     "type": "planned",
@@ -1011,30 +828,6 @@
       "FLAG": 128,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3391824",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.770978466452824,
-    "lng": 6.225690980130537,
-    "start": "26.8.2026, 11:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3391824,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gotevegen onsdag 26.august fra kl. 13:00 til 16:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787742000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1256,30 +1049,6 @@
     }
   },
   {
-    "id": "linja-planned-3392445",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.21284195274744,
-    "lng": 7.440833056613094,
-    "start": "24.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "FJORD / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3392445,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Jimdalen mandag 24.august fra kl. 09:00 til 12:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787554800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "FJORD",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3391344",
     "company": "Linja",
     "type": "planned",
@@ -1328,6 +1097,30 @@
     }
   },
   {
+    "id": "linja-planned-3393573",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.35264090474284,
+    "lng": 6.8506281823153,
+    "start": "26.8.2026, 06:30:00",
+    "end": null,
+    "areaName": "STRANDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3393573,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Fausadal onsdag 26.august fra kl. 08:30 til 14:30. ",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787725800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "STRANDA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3391544",
     "company": "Linja",
     "type": "planned",
@@ -1347,6 +1140,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "GLOPPEN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3388357",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.54130192022107,
+    "lng": 6.040516145238497,
+    "start": "25.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3388357,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Kyrkjevegen og Synesvegen tirsdag 25.august fra kl. 08:00 til 11:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787637600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1424,6 +1241,54 @@
     }
   },
   {
+    "id": "linja-planned-3391824",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.770978466452824,
+    "lng": 6.225690980130537,
+    "start": "26.8.2026, 11:00:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3391824,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gotevegen onsdag 26.august fra kl. 13:00 til 16:30.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787742000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3391912",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.770786559140205,
+    "lng": 6.2293478476103195,
+    "start": "26.8.2026, 20:30:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3391912,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gotevegen og Åsavegen onsdag 26.august fra kl. 22:30 til 02:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787776200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3392064",
     "company": "Linja",
     "type": "planned",
@@ -1448,7 +1313,31 @@
     }
   },
   {
-    "id": "lnett-planned-1",
+    "id": "linja-planned-3392445",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.21284195274744,
+    "lng": 7.440833056613094,
+    "start": "24.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "FJORD / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3392445,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Jimdalen mandag 24.august fra kl. 09:00 til 12:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787554800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "FJORD",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
     "customers": 186,
@@ -1465,7 +1354,7 @@
     }
   },
   {
-    "id": "lnett-planned-3",
+    "id": "lnett-planned-5",
     "company": "Lnett",
     "type": "planned",
     "customers": 176,
@@ -1482,23 +1371,6 @@
     }
   },
   {
-    "id": "lnett-outage-5",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 18,
-    "lat": 59.26620235123739,
-    "lng": 6.155443584281991,
-    "start": "21.8.2026, 06:13:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 18",
-      "description": "Driftsforstyrrelse\nStartet: 2026-08-21 06:13\n09:33 Feilen er lokalisert, montør er i gang med å fikse opp i feilen.\n06:13 Strømfeil, montør på veg for feilsøk.",
-      "styleUrl": "#red"
-    }
-  },
-  {
     "id": "lnett-outage-7",
     "company": "Lnett",
     "type": "outage",
@@ -1511,7 +1383,7 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 61",
-      "description": "Driftsforstyrrelse\nStartet: 2026-08-21 09:44",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-21 09:44\n09:44 Strømbrudd, montører er på vei for å feilsøke",
       "styleUrl": "#red"
     }
   },
