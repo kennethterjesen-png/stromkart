@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-2606",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.61168049516142,
-    "lng": 12.015657341412533,
-    "start": "21.8.2026, 12:00:00",
-    "end": "21.8.2026, 14:00:00",
-    "areaName": "Åsnes / Flisa / ENS05769",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 2606,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS05769",
-      "poststed": "Flisa",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787320800000,
-      "utkoblingstart": 1787313600000
-    }
-  },
-  {
     "id": "elvia-5751",
     "company": "Elvia",
     "type": "planned",
