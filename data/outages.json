@@ -331,6 +331,75 @@
     }
   },
   {
+    "id": "elvia-14896",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 60.86309583756753,
+    "lng": 11.260155686421866,
+    "start": "21.8.2026, 10:00:00",
+    "end": "21.8.2026, 13:00:00",
+    "areaName": "Hamar / Vang på hedmarken / ENS03965",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 14896,
+      "antallkunder": 5,
+      "avbruddstype": "Planned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS03965",
+      "poststed": "Vang på hedmarken",
+      "strombruddoppdaget": 1787306425170,
+      "utkoblingslutt": 1787317200000,
+      "utkoblingstart": 1787306400000
+    }
+  },
+  {
+    "id": "elvia-15074",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 19,
+    "lat": 60.8639008051419,
+    "lng": 11.239130176444462,
+    "start": "21.8.2026, 10:00:00",
+    "end": "21.8.2026, 13:00:00",
+    "areaName": "Hamar / Vang på hedmarken / ENS04226",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15074,
+      "antallkunder": 19,
+      "avbruddstype": "Planned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS04226",
+      "poststed": "Vang på hedmarken",
+      "strombruddoppdaget": 1787306425170,
+      "utkoblingslutt": 1787317200000,
+      "utkoblingstart": 1787306400000
+    }
+  },
+  {
+    "id": "elvia-15083",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 18,
+    "lat": 60.863831607789805,
+    "lng": 11.221768521481975,
+    "start": "21.8.2026, 10:00:00",
+    "end": "21.8.2026, 13:00:00",
+    "areaName": "Hamar / Vang på hedmarken / ENS04236",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15083,
+      "antallkunder": 18,
+      "avbruddstype": "Planned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS04236",
+      "poststed": "Vang på hedmarken",
+      "strombruddoppdaget": 1787306425170,
+      "utkoblingslutt": 1787317200000,
+      "utkoblingstart": 1787306400000
+    }
+  },
+  {
     "id": "elvia-18556",
     "company": "Elvia",
     "type": "planned",
@@ -446,26 +515,26 @@
     }
   },
   {
-    "id": "elvia-22068",
+    "id": "elvia-28040",
     "company": "Elvia",
     "type": "planned",
-    "customers": 8,
-    "lat": 59.65846285329658,
-    "lng": 10.998249722791625,
-    "start": "21.8.2026, 06:30:00",
-    "end": "21.8.2026, 12:00:00",
-    "areaName": "Indre Østfold / Tomter / I1087",
+    "customers": 15,
+    "lat": 59.30207193474348,
+    "lng": 11.098399232083597,
+    "start": "21.8.2026, 10:29:01",
+    "end": "21.8.2026, 14:05:01",
+    "areaName": "Sarpsborg / Sarpsborg / X1011",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 22068,
-      "antallkunder": 8,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "I1087",
-      "poststed": "Tomter",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787313600000,
-      "utkoblingstart": 1787293800000
+      "OBJECTID": 28040,
+      "antallkunder": 15,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X1011",
+      "poststed": "Sarpsborg",
+      "strombruddoppdaget": 1787308141000,
+      "utkoblingslutt": 1787321101000,
+      "utkoblingstart": 1787308141000
     }
   },
   {
@@ -1308,7 +1377,7 @@
     }
   },
   {
-    "id": "lnett-planned-5",
+    "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
     "customers": 186,
