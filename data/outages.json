@@ -32,38 +32,6 @@
     }
   },
   {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.9947870710164,
-    "lng": 4.707169633963099,
-    "start": null,
-    "end": null,
-    "areaName": "Solund",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9805002,
-      "MUNICIPAL_TXT": "Solund",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787040000000,
-      "TIMELIMIT": 1787310000000,
-      "NUM_AB": 14,
-      "CUSTOMER_WEB_TEXT": "6928 KOLGROV; KVERHELLA,KVERHELLEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 1,
-      "LAST_UPDATED": 1787304561000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-5751",
     "company": "Elvia",
     "type": "planned",
@@ -130,6 +98,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787317200000,
       "utkoblingstart": 1787292000000
+    }
+  },
+  {
+    "id": "elvia-7922",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 22,
+    "lat": 59.918814041826806,
+    "lng": 10.721395038313991,
+    "start": "21.8.2026, 05:00:00",
+    "end": "21.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 3295",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7922,
+      "antallkunder": 22,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "3295",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787317200000,
+      "utkoblingstart": 1787288400000
     }
   },
   {
@@ -478,29 +469,6 @@
     }
   },
   {
-    "id": "elvia-27242",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.55255958406268,
-    "lng": 11.31747163949576,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 12:00:00",
-    "areaName": "Indre Østfold / Mysen / W2340",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27242,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "W2340",
-      "poststed": "Mysen",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787313600000,
-      "utkoblingstart": 1787295600000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -521,6 +489,30 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "linja-outage-3388349",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 3,
+    "lat": 62.551741145616354,
+    "lng": 6.039711039953733,
+    "start": "21.8.2026, 09:30:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3388349,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Fjellvegen og Kyrkjevegen fredag 21.august fra kl. 11:30 til 14:30.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787304600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GISKE",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 1,
+      "NUM_AB": 3
     }
   },
   {
@@ -1316,7 +1308,7 @@
     }
   },
   {
-    "id": "lnett-planned-3",
+    "id": "lnett-planned-5",
     "company": "Lnett",
     "type": "planned",
     "customers": 186,
@@ -1333,7 +1325,7 @@
     }
   },
   {
-    "id": "lnett-planned-5",
+    "id": "lnett-planned-7",
     "company": "Lnett",
     "type": "planned",
     "customers": 176,
@@ -1347,23 +1339,6 @@
       "name": "Berørte kunder: 176",
       "description": "Planlagt strømstans\nStartet: 2026-08-21 08:34\nPlanlagt ferdig: 2026-08-21 15:00",
       "styleUrl": "#yellow"
-    }
-  },
-  {
-    "id": "lnett-outage-7",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 61,
-    "lat": 59.02115544114393,
-    "lng": 6.373216210139207,
-    "start": "21.8.2026, 09:44:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 61",
-      "description": "Driftsforstyrrelse\nStartet: 2026-08-21 09:44\n09:44 Strømbrudd, montører er på vei for å feilsøke",
-      "styleUrl": "#red"
     }
   },
   {
@@ -1615,34 +1590,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70886-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2894-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 1,
-    "lat": 59.86028465499999,
-    "lng": 10.66073974699998,
-    "start": "21.8.2026, 07:02:11",
-    "end": "21.8.2026, 10:00:00",
-    "areaName": "TANGEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218773,
-      "REFNR": "PL2894",
-      "SEKUNDÆRSTASJON": "TANGEN",
-      "AVGANG": "L5",
-      "CNT": 1,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787295731000,
-      "TIL_DATO": 1787306400000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2894-1",
       "description": ""
     }
   },
