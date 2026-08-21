@@ -36,25 +36,25 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.34757453685816,
-    "lng": 5.377439425661128,
+    "lat": 60.9947870710164,
+    "lng": 4.707169633963099,
     "start": null,
     "end": null,
-    "areaName": "Bergen",
+    "areaName": "Solund",
     "sourceUrl": "https://geonis.bkk.no/",
     "raw": {
-      "EVENTID": 9864926,
-      "MUNICIPAL_TXT": "Bergen",
+      "EVENTID": 9805002,
+      "MUNICIPAL_TXT": "Solund",
       "TYPE_TXT": "Utkobling",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1787295600000,
+      "STARTTIME": 1787040000000,
       "TIMELIMIT": 1787310000000,
-      "NUM_AB": 9,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
+      "NUM_AB": 14,
+      "CUSTOMER_WEB_TEXT": "6928 KOLGROV; KVERHELLA,KVERHELLEN",
+      "GRIDLEVEL_TXT": "Høy",
       "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1787295915000,
+      "NUM_NS": 1,
+      "LAST_UPDATED": 1787304561000,
       "SCHEDULED_SMS_DAYS_BEFORE": 3,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 0,
@@ -84,29 +84,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787317200000,
       "utkoblingstart": 1787292000000
-    }
-  },
-  {
-    "id": "elvia-5793",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 28,
-    "lat": 59.93893742084116,
-    "lng": 10.80053122085723,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 11:00:00",
-    "areaName": "Oslo / Oslo / 0175",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5793,
-      "antallkunder": 28,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0175",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787310000000,
-      "utkoblingstart": 1787295600000
     }
   },
   {
@@ -176,29 +153,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787317200000,
       "utkoblingstart": 1787292000000
-    }
-  },
-  {
-    "id": "elvia-8788",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 49,
-    "lat": 59.928497503174306,
-    "lng": 10.763718292626391,
-    "start": "21.8.2026, 08:15:21",
-    "end": "21.8.2026, 11:51:21",
-    "areaName": "Oslo / Oslo / 4711",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8788,
-      "antallkunder": 49,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "4711",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787300121000,
-      "utkoblingslutt": 1787313081000,
-      "utkoblingstart": 1787300121000
     }
   },
   {
@@ -524,29 +478,6 @@
     }
   },
   {
-    "id": "elvia-23288",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.07346583619647,
-    "lng": 11.635556039082136,
-    "start": "21.8.2026, 08:39:34",
-    "end": "21.8.2026, 12:15:34",
-    "areaName": "Nes / Årnes / N1023",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23288,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N1023",
-      "poststed": "Årnes",
-      "strombruddoppdaget": 1787301574000,
-      "utkoblingslutt": 1787314534000,
-      "utkoblingstart": 1787301574000
-    }
-  },
-  {
     "id": "elvia-27242",
     "company": "Elvia",
     "type": "planned",
@@ -617,6 +548,30 @@
     }
   },
   {
+    "id": "linja-planned-3394304",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.890078279163056,
+    "lng": 6.108069987321564,
+    "start": "26.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "STAD / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3394304,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Sagtenne onsdag 26.august fra kl. 09:00 til 15:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787727600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "STAD",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3371745",
     "company": "Linja",
     "type": "planned",
@@ -636,6 +591,30 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ØRSTA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3394176",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.753121789953504,
+    "lng": 6.355149438683994,
+    "start": "28.8.2026, 06:30:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3394176,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Almenninga, Dale og Saggeflåten fredag 28.august fra kl. 08:30 til 12:30.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787898600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1692,34 +1671,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70880-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70881-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 109,
-    "lat": 59.788370934,
-    "lng": 10.605476004000025,
-    "start": "21.8.2026, 06:30:47",
-    "end": "21.8.2026, 09:00:47",
-    "areaName": "NYSTUEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1218850,
-      "REFNR": "P70881",
-      "SEKUNDÆRSTASJON": "NYSTUEN",
-      "AVGANG": "L7",
-      "CNT": 109,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787293847000,
-      "TIL_DATO": 1787302847000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70881-1",
       "description": ""
     }
   },
