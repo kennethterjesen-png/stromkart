@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-2606",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 60.61168049516142,
+    "lng": 12.015657341412533,
+    "start": "21.8.2026, 12:00:00",
+    "end": "21.8.2026, 14:00:00",
+    "areaName": "Åsnes / Flisa / ENS05769",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 2606,
+      "antallkunder": 6,
+      "avbruddstype": "Planned",
+      "kommune": "Åsnes",
+      "nettstasjon": "ENS05769",
+      "poststed": "Flisa",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787320800000,
+      "utkoblingstart": 1787313600000
+    }
+  },
+  {
     "id": "elvia-5751",
     "company": "Elvia",
     "type": "planned",
@@ -69,29 +92,6 @@
     }
   },
   {
-    "id": "elvia-8633",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.94177474676193,
-    "lng": 10.694163435743466,
-    "start": "21.8.2026, 06:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 4464",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8633,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "4464",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787292000000
-    }
-  },
-  {
     "id": "elvia-9228",
     "company": "Elvia",
     "type": "planned",
@@ -112,328 +112,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787317200000,
       "utkoblingstart": 1787293800000
-    }
-  },
-  {
-    "id": "elvia-13225",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.64546910592106,
-    "lng": 10.999918084074679,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Østre Toten / Skreia / ENS01591",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13225,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS01591",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1787295831763,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787295600000
-    }
-  },
-  {
-    "id": "elvia-13267",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.63983823986599,
-    "lng": 10.96824558362661,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Østre Toten / Skreia / ENS01647",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13267,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS01647",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1787295831763,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787295600000
-    }
-  },
-  {
-    "id": "elvia-13343",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.64481686075997,
-    "lng": 10.99155471216898,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Østre Toten / Skreia / ENS01757",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13343,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS01757",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1787295831763,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787295600000
-    }
-  },
-  {
-    "id": "elvia-13356",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 25,
-    "lat": 60.640852146230735,
-    "lng": 10.978176755546565,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Østre Toten / Skreia / ENS01775",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13356,
-      "antallkunder": 25,
-      "avbruddstype": "Planned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS01775",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1787295831763,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787295600000
-    }
-  },
-  {
-    "id": "elvia-13525",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.64858544323874,
-    "lng": 10.976039502849334,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Østre Toten / Skreia / ENS02035",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13525,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS02035",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1787295831763,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787295600000
-    }
-  },
-  {
-    "id": "elvia-13557",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 60.6432047343256,
-    "lng": 10.976544911162224,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Østre Toten / Skreia / ENS02077",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13557,
-      "antallkunder": 16,
-      "avbruddstype": "Planned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS02077",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1787295831763,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787295600000
-    }
-  },
-  {
-    "id": "elvia-13703",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 60.64863854429265,
-    "lng": 10.98732952673266,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Østre Toten / Skreia / ENS02297",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13703,
-      "antallkunder": 14,
-      "avbruddstype": "Planned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS02297",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1787295831763,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787295600000
-    }
-  },
-  {
-    "id": "elvia-14896",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.86309583756753,
-    "lng": 11.260155686421866,
-    "start": "21.8.2026, 10:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Hamar / Vang på hedmarken / ENS03965",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14896,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS03965",
-      "poststed": "Vang på hedmarken",
-      "strombruddoppdaget": 1787306425170,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787306400000
-    }
-  },
-  {
-    "id": "elvia-15074",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 19,
-    "lat": 60.8639008051419,
-    "lng": 11.239130176444462,
-    "start": "21.8.2026, 10:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Hamar / Vang på hedmarken / ENS04226",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 15074,
-      "antallkunder": 19,
-      "avbruddstype": "Planned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS04226",
-      "poststed": "Vang på hedmarken",
-      "strombruddoppdaget": 1787306425170,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787306400000
-    }
-  },
-  {
-    "id": "elvia-15083",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 60.863831607789805,
-    "lng": 11.221768521481975,
-    "start": "21.8.2026, 10:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Hamar / Vang på hedmarken / ENS04236",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 15083,
-      "antallkunder": 18,
-      "avbruddstype": "Planned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS04236",
-      "poststed": "Vang på hedmarken",
-      "strombruddoppdaget": 1787306425170,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787306400000
-    }
-  },
-  {
-    "id": "elvia-18556",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 60.63262863958224,
-    "lng": 10.985940371455511,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Østre Toten / Skreia / ENS09698",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18556,
-      "antallkunder": 14,
-      "avbruddstype": "Planned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS09698",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1787295831763,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787295600000
-    }
-  },
-  {
-    "id": "elvia-18557",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.63828271272024,
-    "lng": 10.991472351984093,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Østre Toten / Skreia / ENS09699",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18557,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS09699",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1787295831763,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787295600000
-    }
-  },
-  {
-    "id": "elvia-18558",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 35,
-    "lat": 60.63952679824918,
-    "lng": 10.985043554924152,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Østre Toten / Skreia / ENS09700",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18558,
-      "antallkunder": 35,
-      "avbruddstype": "Planned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS09700",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1787295831763,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787295600000
-    }
-  },
-  {
-    "id": "elvia-18851",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 60.645088546482874,
-    "lng": 10.984962667525245,
-    "start": "21.8.2026, 07:00:00",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "Østre Toten / Skreia / ENS10146",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18851,
-      "antallkunder": 7,
-      "avbruddstype": "Planned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS10146",
-      "poststed": "Skreia",
-      "strombruddoppdaget": 1787295831763,
-      "utkoblingslutt": 1787317200000,
-      "utkoblingstart": 1787295600000
     }
   },
   {
@@ -480,25 +158,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "fagne-4606352",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 28,
-    "lat": 59.29206239337785,
-    "lng": 5.218817706674984,
-    "start": null,
-    "end": null,
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
@@ -1294,6 +953,54 @@
     }
   },
   {
+    "id": "linja-planned-3394720",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.040356942966326,
+    "lng": 6.400094850433328,
+    "start": "25.8.2026, 09:00:00",
+    "end": null,
+    "areaName": "VOLDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3394720,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Månaneset tirsdag 25.aug kl.1100 til ca 1400",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787648400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "VOLDA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3394796",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.151400161471855,
+    "lng": 6.311879881324921,
+    "start": "26.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "ØRSTA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3394796,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Eidet onsdag 26.august fra kl. 09:00 til 10:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787727600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "ØRSTA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "lnett-planned-1",
     "company": "Lnett",
     "type": "planned",
@@ -1559,34 +1266,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70886-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-2902-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 1,
-    "lat": 59.73028377000003,
-    "lng": 11.205364109000016,
-    "start": "21.8.2026, 07:02:31",
-    "end": "21.8.2026, 13:00:00",
-    "areaName": "ENEBAKK",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219075,
-      "REFNR": "PL2902",
-      "SEKUNDÆRSTASJON": "ENEBAKK",
-      "AVGANG": "L2",
-      "CNT": 1,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787295751000,
-      "TIL_DATO": 1787317200000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2902-1",
       "description": ""
     }
   }
