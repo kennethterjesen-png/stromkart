@@ -3,23 +3,46 @@
     "id": "elvia-7922",
     "company": "Elvia",
     "type": "planned",
-    "customers": 26,
+    "customers": 22,
     "lat": 59.918814041826806,
     "lng": 10.721395038313991,
-    "start": "21.8.2026, 02:30:00",
-    "end": "21.8.2026, 04:30:00",
+    "start": "21.8.2026, 05:00:00",
+    "end": "21.8.2026, 13:00:00",
     "areaName": "Oslo / Oslo / 3295",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
       "OBJECTID": 7922,
-      "antallkunder": 26,
+      "antallkunder": 22,
       "avbruddstype": "Planned",
       "kommune": "Oslo",
       "nettstasjon": "3295",
       "poststed": "Oslo",
       "strombruddoppdaget": null,
-      "utkoblingslutt": 1787286600000,
-      "utkoblingstart": 1787279400000
+      "utkoblingslutt": 1787317200000,
+      "utkoblingstart": 1787288400000
+    }
+  },
+  {
+    "id": "elvia-12147",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 60.463982191650445,
+    "lng": 11.180915874548482,
+    "start": "21.8.2026, 05:06:00",
+    "end": "21.8.2026, 08:42:00",
+    "areaName": "Eidsvoll / Feiring / E0704",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 12147,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidsvoll",
+      "nettstasjon": "E0704",
+      "poststed": "Feiring",
+      "strombruddoppdaget": 1787288760000,
+      "utkoblingslutt": 1787301720000,
+      "utkoblingstart": 1787288760000
     }
   },
   {
@@ -49,9 +72,9 @@
     "id": "linja-outage-3383405",
     "company": "Linja",
     "type": "outage",
-    "customers": 481,
-    "lat": 62.13957552491812,
-    "lng": 7.187843027659948,
+    "customers": 326,
+    "lat": 62.10689690446401,
+    "lng": 7.205022004656183,
     "start": "20.8.2026, 21:00:00",
     "end": null,
     "areaName": "FJORD / Linja Nord",
@@ -65,8 +88,8 @@
       "FLAG": 400,
       "MUNICIPAL_TXT": "FJORD",
       "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 39,
-      "NUM_AB": 481
+      "NUM_NS": 28,
+      "NUM_AB": 326
     }
   },
   {
