@@ -93,30 +93,6 @@
     }
   },
   {
-    "id": "linja-planned-3388345",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.56412160693629,
-    "lng": 6.093538780217136,
-    "start": "21.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388345,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Postvegen fredag 21.august fra kl. 08:00 til 11:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787292000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3388349",
     "company": "Linja",
     "type": "planned",
