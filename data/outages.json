@@ -22,7 +22,7 @@
       "GRIDLEVEL_TXT": "Høy",
       "REASON_TXT": null,
       "NUM_NS": 7,
-      "LAST_UPDATED": 1787294866000,
+      "LAST_UPDATED": 1787310102000,
       "SCHEDULED_SMS_DAYS_BEFORE": 3,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 1,
@@ -558,30 +558,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "linja-outage-3388349",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 3,
-    "lat": 62.551741145616354,
-    "lng": 6.039711039953733,
-    "start": "21.8.2026, 09:30:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388349,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Fjellvegen og Kyrkjevegen fredag 21.august fra kl. 11:30 til 14:30.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787304600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GISKE",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 1,
-      "NUM_AB": 3
     }
   },
   {
@@ -1377,7 +1353,7 @@
     }
   },
   {
-    "id": "lnett-planned-3",
+    "id": "lnett-planned-1",
     "company": "Lnett",
     "type": "planned",
     "customers": 186,
@@ -1391,23 +1367,6 @@
       "name": "Berørte kunder: 186",
       "description": "Rettet\nStartet: 2026-08-20 09:00\nSluttid: 2026-08-20 13:13\nPlanlagt strømstans. Utbedringer på høyspentlinje.",
       "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-7",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 176,
-    "lat": 58.90495328013143,
-    "lng": 5.7270742430082855,
-    "start": "21.8.2026, 08:34:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 176",
-      "description": "Planlagt strømstans\nStartet: 2026-08-21 08:34\nPlanlagt ferdig: 2026-08-21 15:00",
-      "styleUrl": "#yellow"
     }
   },
   {
@@ -1659,34 +1618,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70886-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70880-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 27,
-    "lat": 59.096598949999986,
-    "lng": 10.846927713000014,
-    "start": "21.8.2026, 06:30:09",
-    "end": "21.8.2026, 11:00:09",
-    "areaName": "RØD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219057,
-      "REFNR": "P70880",
-      "SEKUNDÆRSTASJON": "RØD",
-      "AVGANG": "H3053",
-      "CNT": 27,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787293809000,
-      "TIL_DATO": 1787310009000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70880-1",
       "description": ""
     }
   },
