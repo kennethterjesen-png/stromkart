@@ -119,6 +119,29 @@
     }
   },
   {
+    "id": "elvia-1034",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.940079993601955,
+    "lng": 10.900671122265967,
+    "start": "21.8.2026, 00:00:00",
+    "end": "21.8.2026, 00:30:00",
+    "areaName": "Oslo / Oslo / 4669",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 1034,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "4669",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1787270492297,
+      "utkoblingslutt": 1787272200000,
+      "utkoblingstart": 1787270400000
+    }
+  },
+  {
     "id": "elvia-6809",
     "company": "Elvia",
     "type": "planned",
@@ -1333,34 +1356,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2902-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70900-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 65,
-    "lat": 59.74108909900002,
-    "lng": 10.825914580000017,
-    "start": "20.8.2026, 22:01:15",
-    "end": "21.8.2026, 03:00:15",
-    "areaName": "FINSTAD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219105,
-      "REFNR": "P70900",
-      "SEKUNDÆRSTASJON": "FINSTAD",
-      "AVGANG": "L81",
-      "CNT": 65,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787263275000,
-      "TIL_DATO": 1787281215000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70900-1",
       "description": ""
     }
   }
