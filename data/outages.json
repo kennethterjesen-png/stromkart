@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-875",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.94971482807445,
-    "lng": 10.885545492951012,
-    "start": "20.8.2026, 22:05:00",
-    "end": "21.8.2026, 04:30:00",
-    "areaName": "Oslo / Oslo / 4048",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 875,
-      "antallkunder": 3,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "4048",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787263787450,
-      "utkoblingslutt": 1787286600000,
-      "utkoblingstart": 1787263500000
-    }
-  },
-  {
     "id": "elvia-7922",
     "company": "Elvia",
     "type": "planned",
@@ -827,6 +804,23 @@
       "name": "Berørte kunder: 186",
       "description": "Rettet\nStartet: 2026-08-20 09:00\nSluttid: 2026-08-20 13:13\nPlanlagt strømstans. Utbedringer på høyspentlinje.",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-outage-3",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 18,
+    "lat": 59.26620235123739,
+    "lng": 6.155443584281991,
+    "start": "21.8.2026, 06:13:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 18",
+      "description": "Driftsforstyrrelse\nStartet: 2026-08-21 06:13\n06:13 Strømfeil, montør på veg for feilsøk.",
+      "styleUrl": "#red"
     }
   },
   {
