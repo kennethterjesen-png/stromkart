@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-21886",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.50186473149673,
+    "lng": 10.880357449499867,
+    "start": "22.8.2026, 06:00:10",
+    "end": "22.8.2026, 09:36:10",
+    "areaName": "Våler / Våler i østfold / I0082",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21886,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Våler",
+      "nettstasjon": "I0082",
+      "poststed": "Våler i østfold",
+      "strombruddoppdaget": 1787378410000,
+      "utkoblingslutt": 1787391370000,
+      "utkoblingstart": 1787378410000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -46,30 +69,6 @@
     }
   },
   {
-    "id": "linja-planned-3388389",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.543823403832285,
-    "lng": 6.063308284013617,
-    "start": "27.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388389,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnevegen og Romsdalsvegen torsdag 27.august fra kl. 08:00 til 11:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787810400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 384,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3388397",
     "company": "Linja",
     "type": "planned",
@@ -86,7 +85,31 @@
       "STATE_TXT": "Godkjent",
       "STARTTIME": 1787823000000,
       "TYPE_TXT": "Utkobling",
-      "FLAG": 384,
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3388389",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.543823403832285,
+    "lng": 6.063308284013617,
+    "start": "27.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3388389,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnevegen og Romsdalsvegen torsdag 27.august fra kl. 08:00 til 11:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787810400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
@@ -883,6 +906,23 @@
       "MUNICIPAL_TXT": "ØRSTA",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-1",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 176,
+    "lat": 58.90495328013143,
+    "lng": 5.7270742430082855,
+    "start": "21.8.2026, 08:34:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 176",
+      "description": "Rettet\nStartet: 2026-08-21 08:34\nSluttid: 2026-08-21 12:59\nPlanlagt strømstans",
+      "styleUrl": "#green"
     }
   },
   {
