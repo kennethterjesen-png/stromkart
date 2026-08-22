@@ -1035,98 +1035,6 @@
     }
   },
   {
-    "id": "elvia-16233",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.41248874868413,
-    "lng": 12.308451883594394,
-    "start": "22.8.2026, 09:53:59",
-    "end": "22.8.2026, 13:38:59",
-    "areaName": "Grue / Grue finnskog / ENS06173",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16233,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Grue",
-      "nettstasjon": "ENS06173",
-      "poststed": "Grue finnskog",
-      "strombruddoppdaget": 1787392439920,
-      "utkoblingslutt": 1787405939000,
-      "utkoblingstart": 1787392439920
-    }
-  },
-  {
-    "id": "elvia-16234",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.41958056469055,
-    "lng": 12.29504280972145,
-    "start": "22.8.2026, 09:53:59",
-    "end": "22.8.2026, 13:38:59",
-    "areaName": "Grue / Grue finnskog / ENS06174",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16234,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Grue",
-      "nettstasjon": "ENS06174",
-      "poststed": "Grue finnskog",
-      "strombruddoppdaget": 1787392439920,
-      "utkoblingslutt": 1787405939000,
-      "utkoblingstart": 1787392439920
-    }
-  },
-  {
-    "id": "elvia-16235",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.42170179192521,
-    "lng": 12.284350224464385,
-    "start": "22.8.2026, 09:53:59",
-    "end": "22.8.2026, 13:38:59",
-    "areaName": "Grue / Kirkenær / ENS06175",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16235,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Grue",
-      "nettstasjon": "ENS06175",
-      "poststed": "Kirkenær",
-      "strombruddoppdaget": 1787392439920,
-      "utkoblingslutt": 1787405939000,
-      "utkoblingstart": 1787392439920
-    }
-  },
-  {
-    "id": "elvia-16236",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.42569660745027,
-    "lng": 12.274100345784326,
-    "start": "22.8.2026, 09:53:59",
-    "end": "22.8.2026, 13:38:59",
-    "areaName": "Grue / Kirkenær / ENS06176",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16236,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Grue",
-      "nettstasjon": "ENS06176",
-      "poststed": "Kirkenær",
-      "strombruddoppdaget": 1787392439920,
-      "utkoblingslutt": 1787405939000,
-      "utkoblingstart": 1787392439920
-    }
-  },
-  {
     "id": "elvia-16249",
     "company": "Elvia",
     "type": "planned",
@@ -1350,29 +1258,6 @@
       "avbruddstype": "Unplanned",
       "kommune": "Grue",
       "nettstasjon": "ENS06749",
-      "poststed": "Grue finnskog",
-      "strombruddoppdaget": 1787392439920,
-      "utkoblingslutt": 1787405939000,
-      "utkoblingstart": 1787392439920
-    }
-  },
-  {
-    "id": "elvia-16613",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.400766959479505,
-    "lng": 12.337855595930824,
-    "start": "22.8.2026, 09:53:59",
-    "end": "22.8.2026, 13:38:59",
-    "areaName": "Grue / Grue finnskog / ENS06792",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16613,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Grue",
-      "nettstasjon": "ENS06792",
       "poststed": "Grue finnskog",
       "strombruddoppdaget": 1787392439920,
       "utkoblingslutt": 1787405939000,
@@ -2947,6 +2832,34 @@
       "name": "Berørte kunder: 176",
       "description": "Rettet\nStartet: 2026-08-21 08:34\nSluttid: 2026-08-21 12:59\nPlanlagt strømstans",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70913-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 228,
+    "lat": 59.05390090200001,
+    "lng": 10.953126155999996,
+    "start": "27.8.2026, 22:05:32",
+    "end": "28.8.2026, 04:00:32",
+    "areaName": "RØD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219153,
+      "REFNR": "P70913",
+      "SEKUNDÆRSTASJON": "RØD",
+      "AVGANG": "H3002",
+      "CNT": 228,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787868332000,
+      "TIL_DATO": 1787889632000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70913-1",
+      "description": ""
     }
   },
   {
