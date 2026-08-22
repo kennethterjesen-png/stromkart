@@ -69,52 +69,6 @@
     }
   },
   {
-    "id": "elvia-21886",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.50186473149673,
-    "lng": 10.880357449499867,
-    "start": "22.8.2026, 06:00:10",
-    "end": "22.8.2026, 09:36:10",
-    "areaName": "Våler / Våler i østfold / I0082",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21886,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Våler",
-      "nettstasjon": "I0082",
-      "poststed": "Våler i østfold",
-      "strombruddoppdaget": 1787378410000,
-      "utkoblingslutt": 1787391370000,
-      "utkoblingstart": 1787378410000
-    }
-  },
-  {
-    "id": "elvia-23660",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 60.256512165767795,
-    "lng": 11.492153272202456,
-    "start": "22.8.2026, 10:36:31",
-    "end": "22.8.2026, 14:12:31",
-    "areaName": "Nes / Skogbygda / N7024",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23660,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N7024",
-      "poststed": "Skogbygda",
-      "strombruddoppdaget": 1787394991000,
-      "utkoblingslutt": 1787407951000,
-      "utkoblingstart": 1787394991000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
