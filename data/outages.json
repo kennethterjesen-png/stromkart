@@ -46,6 +46,54 @@
     }
   },
   {
+    "id": "linja-planned-3388389",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.543823403832285,
+    "lng": 6.063308284013617,
+    "start": "27.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3388389,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnevegen og Romsdalsvegen torsdag 27.august fra kl. 08:00 til 11:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787810400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 384,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3388397",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.54700914827248,
+    "lng": 6.0599395072509825,
+    "start": "27.8.2026, 09:30:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3388397,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnevegen og Synesvegen torsdag 27.august fra kl. 11:30 til 14:30.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787823000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 384,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3371725",
     "company": "Linja",
     "type": "planned",
@@ -281,54 +329,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3388397",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.54700914827248,
-    "lng": 6.0599395072509825,
-    "start": "27.8.2026, 09:30:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388397,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnevegen og Synesvegen torsdag 27.august fra kl. 11:30 til 14:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787823000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 128,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3388389",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.543823403832285,
-    "lng": 6.063308284013617,
-    "start": "27.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388389,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnevegen og Romsdalsvegen torsdag 27.august fra kl. 08:00 til 11:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787810400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 128,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
