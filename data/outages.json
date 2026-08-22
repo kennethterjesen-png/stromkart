@@ -2024,6 +2024,29 @@
     }
   },
   {
+    "id": "elvia-23660",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 13,
+    "lat": 60.256512165767795,
+    "lng": 11.492153272202456,
+    "start": "22.8.2026, 10:36:31",
+    "end": "22.8.2026, 14:12:31",
+    "areaName": "Nes / Skogbygda / N7024",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 23660,
+      "antallkunder": 13,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nes",
+      "nettstasjon": "N7024",
+      "poststed": "Skogbygda",
+      "strombruddoppdaget": 1787394991000,
+      "utkoblingslutt": 1787407951000,
+      "utkoblingstart": 1787394991000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
