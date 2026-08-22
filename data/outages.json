@@ -2070,29 +2070,6 @@
     }
   },
   {
-    "id": "elvia-30347",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 77,
-    "lat": 61.130587141969485,
-    "lng": 11.359136514380687,
-    "start": "22.8.2026, 09:05:18",
-    "end": "22.8.2026, 12:41:18",
-    "areaName": "Åmot / Rena / ENS13486",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30347,
-      "antallkunder": 77,
-      "avbruddstype": "Unplanned",
-      "kommune": "Åmot",
-      "nettstasjon": "ENS13486",
-      "poststed": "Rena",
-      "strombruddoppdaget": 1787389518000,
-      "utkoblingslutt": 1787402478000,
-      "utkoblingstart": 1787389518000
-    }
-  },
-  {
     "id": "linja-planned-3388397",
     "company": "Linja",
     "type": "planned",
