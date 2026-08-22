@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-12374",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 84,
+    "lat": 60.78102128768233,
+    "lng": 10.685319765780735,
+    "start": "22.8.2026, 07:45:11",
+    "end": "22.8.2026, 11:21:11",
+    "areaName": "Gjøvik / Gjøvik / ENS00288",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 12374,
+      "antallkunder": 84,
+      "avbruddstype": "Unplanned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS00288",
+      "poststed": "Gjøvik",
+      "strombruddoppdaget": 1787384711000,
+      "utkoblingslutt": 1787397671000,
+      "utkoblingstart": 1787384711000
+    }
+  },
+  {
     "id": "elvia-21488",
     "company": "Elvia",
     "type": "planned",
