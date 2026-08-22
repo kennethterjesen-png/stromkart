@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-14804",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 61.10480414377357,
-    "lng": 10.31613231268255,
-    "start": "22.8.2026, 13:24:36",
-    "end": "22.8.2026, 17:00:36",
-    "areaName": "Lillehammer / Lillehammer / ENS03825",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14804,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03825",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": 1787405076000,
-      "utkoblingslutt": 1787418036000,
-      "utkoblingstart": 1787405076000
-    }
-  },
-  {
     "id": "elvia-15404",
     "company": "Elvia",
     "type": "planned",
