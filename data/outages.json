@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-15404",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 88,
-    "lat": 60.80798035772602,
-    "lng": 11.049457023817087,
-    "start": "22.8.2026, 13:14:13",
-    "end": "22.8.2026, 16:50:13",
-    "areaName": "Hamar / Hamar / ENS04769",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 15404,
-      "antallkunder": 88,
-      "avbruddstype": "Unplanned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS04769",
-      "poststed": "Hamar",
-      "strombruddoppdaget": 1787404453000,
-      "utkoblingslutt": 1787417413000,
-      "utkoblingstart": 1787404453000
-    }
-  },
-  {
     "id": "elvia-21488",
     "company": "Elvia",
     "type": "planned",
