@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-22208",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 34,
-    "lat": 59.349927451989885,
-    "lng": 10.888671407090726,
-    "start": "22.8.2026, 20:33:48",
-    "end": "23.8.2026, 00:09:48",
-    "areaName": "Råde / Råde / J0056",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22208,
-      "antallkunder": 34,
-      "avbruddstype": "Unplanned",
-      "kommune": "Råde",
-      "nettstasjon": "J0056",
-      "poststed": "Råde",
-      "strombruddoppdaget": 1787430828000,
-      "utkoblingslutt": 1787443788000,
-      "utkoblingstart": 1787430828000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
