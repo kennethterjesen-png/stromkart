@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-29079",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.6788764044593,
+    "lng": 11.11753802490389,
+    "start": "23.8.2026, 16:31:48",
+    "end": null,
+    "areaName": "Indre Østfold / Spydeberg / Z0063",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 29079,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "Z0063",
+      "poststed": "Spydeberg",
+      "strombruddoppdaget": 1787502708000,
+      "utkoblingslutt": null,
+      "utkoblingstart": 1787502708000
+    }
+  },
+  {
     "id": "elvia-29081",
     "company": "Elvia",
     "type": "planned",
@@ -85,6 +108,29 @@
       "avbruddstype": "Unplanned",
       "kommune": "Indre Østfold",
       "nettstasjon": "Z0076",
+      "poststed": "Spydeberg",
+      "strombruddoppdaget": 1787502708000,
+      "utkoblingslutt": null,
+      "utkoblingstart": 1787502708000
+    }
+  },
+  {
+    "id": "elvia-29094",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 14,
+    "lat": 59.67804565848913,
+    "lng": 11.124870871606968,
+    "start": "23.8.2026, 16:31:48",
+    "end": null,
+    "areaName": "Indre Østfold / Spydeberg / Z0079",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 29094,
+      "antallkunder": 14,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "Z0079",
       "poststed": "Spydeberg",
       "strombruddoppdaget": 1787502708000,
       "utkoblingslutt": null,
