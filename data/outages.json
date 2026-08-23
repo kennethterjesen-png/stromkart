@@ -78,29 +78,6 @@
     }
   },
   {
-    "id": "elvia-29725",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.656344497145795,
-    "lng": 11.297874715287124,
-    "start": "23.8.2026, 07:01:13",
-    "end": "23.8.2026, 10:37:13",
-    "areaName": "Indre Østfold / Trøgstad / Z3107",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29725,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z3107",
-      "poststed": "Trøgstad",
-      "strombruddoppdaget": 1787468473000,
-      "utkoblingslutt": 1787481433000,
-      "utkoblingstart": 1787468473000
-    }
-  },
-  {
     "id": "linja-planned-3388397",
     "company": "Linja",
     "type": "planned",
