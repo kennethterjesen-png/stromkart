@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 61.382127059928976,
+    "lng": 5.673446327580211,
+    "start": null,
+    "end": null,
+    "areaName": "Sunnfjord",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9863836,
+      "MUNICIPAL_TXT": "Sunnfjord",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787468400000,
+      "TIMELIMIT": 1787486400000,
+      "NUM_AB": 6,
+      "CUSTOMER_WEB_TEXT": "6977 BYGSTAD; YNDESTAD,SVABERGET",
+      "GRIDLEVEL_TXT": "Lav",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1787469053000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-21488",
     "company": "Elvia",
     "type": "planned",
@@ -43,6 +75,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "elvia-29725",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 59.656344497145795,
+    "lng": 11.297874715287124,
+    "start": "23.8.2026, 07:01:13",
+    "end": "23.8.2026, 10:37:13",
+    "areaName": "Indre Østfold / Trøgstad / Z3107",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 29725,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "Z3107",
+      "poststed": "Trøgstad",
+      "strombruddoppdaget": 1787468473000,
+      "utkoblingslutt": 1787481433000,
+      "utkoblingstart": 1787468473000
     }
   },
   {
