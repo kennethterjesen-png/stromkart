@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-15015",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 60.770312063354204,
+    "lng": 11.336781611985975,
+    "start": "23.8.2026, 14:04:41",
+    "end": "23.8.2026, 17:40:41",
+    "areaName": "Løten / Ådalsbruk / ENS04131",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15015,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Løten",
+      "nettstasjon": "ENS04131",
+      "poststed": "Ådalsbruk",
+      "strombruddoppdaget": 1787493881000,
+      "utkoblingslutt": 1787506841000,
+      "utkoblingstart": 1787493881000
+    }
+  },
+  {
     "id": "elvia-21488",
     "company": "Elvia",
     "type": "planned",
