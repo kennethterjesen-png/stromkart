@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-11684",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 60.31770446855021,
+    "lng": 11.191420973254692,
+    "start": "24.8.2026, 17:40:13",
+    "end": "24.8.2026, 21:16:13",
+    "areaName": "Eidsvoll / Eidsvoll verk / E0031",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11684,
+      "antallkunder": 3,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidsvoll",
+      "nettstasjon": "E0031",
+      "poststed": "Eidsvoll verk",
+      "strombruddoppdaget": 1787593213000,
+      "utkoblingslutt": 1787606173000,
+      "utkoblingstart": 1787593213000
+    }
+  },
+  {
     "id": "elvia-13900",
     "company": "Elvia",
     "type": "planned",
