@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-2771",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 60.302922326535416,
+    "lng": 12.271317379242277,
+    "start": "24.8.2026, 17:41:02",
+    "end": "24.8.2026, 21:17:02",
+    "areaName": "Kongsvinger / Lundersæter / ENS07774",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 2771,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS07774",
+      "poststed": "Lundersæter",
+      "strombruddoppdaget": 1787593262000,
+      "utkoblingslutt": 1787606222000,
+      "utkoblingstart": 1787593262000
+    }
+  },
+  {
     "id": "elvia-13900",
     "company": "Elvia",
     "type": "planned",
@@ -46,26 +69,22 @@
     }
   },
   {
-    "id": "elvia-30310",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 60.748744080314786,
-    "lng": 10.612176770830283,
-    "start": "24.8.2026, 17:00:00",
-    "end": "24.8.2026, 18:00:00",
-    "areaName": "Vestre Toten / Hunndalen / ENS13567",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "id": "fagne-4611801",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 11,
+    "lat": 59.4202003004214,
+    "lng": 5.259740417939425,
+    "start": null,
+    "end": null,
+    "areaName": "HAUGESUND",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
-      "OBJECTID": 30310,
-      "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Vestre Toten",
-      "nettstasjon": "ENS13567",
-      "poststed": "Hunndalen",
-      "strombruddoppdaget": 1787590895295,
-      "utkoblingslutt": 1787594400000,
-      "utkoblingstart": 1787590800000
+      "description": "",
+      "state": "Pågående",
+      "municipal": "HAUGESUND",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
