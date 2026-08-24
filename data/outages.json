@@ -234,29 +234,6 @@
     }
   },
   {
-    "id": "elvia-11056",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 28,
-    "lat": 59.83933306930054,
-    "lng": 10.408799876758279,
-    "start": "24.8.2026, 06:30:00",
-    "end": "24.8.2026, 13:00:00",
-    "areaName": "Asker / Asker / D0077",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11056,
-      "antallkunder": 28,
-      "avbruddstype": "Planned",
-      "kommune": "Asker",
-      "nettstasjon": "D0077",
-      "poststed": "Asker",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787576400000,
-      "utkoblingstart": 1787553000000
-    }
-  },
-  {
     "id": "elvia-17200",
     "company": "Elvia",
     "type": "planned",
@@ -323,52 +300,6 @@
       "strombruddoppdaget": 1787555641000,
       "utkoblingslutt": 1787568601000,
       "utkoblingstart": 1787555641000
-    }
-  },
-  {
-    "id": "elvia-21488",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 19,
-    "lat": 59.92259573603377,
-    "lng": 11.17591596374367,
-    "start": "21.8.2026, 05:42:05",
-    "end": "21.8.2026, 09:18:05",
-    "areaName": "Lillestrøm / Fetsund / F2320",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21488,
-      "antallkunder": 19,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "F2320",
-      "poststed": "Fetsund",
-      "strombruddoppdaget": 1787290925000,
-      "utkoblingslutt": 1787303885000,
-      "utkoblingstart": 1787290925000
-    }
-  },
-  {
-    "id": "elvia-23071",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.146186751437675,
-    "lng": 11.04910274633653,
-    "start": "24.8.2026, 06:30:00",
-    "end": "24.8.2026, 08:30:00",
-    "areaName": "Nannestad / Holter / M1292",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23071,
-      "antallkunder": 8,
-      "avbruddstype": "Planned",
-      "kommune": "Nannestad",
-      "nettstasjon": "M1292",
-      "poststed": "Holter",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787560200000,
-      "utkoblingstart": 1787553000000
     }
   },
   {
@@ -441,6 +372,49 @@
     }
   },
   {
+    "id": "fagne-4599497",
+    "company": "Fagne",
+    "type": "planned",
+    "customers": 10,
+    "lat": 59.35091166745588,
+    "lng": 5.273399698973293,
+    "start": null,
+    "end": null,
+    "areaName": "KARMØY",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "KARMØY",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "linja-outage-3395964",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 11,
+    "lat": 61.385756708105426,
+    "lng": 4.908057188467218,
+    "start": "24.8.2026, 06:41:00",
+    "end": null,
+    "areaName": "Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3395964,
+      "CUSTOMER_WEB_TEXT": null,
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787553660000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": null,
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 11
+    }
+  },
+  {
     "id": "linja-outage-3387965",
     "company": "Linja",
     "type": "outage",
@@ -462,30 +436,6 @@
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 0,
       "NUM_AB": 4
-    }
-  },
-  {
-    "id": "linja-outage-3388373",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 13,
-    "lat": 62.549376709590035,
-    "lng": 6.057114380666019,
-    "start": "24.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388373,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnevegen og Synesvegen mandag 24.august fra kl. 08:00 til 11:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787551200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GISKE",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 1,
-      "NUM_AB": 13
     }
   },
   {
@@ -1377,7 +1327,7 @@
     }
   },
   {
-    "id": "lnett-planned-1",
+    "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
     "customers": 185,
@@ -1446,6 +1396,90 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70911-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2907-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.015880529000015,
+    "lng": 11.068111209999984,
+    "start": "27.8.2026, 08:00:00",
+    "end": "27.8.2026, 12:00:00",
+    "areaName": "RØD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219169,
+      "REFNR": "PL2907",
+      "SEKUNDÆRSTASJON": "RØD",
+      "AVGANG": "H3001",
+      "CNT": 1,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787817600000,
+      "TIL_DATO": 1787832000000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2907-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2908-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 7,
+    "lat": 60.43896099800003,
+    "lng": 5.082580875000019,
+    "start": "27.8.2026, 07:00:00",
+    "end": "27.8.2026, 09:00:00",
+    "areaName": "RAVNANGER",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219170,
+      "REFNR": "PL2908",
+      "SEKUNDÆRSTASJON": "RAVNANGER",
+      "AVGANG": "KOLLEVÅG",
+      "CNT": 7,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787814000000,
+      "TIL_DATO": 1787821200000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2908-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2909-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.228963541999974,
+    "lng": 10.989005304999978,
+    "start": "1.9.2026, 06:30:00",
+    "end": "1.9.2026, 11:30:00",
+    "areaName": "SANDEM",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219171,
+      "REFNR": "PL2909",
+      "SEKUNDÆRSTASJON": "SANDEM",
+      "AVGANG": "H1962",
+      "CNT": 11,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788244200000,
+      "TIL_DATO": 1788262200000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2909-1",
       "description": ""
     }
   },
@@ -1646,34 +1680,6 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-70886-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 132,
-    "lat": 60.459783844000015,
-    "lng": 5.23033273599998,
-    "start": "24.8.2026, 06:30:57",
-    "end": "24.8.2026, 09:30:57",
-    "areaName": "RAVNANGER",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219028,
-      "REFNR": "P70886",
-      "SEKUNDÆRSTASJON": "RAVNANGER",
-      "AVGANG": "ÅSEBØ",
-      "CNT": 132,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787553057000,
-      "TIL_DATO": 1787563857000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70886-1",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-outage-V-2903-1",
     "company": "Norgesnett",
     "type": "outage",
@@ -1698,6 +1704,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2903-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-70886-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 132,
+    "lat": 60.459783844000015,
+    "lng": 5.23033273599998,
+    "start": "24.8.2026, 06:30:57",
+    "end": "24.8.2026, 09:30:57",
+    "areaName": "RAVNANGER",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219028,
+      "REFNR": "P70886",
+      "SEKUNDÆRSTASJON": "RAVNANGER",
+      "AVGANG": "ÅSEBØ",
+      "CNT": 132,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1787553057000,
+      "TIL_DATO": 1787563857000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70886-1",
       "description": ""
     }
   }
