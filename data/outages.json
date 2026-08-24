@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-22618",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 60.02478469362576,
+    "lng": 11.114893172850598,
+    "start": "24.8.2026, 13:10:42",
+    "end": "24.8.2026, 16:46:42",
+    "areaName": "Lillestrøm / Frogner / K0627",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22618,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "K0627",
+      "poststed": "Frogner",
+      "strombruddoppdaget": 1787577042000,
+      "utkoblingslutt": 1787590002000,
+      "utkoblingstart": 1787577042000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -92,6 +115,25 @@
     }
   },
   {
+    "id": "fagne-4609933",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 1,
+    "lat": 59.71943144994941,
+    "lng": 5.8652123425466085,
+    "start": null,
+    "end": null,
+    "areaName": "ETNE",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "ETNE",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
     "id": "linja-outage-3391232",
     "company": "Linja",
     "type": "outage",
@@ -113,30 +155,6 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 1,
       "NUM_AB": 26
-    }
-  },
-  {
-    "id": "linja-outage-3386697",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 17,
-    "lat": 62.257314051099996,
-    "lng": 5.914998633620535,
-    "start": "24.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "ULSTEIN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3386697,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Ødegårdsvegen mandag 24.august fra kl. 09:00 til 15:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787554800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "ULSTEIN",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 1,
-      "NUM_AB": 17
     }
   },
   {
@@ -831,6 +849,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "GLOPPEN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3396733",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.44194526081738,
+    "lng": 5.495622206739455,
+    "start": "27.8.2026, 07:30:00",
+    "end": null,
+    "areaName": "ASKVOLL / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3396733,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hestvik torsdag 27.august fra kl. 09:30 til 15:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787815800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "ASKVOLL",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
