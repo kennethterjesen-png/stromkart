@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-425",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 25,
+    "lat": 59.90660278891555,
+    "lng": 10.795713123276588,
+    "start": "24.8.2026, 11:03:47",
+    "end": "24.8.2026, 14:39:47",
+    "areaName": "Oslo / Oslo / 2018",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 425,
+      "antallkunder": 25,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "2018",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1787569427000,
+      "utkoblingslutt": 1787582387000,
+      "utkoblingstart": 1787569427000
+    }
+  },
+  {
     "id": "elvia-6130",
     "company": "Elvia",
     "type": "planned",
@@ -278,54 +301,6 @@
     }
   },
   {
-    "id": "linja-outage-3387965",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 4,
-    "lat": 62.340786892239535,
-    "lng": 5.686549750747391,
-    "start": "24.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "HERØY / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3387965,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nærøy mandag 24.august fra kl 09:00 til 15:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787554800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "HERØY",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 0,
-      "NUM_AB": 4
-    }
-  },
-  {
-    "id": "linja-outage-3395964",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 11,
-    "lat": 61.385756708105426,
-    "lng": 4.908057188467218,
-    "start": "24.8.2026, 06:41:00",
-    "end": null,
-    "areaName": "Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3395964,
-      "CUSTOMER_WEB_TEXT": null,
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787553660000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": null,
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 11
-    }
-  },
-  {
     "id": "linja-outage-3386697",
     "company": "Linja",
     "type": "outage",
@@ -347,30 +322,6 @@
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 1,
       "NUM_AB": 17
-    }
-  },
-  {
-    "id": "linja-outage-3388381",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 8,
-    "lat": 62.54793643688231,
-    "lng": 6.046100973916881,
-    "start": "24.8.2026, 09:30:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388381,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bureisingvegen og Synesrema mandag 24.august fra kl. 11:30 til 14:30.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787563800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GISKE",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 1,
-      "NUM_AB": 8
     }
   },
   {
