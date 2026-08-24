@@ -32,6 +32,70 @@
     }
   },
   {
+    "id": "bkk-1",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.33114466498875,
+    "lng": 5.624891401087992,
+    "start": null,
+    "end": null,
+    "areaName": "Samnanger",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9861184,
+      "MUNICIPAL_TXT": "Samnanger",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787556600000,
+      "TIMELIMIT": 1787565600000,
+      "NUM_AB": 24,
+      "CUSTOMER_WEB_TEXT": "5652 ÅRLAND; SOLBJØRGVEGEN,NYMARKSVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 3,
+      "LAST_UPDATED": 1787557089000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 4,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "bkk-2",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.462253612516406,
+    "lng": 5.3269220795747,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9869317,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787554800000,
+      "TIMELIMIT": 1787565600000,
+      "NUM_AB": 11,
+      "CUSTOMER_WEB_TEXT": null,
+      "GRIDLEVEL_TXT": "Lav",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1787554861000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "elvia-2766",
     "company": "Elvia",
     "type": "planned",
@@ -101,6 +165,29 @@
     }
   },
   {
+    "id": "elvia-7830",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 21,
+    "lat": 59.91600360114718,
+    "lng": 10.721013984765957,
+    "start": "24.8.2026, 06:00:00",
+    "end": "24.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 3158",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7830,
+      "antallkunder": 21,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "3158",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787576400000,
+      "utkoblingstart": 1787551200000
+    }
+  },
+  {
     "id": "elvia-8461",
     "company": "Elvia",
     "type": "planned",
@@ -121,6 +208,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787575500000,
       "utkoblingstart": 1787553000000
+    }
+  },
+  {
+    "id": "elvia-8884",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.860667904257376,
+    "lng": 10.79722786920909,
+    "start": "24.8.2026, 07:00:00",
+    "end": "24.8.2026, 11:00:00",
+    "areaName": "Oslo / Oslo / 4852",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8884,
+      "antallkunder": 7,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "4852",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787569200000,
+      "utkoblingstart": 1787554800000
     }
   },
   {
@@ -167,6 +277,52 @@
       "strombruddoppdaget": 1787032860802,
       "utkoblingslutt": 1787144400000,
       "utkoblingstart": 1787119200000
+    }
+  },
+  {
+    "id": "elvia-17555",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 31,
+    "lat": 61.252015735590746,
+    "lng": 11.327369269854707,
+    "start": "24.8.2026, 06:57:11",
+    "end": "24.8.2026, 10:33:11",
+    "areaName": "Stor-Elvdal / Rena / ENS08142",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17555,
+      "antallkunder": 31,
+      "avbruddstype": "Unplanned",
+      "kommune": "Stor-Elvdal",
+      "nettstasjon": "ENS08142",
+      "poststed": "Rena",
+      "strombruddoppdaget": 1787554631000,
+      "utkoblingslutt": 1787567591000,
+      "utkoblingstart": 1787554631000
+    }
+  },
+  {
+    "id": "elvia-21045",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 11,
+    "lat": 60.76688062166319,
+    "lng": 11.24856389245918,
+    "start": "24.8.2026, 07:14:01",
+    "end": "24.8.2026, 10:50:01",
+    "areaName": "Stange / Ilseng / ENS14377",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21045,
+      "antallkunder": 11,
+      "avbruddstype": "Unplanned",
+      "kommune": "Stange",
+      "nettstasjon": "ENS14377",
+      "poststed": "Ilseng",
+      "strombruddoppdaget": 1787555641000,
+      "utkoblingslutt": 1787568601000,
+      "utkoblingstart": 1787555641000
     }
   },
   {
@@ -285,6 +441,30 @@
     }
   },
   {
+    "id": "linja-outage-3387965",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 4,
+    "lat": 62.340786892239535,
+    "lng": 5.686549750747391,
+    "start": "24.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "HERØY / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3387965,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nærøy mandag 24.august fra kl 09:00 til 15:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787554800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "HERØY",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 0,
+      "NUM_AB": 4
+    }
+  },
+  {
     "id": "linja-outage-3388373",
     "company": "Linja",
     "type": "outage",
@@ -306,6 +486,30 @@
       "PURCHAREA_TXT": "Linja Nord",
       "NUM_NS": 1,
       "NUM_AB": 13
+    }
+  },
+  {
+    "id": "linja-outage-3386697",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 17,
+    "lat": 62.257314051099996,
+    "lng": 5.914998633620535,
+    "start": "24.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "ULSTEIN / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3386697,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Ødegårdsvegen mandag 24.august fra kl. 09:00 til 15:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787554800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "ULSTEIN",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 1,
+      "NUM_AB": 17
     }
   },
   {
@@ -616,30 +820,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ØRSTA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3388381",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.54800907105829,
-    "lng": 6.04587784885499,
-    "start": "24.8.2026, 09:30:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388381,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bureisingvegen og Synesrema mandag 24.august fra kl. 11:30 til 14:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787563800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
