@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-13900",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 14,
+    "lat": 61.117394822087995,
+    "lng": 12.064732019047591,
+    "start": "24.8.2026, 16:34:27",
+    "end": "24.8.2026, 20:10:27",
+    "areaName": "Trysil / Tørberget / ENS02556",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 13900,
+      "antallkunder": 14,
+      "avbruddstype": "Unplanned",
+      "kommune": "Trysil",
+      "nettstasjon": "ENS02556",
+      "poststed": "Tørberget",
+      "strombruddoppdaget": 1787589267000,
+      "utkoblingslutt": 1787602227000,
+      "utkoblingstart": 1787589267000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -20,6 +43,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "elvia-30310",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 60.748744080314786,
+    "lng": 10.612176770830283,
+    "start": "24.8.2026, 17:00:00",
+    "end": "24.8.2026, 18:00:00",
+    "areaName": "Vestre Toten / Hunndalen / ENS13567",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 30310,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Vestre Toten",
+      "nettstasjon": "ENS13567",
+      "poststed": "Hunndalen",
+      "strombruddoppdaget": 1787590895295,
+      "utkoblingslutt": 1787594400000,
+      "utkoblingstart": 1787590800000
     }
   },
   {
