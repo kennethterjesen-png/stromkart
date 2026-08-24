@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-7830",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 21,
-    "lat": 59.91600360114718,
-    "lng": 10.721013984765957,
-    "start": "24.8.2026, 06:00:00",
-    "end": "24.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 3158",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7830,
-      "antallkunder": 21,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3158",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787576400000,
-      "utkoblingstart": 1787551200000
-    }
-  },
-  {
-    "id": "elvia-16587",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 68,
-    "lat": 60.3940737781678,
-    "lng": 11.545321330246543,
-    "start": "24.8.2026, 13:57:48",
-    "end": "24.8.2026, 17:33:48",
-    "areaName": "Nord-Odal / Sagstua / ENS06753",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16587,
-      "antallkunder": 68,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nord-Odal",
-      "nettstasjon": "ENS06753",
-      "poststed": "Sagstua",
-      "strombruddoppdaget": 1787579868000,
-      "utkoblingslutt": 1787592828000,
-      "utkoblingstart": 1787579868000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
