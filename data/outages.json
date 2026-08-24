@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-11684",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.31770446855021,
-    "lng": 11.191420973254692,
-    "start": "24.8.2026, 17:40:13",
-    "end": "24.8.2026, 21:16:13",
-    "areaName": "Eidsvoll / Eidsvoll verk / E0031",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11684,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0031",
-      "poststed": "Eidsvoll verk",
-      "strombruddoppdaget": 1787593213000,
-      "utkoblingslutt": 1787606173000,
-      "utkoblingstart": 1787593213000
-    }
-  },
-  {
-    "id": "elvia-13900",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 61.117394822087995,
-    "lng": 12.064732019047591,
-    "start": "24.8.2026, 16:34:27",
-    "end": "24.8.2026, 20:10:27",
-    "areaName": "Trysil / Tørberget / ENS02556",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13900,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS02556",
-      "poststed": "Tørberget",
-      "strombruddoppdaget": 1787589267000,
-      "utkoblingslutt": 1787602227000,
-      "utkoblingstart": 1787589267000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -66,25 +20,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "fagne-4611801",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 30,
-    "lat": 59.41962955299329,
-    "lng": 5.260725973874655,
-    "start": null,
-    "end": null,
-    "areaName": "HAUGESUND",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "HAUGESUND",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
