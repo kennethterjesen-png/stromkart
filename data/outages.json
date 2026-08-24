@@ -69,29 +69,6 @@
     }
   },
   {
-    "id": "elvia-29639",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.65025977394241,
-    "lng": 11.266792385795986,
-    "start": "24.8.2026, 11:45:33",
-    "end": "24.8.2026, 15:21:33",
-    "areaName": "Indre Østfold / Trøgstad / Z3006",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29639,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z3006",
-      "poststed": "Trøgstad",
-      "strombruddoppdaget": 1787571933000,
-      "utkoblingslutt": 1787584893000,
-      "utkoblingstart": 1787571933000
-    }
-  },
-  {
     "id": "linja-planned-3390504",
     "company": "Linja",
     "type": "planned",
