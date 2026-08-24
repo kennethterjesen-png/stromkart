@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.35070480796143,
-    "lng": 5.242373514241685,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9857656,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787551200000,
-      "TIMELIMIT": 1787572800000,
-      "NUM_AB": 18,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1787551319000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-6130",
     "company": "Elvia",
     "type": "planned",
@@ -52,6 +20,52 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787572800000,
       "utkoblingstart": 1787553000000
+    }
+  },
+  {
+    "id": "elvia-7214",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 21,
+    "lat": 59.94325225476254,
+    "lng": 10.693428517367263,
+    "start": "24.8.2026, 08:00:00",
+    "end": "24.8.2026, 13:00:00",
+    "areaName": "Oslo / Oslo / 2279",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7214,
+      "antallkunder": 21,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2279",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787576400000,
+      "utkoblingstart": 1787558400000
+    }
+  },
+  {
+    "id": "elvia-7777",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.9645342373689,
+    "lng": 10.729468485513921,
+    "start": "24.8.2026, 09:46:35",
+    "end": "24.8.2026, 13:22:35",
+    "areaName": "Oslo / Oslo / 3076",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7777,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "3076",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1787564795000,
+      "utkoblingslutt": 1787577755000,
+      "utkoblingstart": 1787564795000
     }
   },
   {
@@ -101,26 +115,49 @@
     }
   },
   {
-    "id": "elvia-8884",
+    "id": "elvia-11249",
     "company": "Elvia",
     "type": "planned",
-    "customers": 7,
-    "lat": 59.860667904257376,
-    "lng": 10.79722786920909,
-    "start": "24.8.2026, 07:00:00",
-    "end": "24.8.2026, 11:00:00",
-    "areaName": "Oslo / Oslo / 4852",
+    "customers": 10,
+    "lat": 59.83364190885511,
+    "lng": 10.409611532467263,
+    "start": "24.8.2026, 09:30:00",
+    "end": "24.8.2026, 13:30:00",
+    "areaName": "Asker / Asker / D0327",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 8884,
-      "antallkunder": 7,
+      "OBJECTID": 11249,
+      "antallkunder": 10,
       "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "4852",
-      "poststed": "Oslo",
+      "kommune": "Asker",
+      "nettstasjon": "D0327",
+      "poststed": "Asker",
       "strombruddoppdaget": null,
-      "utkoblingslutt": 1787569200000,
-      "utkoblingstart": 1787554800000
+      "utkoblingslutt": 1787578200000,
+      "utkoblingstart": 1787563800000
+    }
+  },
+  {
+    "id": "elvia-15782",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 25,
+    "lat": 60.92890788494815,
+    "lng": 10.90053804229977,
+    "start": "24.8.2026, 09:30:00",
+    "end": "24.8.2026, 12:30:00",
+    "areaName": "Ringsaker / Brumunddal / ENS05395",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15782,
+      "antallkunder": 25,
+      "avbruddstype": "Planned",
+      "kommune": "Ringsaker",
+      "nettstasjon": "ENS05395",
+      "poststed": "Brumunddal",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787574600000,
+      "utkoblingstart": 1787563800000
     }
   },
   {
@@ -193,6 +230,29 @@
     }
   },
   {
+    "id": "elvia-23655",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 60.20989498646921,
+    "lng": 11.541134898593887,
+    "start": "24.8.2026, 09:59:05",
+    "end": "24.8.2026, 13:35:05",
+    "areaName": "Nes / Skogbygda / N7019",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 23655,
+      "antallkunder": 10,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nes",
+      "nettstasjon": "N7019",
+      "poststed": "Skogbygda",
+      "strombruddoppdaget": 1787565545000,
+      "utkoblingslutt": 1787578505000,
+      "utkoblingstart": 1787565545000
+    }
+  },
+  {
     "id": "elvia-24483",
     "company": "Elvia",
     "type": "planned",
@@ -236,25 +296,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "fagne-4599497",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.35091166745588,
-    "lng": 5.273399698973293,
-    "start": null,
-    "end": null,
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
@@ -327,6 +368,30 @@
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 1,
       "NUM_AB": 17
+    }
+  },
+  {
+    "id": "linja-outage-3388381",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 8,
+    "lat": 62.54793643688231,
+    "lng": 6.046100973916881,
+    "start": "24.8.2026, 09:30:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3388381,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bureisingvegen og Synesrema mandag 24.august fra kl. 11:30 til 14:30.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787563800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GISKE",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 1,
+      "NUM_AB": 8
     }
   },
   {
@@ -1074,6 +1139,30 @@
     }
   },
   {
+    "id": "linja-planned-3396273",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.47195719245681,
+    "lng": 6.163453064321435,
+    "start": "28.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3396273,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Kipervikgata og Keiser Wilhelmsgate fredag 28.august fra kl. 09:00 til 11:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787900400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "ÅLESUND",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3391276",
     "company": "Linja",
     "type": "planned",
@@ -1093,6 +1182,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "GLOPPEN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3396253",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.470537525538795,
+    "lng": 6.311960064780573,
+    "start": "27.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3396253,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Øvste Nakken torsdag 27.august fra kl. 09:00 til 14:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787814000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1523,34 +1636,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2903-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70886-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 132,
-    "lat": 60.459783844000015,
-    "lng": 5.23033273599998,
-    "start": "24.8.2026, 06:30:57",
-    "end": "24.8.2026, 09:30:57",
-    "areaName": "RAVNANGER",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219028,
-      "REFNR": "P70886",
-      "SEKUNDÆRSTASJON": "RAVNANGER",
-      "AVGANG": "ÅSEBØ",
-      "CNT": 132,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1787553057000,
-      "TIL_DATO": 1787563857000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70886-1",
       "description": ""
     }
   }
