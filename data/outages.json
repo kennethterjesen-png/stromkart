@@ -334,6 +334,30 @@
     }
   },
   {
+    "id": "linja-planned-3395272",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.56369127971387,
+    "lng": 6.058775102735609,
+    "start": "28.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3395272,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Blindheimsgarden og Roald fredag 28.august fra kl. 08:00 til 11:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787896800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3390476",
     "company": "Linja",
     "type": "planned",
@@ -497,6 +521,30 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "GLOPPEN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3395320",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.55129166128127,
+    "lng": 6.075744929955722,
+    "start": "28.8.2026, 10:30:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3395320,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Synesvegen og Vikevegen fredag 28.august fra kl. 12:30 til 14:30.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787913000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -766,6 +814,30 @@
     }
   },
   {
+    "id": "linja-planned-3395368",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.55782014898949,
+    "lng": 6.040540604966767,
+    "start": "31.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3395368,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Røssvikgarden mandag 31.august fra kl. 08:00 til 11:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1788156000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3394796",
     "company": "Linja",
     "type": "planned",
@@ -785,6 +857,54 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ØRSTA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3395412",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.7694929070429,
+    "lng": 6.2270703941650405,
+    "start": "31.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3395412,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Åsavegen og Røysatunet mandag 31.august fra kl. 09:00 til 12:30.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1788159600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3395468",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.686069529390956,
+    "lng": 6.522520768579331,
+    "start": "31.8.2026, 11:30:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3395468,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Breimsvegen mandag 31.august fra kl. 13:30 til 17:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1788175800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
