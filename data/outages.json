@@ -46,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-22618",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.02478469362576,
-    "lng": 11.114893172850598,
-    "start": "24.8.2026, 13:10:42",
-    "end": "24.8.2026, 16:46:42",
-    "areaName": "Lillestrøm / Frogner / K0627",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22618,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "K0627",
-      "poststed": "Frogner",
-      "strombruddoppdaget": 1787577042000,
-      "utkoblingslutt": 1787590002000,
-      "utkoblingstart": 1787577042000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
