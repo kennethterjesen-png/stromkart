@@ -382,54 +382,6 @@
     }
   },
   {
-    "id": "linja-planned-3386697",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.25731832020416,
-    "lng": 5.915058591078819,
-    "start": "24.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "ULSTEIN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3386697,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Ødegårdsvegen mandag 24.august fra kl. 09:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787554800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "ULSTEIN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3387965",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.340786892239535,
-    "lng": 5.686549750747391,
-    "start": "24.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "HERØY / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3387965,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nærøy mandag 24.august fra kl 09:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787554800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "HERØY",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3388381",
     "company": "Linja",
     "type": "planned",
@@ -785,30 +737,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "HAREID",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3392445",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.21284195274744,
-    "lng": 7.440833056613094,
-    "start": "24.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "FJORD / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3392445,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Jimdalen mandag 24.august fra kl. 09:00 til 12:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787554800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "FJORD",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
