@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-7754",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.923079420716775,
+    "lng": 10.728444745034793,
+    "start": "25.8.2026, 00:00:00",
+    "end": "25.8.2026, 02:30:00",
+    "areaName": "Oslo / Oslo / 3030",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7754,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "3030",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787625000000,
+      "utkoblingstart": 1787616000000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
