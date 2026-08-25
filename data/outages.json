@@ -354,27 +354,27 @@
     }
   },
   {
-    "id": "linja-outage-3391276",
+    "id": "linja-outage-3394720",
     "company": "Linja",
     "type": "outage",
-    "customers": 27,
-    "lat": 61.77194877703361,
-    "lng": 6.235227041007865,
-    "start": "25.8.2026, 06:30:00",
+    "customers": 6,
+    "lat": 62.04049477800702,
+    "lng": 6.399817098329845,
+    "start": "25.8.2026, 09:00:00",
     "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
+    "areaName": "VOLDA / Linja Midt",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3391276,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Valborgkleiva tirsdag 25.august fra kl. 08:30 til 12:00.",
+      "EVENTID": 3394720,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Månaneset tirsdag 25.aug kl.1100 til ca 1400",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1787639400000,
+      "STARTTIME": 1787648400000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 27
+      "MUNICIPAL_TXT": "VOLDA",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 1,
+      "NUM_AB": 6
     }
   },
   {
@@ -618,25 +618,49 @@
     }
   },
   {
-    "id": "linja-planned-3391484",
+    "id": "linja-planned-3397956",
     "company": "Linja",
     "type": "planned",
     "customers": 0,
-    "lat": 61.7691508126915,
-    "lng": 6.218433677267471,
-    "start": "25.8.2026, 11:00:00",
+    "lat": 62.50275692713314,
+    "lng": 6.059002365869203,
+    "start": "3.9.2026, 21:00:00",
     "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
+    "areaName": "GISKE / Linja Nord",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3391484,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nordåsen tirsdag 25.august fra kl. 13:00 til 16:00.",
+      "EVENTID": 3397956,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Giskegjerde, Reinebakk og Giske Vest torsdag 3.september fra kl. 23:00 til 06:00.",
       "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787655600000,
+      "STARTTIME": 1788469200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3398692",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.94068071132102,
+    "lng": 5.113584612073252,
+    "start": "28.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "KINN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3398692,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gate 6, Gate 7 og Utsiktsvegen fredag 28.august fra kl. 09:00 til 12:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787900400000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
+      "MUNICIPAL_TXT": "KINN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -661,30 +685,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3391544",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.770148319796476,
-    "lng": 6.214796096227052,
-    "start": "25.8.2026, 11:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3391544,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nordåsen tirsdag 25.august fra kl. 13:00 til 16:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787655600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -853,6 +853,54 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3398188",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.50275692713314,
+    "lng": 6.059002365869203,
+    "start": "10.9.2026, 21:00:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3398188,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Giskegjerde, Reinebakk og Giske Vest torsdag 10.september fra kl. 23:00 til 06:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1789074000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 128,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3398460",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.47629240497503,
+    "lng": 6.23653051751577,
+    "start": "27.8.2026, 07:00:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3398460,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Jonsberget torsdag 27.august fra kl. 09:00 til 12:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787814000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1308,23 +1356,6 @@
   },
   {
     "id": "lnett-planned-7",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 13,
-    "lat": 58.99493188963326,
-    "lng": 5.597551749774778,
-    "start": "25.8.2026, 09:10:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 13",
-      "description": "Planlagt strømstans\nStartet: 2026-08-25 09:10\nPlanlagt ferdig: 2026-08-25 15:00",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
-    "id": "lnett-planned-9",
     "company": "Lnett",
     "type": "planned",
     "customers": 56,
