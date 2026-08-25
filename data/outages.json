@@ -188,29 +188,6 @@
     }
   },
   {
-    "id": "elvia-7938",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 23,
-    "lat": 59.9459960754864,
-    "lng": 10.784978744927336,
-    "start": "25.8.2026, 06:00:00",
-    "end": "25.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 3329",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7938,
-      "antallkunder": 23,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3329",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787662800000,
-      "utkoblingstart": 1787637600000
-    }
-  },
-  {
     "id": "elvia-9143",
     "company": "Elvia",
     "type": "planned",
@@ -326,52 +303,6 @@
     }
   },
   {
-    "id": "elvia-15773",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.94620682745309,
-    "lng": 10.992627016233971,
-    "start": "25.8.2026, 09:24:35",
-    "end": "25.8.2026, 13:00:35",
-    "areaName": "Ringsaker / Brumunddal / ENS05380",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 15773,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS05380",
-      "poststed": "Brumunddal",
-      "strombruddoppdaget": 1787649875000,
-      "utkoblingslutt": 1787662835000,
-      "utkoblingstart": 1787649875000
-    }
-  },
-  {
-    "id": "elvia-16449",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 60.35180042472446,
-    "lng": 11.97841447706263,
-    "start": "25.8.2026, 09:46:46",
-    "end": "25.8.2026, 13:31:46",
-    "areaName": "Kongsvinger / Brandval / ENS06555",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16449,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS06555",
-      "poststed": "Brandval",
-      "strombruddoppdaget": 1787651206808,
-      "utkoblingslutt": 1787664706000,
-      "utkoblingstart": 1787651206808
-    }
-  },
-  {
     "id": "elvia-17065",
     "company": "Elvia",
     "type": "planned",
@@ -388,29 +319,6 @@
       "avbruddstype": "Unplanned",
       "kommune": "Kongsvinger",
       "nettstasjon": "ENS07430",
-      "poststed": "Brandval",
-      "strombruddoppdaget": 1787651206808,
-      "utkoblingslutt": 1787664706000,
-      "utkoblingstart": 1787651206808
-    }
-  },
-  {
-    "id": "elvia-17067",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.33478079092336,
-    "lng": 11.985345580867385,
-    "start": "25.8.2026, 09:46:46",
-    "end": "25.8.2026, 13:31:46",
-    "areaName": "Kongsvinger / Brandval / ENS07432",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17067,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07432",
       "poststed": "Brandval",
       "strombruddoppdaget": 1787651206808,
       "utkoblingslutt": 1787664706000,
@@ -602,98 +510,6 @@
     }
   },
   {
-    "id": "elvia-17348",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.3411200701462,
-    "lng": 11.980456803898921,
-    "start": "25.8.2026, 09:46:46",
-    "end": "25.8.2026, 13:31:46",
-    "areaName": "Kongsvinger / Brandval / ENS07848",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17348,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07848",
-      "poststed": "Brandval",
-      "strombruddoppdaget": 1787651206808,
-      "utkoblingslutt": 1787664706000,
-      "utkoblingstart": 1787651206808
-    }
-  },
-  {
-    "id": "elvia-17349",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 22,
-    "lat": 60.34842907137653,
-    "lng": 11.995184630904172,
-    "start": "25.8.2026, 09:46:46",
-    "end": "25.8.2026, 13:31:46",
-    "areaName": "Kongsvinger / Brandval / ENS07849",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17349,
-      "antallkunder": 22,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07849",
-      "poststed": "Brandval",
-      "strombruddoppdaget": 1787651206808,
-      "utkoblingslutt": 1787664706000,
-      "utkoblingstart": 1787651206808
-    }
-  },
-  {
-    "id": "elvia-17350",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 60.34607414672873,
-    "lng": 11.98739692731283,
-    "start": "25.8.2026, 09:46:46",
-    "end": "25.8.2026, 13:31:46",
-    "areaName": "Kongsvinger / Brandval / ENS07850",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17350,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07850",
-      "poststed": "Brandval",
-      "strombruddoppdaget": 1787651206808,
-      "utkoblingslutt": 1787664706000,
-      "utkoblingstart": 1787651206808
-    }
-  },
-  {
-    "id": "elvia-17351",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.33815045757018,
-    "lng": 11.995282019338136,
-    "start": "25.8.2026, 09:46:46",
-    "end": "25.8.2026, 13:31:46",
-    "areaName": "Kongsvinger / Brandval / ENS07851",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17351,
-      "antallkunder": 2,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07851",
-      "poststed": "Brandval",
-      "strombruddoppdaget": 1787651206808,
-      "utkoblingslutt": 1787664706000,
-      "utkoblingstart": 1787651206808
-    }
-  },
-  {
     "id": "elvia-18980",
     "company": "Elvia",
     "type": "planned",
@@ -737,52 +553,6 @@
       "strombruddoppdaget": 1787651206808,
       "utkoblingslutt": 1787664706000,
       "utkoblingstart": 1787651206808
-    }
-  },
-  {
-    "id": "elvia-19649",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 60,
-    "lat": 60.88834506647171,
-    "lng": 11.570271840004478,
-    "start": "25.8.2026, 05:55:07",
-    "end": "25.8.2026, 09:31:07",
-    "areaName": "Elverum / Elverum / ENS11293",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 19649,
-      "antallkunder": 60,
-      "avbruddstype": "Unplanned",
-      "kommune": "Elverum",
-      "nettstasjon": "ENS11293",
-      "poststed": "Elverum",
-      "strombruddoppdaget": 1787637307000,
-      "utkoblingslutt": 1787650267000,
-      "utkoblingstart": 1787637307000
-    }
-  },
-  {
-    "id": "elvia-25084",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.94746844185482,
-    "lng": 11.045652729632012,
-    "start": "25.8.2026, 06:00:00",
-    "end": "25.8.2026, 10:00:00",
-    "areaName": "Rælingen / Rælingen / R0306",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25084,
-      "antallkunder": 5,
-      "avbruddstype": "Planned",
-      "kommune": "Rælingen",
-      "nettstasjon": "R0306",
-      "poststed": "Rælingen",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787652000000,
-      "utkoblingstart": 1787637600000
     }
   },
   {
@@ -1158,6 +928,30 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3398900",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.76712598033419,
+    "lng": 4.875371508611453,
+    "start": "28.8.2026, 06:00:00",
+    "end": null,
+    "areaName": "BREMANGER / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3398900,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område kalvågvegen, Kleivavegen, Parkvegen og Vågsbakken fredag 28.august fra kl. 08:00 til 09:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787896800000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "BREMANGER",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1876,23 +1670,6 @@
     }
   },
   {
-    "id": "lnett-planned-9",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 49,
-    "lat": 59.287788761995635,
-    "lng": 6.016489112553726,
-    "start": "25.8.2026, 09:01:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 49",
-      "description": "Planlagt strømstans\nStartet: 2026-08-25 09:01\nPlanlagt ferdig: 2026-08-25 13:00",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-70913-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -2156,7 +1933,7 @@
     "areaName": "VEVELSTAD",
     "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
     "raw": {
-      "OBJECTID": 1219095,
+      "OBJECTID": 1219185,
       "REFNR": "P70897",
       "SEKUNDÆRSTASJON": "VEVELSTAD",
       "AVGANG": "303",
