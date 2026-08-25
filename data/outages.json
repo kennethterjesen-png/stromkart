@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-3427",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.62019439864643,
-    "lng": 11.874140002793343,
-    "start": "25.8.2026, 12:20:26",
-    "end": "25.8.2026, 16:05:26",
-    "areaName": "Våler / Våler i solør / ENS13109",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 3427,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Våler",
-      "nettstasjon": "ENS13109",
-      "poststed": "Våler i solør",
-      "strombruddoppdaget": 1787660426906,
-      "utkoblingslutt": 1787673926000,
-      "utkoblingstart": 1787660426906
-    }
-  },
-  {
     "id": "elvia-9143",
     "company": "Elvia",
     "type": "planned",
@@ -43,6 +20,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787650200000,
       "utkoblingstart": 1787639400000
+    }
+  },
+  {
+    "id": "elvia-9621",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 14,
+    "lat": 59.937578250860746,
+    "lng": 10.62984901005318,
+    "start": "25.8.2026, 12:48:41",
+    "end": "25.8.2026, 16:24:41",
+    "areaName": "Bærum / Jar / B0231",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9621,
+      "antallkunder": 14,
+      "avbruddstype": "Unplanned",
+      "kommune": "Bærum",
+      "nettstasjon": "B0231",
+      "poststed": "Jar",
+      "strombruddoppdaget": 1787662121000,
+      "utkoblingslutt": 1787675081000,
+      "utkoblingstart": 1787662121000
     }
   },
   {
@@ -85,52 +85,6 @@
       "avbruddstype": "Unplanned",
       "kommune": "Våler",
       "nettstasjon": "ENS00601",
-      "poststed": "Våler i solør",
-      "strombruddoppdaget": 1787660426906,
-      "utkoblingslutt": 1787673926000,
-      "utkoblingstart": 1787660426906
-    }
-  },
-  {
-    "id": "elvia-16775",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.60845452995322,
-    "lng": 11.882435176110944,
-    "start": "25.8.2026, 12:20:26",
-    "end": "25.8.2026, 16:05:26",
-    "areaName": "Våler / Våler i solør / ENS07029",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16775,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Våler",
-      "nettstasjon": "ENS07029",
-      "poststed": "Våler i solør",
-      "strombruddoppdaget": 1787660426906,
-      "utkoblingslutt": 1787673926000,
-      "utkoblingstart": 1787660426906
-    }
-  },
-  {
-    "id": "elvia-16777",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 18,
-    "lat": 60.60959672831195,
-    "lng": 11.875731588085586,
-    "start": "25.8.2026, 12:20:26",
-    "end": "25.8.2026, 16:05:26",
-    "areaName": "Våler / Våler i solør / ENS07031",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16777,
-      "antallkunder": 18,
-      "avbruddstype": "Unplanned",
-      "kommune": "Våler",
-      "nettstasjon": "ENS07031",
       "poststed": "Våler i solør",
       "strombruddoppdaget": 1787660426906,
       "utkoblingslutt": 1787673926000,
@@ -299,49 +253,49 @@
     }
   },
   {
-    "id": "elvia-18596",
+    "id": "elvia-22204",
     "company": "Elvia",
     "type": "planned",
-    "customers": 8,
-    "lat": 60.6087813053849,
-    "lng": 11.919436015598386,
-    "start": "25.8.2026, 12:20:26",
-    "end": "25.8.2026, 16:05:26",
-    "areaName": "Åsnes / Flisa / ENS09758",
+    "customers": 18,
+    "lat": 59.36291360351734,
+    "lng": 10.819868800072717,
+    "start": "25.8.2026, 13:34:11",
+    "end": "25.8.2026, 17:10:11",
+    "areaName": "Råde / Råde / J0052",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 18596,
-      "antallkunder": 8,
+      "OBJECTID": 22204,
+      "antallkunder": 18,
       "avbruddstype": "Unplanned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS09758",
-      "poststed": "Flisa",
-      "strombruddoppdaget": 1787660426906,
-      "utkoblingslutt": 1787673926000,
-      "utkoblingstart": 1787660426906
+      "kommune": "Råde",
+      "nettstasjon": "J0052",
+      "poststed": "Råde",
+      "strombruddoppdaget": 1787664851000,
+      "utkoblingslutt": 1787677811000,
+      "utkoblingstart": 1787664851000
     }
   },
   {
-    "id": "elvia-20681",
+    "id": "elvia-27897",
     "company": "Elvia",
     "type": "planned",
-    "customers": 3,
-    "lat": 60.61599124318209,
-    "lng": 11.909947872835906,
-    "start": "25.8.2026, 12:20:26",
-    "end": "25.8.2026, 16:05:26",
-    "areaName": "Åsnes / Flisa / ENS13110",
+    "customers": 4,
+    "lat": 59.1459361951313,
+    "lng": 11.235083713241393,
+    "start": "25.8.2026, 12:47:16",
+    "end": "25.8.2026, 16:23:16",
+    "areaName": "Sarpsborg / Skjeberg / X0822",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 20681,
-      "antallkunder": 3,
+      "OBJECTID": 27897,
+      "antallkunder": 4,
       "avbruddstype": "Unplanned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS13110",
-      "poststed": "Flisa",
-      "strombruddoppdaget": 1787660426906,
-      "utkoblingslutt": 1787673926000,
-      "utkoblingstart": 1787660426906
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0822",
+      "poststed": "Skjeberg",
+      "strombruddoppdaget": 1787662036000,
+      "utkoblingslutt": 1787674996000,
+      "utkoblingstart": 1787662036000
     }
   },
   {
@@ -365,30 +319,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "linja-outage-3391544",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 30,
-    "lat": 61.770148319796476,
-    "lng": 6.214796096227052,
-    "start": "25.8.2026, 11:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3391544,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nordåsen tirsdag 25.august fra kl. 13:00 til 16:30.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787655600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 30
     }
   },
   {
