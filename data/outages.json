@@ -4,38 +4,6 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.07492515297294,
-    "lng": 5.586079128530932,
-    "start": null,
-    "end": null,
-    "areaName": "Tysnes",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9857844,
-      "MUNICIPAL_TXT": "Tysnes",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787640006000,
-      "TIMELIMIT": 1787654400000,
-      "NUM_AB": 13,
-      "CUSTOMER_WEB_TEXT": "5680 TYSNES; STORA GODØY",
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1787640101000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 5,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
     "lat": 60.22320165541095,
     "lng": 5.048947721354885,
     "start": null,
@@ -64,7 +32,7 @@
     }
   },
   {
-    "id": "bkk-2",
+    "id": "bkk-1",
     "company": "BKK",
     "type": "outage",
     "customers": 0,
@@ -96,7 +64,7 @@
     }
   },
   {
-    "id": "bkk-3",
+    "id": "bkk-2",
     "company": "BKK",
     "type": "outage",
     "customers": 0,
@@ -128,6 +96,29 @@
     }
   },
   {
+    "id": "elvia-1367",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.89429817061307,
+    "lng": 10.498246428676515,
+    "start": "25.8.2026, 07:00:00",
+    "end": "25.8.2026, 14:00:00",
+    "areaName": "Bærum / Sandvika / B0759",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 1367,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Bærum",
+      "nettstasjon": "B0759",
+      "poststed": "Sandvika",
+      "strombruddoppdaget": 1787653097201,
+      "utkoblingslutt": 1787666400000,
+      "utkoblingstart": 1787641200000
+    }
+  },
+  {
     "id": "elvia-3212",
     "company": "Elvia",
     "type": "planned",
@@ -148,29 +139,6 @@
       "strombruddoppdaget": 1787651206808,
       "utkoblingslutt": 1787664706000,
       "utkoblingstart": 1787651206808
-    }
-  },
-  {
-    "id": "elvia-3654",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.872307995148724,
-    "lng": 11.300637415386317,
-    "start": "25.8.2026, 11:00:00",
-    "end": "25.8.2026, 13:00:00",
-    "areaName": "Lillestrøm / Gan / F3285",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 3654,
-      "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "F3285",
-      "poststed": "Gan",
-      "strombruddoppdaget": 1787650334427,
-      "utkoblingslutt": 1787662800000,
-      "utkoblingstart": 1787655600000
     }
   },
   {
@@ -818,6 +786,29 @@
     }
   },
   {
+    "id": "elvia-28043",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.30920786406883,
+    "lng": 11.132122959380187,
+    "start": "25.8.2026, 10:00:00",
+    "end": "25.8.2026, 12:00:00",
+    "areaName": "Sarpsborg / Sarpsborg / X1015",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28043,
+      "antallkunder": 7,
+      "avbruddstype": "Planned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X1015",
+      "poststed": "Sarpsborg",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1787659200000,
+      "utkoblingstart": 1787652000000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -905,30 +896,6 @@
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 1,
       "NUM_AB": 6
-    }
-  },
-  {
-    "id": "linja-outage-3391344",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 27,
-    "lat": 61.771031957607526,
-    "lng": 6.2397954468704375,
-    "start": "25.8.2026, 06:30:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3391344,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Valborgkleiva tirsdag 25.august fra kl. 08:30 til 12:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787639400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 27
     }
   },
   {
@@ -1095,6 +1062,30 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "BREMANGER",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3398368",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.44144916876826,
+    "lng": 6.2077362734864,
+    "start": "1.9.2026, 07:00:00",
+    "end": null,
+    "areaName": "SULA / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3398368,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hølevegen tirsdag 1.september fra kl. 09:00 til 14:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1788246000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "SULA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1888,15 +1879,15 @@
     "id": "lnett-planned-9",
     "company": "Lnett",
     "type": "planned",
-    "customers": 56,
-    "lat": 59.288031392426355,
-    "lng": 6.015408785045887,
+    "customers": 49,
+    "lat": 59.287788761995635,
+    "lng": 6.016489112553726,
     "start": "25.8.2026, 09:01:00",
     "end": null,
     "areaName": "Planlagt vedlikehold",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 56",
+      "name": "Berørte kunder: 49",
       "description": "Planlagt strømstans\nStartet: 2026-08-25 09:01\nPlanlagt ferdig: 2026-08-25 13:00",
       "styleUrl": "#yellow"
     }
