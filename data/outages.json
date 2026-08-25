@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-7754",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.923079420716775,
-    "lng": 10.728444745034793,
-    "start": "25.8.2026, 00:00:00",
-    "end": "25.8.2026, 02:30:00",
-    "areaName": "Oslo / Oslo / 3030",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7754,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3030",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787625000000,
-      "utkoblingstart": 1787616000000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -305,30 +282,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3388357",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.54130192022107,
-    "lng": 6.040516145238497,
-    "start": "25.8.2026, 06:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3388357,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Kyrkjevegen og Synesvegen tirsdag 25.august fra kl. 08:00 til 11:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787637600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -946,8 +899,8 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 30",
-      "description": "Planlagt strømstans\nStartet: 2026-08-24 23:11\nPlanlagt ferdig: 2026-08-25 05:30\nPlanlagt strømstans.",
-      "styleUrl": "#yellow"
+      "description": "Rettet\nStartet: 2026-08-24 23:11\nSluttid: 2026-08-25 06:12\nPlanlagt strømstans.",
+      "styleUrl": "#green"
     }
   },
   {
