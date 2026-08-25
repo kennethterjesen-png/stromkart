@@ -23,25 +23,6 @@
     }
   },
   {
-    "id": "fagne-4614997",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 185,
-    "lat": 59.8259803451434,
-    "lng": 5.328418139410898,
-    "start": null,
-    "end": null,
-    "areaName": "STORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "STORD",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-planned-3397025",
     "company": "Linja",
     "type": "planned",
@@ -1050,7 +1031,7 @@
     }
   },
   {
-    "id": "lnett-planned-5",
+    "id": "lnett-planned-1",
     "company": "Lnett",
     "type": "planned",
     "customers": 30,
