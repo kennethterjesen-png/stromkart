@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-28031",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 26,
+    "lat": 59.27605905303172,
+    "lng": 11.099501706273475,
+    "start": "25.8.2026, 19:13:39",
+    "end": "25.8.2026, 22:49:39",
+    "areaName": "Sarpsborg / Sarpsborg / X0988",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28031,
+      "antallkunder": 26,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0988",
+      "poststed": "Sarpsborg",
+      "strombruddoppdaget": 1787685219000,
+      "utkoblingslutt": 1787698179000,
+      "utkoblingstart": 1787685219000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
