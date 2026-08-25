@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-9143",
+    "id": "elvia-2702",
     "company": "Elvia",
     "type": "planned",
-    "customers": 6,
-    "lat": 59.924640057601465,
-    "lng": 10.77067080926248,
-    "start": "25.8.2026, 06:30:00",
-    "end": "25.8.2026, 09:30:00",
-    "areaName": "Oslo / Oslo / 5203",
+    "customers": 1,
+    "lat": 60.67165126254218,
+    "lng": 11.829777077068231,
+    "start": "25.8.2026, 12:20:26",
+    "end": "25.8.2026, 16:05:26",
+    "areaName": "Våler / Våler i solør / ENS07136",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 9143,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "5203",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787650200000,
-      "utkoblingstart": 1787639400000
+      "OBJECTID": 2702,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Våler",
+      "nettstasjon": "ENS07136",
+      "poststed": "Våler i solør",
+      "strombruddoppdaget": 1787660426906,
+      "utkoblingslutt": 1787673926000,
+      "utkoblingstart": 1787660426906
     }
   },
   {
