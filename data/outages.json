@@ -46,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-16225",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 60.15480887799467,
-    "lng": 11.651353081855593,
-    "start": "26.8.2026, 13:12:04",
-    "end": "26.8.2026, 16:48:04",
-    "areaName": "Sør-Odal / Disenå / ENS06060",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16225,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS06060",
-      "poststed": "Disenå",
-      "strombruddoppdaget": 1787749924000,
-      "utkoblingslutt": 1787762884000,
-      "utkoblingstart": 1787749924000
-    }
-  },
-  {
     "id": "elvia-20976",
     "company": "Elvia",
     "type": "planned",
@@ -164,7 +141,7 @@
     "id": "elvia-28018",
     "company": "Elvia",
     "type": "planned",
-    "customers": 2,
+    "customers": 8,
     "lat": 59.273953505136376,
     "lng": 11.092627400514791,
     "start": "26.8.2026, 06:00:00",
@@ -173,7 +150,7 @@
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
       "OBJECTID": 28018,
-      "antallkunder": 2,
+      "antallkunder": 8,
       "avbruddstype": "Planned",
       "kommune": "Sarpsborg",
       "nettstasjon": "X0970",
@@ -204,30 +181,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "linja-outage-3391824",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 44,
-    "lat": 61.770978466452824,
-    "lng": 6.225690980130537,
-    "start": "26.8.2026, 11:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3391824,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gotevegen onsdag 26.august fra kl. 13:00 til 16:30.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787742000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 44
     }
   },
   {
@@ -1143,6 +1096,62 @@
       "name": "Berørte kunder: 10",
       "description": "Rettet\nStartet: 2026-08-26 08:07\nSluttid: 2026-08-26 14:14\nPlanlagt arbeid.",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2910-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.22704961900001,
+    "lng": 11.015180441999973,
+    "start": "2.9.2026, 06:30:00",
+    "end": "2.9.2026, 09:00:00",
+    "areaName": "SANDEM",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219217,
+      "REFNR": "PL2910",
+      "SEKUNDÆRSTASJON": "SANDEM",
+      "AVGANG": "H1952",
+      "CNT": 9,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788330600000,
+      "TIL_DATO": 1788339600000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2910-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2912-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 21,
+    "lat": 59.71831364500002,
+    "lng": 10.821924948999992,
+    "start": "2.9.2026, 06:00:00",
+    "end": "2.9.2026, 13:00:00",
+    "areaName": "FINSTAD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219218,
+      "REFNR": "PL2912",
+      "SEKUNDÆRSTASJON": "FINSTAD",
+      "AVGANG": "L82",
+      "CNT": 21,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788328800000,
+      "TIL_DATO": 1788354000000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2912-1",
+      "description": ""
     }
   },
   {
