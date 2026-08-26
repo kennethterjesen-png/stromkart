@@ -4,38 +4,6 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.534239030961984,
-    "lng": 5.722954913300577,
-    "start": null,
-    "end": null,
-    "areaName": "Vaksdal",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9861372,
-      "MUNICIPAL_TXT": "Vaksdal",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787725800000,
-      "TIMELIMIT": 1787745600000,
-      "NUM_AB": 2,
-      "CUSTOMER_WEB_TEXT": "5724 STANGHELLE; STANGHELLE,FOSSMARK\r\n5724 STANGHELLE; STANGHELLE,FOSSMARK",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 1,
-      "LAST_UPDATED": 1787727246000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 4,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
     "lat": 60.35383052649283,
     "lng": 5.108786619736667,
     "start": null,
@@ -54,43 +22,11 @@
       "GRIDLEVEL_TXT": "Høy",
       "REASON_TXT": null,
       "NUM_NS": 0,
-      "LAST_UPDATED": 1787742357000,
+      "LAST_UPDATED": 1787745012000,
       "SCHEDULED_SMS_DAYS_BEFORE": -1,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 1,
       "NUM_AB_REGAINED": 1,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-2",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.35571402925269,
-    "lng": 5.243605823231396,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9850654,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787724000000,
-      "TIMELIMIT": 1787745600000,
-      "NUM_AB": 13,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1787726567000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
       "SCHEDULED_SMS_INHABITANT_TEXT": null,
       "ISSUESTATECHANGEEMAIL": null
     }
@@ -165,29 +101,6 @@
     }
   },
   {
-    "id": "elvia-6511",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 17,
-    "lat": 59.93004722958894,
-    "lng": 10.75313995179279,
-    "start": "26.8.2026, 06:00:00",
-    "end": "26.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 1201",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6511,
-      "antallkunder": 17,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "1201",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787749200000,
-      "utkoblingstart": 1787724000000
-    }
-  },
-  {
     "id": "elvia-7948",
     "company": "Elvia",
     "type": "planned",
@@ -231,29 +144,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787748300000,
       "utkoblingstart": 1787725800000
-    }
-  },
-  {
-    "id": "elvia-17179",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.11960877795709,
-    "lng": 12.032218347539951,
-    "start": "25.8.2026, 15:34:31",
-    "end": "25.8.2026, 19:10:31",
-    "areaName": "Kongsvinger / Granli / ENS07607",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17179,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07607",
-      "poststed": "Granli",
-      "strombruddoppdaget": 1787672071000,
-      "utkoblingslutt": 1787685031000,
-      "utkoblingstart": 1787672071000
     }
   },
   {
@@ -372,29 +262,6 @@
     }
   },
   {
-    "id": "elvia-23806",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.80188338365956,
-    "lng": 10.817615140987169,
-    "start": "26.8.2026, 07:00:00",
-    "end": "26.8.2026, 12:00:00",
-    "areaName": "Nordre Follo / Sofiemyr / O0081",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23806,
-      "antallkunder": 3,
-      "avbruddstype": "Planned",
-      "kommune": "Nordre Follo",
-      "nettstasjon": "O0081",
-      "poststed": "Sofiemyr",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787745600000,
-      "utkoblingstart": 1787727600000
-    }
-  },
-  {
     "id": "elvia-25607",
     "company": "Elvia",
     "type": "planned",
@@ -438,52 +305,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787749200000,
       "utkoblingstart": 1787724000000
-    }
-  },
-  {
-    "id": "elvia-27752",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 22,
-    "lat": 59.2653231550273,
-    "lng": 11.170985469568677,
-    "start": "26.8.2026, 07:00:00",
-    "end": "26.8.2026, 13:00:00",
-    "areaName": "Sarpsborg / Borgenhaugen / X0641",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27752,
-      "antallkunder": 22,
-      "avbruddstype": "Planned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0641",
-      "poststed": "Borgenhaugen",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787749200000,
-      "utkoblingstart": 1787727600000
-    }
-  },
-  {
-    "id": "elvia-27769",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.28685926757623,
-    "lng": 11.151114779974721,
-    "start": "26.8.2026, 09:13:39",
-    "end": "26.8.2026, 12:49:39",
-    "areaName": "Sarpsborg / Hafslundsøy / X0663",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27769,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0663",
-      "poststed": "Hafslundsøy",
-      "strombruddoppdaget": 1787735619000,
-      "utkoblingslutt": 1787748579000,
-      "utkoblingstart": 1787735619000
     }
   },
   {
@@ -552,25 +373,6 @@
     }
   },
   {
-    "id": "fagne-4598033",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.46948338250856,
-    "lng": 5.290213106189766,
-    "start": null,
-    "end": null,
-    "areaName": "HAUGESUND",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "HAUGESUND",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-outage-3393573",
     "company": "Linja",
     "type": "outage",
@@ -592,30 +394,6 @@
       "PURCHAREA_TXT": "Linja Midt",
       "NUM_NS": 6,
       "NUM_AB": 21
-    }
-  },
-  {
-    "id": "linja-outage-3392064",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 12,
-    "lat": 62.33847286455078,
-    "lng": 6.041903338826374,
-    "start": "26.8.2026, 07:00:00",
-    "end": null,
-    "areaName": "HAREID / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3392064,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Liavegen og Øvrelid onsdag 26.august fra kl. 09:00 til 15:30.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787727600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "HAREID",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 1,
-      "NUM_AB": 12
     }
   },
   {
@@ -1524,24 +1302,24 @@
     }
   },
   {
-    "id": "lnett-planned-9",
+    "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
-    "customers": 1,
-    "lat": 58.87298523307668,
-    "lng": 5.72049607750509,
-    "start": "26.8.2026, 08:13:00",
+    "customers": 6,
+    "lat": 59.09459172706315,
+    "lng": 5.749406991053432,
+    "start": "25.8.2026, 08:36:00",
     "end": null,
     "areaName": "Planlagt vedlikehold",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 1",
-      "description": "Planlagt strømstans\nStartet: 2026-08-26 08:13\nPlanlagt ferdig: 2026-08-26 15:00",
-      "styleUrl": "#yellow"
+      "name": "Berørte kunder: 6",
+      "description": "Rettet\nStartet: 2026-08-25 08:36\nSluttid: 2026-08-25 09:40\nPlanlagt arbeid.",
+      "styleUrl": "#green"
     }
   },
   {
-    "id": "lnett-planned-11",
+    "id": "lnett-planned-13",
     "company": "Lnett",
     "type": "planned",
     "customers": 10,
@@ -1694,6 +1472,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2909-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2911-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.255615922000004,
+    "lng": 10.936022187999981,
+    "start": "2.9.2026, 06:00:00",
+    "end": "2.9.2026, 13:00:00",
+    "areaName": "GLUPPE",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219201,
+      "REFNR": "PL2911",
+      "SEKUNDÆRSTASJON": "GLUPPE",
+      "AVGANG": "H1158",
+      "CNT": 12,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788328800000,
+      "TIL_DATO": 1788354000000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2911-1",
       "description": ""
     }
   },
