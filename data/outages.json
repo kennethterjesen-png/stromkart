@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-7278",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 227,
-    "lat": 59.91318949651493,
-    "lng": 10.769885126281931,
-    "start": "25.8.2026, 22:01:00",
-    "end": "26.8.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 2357",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7278,
-      "antallkunder": 227,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2357",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787090938000,
-      "utkoblingslutt": 1787716800000,
-      "utkoblingstart": 1787695260000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
