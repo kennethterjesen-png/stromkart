@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-7948",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 24,
-    "lat": 59.94120733685036,
-    "lng": 10.805866100141829,
-    "start": "26.8.2026, 06:00:00",
-    "end": "26.8.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 3345",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7948,
-      "antallkunder": 24,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3345",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787724069484,
-      "utkoblingslutt": 1787749200000,
-      "utkoblingstart": 1787724000000
-    }
-  },
-  {
     "id": "elvia-8461",
     "company": "Elvia",
     "type": "planned",
@@ -69,6 +46,52 @@
     }
   },
   {
+    "id": "elvia-16225",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 60.15480887799467,
+    "lng": 11.651353081855593,
+    "start": "26.8.2026, 13:12:04",
+    "end": "26.8.2026, 16:48:04",
+    "areaName": "Sør-Odal / Disenå / ENS06060",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 16225,
+      "antallkunder": 8,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sør-Odal",
+      "nettstasjon": "ENS06060",
+      "poststed": "Disenå",
+      "strombruddoppdaget": 1787749924000,
+      "utkoblingslutt": 1787762884000,
+      "utkoblingstart": 1787749924000
+    }
+  },
+  {
+    "id": "elvia-20976",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 60.725929047886936,
+    "lng": 11.171396326930648,
+    "start": "26.8.2026, 13:08:13",
+    "end": "26.8.2026, 16:44:13",
+    "areaName": "Stange / Stange / ENS14285",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20976,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Stange",
+      "nettstasjon": "ENS14285",
+      "poststed": "Stange",
+      "strombruddoppdaget": 1787749693000,
+      "utkoblingslutt": 1787762653000,
+      "utkoblingstart": 1787749693000
+    }
+  },
+  {
     "id": "elvia-21719",
     "company": "Elvia",
     "type": "planned",
@@ -86,52 +109,6 @@
       "kommune": "Hurdal",
       "nettstasjon": "H0125",
       "poststed": "Hurdal",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787749200000,
-      "utkoblingstart": 1787724000000
-    }
-  },
-  {
-    "id": "elvia-21807",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 60.415778022914516,
-    "lng": 11.028774675969242,
-    "start": "26.8.2026, 06:00:00",
-    "end": "26.8.2026, 13:00:00",
-    "areaName": "Hurdal / Hurdal / H0424",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21807,
-      "antallkunder": 11,
-      "avbruddstype": "Planned",
-      "kommune": "Hurdal",
-      "nettstasjon": "H0424",
-      "poststed": "Hurdal",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787749200000,
-      "utkoblingstart": 1787724000000
-    }
-  },
-  {
-    "id": "elvia-22952",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 60.25364787881035,
-    "lng": 11.067532514261133,
-    "start": "26.8.2026, 06:00:00",
-    "end": "26.8.2026, 13:00:00",
-    "areaName": "Nannestad / Maura / M0010",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22952,
-      "antallkunder": 7,
-      "avbruddstype": "Planned",
-      "kommune": "Nannestad",
-      "nettstasjon": "M0010",
-      "poststed": "Maura",
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787749200000,
       "utkoblingstart": 1787724000000
@@ -180,29 +157,6 @@
       "poststed": "Hakadal",
       "strombruddoppdaget": 1787724440237,
       "utkoblingslutt": 1787760000000,
-      "utkoblingstart": 1787724000000
-    }
-  },
-  {
-    "id": "elvia-26044",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.14160684778288,
-    "lng": 11.168787134287467,
-    "start": "26.8.2026, 06:00:00",
-    "end": "26.8.2026, 13:00:00",
-    "areaName": "Ullensaker / Jessheim / U2380",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26044,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Ullensaker",
-      "nettstasjon": "U2380",
-      "poststed": "Jessheim",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787749200000,
       "utkoblingstart": 1787724000000
     }
   },
@@ -274,30 +228,6 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 0,
       "NUM_AB": 44
-    }
-  },
-  {
-    "id": "linja-outage-3391780",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 64,
-    "lat": 61.77168335703654,
-    "lng": 6.208621975107087,
-    "start": "26.8.2026, 11:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3391780,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Sørstrandsvegen, Vonheimsbakken, Åsaberget og Åsavegen onsdag 13.august fra kl. 13:00 til 16:30",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1787742000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 64
     }
   },
   {
@@ -805,6 +735,54 @@
     }
   },
   {
+    "id": "linja-planned-3395320",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.55129166128127,
+    "lng": 6.075744929955722,
+    "start": "28.8.2026, 09:30:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3395320,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Synesvegen og Vikevegen fredag 28.august fra kl. 11:30 til 13:30.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1787909400000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Nord",
+      "MUNICIPAL_TXT": "GISKE",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3400844",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.01461216771219,
+    "lng": 6.76720199593768,
+    "start": "1.9.2026, 07:00:00",
+    "end": null,
+    "areaName": "STRANDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3400844,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Røyrhusvegen tirsdag 1.september fra kl. 09:00 til 14:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1788246000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "STRANDA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3395368",
     "company": "Linja",
     "type": "planned",
@@ -1036,30 +1014,6 @@
       "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Blindheimsgarden og Roald fredag 28.august fra kl. 08:00 til 11:00.",
       "STATE_TXT": "Godkjent",
       "STARTTIME": 1787896800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3395320",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.55129166128127,
-    "lng": 6.075744929955722,
-    "start": "28.8.2026, 10:30:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3395320,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Synesvegen og Vikevegen fredag 28.august fra kl. 12:30 til 14:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787913000000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
