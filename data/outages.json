@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-8602",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.95494486266791,
-    "lng": 10.85360628575194,
-    "start": "26.8.2026, 14:44:49",
-    "end": "26.8.2026, 18:20:49",
-    "areaName": "Oslo / Oslo / 4411",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8602,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "4411",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787755489000,
-      "utkoblingslutt": 1787768449000,
-      "utkoblingstart": 1787755489000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -43,6 +20,54 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "linja-outage-3391628",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 40,
+    "lat": 61.77137246521057,
+    "lng": 6.222306819991219,
+    "start": "26.8.2026, 20:30:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3391628,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Ulvesbakken og Gotevegen onsdag 26.august fra kl. 22:30 til 02:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787776200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 40
+    }
+  },
+  {
+    "id": "linja-outage-3391912",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 29,
+    "lat": 61.770786559140205,
+    "lng": 6.2293478476103195,
+    "start": "26.8.2026, 20:30:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3391912,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gotevegen og Åsavegen onsdag 26.august fra kl. 22:30 til 02:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1787776200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 29
     }
   },
   {
@@ -913,6 +938,23 @@
     }
   },
   {
+    "id": "lnett-planned-15",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 49,
+    "lat": 58.9329716088994,
+    "lng": 5.574345940555553,
+    "start": "26.8.2026, 23:02:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 49",
+      "description": "Planlagt strømstans\nStartet: 2026-08-26 23:02\nPlanlagt ferdig: 2026-08-27 04:00\nPlanlagt strømstans",
+      "styleUrl": "#yellow"
+    }
+  },
+  {
     "id": "norgesnett-planned-V-2910-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -965,6 +1007,118 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2912-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2913-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 80,
+    "lat": 59.230018270000016,
+    "lng": 10.965810879999992,
+    "start": "3.9.2026, 22:00:00",
+    "end": "4.9.2026, 02:00:00",
+    "areaName": "OREDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219219,
+      "REFNR": "PL2913",
+      "SEKUNDÆRSTASJON": "OREDALEN",
+      "AVGANG": "H5794",
+      "CNT": 80,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788472800000,
+      "TIL_DATO": 1788487200000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2913-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2916-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.223351073,
+    "lng": 10.94036867699998,
+    "start": "4.9.2026, 06:30:00",
+    "end": "4.9.2026, 12:00:00",
+    "areaName": "OREDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219220,
+      "REFNR": "PL2916",
+      "SEKUNDÆRSTASJON": "OREDALEN",
+      "AVGANG": "H515",
+      "CNT": 11,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788503400000,
+      "TIL_DATO": 1788523200000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2916-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2914-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.224853134,
+    "lng": 10.941505275999987,
+    "start": "1.9.2026, 06:30:00",
+    "end": "1.9.2026, 11:30:00",
+    "areaName": "OREDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219221,
+      "REFNR": "PL2914",
+      "SEKUNDÆRSTASJON": "OREDALEN",
+      "AVGANG": "H5794",
+      "CNT": 11,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788244200000,
+      "TIL_DATO": 1788262200000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2914-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2915-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 31,
+    "lat": 59.213667766000015,
+    "lng": 10.954580550000003,
+    "start": "2.9.2026, 06:00:00",
+    "end": "2.9.2026, 12:00:00",
+    "areaName": "BROGATA",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219222,
+      "REFNR": "PL2915",
+      "SEKUNDÆRSTASJON": "BROGATA",
+      "AVGANG": "H629A",
+      "CNT": 31,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788328800000,
+      "TIL_DATO": 1788350400000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2915-1",
       "description": ""
     }
   },
