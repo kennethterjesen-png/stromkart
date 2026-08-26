@@ -359,30 +359,6 @@
     }
   },
   {
-    "id": "linja-planned-3393573",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.35264090474284,
-    "lng": 6.8506281823153,
-    "start": "26.8.2026, 06:30:00",
-    "end": null,
-    "areaName": "STRANDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3393573,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Fausadal onsdag 26.august fra kl. 08:30 til 14:30. ",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787725800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3392064",
     "company": "Linja",
     "type": "planned",
@@ -714,54 +690,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "SANDE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3391692",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.76874978863131,
-    "lng": 6.206990517696377,
-    "start": "26.8.2026, 06:30:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3391692,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Furelia, Kreklingen, Lyngvegen og Åsavegen onsdag 26.august fra kl. 08:30 til 12:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787725800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3391736",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.77029608263301,
-    "lng": 6.233425926907507,
-    "start": "26.8.2026, 06:30:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3391736,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Valborgkleiva, Kleivedammen og Gotevegen onsdag 26.august fra kl. 08:30 til 12:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1787725800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
