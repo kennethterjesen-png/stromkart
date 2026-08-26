@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-4709",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 60.14728818699609,
-    "lng": 10.781420389259676,
-    "start": "26.8.2026, 06:00:00",
-    "end": "26.8.2026, 16:00:00",
-    "areaName": "Nittedal / Hakadal / T0005",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 4709,
-      "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Nittedal",
-      "nettstasjon": "T0005",
-      "poststed": "Hakadal",
-      "strombruddoppdaget": 1787724440237,
-      "utkoblingslutt": 1787760000000,
-      "utkoblingstart": 1787724000000
-    }
-  },
-  {
     "id": "elvia-8602",
     "company": "Elvia",
     "type": "planned",
@@ -66,29 +43,6 @@
       "strombruddoppdaget": 1787758896000,
       "utkoblingslutt": 1787771856000,
       "utkoblingstart": 1787758896000
-    }
-  },
-  {
-    "id": "elvia-25607",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 60.13968923596767,
-    "lng": 10.806025236962341,
-    "start": "26.8.2026, 06:00:00",
-    "end": "26.8.2026, 16:00:00",
-    "areaName": "Nittedal / Hakadal / T0003",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25607,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Nittedal",
-      "nettstasjon": "T0003",
-      "poststed": "Hakadal",
-      "strombruddoppdaget": 1787724440237,
-      "utkoblingslutt": 1787760000000,
-      "utkoblingstart": 1787724000000
     }
   },
   {
