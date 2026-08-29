@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-20489",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 60.681818450405835,
-    "lng": 10.727510340427159,
-    "start": "29.8.2026, 13:16:31",
-    "end": "29.8.2026, 16:52:31",
-    "areaName": "Østre Toten / Bøverbru / ENS12747",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20489,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS12747",
-      "poststed": "Bøverbru",
-      "strombruddoppdaget": 1788009391000,
-      "utkoblingslutt": 1788022351000,
-      "utkoblingstart": 1788009391000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -43,6 +20,25 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "fagne-4621864",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 1108,
+    "lat": 59.63911163278199,
+    "lng": 5.7449890329378075,
+    "start": null,
+    "end": null,
+    "areaName": "VINDAFJORD",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "VINDAFJORD",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
@@ -1032,34 +1028,6 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70942-1",
       "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\n RAMSTAD,"
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70944-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 53,
-    "lat": 59.072874988000024,
-    "lng": 10.907069620000016,
-    "start": "29.8.2026, 11:15:26",
-    "end": null,
-    "areaName": "RØD",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219271,
-      "REFNR": "H70944",
-      "SEKUNDÆRSTASJON": "RØD",
-      "AVGANG": "H3053",
-      "CNT": 53,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1788002126000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70944-1",
-      "description": ""
     }
   }
 ]
