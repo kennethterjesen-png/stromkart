@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-610",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.97748830550458,
-    "lng": 10.852410584861751,
-    "start": "28.8.2026, 17:01:13",
-    "end": "28.8.2026, 20:46:13",
-    "areaName": "Oslo / Oslo / 3013",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 610,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "3013",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787936473433,
-      "utkoblingslutt": 1787949973000,
-      "utkoblingstart": 1787936473433
-    }
-  },
-  {
-    "id": "elvia-717",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.991830169059206,
-    "lng": 10.861387012909551,
-    "start": "28.8.2026, 17:01:13",
-    "end": "28.8.2026, 20:46:13",
-    "areaName": "Oslo / Oslo / 3494",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 717,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "3494",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1787936473433,
-      "utkoblingslutt": 1787949973000,
-      "utkoblingstart": 1787936473433
-    }
-  },
-  {
     "id": "elvia-22052",
     "company": "Elvia",
     "type": "planned",
@@ -66,98 +20,6 @@
       "strombruddoppdaget": 1787904200440,
       "utkoblingslutt": 1787917709000,
       "utkoblingstart": 1787904200440
-    }
-  },
-  {
-    "id": "elvia-25700",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.997936650746006,
-    "lng": 10.863993131038592,
-    "start": "28.8.2026, 17:01:13",
-    "end": "28.8.2026, 20:46:13",
-    "areaName": "Nittedal / Hagan / T2258",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25700,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nittedal",
-      "nettstasjon": "T2258",
-      "poststed": "Hagan",
-      "strombruddoppdaget": 1787936473433,
-      "utkoblingslutt": 1787949973000,
-      "utkoblingstart": 1787936473433
-    }
-  },
-  {
-    "id": "elvia-25714",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.01349081444098,
-    "lng": 10.864508062777995,
-    "start": "28.8.2026, 17:01:13",
-    "end": "28.8.2026, 20:46:13",
-    "areaName": "Nittedal / Slattum / T2421",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25714,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nittedal",
-      "nettstasjon": "T2421",
-      "poststed": "Slattum",
-      "strombruddoppdaget": 1787936473433,
-      "utkoblingslutt": 1787949973000,
-      "utkoblingstart": 1787936473433
-    }
-  },
-  {
-    "id": "elvia-25718",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 60.02617242421974,
-    "lng": 10.839261351525511,
-    "start": "28.8.2026, 17:01:13",
-    "end": "28.8.2026, 20:46:13",
-    "areaName": "Nittedal / Slattum / T2510",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25718,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nittedal",
-      "nettstasjon": "T2510",
-      "poststed": "Slattum",
-      "strombruddoppdaget": 1787936473433,
-      "utkoblingslutt": 1787949973000,
-      "utkoblingstart": 1787936473433
-    }
-  },
-  {
-    "id": "elvia-25752",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 58,
-    "lat": 60.00463838164156,
-    "lng": 10.87775512251007,
-    "start": "28.8.2026, 17:01:13",
-    "end": "28.8.2026, 20:46:13",
-    "areaName": "Nittedal / Slattum / T3328",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25752,
-      "antallkunder": 58,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nittedal",
-      "nettstasjon": "T3328",
-      "poststed": "Slattum",
-      "strombruddoppdaget": 1787936473433,
-      "utkoblingslutt": 1787949973000,
-      "utkoblingstart": 1787936473433
     }
   },
   {
@@ -736,24 +598,7 @@
     }
   },
   {
-    "id": "lnett-planned-3",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 49,
-    "lat": 58.9329716088994,
-    "lng": 5.574345940555553,
-    "start": "26.8.2026, 23:02:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 49",
-      "description": "Rettet\nStartet: 2026-08-26 23:02\nSluttid: 2026-08-27 01:41\nPlanlagt strømstans",
-      "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-5",
+    "id": "lnett-planned-1",
     "company": "Lnett",
     "type": "planned",
     "customers": 54,
@@ -767,23 +612,6 @@
       "name": "Berørte kunder: 54",
       "description": "Rettet\nStartet: 2026-08-27 23:35\nSluttid: 2026-08-28 01:35\nPlanlagt strømstans",
       "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-outage-7",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 167,
-    "lat": 59.18102991007471,
-    "lng": 5.941519609990718,
-    "start": "28.8.2026, 15:21:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 167",
-      "description": "Driftsforstyrrelse\nStartet: 2026-08-28 15:21\n17:10 Et lite område på Fogn er også uten strøm.\n16:50 Området Bokn - Byre har fått strømmen tilbake. Feilsøking pågår på Halsnøy.\n16:15 Montører jobber med å lokalisere feilen. Strømmen kan komme og gå i forbindelse med seksjonering.\n15:21 Fogn har fått strømmen tilbake. Montører er på vei for feilsøking i resterende område. Det forventes at feilsøking kan ta tid. Båt til montørene er rekvirert.",
-      "styleUrl": "#red"
     }
   },
   {
