@@ -23,25 +23,6 @@
     }
   },
   {
-    "id": "fagne-4621864",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 1108,
-    "lat": 59.63911163278199,
-    "lng": 5.7449890329378075,
-    "start": null,
-    "end": null,
-    "areaName": "VINDAFJORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "VINDAFJORD",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-planned-3397956",
     "company": "Linja",
     "type": "planned",
