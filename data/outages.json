@@ -982,33 +982,5 @@
       "STROMSTANSID": "V-2910-1",
       "description": ""
     }
-  },
-  {
-    "id": "norgesnett-outage-V-70942-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 2,
-    "lat": 59.74096503499999,
-    "lng": 10.84593485900001,
-    "start": "29.8.2026, 08:52:23",
-    "end": null,
-    "areaName": "DRØMTORP",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219260,
-      "REFNR": "H70942",
-      "SEKUNDÆRSTASJON": "DRØMTORP",
-      "AVGANG": "L12",
-      "CNT": 2,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\n RAMSTAD, ",
-      "FRA_DATO": 1787993543000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70942-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nBerørte områder: \n\n RAMSTAD,"
-    }
   }
 ]
