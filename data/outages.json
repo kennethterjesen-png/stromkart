@@ -1,5 +1,97 @@
 [
   {
+    "id": "elvia-1381",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.90137142259476,
+    "lng": 10.497637759441641,
+    "start": "31.8.2026, 13:00:00",
+    "end": "31.8.2026, 19:00:00",
+    "areaName": "Bærum / Gjettum / B0900",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 1381,
+      "antallkunder": 3,
+      "avbruddstype": "Planned",
+      "kommune": "Bærum",
+      "nettstasjon": "B0900",
+      "poststed": "Gjettum",
+      "strombruddoppdaget": 1788098692815,
+      "utkoblingslutt": 1788202800000,
+      "utkoblingstart": 1788181200000
+    }
+  },
+  {
+    "id": "elvia-5093",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.54600079473587,
+    "lng": 11.421769122114089,
+    "start": "30.8.2026, 14:20:29",
+    "end": "30.8.2026, 18:05:29",
+    "areaName": "Indre Østfold / Hærland / W2195",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5093,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2195",
+      "poststed": "Hærland",
+      "strombruddoppdaget": 1788099629955,
+      "utkoblingslutt": 1788113129000,
+      "utkoblingstart": 1788099629955
+    }
+  },
+  {
+    "id": "elvia-15718",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 60.87115485182145,
+    "lng": 10.824036205777043,
+    "start": "30.8.2026, 12:54:42",
+    "end": "30.8.2026, 16:30:42",
+    "areaName": "Ringsaker / Brumunddal / ENS05268",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 15718,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ringsaker",
+      "nettstasjon": "ENS05268",
+      "poststed": "Brumunddal",
+      "strombruddoppdaget": 1788094482000,
+      "utkoblingslutt": 1788107442000,
+      "utkoblingstart": 1788094482000
+    }
+  },
+  {
+    "id": "elvia-27127",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.544692387823915,
+    "lng": 11.422418634999211,
+    "start": "30.8.2026, 14:20:29",
+    "end": "30.8.2026, 18:05:29",
+    "areaName": "Indre Østfold / Hærland / W2194",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27127,
+      "antallkunder": 3,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "W2194",
+      "poststed": "Hærland",
+      "strombruddoppdaget": 1788099629955,
+      "utkoblingslutt": 1788113129000,
+      "utkoblingstart": 1788099629955
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
