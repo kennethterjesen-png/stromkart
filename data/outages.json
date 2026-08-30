@@ -23,6 +23,75 @@
     }
   },
   {
+    "id": "elvia-27415",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.31100464980385,
+    "lng": 11.23845851736844,
+    "start": "30.8.2026, 19:00:00",
+    "end": "31.8.2026, 00:00:00",
+    "areaName": "Sarpsborg / Ise / X0220",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27415,
+      "antallkunder": 7,
+      "avbruddstype": "Planned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0220",
+      "poststed": "Ise",
+      "strombruddoppdaget": 1788116471684,
+      "utkoblingslutt": 1788134400000,
+      "utkoblingstart": 1788116400000
+    }
+  },
+  {
+    "id": "elvia-27422",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.309670926863724,
+    "lng": 11.23145537736422,
+    "start": "30.8.2026, 19:00:00",
+    "end": "31.8.2026, 00:00:00",
+    "areaName": "Sarpsborg / Ise / X0231",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27422,
+      "antallkunder": 8,
+      "avbruddstype": "Planned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0231",
+      "poststed": "Ise",
+      "strombruddoppdaget": 1788116471684,
+      "utkoblingslutt": 1788134400000,
+      "utkoblingstart": 1788116400000
+    }
+  },
+  {
+    "id": "elvia-27432",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.30566581788766,
+    "lng": 11.234590265425263,
+    "start": "30.8.2026, 19:00:00",
+    "end": "31.8.2026, 00:00:00",
+    "areaName": "Sarpsborg / Ise / X0244",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27432,
+      "antallkunder": 4,
+      "avbruddstype": "Planned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0244",
+      "poststed": "Ise",
+      "strombruddoppdaget": 1788116471684,
+      "utkoblingslutt": 1788134400000,
+      "utkoblingstart": 1788116400000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -571,6 +640,62 @@
       "MUNICIPAL_TXT": "SANDE",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70947-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 132,
+    "lat": 60.459783844000015,
+    "lng": 5.23033273599998,
+    "start": "3.9.2026, 06:00:07",
+    "end": "3.9.2026, 09:30:07",
+    "areaName": "RAVNANGER",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219666,
+      "REFNR": "P70947",
+      "SEKUNDÆRSTASJON": "RAVNANGER",
+      "AVGANG": "ÅSEBØ",
+      "CNT": 132,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788415207000,
+      "TIL_DATO": 1788427807000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70947-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70950-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 98,
+    "lat": 59.211448202999975,
+    "lng": 10.939979603999973,
+    "start": "10.9.2026, 17:00:53",
+    "end": "10.9.2026, 21:59:53",
+    "areaName": "BROGATA",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219667,
+      "REFNR": "P70950",
+      "SEKUNDÆRSTASJON": "BROGATA",
+      "AVGANG": "H1081",
+      "CNT": 98,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1789059653000,
+      "TIL_DATO": 1789077593000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70950-1",
+      "description": ""
     }
   },
   {
