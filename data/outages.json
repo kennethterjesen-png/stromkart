@@ -1,74 +1,5 @@
 [
   {
-    "id": "elvia-8425",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.94923049234914,
-    "lng": 10.785033651470272,
-    "start": "31.8.2026, 07:44:52",
-    "end": "31.8.2026, 11:20:52",
-    "areaName": "Oslo / Oslo / 4133",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8425,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "4133",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1788162292000,
-      "utkoblingslutt": 1788175252000,
-      "utkoblingstart": 1788162292000
-    }
-  },
-  {
-    "id": "elvia-9527",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.90819723841595,
-    "lng": 10.5736838396976,
-    "start": "31.8.2026, 14:33:17",
-    "end": "31.8.2026, 18:09:17",
-    "areaName": "Bærum / Bekkestua / B0054",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9527,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0054",
-      "poststed": "Bekkestua",
-      "strombruddoppdaget": 1788186797000,
-      "utkoblingslutt": 1788199757000,
-      "utkoblingstart": 1788186797000
-    }
-  },
-  {
-    "id": "elvia-12447",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 45,
-    "lat": 60.79521863487089,
-    "lng": 11.04259755093269,
-    "start": "31.8.2026, 14:23:04",
-    "end": "31.8.2026, 17:59:04",
-    "areaName": "Hamar / Hamar / ENS00405",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12447,
-      "antallkunder": 45,
-      "avbruddstype": "Unplanned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS00405",
-      "poststed": "Hamar",
-      "strombruddoppdaget": 1788186184000,
-      "utkoblingslutt": 1788199144000,
-      "utkoblingstart": 1788186184000
-    }
-  },
-  {
     "id": "elvia-17192",
     "company": "Elvia",
     "type": "planned",
@@ -89,29 +20,6 @@
       "strombruddoppdaget": 1788163437000,
       "utkoblingslutt": 1788176397000,
       "utkoblingstart": 1788163437000
-    }
-  },
-  {
-    "id": "elvia-22290",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 59.356135045031635,
-    "lng": 10.834927498128097,
-    "start": "31.8.2026, 09:09:05",
-    "end": "31.8.2026, 12:45:05",
-    "areaName": "Råde / Råde / J0151",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22290,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Råde",
-      "nettstasjon": "J0151",
-      "poststed": "Råde",
-      "strombruddoppdaget": 1788167345000,
-      "utkoblingslutt": 1788180305000,
-      "utkoblingstart": 1788167345000
     }
   },
   {
@@ -161,29 +69,6 @@
     }
   },
   {
-    "id": "elvia-28648",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.32421376002387,
-    "lng": 10.695075824031058,
-    "start": "31.8.2026, 14:16:31",
-    "end": "31.8.2026, 17:52:31",
-    "areaName": "Moss / Larkollen / Y0277",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28648,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y0277",
-      "poststed": "Larkollen",
-      "strombruddoppdaget": 1788185791000,
-      "utkoblingslutt": 1788198751000,
-      "utkoblingstart": 1788185791000
-    }
-  },
-  {
     "id": "elvia-29567",
     "company": "Elvia",
     "type": "planned",
@@ -210,24 +95,24 @@
     "id": "linja-outage-3404909",
     "company": "Linja",
     "type": "outage",
-    "customers": 1,
-    "lat": 62.59882564869504,
-    "lng": 6.387531893077139,
+    "customers": 562,
+    "lat": 62.281609279382614,
+    "lng": 5.608453121786052,
     "start": "31.8.2026, 07:58:00",
     "end": null,
     "areaName": "SANDE / Linja Midt",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
       "EVENTID": 3404909,
-      "CUSTOMER_WEB_TEXT": "Feil i område Gjersvik. Feilsøking pågår.\r\n11:05 Feil funnet, forventet rettetid ca 30 minutter \r\n11:24 Ny feil har opstått, feilsøking fortsetter ",
+      "CUSTOMER_WEB_TEXT": "Feil i område Gjersvik. Feilsøking pågår.\r\n11:05 Feil funnet, forventet rettetid ca 30 minutter \r\n11:24 Ny feil har opstått, feilsøking fortsetter \r\n22:00 Feil kom tilbake. Montør er på vei. Forventet å koble alle kunder inn før kl. 2300",
       "STATE_TXT": "Pågående",
       "STARTTIME": 1788163080000,
       "TYPE_TXT": "Driftsforstyrrelse",
       "FLAG": 144,
       "MUNICIPAL_TXT": "SANDE",
       "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 1,
-      "NUM_AB": 1
+      "NUM_NS": 40,
+      "NUM_AB": 562
     }
   },
   {
