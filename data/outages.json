@@ -92,30 +92,6 @@
     }
   },
   {
-    "id": "linja-outage-3404909",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 1,
-    "lat": 62.59882564869504,
-    "lng": 6.387531893077139,
-    "start": "31.8.2026, 07:58:00",
-    "end": null,
-    "areaName": "SANDE / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3404909,
-      "CUSTOMER_WEB_TEXT": "Feil i område Gjersvik. Feilsøking pågår.\r\n11:05 Feil funnet, forventet rettetid ca 30 minutter \r\n11:24 Ny feil har opstått, feilsøking fortsetter \r\n22:00 Feil kom tilbake når  G1 la se inn på nett..Bryte mot Hide og  0895  mot Gjerdvika ut. Gjerdsvika går på seperat nett og det er 0v mellom L1-N. Montør er på vei. Forventet å koble alle kunder inn før kl. 2300\r\n22:50 Får stoppet G1 lokalt. Alle fasespenninger ok.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1788163080000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "SANDE",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 1,
-      "NUM_AB": 1
-    }
-  },
-  {
     "id": "linja-planned-3371805",
     "company": "Linja",
     "type": "planned",
@@ -260,54 +236,6 @@
     }
   },
   {
-    "id": "linja-planned-3398368",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.44144916876826,
-    "lng": 6.2077362734864,
-    "start": "1.9.2026, 07:00:00",
-    "end": null,
-    "areaName": "SULA / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3398368,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hølevegen tirsdag 1.september fra kl. 09:00 til 14:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1788246000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "SULA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3400844",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.01461216771219,
-    "lng": 6.76720199593768,
-    "start": "1.9.2026, 07:00:00",
-    "end": null,
-    "areaName": "STRANDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3400844,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Røyrhusvegen tirsdag 1.september fra kl. 09:00 til 14:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1788246000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3398188",
     "company": "Linja",
     "type": "planned",
@@ -351,30 +279,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Nordvestnett",
       "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3403269",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.59131655021017,
-    "lng": 5.453303422074677,
-    "start": "1.9.2026, 07:00:00",
-    "end": null,
-    "areaName": "KINN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3403269,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hamnavegen, Hogavegen og Hovlandsvegen tirsdag 1.september fra kl. 09:00 til 14:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1788246000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "KINN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -591,30 +495,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "HERØY",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3371725",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.215555167473305,
-    "lng": 6.030251820898659,
-    "start": "1.9.2026, 07:00:00",
-    "end": null,
-    "areaName": "ØRSTA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3371725,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Opsal tirsdag 01. september fra kl. 0900 til 1500.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1788246000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "ØRSTA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
