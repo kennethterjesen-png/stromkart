@@ -95,24 +95,24 @@
     "id": "linja-outage-3404909",
     "company": "Linja",
     "type": "outage",
-    "customers": 562,
-    "lat": 62.281609279382614,
-    "lng": 5.608453121786052,
+    "customers": 1,
+    "lat": 62.59882564869504,
+    "lng": 6.387531893077139,
     "start": "31.8.2026, 07:58:00",
     "end": null,
     "areaName": "SANDE / Linja Midt",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
       "EVENTID": 3404909,
-      "CUSTOMER_WEB_TEXT": "Feil i område Gjersvik. Feilsøking pågår.\r\n11:05 Feil funnet, forventet rettetid ca 30 minutter \r\n11:24 Ny feil har opstått, feilsøking fortsetter \r\n22:00 Feil kom tilbake. Montør er på vei. Forventet å koble alle kunder inn før kl. 2300",
+      "CUSTOMER_WEB_TEXT": "Feil i område Gjersvik. Feilsøking pågår.\r\n11:05 Feil funnet, forventet rettetid ca 30 minutter \r\n11:24 Ny feil har opstått, feilsøking fortsetter \r\n22:00 Feil kom tilbake når  G1 la se inn på nett..Bryte mot Hide og  0895  mot Gjerdvika ut. Gjerdsvika går på seperat nett og det er 0v mellom L1-N. Montør er på vei. Forventet å koble alle kunder inn før kl. 2300\r\n22:50 Får stoppet G1 lokalt. Alle fasespenninger ok.",
       "STATE_TXT": "Pågående",
       "STARTTIME": 1788163080000,
       "TYPE_TXT": "Driftsforstyrrelse",
       "FLAG": 144,
       "MUNICIPAL_TXT": "SANDE",
       "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 40,
-      "NUM_AB": 562
+      "NUM_NS": 1,
+      "NUM_AB": 1
     }
   },
   {
