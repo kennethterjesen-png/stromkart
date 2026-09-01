@@ -55,26 +55,26 @@
     }
   },
   {
-    "id": "elvia-18254",
+    "id": "elvia-8123",
     "company": "Elvia",
     "type": "planned",
-    "customers": 7,
-    "lat": 60.07865388672584,
-    "lng": 12.164074614004404,
-    "start": "1.9.2026, 16:36:46",
-    "end": "1.9.2026, 20:12:46",
-    "areaName": "Eidskog / Åbogen / ENS09254",
+    "customers": 2,
+    "lat": 59.92373449301135,
+    "lng": 10.864332166526408,
+    "start": "1.9.2026, 19:00:00",
+    "end": "2.9.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 3613",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 18254,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidskog",
-      "nettstasjon": "ENS09254",
-      "poststed": "Åbogen",
-      "strombruddoppdaget": 1788280606000,
-      "utkoblingslutt": 1788293566000,
-      "utkoblingstart": 1788280606000
+      "OBJECTID": 8123,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "3613",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1787252801311,
+      "utkoblingslutt": 1788321600000,
+      "utkoblingstart": 1788289200000
     }
   },
   {
