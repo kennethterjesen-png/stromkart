@@ -55,6 +55,29 @@
     }
   },
   {
+    "id": "elvia-18254",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 60.07865388672584,
+    "lng": 12.164074614004404,
+    "start": "1.9.2026, 16:36:46",
+    "end": "1.9.2026, 20:12:46",
+    "areaName": "Eidskog / Åbogen / ENS09254",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 18254,
+      "antallkunder": 7,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidskog",
+      "nettstasjon": "ENS09254",
+      "poststed": "Åbogen",
+      "strombruddoppdaget": 1788280606000,
+      "utkoblingslutt": 1788293566000,
+      "utkoblingstart": 1788280606000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -971,34 +994,6 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2910-1",
       "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70966-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 8,
-    "lat": 59.763346034999984,
-    "lng": 11.142495423000014,
-    "start": "1.9.2026, 08:34:35",
-    "end": null,
-    "areaName": "ENEBAKK",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219700,
-      "REFNR": "H70966",
-      "SEKUNDÆRSTASJON": "ENEBAKK",
-      "AVGANG": "L1",
-      "CNT": 8,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet grunnet en graveskade. Mannskaper er på stedet og jobber med reparasjon av skadene. Estimert tidspunkt for innkobling er satt til klokken 22:30.\n \nBerørte områder: \n\nPRESTEGÅRDSV.7, KROKENG II.",
-      "FRA_DATO": 1788251675000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70966-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet grunnet en graveskade. Mannskaper er på stedet og jobber med reparasjon av skadene. Estimert tidspunkt for innkobling er satt til klokken 22:30.\n \nBerørte områder: \n\nPRESTEGÅRDSV.7, KROKENG II."
     }
   }
 ]
