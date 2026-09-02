@@ -55,6 +55,75 @@
     }
   },
   {
+    "id": "elvia-2210",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 60.66562507547084,
+    "lng": 10.677034835334295,
+    "start": "2.9.2026, 21:00:00",
+    "end": "3.9.2026, 01:00:00",
+    "areaName": "Vestre Toten / Bøverbru / ENS02207",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 2210,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Vestre Toten",
+      "nettstasjon": "ENS02207",
+      "poststed": "Bøverbru",
+      "strombruddoppdaget": 1788383122854,
+      "utkoblingslutt": 1788397200000,
+      "utkoblingstart": 1788382800000
+    }
+  },
+  {
+    "id": "elvia-4552",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.94807096975382,
+    "lng": 11.008870571226762,
+    "start": "2.9.2026, 21:55:00",
+    "end": "3.9.2026, 01:00:00",
+    "areaName": "Lillestrøm / Strømmen / S0277",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 4552,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "S0277",
+      "poststed": "Strømmen",
+      "strombruddoppdaget": 1788386451429,
+      "utkoblingslutt": 1788397200000,
+      "utkoblingstart": 1788386100000
+    }
+  },
+  {
+    "id": "elvia-13641",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 47,
+    "lat": 60.666538433321776,
+    "lng": 10.682546823293219,
+    "start": "2.9.2026, 21:00:00",
+    "end": "3.9.2026, 01:00:00",
+    "areaName": "Vestre Toten / Bøverbru / ENS02202",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 13641,
+      "antallkunder": 47,
+      "avbruddstype": "Planned",
+      "kommune": "Vestre Toten",
+      "nettstasjon": "ENS02202",
+      "poststed": "Bøverbru",
+      "strombruddoppdaget": 1788383122854,
+      "utkoblingslutt": 1788397200000,
+      "utkoblingstart": 1788382800000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -614,6 +683,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2919-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70959-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 83,
+    "lat": 59.77582654899999,
+    "lng": 10.496903648,
+    "start": "8.9.2026, 06:30:11",
+    "end": "8.9.2026, 12:00:11",
+    "areaName": "BØDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219719,
+      "REFNR": "P70959",
+      "SEKUNDÆRSTASJON": "BØDALEN",
+      "AVGANG": "K9_R365",
+      "CNT": 83,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788849011000,
+      "TIL_DATO": 1788868811000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70959-1",
       "description": ""
     }
   },
