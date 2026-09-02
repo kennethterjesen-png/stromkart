@@ -55,75 +55,6 @@
     }
   },
   {
-    "id": "elvia-14240",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 61.166616671159204,
-    "lng": 10.401687532353055,
-    "start": "2.9.2026, 13:56:54",
-    "end": "2.9.2026, 17:32:54",
-    "areaName": "Lillehammer / Fåberg / ENS03044",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14240,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03044",
-      "poststed": "Fåberg",
-      "strombruddoppdaget": 1788357414000,
-      "utkoblingslutt": 1788370374000,
-      "utkoblingstart": 1788357414000
-    }
-  },
-  {
-    "id": "elvia-23351",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.13463112768304,
-    "lng": 11.530141816796235,
-    "start": "2.9.2026, 13:56:54",
-    "end": "2.9.2026, 17:32:54",
-    "areaName": "Nes / Årnes / N2015",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23351,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N2015",
-      "poststed": "Årnes",
-      "strombruddoppdaget": 1788357414000,
-      "utkoblingslutt": 1788370374000,
-      "utkoblingstart": 1788357414000
-    }
-  },
-  {
-    "id": "elvia-25405",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 22,
-    "lat": 60.01383830257064,
-    "lng": 10.981318133078402,
-    "start": "2.9.2026, 12:40:04",
-    "end": "2.9.2026, 16:16:04",
-    "areaName": "Lillestrøm / Slattum / S0768",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25405,
-      "antallkunder": 22,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0768",
-      "poststed": "Slattum",
-      "strombruddoppdaget": 1788352804000,
-      "utkoblingslutt": 1788365764000,
-      "utkoblingstart": 1788352804000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -683,6 +614,34 @@
     }
   },
   {
+    "id": "norgesnett-planned-V-2919-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 11,
+    "lat": 59.77242881900003,
+    "lng": 11.123664603999998,
+    "start": "11.9.2026, 06:30:00",
+    "end": "11.9.2026, 09:00:00",
+    "areaName": "ENEBAKK",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219718,
+      "REFNR": "PL2919",
+      "SEKUNDÆRSTASJON": "ENEBAKK",
+      "AVGANG": "L1",
+      "CNT": 11,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1789108200000,
+      "TIL_DATO": 1789117200000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2919-1",
+      "description": ""
+    }
+  },
+  {
     "id": "norgesnett-planned-V-2916-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -820,34 +779,6 @@
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70929-1",
       "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70972-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 50,
-    "lat": 59.749543362,
-    "lng": 10.511253726999996,
-    "start": "2.9.2026, 13:10:00",
-    "end": null,
-    "areaName": "BØDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219717,
-      "REFNR": "H70972",
-      "SEKUNDÆRSTASJON": "BØDALEN",
-      "AVGANG": "K9_R365",
-      "CNT": 50,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Mannskaper er på stedet og feilsøking pågår.\n \nBerørte områder: \n\nSVABERG, RAMTON STRAND.",
-      "FRA_DATO": 1788354600000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Høyspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70972-1",
-      "description": "Glitre Nett har for tiden feil i strømnettet. Mannskaper er på stedet og feilsøking pågår.\n \nBerørte områder: \n\nSVABERG, RAMTON STRAND."
     }
   }
 ]
