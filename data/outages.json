@@ -438,30 +438,6 @@
     }
   },
   {
-    "id": "linja-planned-3400508",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.769738158611126,
-    "lng": 6.232510606929273,
-    "start": "2.9.2026, 20:10:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3400508,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Kleivedammen onsdag 2.september fra kl. 22:10 til 23:40.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1788379800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3397956",
     "company": "Linja",
     "type": "planned",
