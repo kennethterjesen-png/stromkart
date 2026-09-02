@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-5569",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.58320340931392,
-    "lng": 11.215453796852817,
-    "start": "1.9.2026, 22:00:00",
-    "end": "2.9.2026, 04:00:00",
-    "areaName": "Indre Østfold / Askim / Z1170",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5569,
-      "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1170",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1788301095569,
-      "utkoblingslutt": 1788321600000,
-      "utkoblingstart": 1788300000000
-    }
-  },
-  {
     "id": "elvia-7657",
     "company": "Elvia",
     "type": "planned",
@@ -92,52 +69,6 @@
     }
   },
   {
-    "id": "elvia-27287",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.575816598552684,
-    "lng": 11.238376972900133,
-    "start": "1.9.2026, 22:00:00",
-    "end": "2.9.2026, 04:00:00",
-    "areaName": "Indre Østfold / Slitu / W2387",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27287,
-      "antallkunder": 4,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "W2387",
-      "poststed": "Slitu",
-      "strombruddoppdaget": 1788301095569,
-      "utkoblingslutt": 1788321600000,
-      "utkoblingstart": 1788300000000
-    }
-  },
-  {
-    "id": "elvia-27288",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.56595727445645,
-    "lng": 11.227742619406603,
-    "start": "1.9.2026, 22:00:00",
-    "end": "2.9.2026, 04:00:00",
-    "areaName": "Indre Østfold / Askim / W2388",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27288,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "W2388",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1788301095569,
-      "utkoblingslutt": 1788321600000,
-      "utkoblingstart": 1788300000000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -158,75 +89,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "elvia-29358",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.573043382675735,
-    "lng": 11.223678676558695,
-    "start": "1.9.2026, 22:00:00",
-    "end": "2.9.2026, 04:00:00",
-    "areaName": "Indre Østfold / Askim / Z1171",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29358,
-      "antallkunder": 12,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1171",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1788301095569,
-      "utkoblingslutt": 1788321600000,
-      "utkoblingstart": 1788300000000
-    }
-  },
-  {
-    "id": "elvia-29359",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.58342802636628,
-    "lng": 11.22626388709323,
-    "start": "1.9.2026, 22:00:00",
-    "end": "2.9.2026, 04:00:00",
-    "areaName": "Indre Østfold / Askim / Z1172",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29359,
-      "antallkunder": 8,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1172",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1788301095569,
-      "utkoblingslutt": 1788321600000,
-      "utkoblingstart": 1788300000000
-    }
-  },
-  {
-    "id": "elvia-29360",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.577467815726074,
-    "lng": 11.1996039344053,
-    "start": "1.9.2026, 22:00:00",
-    "end": "2.9.2026, 04:00:00",
-    "areaName": "Indre Østfold / Askim / Z1174",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29360,
-      "antallkunder": 3,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1174",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1788301095569,
-      "utkoblingslutt": 1788321600000,
-      "utkoblingstart": 1788300000000
     }
   },
   {
