@@ -4,6 +4,38 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
+    "lat": 60.37673727610657,
+    "lng": 5.2697768815008015,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9897063,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1788467400000,
+      "TIMELIMIT": 1788487200000,
+      "NUM_AB": 87,
+      "CUSTOMER_WEB_TEXT": "5164 LAKSEVÅG; NIPEDALEN,LYNGBØVEIEN,KVERNHUSVEIEN\r\n",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 1,
+      "LAST_UPDATED": 1788468177000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "bkk-1",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
     "lat": 60.43441643024144,
     "lng": 5.4653760190954985,
     "start": null,
@@ -22,7 +54,7 @@
       "GRIDLEVEL_TXT": "Høy",
       "REASON_TXT": null,
       "NUM_NS": 1,
-      "LAST_UPDATED": 1788462552000,
+      "LAST_UPDATED": 1788473619000,
       "SCHEDULED_SMS_DAYS_BEFORE": 3,
       "AFFECTED_AB_OUT": null,
       "NUM_NS_REGAINED": 0,
@@ -32,7 +64,7 @@
     }
   },
   {
-    "id": "bkk-1",
+    "id": "bkk-2",
     "company": "BKK",
     "type": "outage",
     "customers": 0,
@@ -64,7 +96,7 @@
     }
   },
   {
-    "id": "bkk-2",
+    "id": "bkk-3",
     "company": "BKK",
     "type": "outage",
     "customers": 0,
@@ -96,6 +128,75 @@
     }
   },
   {
+    "id": "elvia-327",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 3,
+    "lat": 59.95248520009889,
+    "lng": 10.770263107193069,
+    "start": "2.9.2026, 06:00:00",
+    "end": "4.9.2026, 03:00:00",
+    "areaName": "Oslo / Oslo / 1517",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 327,
+      "antallkunder": 3,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1517",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1788465979575,
+      "utkoblingslutt": 1788490800000,
+      "utkoblingstart": 1788328800000
+    }
+  },
+  {
+    "id": "elvia-425",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 25,
+    "lat": 59.90660278891555,
+    "lng": 10.795713123276588,
+    "start": "3.9.2026, 22:01:00",
+    "end": "4.9.2026, 01:00:00",
+    "areaName": "Oslo / Oslo / 2018",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 425,
+      "antallkunder": 25,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2018",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1788483600000,
+      "utkoblingstart": 1788472860000
+    }
+  },
+  {
+    "id": "elvia-446",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 156,
+    "lat": 59.91305173709734,
+    "lng": 10.76797875667207,
+    "start": "3.9.2026, 22:01:00",
+    "end": "4.9.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 2108",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 446,
+      "antallkunder": 156,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2108",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1788214118000,
+      "utkoblingslutt": 1788494400000,
+      "utkoblingstart": 1788472860000
+    }
+  },
+  {
     "id": "elvia-537",
     "company": "Elvia",
     "type": "planned",
@@ -119,26 +220,95 @@
     }
   },
   {
-    "id": "elvia-2283",
+    "id": "elvia-5676",
     "company": "Elvia",
     "type": "planned",
-    "customers": 2,
-    "lat": 61.116583915493585,
-    "lng": 10.467117411144159,
-    "start": "3.9.2026, 15:00:00",
-    "end": "3.9.2026, 21:00:00",
-    "areaName": "Lillehammer / Lillehammer / ENS02869",
+    "customers": 52,
+    "lat": 59.90450374413688,
+    "lng": 10.689574107841507,
+    "start": "3.9.2026, 22:05:00",
+    "end": "4.9.2026, 04:30:00",
+    "areaName": "Oslo / Oslo / 0009",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 2283,
-      "antallkunder": 2,
+      "OBJECTID": 5676,
+      "antallkunder": 52,
       "avbruddstype": "Planned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS02869",
-      "poststed": "Lillehammer",
+      "kommune": "Oslo",
+      "nettstasjon": "0009",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1788473274998,
+      "utkoblingslutt": 1788496200000,
+      "utkoblingstart": 1788473100000
+    }
+  },
+  {
+    "id": "elvia-6388",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 16,
+    "lat": 59.91247988198644,
+    "lng": 10.710967473003494,
+    "start": "3.9.2026, 22:01:00",
+    "end": "4.9.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 1039",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6388,
+      "antallkunder": 16,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1039",
+      "poststed": "Oslo",
       "strombruddoppdaget": null,
-      "utkoblingslutt": 1788469200000,
-      "utkoblingstart": 1788447600000
+      "utkoblingslutt": 1788494400000,
+      "utkoblingstart": 1788472860000
+    }
+  },
+  {
+    "id": "elvia-6759",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 403,
+    "lat": 59.92450476917708,
+    "lng": 10.776993957739169,
+    "start": "3.9.2026, 22:05:00",
+    "end": "4.9.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 1602",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6759,
+      "antallkunder": 403,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1602",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1788473145638,
+      "utkoblingslutt": 1788494400000,
+      "utkoblingstart": 1788473100000
+    }
+  },
+  {
+    "id": "elvia-8070",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 300,
+    "lat": 59.92636244669732,
+    "lng": 10.72989907819739,
+    "start": "3.9.2026, 22:05:00",
+    "end": "4.9.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 3524",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8070,
+      "antallkunder": 300,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "3524",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1788473172429,
+      "utkoblingslutt": 1788494400000,
+      "utkoblingstart": 1788473100000
     }
   },
   {
@@ -165,6 +335,29 @@
     }
   },
   {
+    "id": "elvia-24048",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 146,
+    "lat": 59.66408447241141,
+    "lng": 10.63194414012957,
+    "start": "3.9.2026, 22:01:00",
+    "end": "4.9.2026, 03:00:00",
+    "areaName": "Frogn / Drøbak / P0167",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24048,
+      "antallkunder": 146,
+      "avbruddstype": "Planned",
+      "kommune": "Frogn",
+      "nettstasjon": "P0167",
+      "poststed": "Drøbak",
+      "strombruddoppdaget": 1788472915800,
+      "utkoblingslutt": 1788490800000,
+      "utkoblingstart": 1788472860000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -185,6 +378,30 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "linja-outage-3397956",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 84,
+    "lat": 62.50274256066333,
+    "lng": 6.05883962857454,
+    "start": "3.9.2026, 21:00:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3397956,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Giskegjerde, Reinebakk og Giske Vest torsdag 3.september fra kl. 23:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1788469200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GISKE",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 3,
+      "NUM_AB": 84
     }
   },
   {
@@ -572,6 +789,23 @@
     }
   },
   {
+    "id": "lnett-planned-5",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 8,
+    "lat": 59.217918089930656,
+    "lng": 6.1013745097419845,
+    "start": "3.9.2026, 23:02:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 8",
+      "description": "Planlagt strømstans\nStartet: 2026-09-03 23:02\nPlanlagt ferdig: 2026-09-04 05:00",
+      "styleUrl": "#yellow"
+    }
+  },
+  {
     "id": "norgesnett-planned-V-70961-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -680,34 +914,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70960-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-planned-V-2921-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 7,
-    "lat": 59.21040974499999,
-    "lng": 10.944170516999975,
-    "start": "3.9.2026, 22:15:00",
-    "end": "4.9.2026, 03:00:00",
-    "areaName": "GAMLEBYEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219733,
-      "REFNR": "PL2921",
-      "SEKUNDÆRSTASJON": "GAMLEBYEN",
-      "AVGANG": "H1049",
-      "CNT": 7,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1788473700000,
-      "TIL_DATO": 1788490800000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2921-1",
       "description": ""
     }
   },
@@ -908,34 +1114,6 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-2913-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 80,
-    "lat": 59.230018270000016,
-    "lng": 10.965810879999992,
-    "start": "3.9.2026, 22:00:00",
-    "end": "4.9.2026, 02:00:00",
-    "areaName": "OREDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219256,
-      "REFNR": "PL2913",
-      "SEKUNDÆRSTASJON": "OREDALEN",
-      "AVGANG": "H5794",
-      "CNT": 80,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1788472800000,
-      "TIL_DATO": 1788487200000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-2913-1",
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2918-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -988,6 +1166,62 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-70929-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-2921-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 7,
+    "lat": 59.21040974499999,
+    "lng": 10.944170516999975,
+    "start": "3.9.2026, 22:15:08",
+    "end": "4.9.2026, 03:00:00",
+    "areaName": "GAMLEBYEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219733,
+      "REFNR": "PL2921",
+      "SEKUNDÆRSTASJON": "GAMLEBYEN",
+      "AVGANG": "H1049",
+      "CNT": 7,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788473708000,
+      "TIL_DATO": 1788490800000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2921-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-2913-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 80,
+    "lat": 59.230018270000016,
+    "lng": 10.965810879999992,
+    "start": "3.9.2026, 22:00:40",
+    "end": "4.9.2026, 02:00:00",
+    "areaName": "OREDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219256,
+      "REFNR": "PL2913",
+      "SEKUNDÆRSTASJON": "OREDALEN",
+      "AVGANG": "H5794",
+      "CNT": 80,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1788472840000,
+      "TIL_DATO": 1788487200000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2913-1",
       "description": ""
     }
   }
