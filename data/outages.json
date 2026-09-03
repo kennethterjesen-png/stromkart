@@ -4,6 +4,38 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
+    "lat": 60.43441643024144,
+    "lng": 5.4653760190954985,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9882872,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1788462000000,
+      "TIMELIMIT": 1788494400000,
+      "NUM_AB": 77,
+      "CUSTOMER_WEB_TEXT": "5260 INDRE ARNA; HØGATUN,SEIMSHEIA,SEIMSKLEIVA\r\n5264 GARNES; ØVRE SEIMSMARK,GARNESVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 1,
+      "LAST_UPDATED": 1788462552000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "bkk-1",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
     "lat": 61.10450557330785,
     "lng": 5.506687235030072,
     "start": null,
@@ -32,7 +64,7 @@
     }
   },
   {
-    "id": "bkk-1",
+    "id": "bkk-2",
     "company": "BKK",
     "type": "outage",
     "customers": 0,
@@ -64,6 +96,29 @@
     }
   },
   {
+    "id": "elvia-537",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.93752183789229,
+    "lng": 10.718274112607862,
+    "start": "3.9.2026, 18:00:00",
+    "end": "4.9.2026, 02:00:00",
+    "areaName": "Oslo / Oslo / 2585",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 537,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2585",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1788459148756,
+      "utkoblingslutt": 1788487200000,
+      "utkoblingstart": 1788458400000
+    }
+  },
+  {
     "id": "elvia-2283",
     "company": "Elvia",
     "type": "planned",
@@ -87,6 +142,29 @@
     }
   },
   {
+    "id": "elvia-17137",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 60.17018476892508,
+    "lng": 12.019202578179579,
+    "start": "3.9.2026, 18:15:00",
+    "end": "4.9.2026, 03:00:00",
+    "areaName": "Kongsvinger / Kongsvinger / ENS07534",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17137,
+      "antallkunder": 9,
+      "avbruddstype": "Planned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS07534",
+      "poststed": "Kongsvinger",
+      "strombruddoppdaget": 1788459356924,
+      "utkoblingslutt": 1788490800000,
+      "utkoblingstart": 1788459300000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -107,29 +185,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "elvia-29791",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.66494439181862,
-    "lng": 11.35976424916376,
-    "start": "3.9.2026, 14:31:19",
-    "end": "3.9.2026, 17:52:19",
-    "areaName": "Indre Østfold / Trøgstad / Z3191",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29791,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z3191",
-      "poststed": "Trøgstad",
-      "strombruddoppdaget": 1788445879000,
-      "utkoblingslutt": 1788457939000,
-      "utkoblingstart": 1788445879000
     }
   },
   {
@@ -514,23 +569,6 @@
       "MUNICIPAL_TXT": "ØRSTA",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-outage-5",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 1645,
-    "lat": 58.86294523951843,
-    "lng": 5.735782603976992,
-    "start": "3.9.2026, 18:55:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 1645",
-      "description": "Driftsforstyrrelse\nStartet: 2026-09-03 18:55\nSeksjonering og for å isolere feil pågår.\n19:22 547 kunder har fått strømmen tilbake",
-      "styleUrl": "#red"
     }
   },
   {
