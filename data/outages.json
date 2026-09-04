@@ -64,29 +64,6 @@
     }
   },
   {
-    "id": "elvia-8774",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 21,
-    "lat": 59.92024295322955,
-    "lng": 10.721532342254836,
-    "start": "4.9.2026, 10:49:18",
-    "end": "4.9.2026, 14:25:18",
-    "areaName": "Oslo / Oslo / 4694",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8774,
-      "antallkunder": 21,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "4694",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1788518958000,
-      "utkoblingslutt": 1788531918000,
-      "utkoblingstart": 1788518958000
-    }
-  },
-  {
     "id": "elvia-12739",
     "company": "Elvia",
     "type": "planned",
@@ -110,49 +87,26 @@
     }
   },
   {
-    "id": "elvia-22815",
+    "id": "elvia-25471",
     "company": "Elvia",
     "type": "planned",
-    "customers": 11,
-    "lat": 59.93235797006838,
-    "lng": 11.028673175934088,
-    "start": "4.9.2026, 13:48:00",
-    "end": "4.9.2026, 17:24:00",
-    "areaName": "Lørenskog / Kurland / L0218",
+    "customers": 19,
+    "lat": 59.9731672274161,
+    "lng": 10.996980044319164,
+    "start": "4.9.2026, 18:53:06",
+    "end": "4.9.2026, 22:29:06",
+    "areaName": "Lillestrøm / Skjetten / S0853",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 22815,
-      "antallkunder": 11,
+      "OBJECTID": 25471,
+      "antallkunder": 19,
       "avbruddstype": "Unplanned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0218",
-      "poststed": "Kurland",
-      "strombruddoppdaget": 1788529680000,
-      "utkoblingslutt": 1788542640000,
-      "utkoblingstart": 1788529680000
-    }
-  },
-  {
-    "id": "elvia-23026",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 60.219779686075995,
-    "lng": 11.014235984978328,
-    "start": "4.9.2026, 15:02:24",
-    "end": "4.9.2026, 18:38:24",
-    "areaName": "Nannestad / Nannestad / M1116",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23026,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nannestad",
-      "nettstasjon": "M1116",
-      "poststed": "Nannestad",
-      "strombruddoppdaget": 1788534144000,
-      "utkoblingslutt": 1788547104000,
-      "utkoblingstart": 1788534144000
+      "kommune": "Lillestrøm",
+      "nettstasjon": "S0853",
+      "poststed": "Skjetten",
+      "strombruddoppdaget": 1788547986000,
+      "utkoblingslutt": 1788560946000,
+      "utkoblingstart": 1788547986000
     }
   },
   {
@@ -176,6 +130,25 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "fagne-4638024",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 11,
+    "lat": 59.3230491148127,
+    "lng": 5.448138968856325,
+    "start": "9.4.2026, 18:18:00",
+    "end": "9.4.2026, 21:30:00",
+    "areaName": "TYSVÆR",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "TYSVÆR",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
@@ -807,6 +780,34 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2922-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-70973-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 273,
+    "lat": 59.027480002000004,
+    "lng": 11.096936630000016,
+    "start": "16.9.2026, 07:00:30",
+    "end": "16.9.2026, 13:00:30",
+    "areaName": "RØD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219743,
+      "REFNR": "P70973",
+      "SEKUNDÆRSTASJON": "RØD",
+      "AVGANG": "H3000",
+      "CNT": 273,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1789542030000,
+      "TIL_DATO": 1789563630000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-70973-1",
       "description": ""
     }
   },
