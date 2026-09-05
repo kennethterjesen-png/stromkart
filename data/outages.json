@@ -87,52 +87,6 @@
     }
   },
   {
-    "id": "elvia-14560",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 54,
-    "lat": 61.10773501017845,
-    "lng": 10.462405556606619,
-    "start": "5.9.2026, 19:28:56",
-    "end": "5.9.2026, 23:04:56",
-    "areaName": "Lillehammer / Lillehammer / ENS03484",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14560,
-      "antallkunder": 54,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03484",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": 1788636536000,
-      "utkoblingslutt": 1788649496000,
-      "utkoblingstart": 1788636536000
-    }
-  },
-  {
-    "id": "elvia-16435",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 60.58948097250027,
-    "lng": 12.068667577908473,
-    "start": "5.9.2026, 18:46:03",
-    "end": "5.9.2026, 22:22:03",
-    "areaName": "Åsnes / Arneberg / ENS06532",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16435,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Åsnes",
-      "nettstasjon": "ENS06532",
-      "poststed": "Arneberg",
-      "strombruddoppdaget": 1788633963000,
-      "utkoblingslutt": 1788646923000,
-      "utkoblingstart": 1788633963000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
