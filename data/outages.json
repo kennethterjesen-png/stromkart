@@ -64,6 +64,52 @@
     }
   },
   {
+    "id": "elvia-6859",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.92834674790069,
+    "lng": 10.77186405799277,
+    "start": "5.9.2026, 11:02:17",
+    "end": "5.9.2026, 14:38:17",
+    "areaName": "Oslo / Oslo / 1759",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6859,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "1759",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1788606137000,
+      "utkoblingslutt": 1788619097000,
+      "utkoblingstart": 1788606137000
+    }
+  },
+  {
+    "id": "elvia-16811",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 60.41974492512481,
+    "lng": 12.415037472260959,
+    "start": "5.9.2026, 11:52:53",
+    "end": "5.9.2026, 15:28:53",
+    "areaName": "Grue / Grue finnskog / ENS07080",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 16811,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Grue",
+      "nettstasjon": "ENS07080",
+      "poststed": "Grue finnskog",
+      "strombruddoppdaget": 1788609173000,
+      "utkoblingslutt": 1788622133000,
+      "utkoblingstart": 1788609173000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -84,6 +130,25 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
+    }
+  },
+  {
+    "id": "fagne-4638664",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 1,
+    "lat": 59.31165571438349,
+    "lng": 4.880276964553,
+    "start": "9.5.2026, 11:50:00",
+    "end": "9.5.2026, 15:00:00",
+    "areaName": "UTSIRA",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "UTSIRA",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
