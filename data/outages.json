@@ -64,49 +64,26 @@
     }
   },
   {
-    "id": "elvia-6859",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.92834674790069,
-    "lng": 10.77186405799277,
-    "start": "5.9.2026, 11:02:17",
-    "end": "5.9.2026, 14:38:17",
-    "areaName": "Oslo / Oslo / 1759",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6859,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "1759",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1788606137000,
-      "utkoblingslutt": 1788619097000,
-      "utkoblingstart": 1788606137000
-    }
-  },
-  {
-    "id": "elvia-16811",
+    "id": "elvia-28115",
     "company": "Elvia",
     "type": "planned",
     "customers": 12,
-    "lat": 60.41974492512481,
-    "lng": 12.415037472260959,
-    "start": "5.9.2026, 11:52:53",
-    "end": "5.9.2026, 15:28:53",
-    "areaName": "Grue / Grue finnskog / ENS07080",
+    "lat": 59.203936277326136,
+    "lng": 10.893996999288834,
+    "start": "5.9.2026, 14:38:06",
+    "end": "5.9.2026, 18:14:06",
+    "areaName": "Fredrikstad / Gressvik / X2018",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 16811,
+      "OBJECTID": 28115,
       "antallkunder": 12,
       "avbruddstype": "Unplanned",
-      "kommune": "Grue",
-      "nettstasjon": "ENS07080",
-      "poststed": "Grue finnskog",
-      "strombruddoppdaget": 1788609173000,
-      "utkoblingslutt": 1788622133000,
-      "utkoblingstart": 1788609173000
+      "kommune": "Fredrikstad",
+      "nettstasjon": "X2018",
+      "poststed": "Gressvik",
+      "strombruddoppdaget": 1788619086000,
+      "utkoblingslutt": 1788632046000,
+      "utkoblingstart": 1788619086000
     }
   },
   {
@@ -149,6 +126,30 @@
       "municipal": "UTSIRA",
       "typeTxt": "Driftsforstyrrelse",
       "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "linja-outage-3412529",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 880,
+    "lat": 62.471782831295855,
+    "lng": 6.150473210930448,
+    "start": "5.9.2026, 15:30:00",
+    "end": null,
+    "areaName": "ÅLESUND / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3412529,
+      "CUSTOMER_WEB_TEXT": "Strømløst pga feil. Vi arbeidar med saka. Det er sendt ut personell. Rettetid uviss",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1788622200000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "ÅLESUND",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 11,
+      "NUM_AB": 880
     }
   },
   {
