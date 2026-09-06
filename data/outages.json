@@ -4,6 +4,38 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
+    "lat": 59.777196125551114,
+    "lng": 5.88826011593979,
+    "start": null,
+    "end": null,
+    "areaName": "Kvinnherad",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9910642,
+      "MUNICIPAL_TXT": "Kvinnherad",
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1788696120000,
+      "TIMELIMIT": 1788706800000,
+      "NUM_AB": 7,
+      "CUSTOMER_WEB_TEXT": "5453 UTÅKER; UTÅKERVEGEN,HOLMEDALSVEGEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 1,
+      "LAST_UPDATED": 1788701285000,
+      "SCHEDULED_SMS_DAYS_BEFORE": -1,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 53,
+      "NUM_AB_REGAINED": 556,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "bkk-1",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
     "lat": 61.10450557330785,
     "lng": 5.506687235030072,
     "start": null,
@@ -32,7 +64,7 @@
     }
   },
   {
-    "id": "bkk-1",
+    "id": "bkk-2",
     "company": "BKK",
     "type": "outage",
     "customers": 0,
@@ -61,6 +93,29 @@
       "NUM_AB_REGAINED": 0,
       "SCHEDULED_SMS_INHABITANT_TEXT": null,
       "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "elvia-6718",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 20,
+    "lat": 59.953169381443665,
+    "lng": 10.773496649446058,
+    "start": "6.9.2026, 10:42:03",
+    "end": "6.9.2026, 14:18:03",
+    "areaName": "Oslo / Oslo / 1539",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6718,
+      "antallkunder": 20,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "1539",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1788691323000,
+      "utkoblingslutt": 1788704283000,
+      "utkoblingstart": 1788691323000
     }
   },
   {
