@@ -64,6 +64,29 @@
     }
   },
   {
+    "id": "elvia-14560",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 54,
+    "lat": 61.10773501017845,
+    "lng": 10.462405556606619,
+    "start": "6.9.2026, 07:46:06",
+    "end": "6.9.2026, 11:22:06",
+    "areaName": "Lillehammer / Lillehammer / ENS03484",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 14560,
+      "antallkunder": 54,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillehammer",
+      "nettstasjon": "ENS03484",
+      "poststed": "Lillehammer",
+      "strombruddoppdaget": 1788680766000,
+      "utkoblingslutt": 1788693726000,
+      "utkoblingstart": 1788680766000
+    }
+  },
+  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
@@ -492,6 +515,23 @@
       "MUNICIPAL_TXT": "STRANDA",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-3",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 97,
+    "lat": 58.95999420982244,
+    "lng": 5.699733046070344,
+    "start": "6.9.2026, 09:15:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 97",
+      "description": "Planlagt strømstans\nStartet: 2026-09-06 09:15\nPlanlagt ferdig: 2026-09-06 16:00\nPlanlagt strømstans, nødvendig vedlikehold.",
+      "styleUrl": "#yellow"
     }
   },
   {
