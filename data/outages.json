@@ -64,29 +64,6 @@
     }
   },
   {
-    "id": "elvia-13070",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 74,
-    "lat": 60.801196935015575,
-    "lng": 10.551286156924936,
-    "start": "5.9.2026, 18:49:59",
-    "end": "5.9.2026, 22:25:59",
-    "areaName": "Gjøvik / Bybrua / ENS01301",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13070,
-      "antallkunder": 74,
-      "avbruddstype": "Unplanned",
-      "kommune": "Gjøvik",
-      "nettstasjon": "ENS01301",
-      "poststed": "Bybrua",
-      "strombruddoppdaget": 1788634199000,
-      "utkoblingslutt": 1788647159000,
-      "utkoblingstart": 1788634199000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
