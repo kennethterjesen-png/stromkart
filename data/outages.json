@@ -64,29 +64,6 @@
     }
   },
   {
-    "id": "elvia-10644",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 12,
-    "lat": 59.92036696452786,
-    "lng": 10.502627767681405,
-    "start": "6.9.2026, 20:03:28",
-    "end": "6.9.2026, 23:39:28",
-    "areaName": "Bærum / Kolsås / B2087",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10644,
-      "antallkunder": 12,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B2087",
-      "poststed": "Kolsås",
-      "strombruddoppdaget": 1788725008000,
-      "utkoblingslutt": 1788737968000,
-      "utkoblingstart": 1788725008000
-    }
-  },
-  {
     "id": "elvia-28185",
     "company": "Elvia",
     "type": "planned",
