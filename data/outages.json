@@ -1,94 +1,34 @@
 [
   {
-    "id": "elvia-7113",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.957952674991375,
-    "lng": 10.760599031617943,
-    "start": "7.9.2026, 11:48:34",
-    "end": "7.9.2026, 15:24:34",
-    "areaName": "Oslo / Oslo / 2127",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.378872960466055,
+    "lng": 5.317722543441353,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
     "raw": {
-      "OBJECTID": 7113,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2127",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1788781714000,
-      "utkoblingslutt": 1788794674000,
-      "utkoblingstart": 1788781714000
-    }
-  },
-  {
-    "id": "elvia-17121",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.24323281345721,
-    "lng": 11.985190829891664,
-    "start": "7.9.2026, 13:34:54",
-    "end": "7.9.2026, 17:19:54",
-    "areaName": "Kongsvinger / Kongsvinger / ENS07511",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17121,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07511",
-      "poststed": "Kongsvinger",
-      "strombruddoppdaget": 1788788094419,
-      "utkoblingslutt": 1788801594000,
-      "utkoblingstart": 1788788094419
-    }
-  },
-  {
-    "id": "elvia-17365",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 60.23906929308122,
-    "lng": 12.000745113501571,
-    "start": "7.9.2026, 13:34:54",
-    "end": "7.9.2026, 17:19:54",
-    "areaName": "Kongsvinger / Kongsvinger / ENS07871",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17365,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS07871",
-      "poststed": "Kongsvinger",
-      "strombruddoppdaget": 1788788094419,
-      "utkoblingslutt": 1788801594000,
-      "utkoblingstart": 1788788094419
-    }
-  },
-  {
-    "id": "elvia-18547",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.24546537473766,
-    "lng": 12.007407382733696,
-    "start": "7.9.2026, 13:34:54",
-    "end": "7.9.2026, 17:19:54",
-    "areaName": "Kongsvinger / Kongsvinger / ENS09687",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18547,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Kongsvinger",
-      "nettstasjon": "ENS09687",
-      "poststed": "Kongsvinger",
-      "strombruddoppdaget": 1788788094419,
-      "utkoblingslutt": 1788801594000,
-      "utkoblingstart": 1788788094419
+      "EVENTID": 9899301,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1788807600000,
+      "TIMELIMIT": 1788836400000,
+      "NUM_AB": 383,
+      "CUSTOMER_WEB_TEXT": "5056 BERGEN; SOLHEIMSLIEN,GYLDENPRISVEIEN\r\n5057 BERGEN; STRANDLIEN",
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 1,
+      "LAST_UPDATED": 1788807763000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 5,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
     }
   },
   {
@@ -112,25 +52,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1787043600000,
       "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "fagne-4641133",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 11,
-    "lat": 59.40389138013288,
-    "lng": 5.288350118476184,
-    "start": "9.7.2026, 14:22:00",
-    "end": "9.7.2026, 17:30:00",
-    "areaName": "HAUGESUND",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "HAUGESUND",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
@@ -1030,34 +951,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2918-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-planned-V-70929-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 131,
-    "lat": 59.855589450000025,
-    "lng": 10.66708908999999,
-    "start": "7.9.2026, 16:00:16",
-    "end": "7.9.2026, 19:00:16",
-    "areaName": "TANGEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219269,
-      "REFNR": "P70929",
-      "SEKUNDÆRSTASJON": "TANGEN",
-      "AVGANG": "L3",
-      "CNT": 131,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1788796816000,
-      "TIL_DATO": 1788807616000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70929-1",
       "description": ""
     }
   }
