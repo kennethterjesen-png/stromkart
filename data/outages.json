@@ -231,30 +231,6 @@
     }
   },
   {
-    "id": "linja-planned-3409248",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.35132842200695,
-    "lng": 6.874860889281413,
-    "start": "7.9.2026, 06:30:00",
-    "end": null,
-    "areaName": "STRANDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3409248,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Fausadal og Espehjelle mandag 7.september fra kl. 08:30 til 14:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1788762600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3407993",
     "company": "Linja",
     "type": "planned",
