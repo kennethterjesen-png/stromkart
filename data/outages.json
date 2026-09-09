@@ -23,48 +23,6 @@
     }
   },
   {
-    "id": "elvia-28759",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.44799002823631,
-    "lng": 10.64791654573192,
-    "start": "9.9.2026, 09:52:40",
-    "end": "9.9.2026, 13:28:40",
-    "areaName": "Moss / Moss / Y1077",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28759,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y1077",
-      "poststed": "Moss",
-      "strombruddoppdaget": 1788947560000,
-      "utkoblingslutt": 1788960520000,
-      "utkoblingstart": 1788947560000
-    }
-  },
-  {
-    "id": "fagne-4617052",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.61198441408974,
-    "lng": 6.235180384552221,
-    "start": "9.9.2026, 06:30:00",
-    "end": "9.9.2026, 13:30:00",
-    "areaName": "SAUDA",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SAUDA",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-planned-3414181",
     "company": "Linja",
     "type": "planned",
