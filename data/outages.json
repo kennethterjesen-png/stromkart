@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-14531",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 102,
-    "lat": 61.10226670943405,
-    "lng": 10.485522642035775,
-    "start": "8.9.2026, 22:18:50",
-    "end": "9.9.2026, 01:54:50",
-    "areaName": "Lillehammer / Lillehammer / ENS03444",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14531,
-      "antallkunder": 102,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03444",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": 1788905930000,
-      "utkoblingslutt": 1788918890000,
-      "utkoblingstart": 1788905930000
-    }
-  },
-  {
-    "id": "elvia-17810",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 24,
-    "lat": 61.66991885949161,
-    "lng": 10.54762786829151,
-    "start": "9.9.2026, 08:51:14",
-    "end": "9.9.2026, 12:27:14",
-    "areaName": "Ringebu / Atna / ENS08577",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 17810,
-      "antallkunder": 24,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ringebu",
-      "nettstasjon": "ENS08577",
-      "poststed": "Atna",
-      "strombruddoppdaget": 1788943874000,
-      "utkoblingslutt": 1788956834000,
-      "utkoblingstart": 1788943874000
-    }
-  },
-  {
     "id": "elvia-18554",
     "company": "Elvia",
     "type": "planned",
@@ -69,87 +23,26 @@
     }
   },
   {
-    "id": "elvia-28185",
+    "id": "elvia-28759",
     "company": "Elvia",
     "type": "planned",
-    "customers": 10,
-    "lat": 59.17331331070292,
-    "lng": 10.848405077343466,
-    "start": "18.8.2026, 06:00:00",
-    "end": "18.8.2026, 09:00:00",
-    "areaName": "Fredrikstad / Gressvik / X2095",
+    "customers": 6,
+    "lat": 59.44799002823631,
+    "lng": 10.64791654573192,
+    "start": "9.9.2026, 09:52:40",
+    "end": "9.9.2026, 13:28:40",
+    "areaName": "Moss / Moss / Y1077",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 28185,
-      "antallkunder": 10,
-      "avbruddstype": "Planned",
-      "kommune": "Fredrikstad",
-      "nettstasjon": "X2095",
-      "poststed": "Gressvik",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1787043600000,
-      "utkoblingstart": 1787032800000
-    }
-  },
-  {
-    "id": "elvia-29557",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.4687815151806,
-    "lng": 11.209868967441587,
-    "start": "9.9.2026, 07:47:19",
-    "end": "9.9.2026, 11:23:19",
-    "areaName": "Skiptvet / Skiptvet / Z2091",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29557,
-      "antallkunder": 3,
+      "OBJECTID": 28759,
+      "antallkunder": 6,
       "avbruddstype": "Unplanned",
-      "kommune": "Skiptvet",
-      "nettstasjon": "Z2091",
-      "poststed": "Skiptvet",
-      "strombruddoppdaget": 1788940039000,
-      "utkoblingslutt": 1788952999000,
-      "utkoblingstart": 1788940039000
-    }
-  },
-  {
-    "id": "fagne-4631160",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 72,
-    "lat": 59.70336186624549,
-    "lng": 5.533367954227384,
-    "start": "9.9.2026, 06:30:00",
-    "end": "9.9.2026, 11:00:00",
-    "areaName": "SVEIO",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SVEIO",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4627324",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 7,
-    "lat": 59.528745842529204,
-    "lng": 5.684076276537576,
-    "start": "9.9.2026, 08:00:00",
-    "end": "9.9.2026, 13:00:00",
-    "areaName": "VINDAFJORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "VINDAFJORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
+      "kommune": "Moss",
+      "nettstasjon": "Y1077",
+      "poststed": "Moss",
+      "strombruddoppdaget": 1788947560000,
+      "utkoblingslutt": 1788960520000,
+      "utkoblingstart": 1788947560000
     }
   },
   {
@@ -169,30 +62,6 @@
       "municipal": "SAUDA",
       "typeTxt": "Utkobling",
       "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "linja-outage-3407993",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 2,
-    "lat": 62.273633163184854,
-    "lng": 6.005585204976109,
-    "start": "9.9.2026, 07:00:00",
-    "end": null,
-    "areaName": "ØRSTA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3407993,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Vartdal Seafarm onsdag 9. september mellom 09:00 og 15:00",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1788937200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "ØRSTA",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 2,
-      "NUM_AB": 2
     }
   },
   {
@@ -599,6 +468,30 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "KINN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3417964",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.8379591155306,
+    "lng": 4.938297568518009,
+    "start": "15.9.2026, 06:00:00",
+    "end": null,
+    "areaName": "BREMANGER / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3417964,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Iglandskaia og Grotlevegen tirsdag 15.september fra kl. 08:00 til 15:00.",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1789452000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 129,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "BREMANGER",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -1224,6 +1117,62 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2929-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-71000-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 19,
+    "lat": 59.10884972000002,
+    "lng": 11.129768264000006,
+    "start": "16.9.2026, 06:30:15",
+    "end": "16.9.2026, 12:00:15",
+    "areaName": "NAVESTAD",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219759,
+      "REFNR": "P71000",
+      "SEKUNDÆRSTASJON": "NAVESTAD",
+      "AVGANG": "NAVESTAD 13 HAUGE - SINGLEØYA",
+      "CNT": 19,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1789540215000,
+      "TIL_DATO": 1789560015000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-71000-1",
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2930-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 13,
+    "lat": 59.727254698000024,
+    "lng": 11.037631891999979,
+    "start": "16.9.2026, 06:30:00",
+    "end": "16.9.2026, 13:00:00",
+    "areaName": "ENEBAKK",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1219760,
+      "REFNR": "PL2930",
+      "SEKUNDÆRSTASJON": "ENEBAKK",
+      "AVGANG": "L6",
+      "CNT": 13,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1789540200000,
+      "TIL_DATO": 1789563600000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "STROMSTANSID": "V-2930-1",
       "description": ""
     }
   },
