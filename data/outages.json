@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-25430",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.017263481415625,
-    "lng": 10.974618041883641,
-    "start": "10.9.2026, 15:30:07",
-    "end": "10.9.2026, 19:06:07",
-    "areaName": "Lillestrøm / Skedsmokorset / S0798",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25430,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0798",
-      "poststed": "Skedsmokorset",
-      "strombruddoppdaget": 1789054207000,
-      "utkoblingslutt": 1789067167000,
-      "utkoblingstart": 1789054207000
-    }
-  },
-  {
     "id": "linja-planned-3414261",
     "company": "Linja",
     "type": "planned",
@@ -767,30 +744,6 @@
     }
   },
   {
-    "id": "linja-planned-3398188",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.50275692713314,
-    "lng": 6.059002365869203,
-    "start": "10.9.2026, 21:00:00",
-    "end": null,
-    "areaName": "GISKE / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3398188,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Giskegjerde, Reinebakk og Giske Vest torsdag 10.september fra kl. 23:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1789074000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "lnett-planned-1",
     "company": "Lnett",
     "type": "planned",
@@ -1297,34 +1250,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "STROMSTANSID": "V-2930-1",
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-planned-V-70950-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 98,
-    "lat": 59.211448202999975,
-    "lng": 10.939979603999973,
-    "start": "10.9.2026, 17:00:53",
-    "end": "10.9.2026, 21:59:53",
-    "areaName": "BROGATA",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219667,
-      "REFNR": "P70950",
-      "SEKUNDÆRSTASJON": "BROGATA",
-      "AVGANG": "H1081",
-      "CNT": 98,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1789059653000,
-      "TIL_DATO": 1789077593000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "STROMSTANSID": "V-70950-1",
       "description": ""
     }
   },
