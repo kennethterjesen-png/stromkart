@@ -1,5 +1,52 @@
 [
   {
+    "id": "elvia-14556",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 25,
+    "lat": 61.093443019993266,
+    "lng": 10.477753908785566,
+    "start": "10.9.2026, 21:00:00",
+    "end": "11.9.2026, 03:00:00",
+    "areaName": "Lillehammer / Lillehammer / ENS03477",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 14556,
+      "antallkunder": 25,
+      "avbruddstype": "Planned",
+      "kommune": "Lillehammer",
+      "nettstasjon": "ENS03477",
+      "poststed": "Lillehammer",
+      "strombruddoppdaget": 1789074140190,
+      "utkoblingslutt": 1789095600000,
+      "utkoblingstart": 1789074000000
+    }
+  },
+  {
+    "id": "linja-outage-3398188",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 84,
+    "lat": 62.50274256066333,
+    "lng": 6.05883962857454,
+    "start": "10.9.2026, 21:00:00",
+    "end": null,
+    "areaName": "GISKE / Linja Nord",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3398188,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Giskegjerde, Reinebakk og Giske Vest torsdag 10.september fra kl. 23:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1789074000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GISKE",
+      "PURCHAREA_TXT": "Linja Nord",
+      "NUM_NS": 3,
+      "NUM_AB": 84
+    }
+  },
+  {
     "id": "linja-planned-3414261",
     "company": "Linja",
     "type": "planned",
@@ -775,6 +822,57 @@
       "name": "Berørte kunder: 302",
       "description": "Rettet\nStartet: 2026-09-10 09:02\nSluttid: 2026-09-10 13:20\nPlanlagt strømstans. Bytte påkjørt nettstasjon.",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-planned-11",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 70,
+    "lat": 58.969621321137154,
+    "lng": 5.7434454468301395,
+    "start": "10.9.2026, 23:01:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 70",
+      "description": "Planlagt strømstans\nStartet: 2026-09-10 23:01\nPlanlagt ferdig: 2026-09-11 05:00",
+      "styleUrl": "#yellow"
+    }
+  },
+  {
+    "id": "lnett-planned-13",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 123,
+    "lat": 58.99635439123433,
+    "lng": 5.742008008066704,
+    "start": "10.9.2026, 23:12:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 123",
+      "description": "Planlagt strømstans\nStartet: 2026-09-10 23:12\nPlanlagt ferdig: 2026-09-11 05:00",
+      "styleUrl": "#yellow"
+    }
+  },
+  {
+    "id": "lnett-outage-15",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 10,
+    "lat": 58.71974612623115,
+    "lng": 5.6908448036670585,
+    "start": "10.9.2026, 22:45:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 10",
+      "description": "Driftsforstyrrelse\nStartet: 2026-09-10 22:45\n23.09 400 av 410 kunder har fått strømmen tilbake. Feilsøking pågår fortsatt.Strømmen kan komme og gå i forbindelse med seksjonering.\n22:45 Strømbrudd. Montører jobber med å lokalisere feilen.",
+      "styleUrl": "#red"
     }
   },
   {
