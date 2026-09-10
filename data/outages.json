@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 61.44614691266306,
-    "lng": 5.883822553981826,
-    "start": null,
-    "end": null,
-    "areaName": "Sunnfjord",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9901643,
-      "MUNICIPAL_TXT": "Sunnfjord",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1788980400000,
-      "TIMELIMIT": 1789009200000,
-      "NUM_AB": 8,
-      "CUSTOMER_WEB_TEXT": "6800 FØRDE; SANDERPLASSEN\r\n6813 FØRDE; SANDERPLASSEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 1,
-      "LAST_UPDATED": 1788980734000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 5,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-18554",
     "company": "Elvia",
     "type": "planned",
@@ -194,30 +162,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "SULA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3412857",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.34717649161767,
-    "lng": 5.855990231963348,
-    "start": "10.9.2026, 07:00:00",
-    "end": null,
-    "areaName": "ULSTEIN / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3412857,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Storegjerdet og Øvste Storegjerdet torsdag 10.september fra kl. 09:00 til 12:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1789023600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "ULSTEIN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -511,30 +455,6 @@
     }
   },
   {
-    "id": "linja-planned-3397201",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.85672077751344,
-    "lng": 5.332163593882173,
-    "start": "10.9.2026, 07:00:00",
-    "end": null,
-    "areaName": "BREMANGER / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3397201,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bortne til Kolset torsdag 10.september fra kl. 09:00 til 09:10 og igjen ca. kl. 12:00 til 12:10.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1789023600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "BREMANGER",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3398188",
     "company": "Linja",
     "type": "planned",
@@ -554,54 +474,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "GISKE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3408596",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.52154295010358,
-    "lng": 4.923819414000344,
-    "start": "10.9.2026, 07:00:00",
-    "end": null,
-    "areaName": "KINN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3408596,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Valvikvegen torsdag 10. september mellom kl.09:00 og 14:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1789023600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "KINN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3409848",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.27055300385591,
-    "lng": 5.99306640058459,
-    "start": "10.9.2026, 07:00:00",
-    "end": null,
-    "areaName": "ØRSTA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3409848,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Flåvik torsdag 10.september fra kl. 09:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1789023600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "ØRSTA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
