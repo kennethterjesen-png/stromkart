@@ -46,6 +46,144 @@
     }
   },
   {
+    "id": "elvia-26630",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.62592075911247,
+    "lng": 10.731711780834505,
+    "start": "11.9.2026, 00:00:00",
+    "end": "11.9.2026, 04:00:00",
+    "areaName": "Vestby / Vestby / V0318",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26630,
+      "antallkunder": 4,
+      "avbruddstype": "Planned",
+      "kommune": "Vestby",
+      "nettstasjon": "V0318",
+      "poststed": "Vestby",
+      "strombruddoppdaget": 1789084888991,
+      "utkoblingslutt": 1789099200000,
+      "utkoblingstart": 1789084800000
+    }
+  },
+  {
+    "id": "elvia-26638",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 17,
+    "lat": 59.62763117292214,
+    "lng": 10.73092330454395,
+    "start": "11.9.2026, 00:00:00",
+    "end": "11.9.2026, 04:00:00",
+    "areaName": "Vestby / Vestby / V0338",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26638,
+      "antallkunder": 17,
+      "avbruddstype": "Planned",
+      "kommune": "Vestby",
+      "nettstasjon": "V0338",
+      "poststed": "Vestby",
+      "strombruddoppdaget": 1789084888991,
+      "utkoblingslutt": 1789099200000,
+      "utkoblingstart": 1789084800000
+    }
+  },
+  {
+    "id": "elvia-26643",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.62381363331825,
+    "lng": 10.719558369457365,
+    "start": "11.9.2026, 00:00:00",
+    "end": "11.9.2026, 04:00:00",
+    "areaName": "Vestby / Vestby / V0350",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26643,
+      "antallkunder": 4,
+      "avbruddstype": "Planned",
+      "kommune": "Vestby",
+      "nettstasjon": "V0350",
+      "poststed": "Vestby",
+      "strombruddoppdaget": 1789084888991,
+      "utkoblingslutt": 1789099200000,
+      "utkoblingstart": 1789084800000
+    }
+  },
+  {
+    "id": "elvia-26644",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.63304730367565,
+    "lng": 10.711787984205696,
+    "start": "11.9.2026, 00:00:00",
+    "end": "11.9.2026, 04:00:00",
+    "areaName": "Vestby / Vestby / V0351",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26644,
+      "antallkunder": 9,
+      "avbruddstype": "Planned",
+      "kommune": "Vestby",
+      "nettstasjon": "V0351",
+      "poststed": "Vestby",
+      "strombruddoppdaget": 1789084888991,
+      "utkoblingslutt": 1789099200000,
+      "utkoblingstart": 1789084800000
+    }
+  },
+  {
+    "id": "elvia-26697",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.6253300501424,
+    "lng": 10.731896736217124,
+    "start": "11.9.2026, 00:00:00",
+    "end": "11.9.2026, 04:00:00",
+    "areaName": "Vestby / Vestby / V0433",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26697,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Vestby",
+      "nettstasjon": "V0433",
+      "poststed": "Vestby",
+      "strombruddoppdaget": 1789084888991,
+      "utkoblingslutt": 1789099200000,
+      "utkoblingstart": 1789084800000
+    }
+  },
+  {
+    "id": "elvia-26705",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 15,
+    "lat": 59.62779728811661,
+    "lng": 10.738514934275912,
+    "start": "11.9.2026, 00:00:00",
+    "end": "11.9.2026, 04:00:00",
+    "areaName": "Vestby / Vestby / V2063",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26705,
+      "antallkunder": 15,
+      "avbruddstype": "Planned",
+      "kommune": "Vestby",
+      "nettstasjon": "V2063",
+      "poststed": "Vestby",
+      "strombruddoppdaget": 1789084888991,
+      "utkoblingslutt": 1789099200000,
+      "utkoblingstart": 1789084800000
+    }
+  },
+  {
     "id": "linja-outage-3398188",
     "company": "Linja",
     "type": "outage",
@@ -848,23 +986,6 @@
     }
   },
   {
-    "id": "lnett-planned-9",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 70,
-    "lat": 58.969621321137154,
-    "lng": 5.7434454468301395,
-    "start": "10.9.2026, 23:01:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 70",
-      "description": "Planlagt strømstans\nStartet: 2026-09-10 23:01\nPlanlagt ferdig: 2026-09-11 05:00",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
     "id": "lnett-planned-11",
     "company": "Lnett",
     "type": "planned",
@@ -888,13 +1009,13 @@
     "customers": 10,
     "lat": 58.71974612623115,
     "lng": 5.6908448036670585,
-    "start": "11.9.2026, 00:41:00",
+    "start": "11.9.2026, 01:49:00",
     "end": null,
     "areaName": "Driftsforstyrrelse",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 10",
-      "description": "Driftsforstyrrelse\nStartet: 2026-09-11 00:41\n00:40 Feilen er fotsatt ikke lokalisert. Strømmen kan fortsatt komme og gå.\n23.09 400 av 410 kunder har fått strømmen tilbake. Feilsøking pågår fortsatt.Strømmen kan komme og gå i forbindelse med seksjonering.\n22:45 Strømbrudd. Montører jobber med å lokalisere feilen.",
+      "description": "Driftsforstyrrelse\nStartet: 2026-09-11 01:49\n01:50 Feilen er lokalisert. Feilretting pågår.\n00:40 Feilen er fotsatt ikke lokalisert. Strømmen kan fortsatt komme og gå.\n23.09 400 av 410 kunder har fått strømmen tilbake. Feilsøking pågår fortsatt.\n22:45 Strømbrudd. Montører jobber med å lokalisere feilen.",
       "styleUrl": "#red"
     }
   }
