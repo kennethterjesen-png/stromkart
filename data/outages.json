@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-11819",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 60.33094791493389,
-    "lng": 11.24236483432813,
-    "start": "11.9.2026, 12:36:23",
-    "end": "11.9.2026, 16:12:23",
-    "areaName": "Eidsvoll / Eidsvoll / E0208",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11819,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0208",
-      "poststed": "Eidsvoll",
-      "strombruddoppdaget": 1789130183000,
-      "utkoblingslutt": 1789143143000,
-      "utkoblingstart": 1789130183000
-    }
-  },
-  {
     "id": "elvia-27709",
     "company": "Elvia",
     "type": "planned",
@@ -43,25 +20,6 @@
       "strombruddoppdaget": 1789137311000,
       "utkoblingslutt": 1789150271000,
       "utkoblingstart": 1789137311000
-    }
-  },
-  {
-    "id": "fagne-4650776",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 24,
-    "lat": 59.656137606492436,
-    "lng": 6.316458032608893,
-    "start": "9.11.2026, 13:05:00",
-    "end": "9.11.2026, 18:00:00",
-    "areaName": "SAUDA",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SAUDA",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
@@ -833,6 +791,23 @@
       "name": "Berørte kunder: 123",
       "description": "Rettet\nStartet: 2026-09-10 23:12\nSluttid: 2026-09-11 04:07\nPlanlagt strømstans",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-outage-15",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 17,
+    "lat": 58.794532930327726,
+    "lng": 5.779017253446324,
+    "start": "11.9.2026, 17:25:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 17",
+      "description": "Driftsforstyrrelse\nStartet: 2026-09-11 17:25\n17:20- Aggregatet har stoppet opp. Dette er varslet videre til Sandnes kommune som følger opp saken.",
+      "styleUrl": "#red"
     }
   }
 ]
