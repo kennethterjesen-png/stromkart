@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-28827",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 34,
-    "lat": 59.4556588707039,
-    "lng": 10.690738749271107,
-    "start": "11.9.2026, 20:13:33",
-    "end": "11.9.2026, 23:49:33",
-    "areaName": "Moss / Moss / Y1175",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28827,
-      "antallkunder": 34,
-      "avbruddstype": "Unplanned",
-      "kommune": "Moss",
-      "nettstasjon": "Y1175",
-      "poststed": "Moss",
-      "strombruddoppdaget": 1789157613000,
-      "utkoblingslutt": 1789170573000,
-      "utkoblingstart": 1789157613000
-    }
-  },
-  {
     "id": "linja-planned-3418596",
     "company": "Linja",
     "type": "planned",
@@ -743,41 +720,7 @@
     }
   },
   {
-    "id": "lnett-planned-1",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 154,
-    "lat": 58.99480923504713,
-    "lng": 5.733413898163002,
-    "start": "10.9.2026, 09:09:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 154",
-      "description": "Rettet\nStartet: 2026-09-10 09:09\nSluttid: 2026-09-10 12:24\nPlanlagt stans",
-      "styleUrl": "#green"
-    }
-  },
-  {
     "id": "lnett-planned-3",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 302,
-    "lat": 58.85396602966574,
-    "lng": 6.525092328259257,
-    "start": "10.9.2026, 09:02:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 302",
-      "description": "Rettet\nStartet: 2026-09-10 09:02\nSluttid: 2026-09-10 13:20\nPlanlagt strømstans. Bytte påkjørt nettstasjon.",
-      "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-9",
     "company": "Lnett",
     "type": "planned",
     "customers": 123,
@@ -1152,6 +1095,34 @@
       "TIL_DATO": 1789642820000,
       "LOGGTYPE": "Planlagt Kobling",
       "STROMSTANSID": "V-71007-1",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-71015-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 10,
+    "lat": 59.689299303999974,
+    "lng": 10.516849533000027,
+    "start": "14.9.2026, 06:00:28",
+    "end": "14.9.2026, 13:00:28",
+    "areaName": "BØDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1220311,
+      "REFNR": "P71015",
+      "SEKUNDÆRSTASJON": "BØDALEN",
+      "AVGANG": "K3_AVGR. R405",
+      "CNT": 10,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1789365628000,
+      "TIL_DATO": 1789390828000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "STROMSTANSID": "V-71015-1",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
