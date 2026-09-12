@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-22479",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 59.990497591245244,
+    "lng": 11.32188683184232,
+    "start": "12.9.2026, 13:44:44",
+    "end": "12.9.2026, 17:20:44",
+    "areaName": "Lillestrøm / Blaker / K0399",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22479,
+      "antallkunder": 7,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "K0399",
+      "poststed": "Blaker",
+      "strombruddoppdaget": 1789220684000,
+      "utkoblingslutt": 1789233644000,
+      "utkoblingstart": 1789220684000
+    }
+  },
+  {
     "id": "linja-planned-3418596",
     "company": "Linja",
     "type": "planned",
