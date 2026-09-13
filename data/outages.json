@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-13976",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.187938887702835,
-    "lng": 11.826608689961736,
-    "start": "13.9.2026, 14:10:39",
-    "end": "13.9.2026, 17:55:39",
-    "areaName": "Sør-Odal / Galterud / ENS02652",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 13976,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sør-Odal",
-      "nettstasjon": "ENS02652",
-      "poststed": "Galterud",
-      "strombruddoppdaget": 1789308639295,
-      "utkoblingslutt": 1789322139000,
-      "utkoblingstart": 1789308639295
-    }
-  },
-  {
     "id": "fagne-4627268",
     "company": "Fagne",
     "type": "planned",
