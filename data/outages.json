@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-11405",
+    "id": "elvia-7212",
     "company": "Elvia",
     "type": "planned",
-    "customers": 4,
-    "lat": 59.82983150841361,
-    "lng": 10.4251178330359,
-    "start": "14.9.2026, 16:47:02",
-    "end": "14.9.2026, 20:23:02",
-    "areaName": "Asker / Asker / D0561",
+    "customers": 50,
+    "lat": 59.954082049422865,
+    "lng": 10.731506375051369,
+    "start": "11.9.2026, 06:00:00",
+    "end": "17.9.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 2277",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 11405,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Asker",
-      "nettstasjon": "D0561",
-      "poststed": "Asker",
-      "strombruddoppdaget": 1789404422000,
-      "utkoblingslutt": 1789417382000,
-      "utkoblingstart": 1789404422000
+      "OBJECTID": 7212,
+      "antallkunder": 50,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2277",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1789423312504,
+      "utkoblingslutt": 1789617600000,
+      "utkoblingstart": 1789106400000
     }
   },
   {
@@ -1188,34 +1188,6 @@
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-71024-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 7,
-    "lat": 60.40482219500001,
-    "lng": 5.214512710000008,
-    "start": "14.9.2026, 15:59:04",
-    "end": null,
-    "areaName": "KLEPPE",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1220341,
-      "REFNR": "L71024",
-      "SEKUNDÆRSTASJON": "KLEPPE",
-      "AVGANG": "STONGAFJELLET",
-      "CNT": 7,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nHolmedalshammaren",
-      "FRA_DATO": 1789401544000,
-      "TIL_DATO": null,
-      "LOGGTYPE": "Lavspent",
-      "STROMSTANSID": "V-71024-1",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "description": "Glitre Nett har for tiden feil i strømnettet. Feilsøking pågår. \n \nHolmedalshammaren"
     }
   }
 ]
