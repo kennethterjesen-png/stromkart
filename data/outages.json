@@ -1,24 +1,5 @@
 [
   {
-    "id": "fagne-4627268",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 7,
-    "lat": 59.31163312219159,
-    "lng": 5.42789200500474,
-    "start": null,
-    "end": null,
-    "areaName": "TYSVÆR",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "TYSVÆR",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-planned-3418596",
     "company": "Linja",
     "type": "planned",
