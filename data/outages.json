@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-7691",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 47,
-    "lat": 59.90187363837525,
-    "lng": 10.831314402876764,
-    "start": "17.9.2026, 06:00:00",
-    "end": "17.9.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 2925",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7691,
-      "antallkunder": 47,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2925",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1789624928000,
-      "utkoblingslutt": 1789650000000,
-      "utkoblingstart": 1789624800000
-    }
-  },
-  {
     "id": "linja-planned-3432668",
     "company": "Linja",
     "type": "planned",
@@ -551,7 +528,7 @@
     }
   },
   {
-    "id": "lnett-planned-5",
+    "id": "lnett-planned-7",
     "company": "Lnett",
     "type": "planned",
     "customers": 34,
@@ -568,7 +545,7 @@
     }
   },
   {
-    "id": "lnett-planned-7",
+    "id": "lnett-planned-9",
     "company": "Lnett",
     "type": "planned",
     "customers": 46,
@@ -585,7 +562,7 @@
     }
   },
   {
-    "id": "lnett-planned-9",
+    "id": "lnett-planned-11",
     "company": "Lnett",
     "type": "planned",
     "customers": 180,
@@ -652,6 +629,34 @@
       "TIL_DATO": 1790062259000,
       "LOGGTYPE": "Planlagt Lavspent",
       "STROMSTANSID": "V-2936-1",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-71042-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 93,
+    "lat": 59.197757706999994,
+    "lng": 10.909826579000026,
+    "start": "28.9.2026, 07:00:46",
+    "end": "28.9.2026, 13:30:46",
+    "areaName": "KRÅKERØY",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1220407,
+      "REFNR": "P71042",
+      "SEKUNDÆRSTASJON": "KRÅKERØY",
+      "AVGANG": "H5628",
+      "CNT": 93,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1790578846000,
+      "TIL_DATO": 1790602246000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "STROMSTANSID": "V-71042-1",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
@@ -820,6 +825,34 @@
       "TIL_DATO": 1790083858000,
       "LOGGTYPE": "Planlagt Kobling",
       "STROMSTANSID": "V-71002-1",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-71045-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 12,
+    "lat": 59.691712412000015,
+    "lng": 10.527867791000006,
+    "start": "18.9.2026, 11:12:04",
+    "end": null,
+    "areaName": "BØDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1220406,
+      "REFNR": "L71045",
+      "SEKUNDÆRSTASJON": "BØDALEN",
+      "AVGANG": "K3_AVGR. R405",
+      "CNT": 12,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1789729924000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Lavspent",
+      "STROMSTANSID": "V-71045-1",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
