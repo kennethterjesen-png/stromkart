@@ -1,106 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.467016887208906,
-    "lng": 5.429209687454862,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9914450,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1789671600000,
-      "TIMELIMIT": 1789700400000,
-      "NUM_AB": 112,
-      "CUSTOMER_WEB_TEXT": "5265 YTRE ARNA; SØRFJORDVEGEN,FLATANE,PLYTTEN",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 1,
-      "LAST_UPDATED": 1789671775000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-1025",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.933476172093684,
-    "lng": 10.772492066602025,
-    "start": "17.9.2026, 22:18:46",
-    "end": "18.9.2026, 02:03:46",
-    "areaName": "Oslo / Oslo / 4629",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 1025,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "4629",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1789683526772,
-      "utkoblingslutt": 1789697026000,
-      "utkoblingstart": 1789683526772
-    }
-  },
-  {
-    "id": "elvia-3085",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 60.88013375549267,
-    "lng": 11.543994970210244,
-    "start": "10.9.2026, 21:00:00",
-    "end": "11.9.2026, 01:00:00",
-    "areaName": "Elverum / Elverum / ENS11184",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 3085,
-      "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Elverum",
-      "nettstasjon": "ENS11184",
-      "poststed": "Elverum",
-      "strombruddoppdaget": 1789678869936,
-      "utkoblingslutt": 1789088400000,
-      "utkoblingstart": 1789074000000
-    }
-  },
-  {
-    "id": "elvia-6863",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 270,
-    "lat": 59.930456176436536,
-    "lng": 10.778283775869898,
-    "start": "17.9.2026, 22:18:46",
-    "end": "18.9.2026, 02:03:46",
-    "areaName": "Oslo / Oslo / 1763",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6863,
-      "antallkunder": 270,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "1763",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1789683526772,
-      "utkoblingslutt": 1789697026000,
-      "utkoblingstart": 1789683526772
-    }
-  },
-  {
     "id": "elvia-7340",
     "company": "Elvia",
     "type": "planned",
@@ -121,98 +20,6 @@
       "strombruddoppdaget": 1789678993670,
       "utkoblingslutt": 1789992000000,
       "utkoblingstart": 1789624800000
-    }
-  },
-  {
-    "id": "elvia-7631",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 343,
-    "lat": 59.930416051614465,
-    "lng": 10.776173442339362,
-    "start": "17.9.2026, 22:18:46",
-    "end": "18.9.2026, 02:03:46",
-    "areaName": "Oslo / Oslo / 2852",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7631,
-      "antallkunder": 343,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2852",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1789683526772,
-      "utkoblingslutt": 1789697026000,
-      "utkoblingstart": 1789683526772
-    }
-  },
-  {
-    "id": "elvia-8422",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 92,
-    "lat": 59.931360457941324,
-    "lng": 10.77341073083836,
-    "start": "17.9.2026, 22:18:46",
-    "end": "18.9.2026, 02:03:46",
-    "areaName": "Oslo / Oslo / 4129",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8422,
-      "antallkunder": 92,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "4129",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1789683526772,
-      "utkoblingslutt": 1789697026000,
-      "utkoblingstart": 1789683526772
-    }
-  },
-  {
-    "id": "elvia-8426",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.9402826754231,
-    "lng": 10.903751111418572,
-    "start": "17.9.2026, 22:01:00",
-    "end": "18.9.2026, 04:00:00",
-    "areaName": "Oslo / Oslo / 4134",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8426,
-      "antallkunder": 6,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "4134",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1789682587239,
-      "utkoblingslutt": 1789704000000,
-      "utkoblingstart": 1789682460000
-    }
-  },
-  {
-    "id": "elvia-8847",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 186,
-    "lat": 59.931805727014456,
-    "lng": 10.7769316425652,
-    "start": "17.9.2026, 22:18:46",
-    "end": "18.9.2026, 02:03:46",
-    "areaName": "Oslo / Oslo / 4792",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8847,
-      "antallkunder": 186,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "4792",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1789683526772,
-      "utkoblingslutt": 1789697026000,
-      "utkoblingstart": 1789683526772
     }
   },
   {
@@ -528,7 +335,7 @@
     }
   },
   {
-    "id": "lnett-planned-3",
+    "id": "lnett-planned-1",
     "company": "Lnett",
     "type": "planned",
     "customers": 34,
@@ -540,29 +347,12 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 34",
-      "description": "Planlagt strømstans\nStartet: 2026-09-17 23:59\nPlanlagt ferdig: 2026-09-18 03:00\nPlanlagt strømstans.",
-      "styleUrl": "#yellow"
+      "description": "Rettet\nStartet: 2026-09-17 23:59\nSluttid: 2026-09-18 00:48\nPlanlagt strømstans.",
+      "styleUrl": "#green"
     }
   },
   {
     "id": "lnett-planned-5",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 46,
-    "lat": 58.78481829284639,
-    "lng": 5.815524024993128,
-    "start": "17.9.2026, 23:57:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 46",
-      "description": "Planlagt strømstans\nStartet: 2026-09-17 23:57\nPlanlagt ferdig: 2026-09-18 05:00\nPlanlagt strømstans.",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
-    "id": "lnett-planned-7",
     "company": "Lnett",
     "type": "planned",
     "customers": 180,
@@ -825,34 +615,6 @@
       "TIL_DATO": 1790083858000,
       "LOGGTYPE": "Planlagt Kobling",
       "STROMSTANSID": "V-71002-1",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-70995-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 311,
-    "lat": 59.76038846900002,
-    "lng": 10.93090751599999,
-    "start": "17.9.2026, 22:05:00",
-    "end": "18.9.2026, 04:00:00",
-    "areaName": "BRU",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1219753,
-      "REFNR": "P70995",
-      "SEKUNDÆRSTASJON": "BRU",
-      "AVGANG": "L20",
-      "CNT": 311,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1789682700000,
-      "TIL_DATO": 1789704000000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "STROMSTANSID": "V-70995-1",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
