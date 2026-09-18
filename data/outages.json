@@ -1,5 +1,24 @@
 [
   {
+    "id": "fagne-4661440",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 3,
+    "lat": 59.3431835785035,
+    "lng": 5.842974000360904,
+    "start": null,
+    "end": null,
+    "areaName": "TYSVÆR",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "TYSVÆR",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
     "id": "linja-planned-3432668",
     "company": "Linja",
     "type": "planned",
@@ -528,7 +547,7 @@
     }
   },
   {
-    "id": "lnett-planned-7",
+    "id": "lnett-planned-5",
     "company": "Lnett",
     "type": "planned",
     "customers": 34,
@@ -545,7 +564,7 @@
     }
   },
   {
-    "id": "lnett-planned-9",
+    "id": "lnett-planned-7",
     "company": "Lnett",
     "type": "planned",
     "customers": 46,
@@ -562,7 +581,7 @@
     }
   },
   {
-    "id": "lnett-planned-11",
+    "id": "lnett-planned-9",
     "company": "Lnett",
     "type": "planned",
     "customers": 180,
@@ -575,6 +594,23 @@
     "raw": {
       "name": "Berørte kunder: 180",
       "description": "Rettet\nStartet: 2026-09-17 23:05\nSluttid: 2026-09-18 07:00\nPlanlagt strømstans.",
+      "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-planned-13",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 43,
+    "lat": 58.87824975123091,
+    "lng": 5.744683314435344,
+    "start": "18.9.2026, 09:00:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 43",
+      "description": "Rettet\nStartet: 2026-09-18 09:00\nSluttid: 2026-09-18 14:00\nPlanlagt strømstans",
       "styleUrl": "#green"
     }
   },
@@ -834,9 +870,9 @@
     "id": "norgesnett-outage-V-71045-1",
     "company": "Norgesnett",
     "type": "outage",
-    "customers": 12,
-    "lat": 59.691712412000015,
-    "lng": 10.527867791000006,
+    "customers": 27,
+    "lat": 59.69196937200002,
+    "lng": 10.527638791000015,
     "start": "18.9.2026, 11:12:04",
     "end": null,
     "areaName": "BØDALEN",
@@ -846,7 +882,7 @@
       "REFNR": "L71045",
       "SEKUNDÆRSTASJON": "BØDALEN",
       "AVGANG": "K3_AVGR. R405",
-      "CNT": 12,
+      "CNT": 27,
       "STATUS": "Påbegynt",
       "BESKRIVELSE": null,
       "FRA_DATO": 1789729924000,
