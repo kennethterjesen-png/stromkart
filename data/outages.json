@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-10527",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.90054337902688,
-    "lng": 10.515159820827613,
-    "start": "19.9.2026, 16:31:57",
-    "end": "19.9.2026, 20:07:57",
-    "areaName": "Bærum / Sandvika / B1878",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10527,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B1878",
-      "poststed": "Sandvika",
-      "strombruddoppdaget": 1789835517000,
-      "utkoblingslutt": 1789848477000,
-      "utkoblingstart": 1789835517000
-    }
-  },
-  {
     "id": "elvia-10572",
     "company": "Elvia",
     "type": "planned",
@@ -66,29 +43,6 @@
       "strombruddoppdaget": 1789819898000,
       "utkoblingslutt": 1789832858000,
       "utkoblingstart": 1789819898000
-    }
-  },
-  {
-    "id": "elvia-14256",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 61.1288459317908,
-    "lng": 10.377933780646776,
-    "start": "19.9.2026, 16:51:42",
-    "end": "19.9.2026, 20:27:42",
-    "areaName": "Lillehammer / Lillehammer / ENS03078",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14256,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03078",
-      "poststed": "Lillehammer",
-      "strombruddoppdaget": 1789836702000,
-      "utkoblingslutt": 1789849662000,
-      "utkoblingstart": 1789836702000
     }
   },
   {
