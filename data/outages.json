@@ -46,26 +46,26 @@
     }
   },
   {
-    "id": "elvia-27643",
+    "id": "elvia-24534",
     "company": "Elvia",
     "type": "planned",
-    "customers": 16,
-    "lat": 59.30016016048371,
-    "lng": 11.044249020732138,
-    "start": "20.9.2026, 06:00:00",
-    "end": "20.9.2026, 14:00:00",
-    "areaName": "Sarpsborg / Grålum / X0505",
+    "customers": 22,
+    "lat": 59.12454964313099,
+    "lng": 11.38624848011103,
+    "start": "20.9.2026, 12:16:20",
+    "end": "20.9.2026, 15:52:20",
+    "areaName": "Halden / Halden / Q0318",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 27643,
-      "antallkunder": 16,
-      "avbruddstype": "Planned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0505",
-      "poststed": "Grålum",
-      "strombruddoppdaget": 1789884170819,
-      "utkoblingslutt": 1789912800000,
-      "utkoblingstart": 1789884000000
+      "OBJECTID": 24534,
+      "antallkunder": 22,
+      "avbruddstype": "Unplanned",
+      "kommune": "Halden",
+      "nettstasjon": "Q0318",
+      "poststed": "Halden",
+      "strombruddoppdaget": 1789906580000,
+      "utkoblingslutt": 1789919540000,
+      "utkoblingstart": 1789906580000
     }
   },
   {
@@ -617,23 +617,6 @@
       "MUNICIPAL_TXT": "ASKVOLL",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-outage-1",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 39,
-    "lat": 58.89382513880881,
-    "lng": 5.705455782946862,
-    "start": "20.9.2026, 11:24:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 39",
-      "description": "Driftsforstyrrelse\nStartet: 2026-09-20 11:24",
-      "styleUrl": "#red"
     }
   },
   {
