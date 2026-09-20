@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-10716",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.74049258592469,
-    "lng": 10.744580675291278,
-    "start": "19.9.2026, 12:11:38",
-    "end": "19.9.2026, 15:47:38",
-    "areaName": "Ås / Vinterbro / C0101",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10716,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ås",
-      "nettstasjon": "C0101",
-      "poststed": "Vinterbro",
-      "strombruddoppdaget": 1789819898000,
-      "utkoblingslutt": 1789832858000,
-      "utkoblingstart": 1789819898000
-    }
-  },
-  {
-    "id": "elvia-14758",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 61.21569165144079,
-    "lng": 10.435560902594471,
-    "start": "19.9.2026, 11:06:20",
-    "end": "19.9.2026, 14:42:20",
-    "areaName": "Lillehammer / Fåberg / ENS03746",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14758,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillehammer",
-      "nettstasjon": "ENS03746",
-      "poststed": "Fåberg",
-      "strombruddoppdaget": 1789815980000,
-      "utkoblingslutt": 1789828940000,
-      "utkoblingstart": 1789815980000
-    }
-  },
-  {
     "id": "elvia-30694",
     "company": "Elvia",
     "type": "planned",
