@@ -46,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-24534",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 22,
-    "lat": 59.12454964313099,
-    "lng": 11.38624848011103,
-    "start": "20.9.2026, 12:16:20",
-    "end": "20.9.2026, 15:52:20",
-    "areaName": "Halden / Halden / Q0318",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24534,
-      "antallkunder": 22,
-      "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0318",
-      "poststed": "Halden",
-      "strombruddoppdaget": 1789906580000,
-      "utkoblingslutt": 1789919540000,
-      "utkoblingstart": 1789906580000
-    }
-  },
-  {
     "id": "elvia-30694",
     "company": "Elvia",
     "type": "planned",
