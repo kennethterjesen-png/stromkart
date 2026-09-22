@@ -46,29 +46,6 @@
     }
   },
   {
-    "id": "elvia-28033",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 58,
-    "lat": 59.284119419052736,
-    "lng": 11.106293167678011,
-    "start": "21.9.2026, 22:01:00",
-    "end": "22.9.2026, 01:00:00",
-    "areaName": "Sarpsborg / Sarpsborg / X0990",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28033,
-      "antallkunder": 58,
-      "avbruddstype": "Planned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0990",
-      "poststed": "Sarpsborg",
-      "strombruddoppdaget": 1790028086850,
-      "utkoblingslutt": 1790038800000,
-      "utkoblingstart": 1790028060000
-    }
-  },
-  {
     "id": "elvia-30694",
     "company": "Elvia",
     "type": "planned",
@@ -898,6 +875,34 @@
       "TIL_DATO": 1790083858000,
       "LOGGTYPE": "Planlagt Kobling",
       "STROMSTANSID": "V-71002-1",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-71048-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 6,
+    "lat": 59.68994608000003,
+    "lng": 10.530466244000024,
+    "start": "18.9.2026, 21:14:59",
+    "end": null,
+    "areaName": "BØDALEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1220408,
+      "REFNR": "L71048",
+      "SEKUNDÆRSTASJON": "BØDALEN",
+      "AVGANG": "K3_AVGR. R405",
+      "CNT": 6,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1789766099000,
+      "TIL_DATO": null,
+      "LOGGTYPE": "Lavspent",
+      "STROMSTANSID": "V-71048-1",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
