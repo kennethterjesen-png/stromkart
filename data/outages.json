@@ -32,118 +32,26 @@
     }
   },
   {
-    "id": "elvia-10932",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 59.755148696968824,
-    "lng": 10.775768629982496,
-    "start": "23.9.2026, 12:51:03",
-    "end": "23.9.2026, 16:27:03",
-    "areaName": "Ås / Vinterbro / C1088",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10932,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ås",
-      "nettstasjon": "C1088",
-      "poststed": "Vinterbro",
-      "strombruddoppdaget": 1790167863000,
-      "utkoblingslutt": 1790180823000,
-      "utkoblingstart": 1790167863000
-    }
-  },
-  {
-    "id": "elvia-12285",
+    "id": "elvia-13331",
     "company": "Elvia",
     "type": "planned",
     "customers": 7,
-    "lat": 60.7215242268954,
-    "lng": 11.786348285577832,
-    "start": "23.9.2026, 13:44:30",
-    "end": "23.9.2026, 17:20:30",
-    "areaName": "Våler / Braskereidfoss / ENS00135",
+    "lat": 60.668212422679176,
+    "lng": 10.786901820288874,
+    "start": "23.9.2026, 17:16:10",
+    "end": "23.9.2026, 20:52:10",
+    "areaName": "Østre Toten / Lena / ENS01740",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 12285,
+      "OBJECTID": 13331,
       "antallkunder": 7,
       "avbruddstype": "Unplanned",
-      "kommune": "Våler",
-      "nettstasjon": "ENS00135",
-      "poststed": "Braskereidfoss",
-      "strombruddoppdaget": 1790171070000,
-      "utkoblingslutt": 1790184030000,
-      "utkoblingstart": 1790171070000
-    }
-  },
-  {
-    "id": "elvia-14902",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.81026516523689,
-    "lng": 11.297791773508592,
-    "start": "23.9.2026, 13:06:10",
-    "end": "23.9.2026, 16:42:10",
-    "areaName": "Løten / Løten / ENS03972",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 14902,
-      "antallkunder": 4,
-      "avbruddstype": "Unplanned",
-      "kommune": "Løten",
-      "nettstasjon": "ENS03972",
-      "poststed": "Løten",
-      "strombruddoppdaget": 1790168770000,
-      "utkoblingslutt": 1790181730000,
-      "utkoblingstart": 1790168770000
-    }
-  },
-  {
-    "id": "elvia-18805",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 60.80311130552086,
-    "lng": 11.066817894019675,
-    "start": "23.9.2026, 14:00:00",
-    "end": "23.9.2026, 17:00:00",
-    "areaName": "Hamar / Hamar / ENS10086",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 18805,
-      "antallkunder": 4,
-      "avbruddstype": "Planned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS10086",
-      "poststed": "Hamar",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1790182800000,
-      "utkoblingstart": 1790172000000
-    }
-  },
-  {
-    "id": "elvia-30506",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.37970053365751,
-    "lng": 11.406027346896034,
-    "start": "23.9.2026, 05:48:11",
-    "end": "23.9.2026, 09:24:11",
-    "areaName": "Rakkestad / Degernes / W039",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30506,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W039",
-      "poststed": "Degernes",
-      "strombruddoppdaget": 1790142491000,
-      "utkoblingslutt": 1790155451000,
-      "utkoblingstart": 1790142491000
+      "kommune": "Østre Toten",
+      "nettstasjon": "ENS01740",
+      "poststed": "Lena",
+      "strombruddoppdaget": 1790183770000,
+      "utkoblingslutt": 1790196730000,
+      "utkoblingstart": 1790183770000
     }
   },
   {
@@ -167,25 +75,6 @@
       "strombruddoppdaget": 1789817470000,
       "utkoblingslutt": 1789830430000,
       "utkoblingstart": 1789817470000
-    }
-  },
-  {
-    "id": "fagne-4598401",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.37339572691906,
-    "lng": 5.478464239066071,
-    "start": null,
-    "end": null,
-    "areaName": "TYSVÆR",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "TYSVÆR",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
     }
   },
   {
@@ -280,30 +169,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ØRSTA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3422641",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.15082461607389,
-    "lng": 6.077134748860494,
-    "start": "23.9.2026, 20:00:00",
-    "end": null,
-    "areaName": "VOLDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3422641,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Teinene, Fjellvegen, Skjeravegen og Røyslidvegen onsdag 23.september fra kl. 22:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1790193600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "VOLDA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -624,6 +489,23 @@
     "id": "lnett-planned-1",
     "company": "Lnett",
     "type": "planned",
+    "customers": 3,
+    "lat": 58.85648669491108,
+    "lng": 5.625149115916999,
+    "start": "23.9.2026, 08:32:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 3",
+      "description": "Rettet\nStartet: 2026-09-23 08:32\nSluttid: 2026-09-23 10:50\nPlanlagt strømstans",
+      "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-planned-3",
+    "company": "Lnett",
+    "type": "planned",
     "customers": 72,
     "lat": 58.88387596166126,
     "lng": 6.062053803330886,
@@ -635,23 +517,6 @@
       "name": "Berørte kunder: 72",
       "description": "Rettet\nStartet: 2026-09-23 09:30\nSluttid: 2026-09-23 11:46\nplanlagt strømstans",
       "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-outage-5",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 8,
-    "lat": 58.952731175618624,
-    "lng": 5.738909023577169,
-    "start": "23.9.2026, 13:52:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 8",
-      "description": "Driftsforstyrrelse\nStartet: 2026-09-23 13:52\n15:25 - Det vil gå noen timer med reparasjon, strømmen forventes innkoblet innen kl 20:00.\n14:05 - Graveskade, montør på vei for feilretting",
-      "styleUrl": "#red"
     }
   },
   {
