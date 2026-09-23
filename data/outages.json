@@ -32,26 +32,49 @@
     }
   },
   {
-    "id": "elvia-13331",
+    "id": "elvia-23753",
     "company": "Elvia",
     "type": "planned",
-    "customers": 7,
-    "lat": 60.668212422679176,
-    "lng": 10.786901820288874,
-    "start": "23.9.2026, 17:16:10",
-    "end": "23.9.2026, 20:52:10",
-    "areaName": "Østre Toten / Lena / ENS01740",
+    "customers": 1,
+    "lat": 59.812773707654735,
+    "lng": 10.800017444900867,
+    "start": "23.9.2026, 20:30:00",
+    "end": "24.9.2026, 01:00:00",
+    "areaName": "Nordre Follo / Kolbotn / O0017",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 13331,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Østre Toten",
-      "nettstasjon": "ENS01740",
-      "poststed": "Lena",
-      "strombruddoppdaget": 1790183770000,
-      "utkoblingslutt": 1790196730000,
-      "utkoblingstart": 1790183770000
+      "OBJECTID": 23753,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Nordre Follo",
+      "nettstasjon": "O0017",
+      "poststed": "Kolbotn",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1790211600000,
+      "utkoblingstart": 1790195400000
+    }
+  },
+  {
+    "id": "elvia-28614",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 59.33257239503699,
+    "lng": 10.671046215437332,
+    "start": "23.9.2026, 20:00:00",
+    "end": "24.9.2026, 00:00:00",
+    "areaName": "Moss / Larkollen / Y0227",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28614,
+      "antallkunder": 6,
+      "avbruddstype": "Planned",
+      "kommune": "Moss",
+      "nettstasjon": "Y0227",
+      "poststed": "Larkollen",
+      "strombruddoppdaget": 1790193929560,
+      "utkoblingslutt": 1790208000000,
+      "utkoblingstart": 1790193600000
     }
   },
   {
@@ -78,6 +101,54 @@
     }
   },
   {
+    "id": "linja-outage-3423577",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 32,
+    "lat": 62.29878521970213,
+    "lng": 6.090455021723793,
+    "start": "23.9.2026, 21:00:00",
+    "end": null,
+    "areaName": "ØRSTA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3423577,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Myrevegen og Myrane onsdag 23.september fra kl. 23:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1790197200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "ØRSTA",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 0,
+      "NUM_AB": 32
+    }
+  },
+  {
+    "id": "linja-outage-3431145",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 12,
+    "lat": 61.36043804195433,
+    "lng": 5.1839004660163095,
+    "start": "23.9.2026, 21:00:00",
+    "end": null,
+    "areaName": "ASKVOLL / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3431145,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Dalsfjordvegen og Morkavegen onsdag 23.september fra kl. 23:00 til 02:30.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1790197200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "ASKVOLL",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 12
+    }
+  },
+  {
     "id": "linja-outage-3430677",
     "company": "Linja",
     "type": "outage",
@@ -99,6 +170,30 @@
       "PURCHAREA_TXT": "Linja Sør",
       "NUM_NS": 1,
       "NUM_AB": 1
+    }
+  },
+  {
+    "id": "linja-outage-3422641",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 17,
+    "lat": 62.15082461607389,
+    "lng": 6.077134748860494,
+    "start": "23.9.2026, 20:00:00",
+    "end": null,
+    "areaName": "VOLDA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3422641,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Teinene, Fjellvegen, Skjeravegen og Røyslidvegen onsdag 23.september fra kl. 22:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1790193600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "VOLDA",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 0,
+      "NUM_AB": 17
     }
   },
   {
@@ -174,30 +269,6 @@
     }
   },
   {
-    "id": "linja-planned-3423577",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.29878521970213,
-    "lng": 6.090455021723793,
-    "start": "23.9.2026, 21:00:00",
-    "end": null,
-    "areaName": "ØRSTA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3423577,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Myrevegen og Myrane onsdag 23.september fra kl. 23:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1790197200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "ØRSTA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3430825",
     "company": "Linja",
     "type": "planned",
@@ -217,30 +288,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "KINN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3431145",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.36043804195433,
-    "lng": 5.1839004660163095,
-    "start": "23.9.2026, 21:00:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3431145,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Dalsfjordvegen og Morkavegen onsdag 23.september fra kl. 23:00 til 02:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1790197200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "ASKVOLL",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
