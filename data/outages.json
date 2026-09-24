@@ -1,97 +1,5 @@
 [
   {
-    "id": "elvia-6635",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.888754609088295,
-    "lng": 10.795438593543919,
-    "start": "24.9.2026, 11:25:52",
-    "end": "24.9.2026, 15:01:52",
-    "areaName": "Oslo / Oslo / 1395",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6635,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "1395",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1790249152000,
-      "utkoblingslutt": 1790262112000,
-      "utkoblingstart": 1790249152000
-    }
-  },
-  {
-    "id": "elvia-7499",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 26,
-    "lat": 59.934476570666774,
-    "lng": 10.788195253591372,
-    "start": "24.9.2026, 06:00:00",
-    "end": "24.9.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 2668",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7499,
-      "antallkunder": 26,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2668",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1790254800000,
-      "utkoblingstart": 1790229600000
-    }
-  },
-  {
-    "id": "elvia-12067",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 60.479764089974,
-    "lng": 11.242423136309434,
-    "start": "24.9.2026, 13:32:54",
-    "end": "24.9.2026, 17:08:54",
-    "areaName": "Eidsvoll / Minnesund / E0534",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12067,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0534",
-      "poststed": "Minnesund",
-      "strombruddoppdaget": 1790256774000,
-      "utkoblingslutt": 1790269734000,
-      "utkoblingstart": 1790256774000
-    }
-  },
-  {
-    "id": "elvia-23503",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.102631531248896,
-    "lng": 11.387192261697292,
-    "start": "24.9.2026, 13:26:43",
-    "end": "24.9.2026, 17:02:43",
-    "areaName": "Nes / Årnes / N4045",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 23503,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nes",
-      "nettstasjon": "N4045",
-      "poststed": "Årnes",
-      "strombruddoppdaget": 1790256403000,
-      "utkoblingslutt": 1790269363000,
-      "utkoblingstart": 1790256403000
-    }
-  },
-  {
     "id": "elvia-30694",
     "company": "Elvia",
     "type": "planned",
@@ -112,30 +20,6 @@
       "strombruddoppdaget": 1789817470000,
       "utkoblingslutt": 1789830430000,
       "utkoblingstart": 1789817470000
-    }
-  },
-  {
-    "id": "linja-outage-3431149",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 37,
-    "lat": 61.34766202590916,
-    "lng": 5.078190266222865,
-    "start": "24.9.2026, 11:00:00",
-    "end": null,
-    "areaName": "ASKVOLL / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3431149,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Askvollvegen, Askhaugen og Anders Askevolds Veg torsdag 24.september fra kl. 13:00 til 16:30.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1790247600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "ASKVOLL",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 37
     }
   },
   {
@@ -629,6 +513,23 @@
     }
   },
   {
+    "id": "lnett-planned-9",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 80,
+    "lat": 58.95996214748255,
+    "lng": 5.716541066213948,
+    "start": "24.9.2026, 08:06:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 80",
+      "description": "Rettet\nStartet: 2026-09-24 08:06\nSluttid: 2026-09-24 12:01\nPlanlagt strømstans",
+      "styleUrl": "#green"
+    }
+  },
+  {
     "id": "norgesnett-planned-V-71042-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -903,34 +804,6 @@
       "TIL_DATO": 1790773256000,
       "LOGGTYPE": "Planlagt Kobling",
       "STROMSTANSID": "V-71060-1",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-planned-V-2941-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 33,
-    "lat": 59.231985724000026,
-    "lng": 10.963250721000009,
-    "start": "25.9.2026, 10:30:00",
-    "end": "25.9.2026, 13:00:00",
-    "areaName": "OREDALEN",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1220455,
-      "REFNR": "PL2941",
-      "SEKUNDÆRSTASJON": "OREDALEN",
-      "AVGANG": "H5794",
-      "CNT": 33,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1790332200000,
-      "TIL_DATO": 1790341200000,
-      "LOGGTYPE": "Planlagt Lavspent",
-      "STROMSTANSID": "V-2941-1",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
