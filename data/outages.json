@@ -1,5 +1,29 @@
 [
   {
+    "id": "linja-outage-3443881",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 17,
+    "lat": 62.21216502884132,
+    "lng": 6.250326561603034,
+    "start": "25.9.2026, 19:31:00",
+    "end": null,
+    "areaName": "ØRSTA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3443881,
+      "CUSTOMER_WEB_TEXT": "2150 Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Montører er på vei for feilsøking.\r\n2207 Kunder må forvente ustabil strømforsyning under feilsøkingen.\r\n2246 Vi har funnet feilen, og kommer tilbake med foreløpig rettetid. Kunder må forvente at de vil være strømløse utover kvelden/natten.\r\n2313 Montører henter og setter opp aggregat for midlertidig strømforsyning. Foreløpig rettetid er 02:00",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1790364660000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "ØRSTA",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 1,
+      "NUM_AB": 17
+    }
+  },
+  {
     "id": "linja-planned-3441737",
     "company": "Linja",
     "type": "planned",
@@ -381,23 +405,6 @@
       "MUNICIPAL_TXT": "VESTNES",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-1",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 80,
-    "lat": 58.95996214748255,
-    "lng": 5.716541066213948,
-    "start": "24.9.2026, 08:06:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 80",
-      "description": "Rettet\nStartet: 2026-09-24 08:06\nSluttid: 2026-09-24 12:01\nPlanlagt strømstans",
-      "styleUrl": "#green"
     }
   },
   {
