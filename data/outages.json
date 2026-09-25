@@ -1,52 +1,5 @@
 [
   {
-    "id": "elvia-30694",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 7,
-    "lat": 59.32506269029993,
-    "lng": 11.377707543433344,
-    "start": "19.9.2026, 11:31:10",
-    "end": "19.9.2026, 15:07:10",
-    "areaName": "Rakkestad / Rakkestad / W260",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30694,
-      "antallkunder": 7,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W260",
-      "poststed": "Rakkestad",
-      "strombruddoppdaget": 1789817470000,
-      "utkoblingslutt": 1789830430000,
-      "utkoblingstart": 1789817470000
-    }
-  },
-  {
-    "id": "linja-outage-3443521",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 1,
-    "lat": 62.14105850017202,
-    "lng": 5.248146400341488,
-    "start": "25.9.2026, 13:19:00",
-    "end": null,
-    "areaName": "STAD / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3443521,
-      "CUSTOMER_WEB_TEXT": null,
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1790342340000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "STAD",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 1
-    }
-  },
-  {
     "id": "linja-planned-3441737",
     "company": "Linja",
     "type": "planned",
