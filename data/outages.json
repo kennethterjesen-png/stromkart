@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-6100",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.948303057145225,
-    "lng": 10.64256326842499,
-    "start": "26.9.2026, 12:26:15",
-    "end": "26.9.2026, 16:02:15",
-    "areaName": "Oslo / Oslo / 0628",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6100,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0628",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1790425575000,
-      "utkoblingslutt": 1790438535000,
-      "utkoblingstart": 1790425575000
-    }
-  },
-  {
     "id": "linja-planned-3441737",
     "company": "Linja",
     "type": "planned",
