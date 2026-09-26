@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-12408",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 54,
+    "lat": 61.083362221951944,
+    "lng": 10.489330133708291,
+    "start": "26.9.2026, 20:13:47",
+    "end": "26.9.2026, 23:49:47",
+    "areaName": "Lillehammer / Lillehammer / ENS00335",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 12408,
+      "antallkunder": 54,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lillehammer",
+      "nettstasjon": "ENS00335",
+      "poststed": "Lillehammer",
+      "strombruddoppdaget": 1790453627000,
+      "utkoblingslutt": 1790466587000,
+      "utkoblingstart": 1790453627000
+    }
+  },
+  {
     "id": "linja-planned-3441737",
     "company": "Linja",
     "type": "planned",
