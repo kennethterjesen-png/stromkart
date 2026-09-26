@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-24769",
+    "id": "elvia-6100",
     "company": "Elvia",
     "type": "planned",
-    "customers": 2,
-    "lat": 58.9598816153715,
-    "lng": 11.595479637700496,
-    "start": null,
-    "end": "26.9.2026, 13:10:35",
-    "areaName": "Halden / Kornsjø / Q0642",
+    "customers": 8,
+    "lat": 59.948303057145225,
+    "lng": 10.64256326842499,
+    "start": "26.9.2026, 12:26:15",
+    "end": "26.9.2026, 16:02:15",
+    "areaName": "Oslo / Oslo / 0628",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 24769,
-      "antallkunder": 2,
+      "OBJECTID": 6100,
+      "antallkunder": 8,
       "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0642",
-      "poststed": "Kornsjø",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1790428235000,
-      "utkoblingstart": null
+      "kommune": "Oslo",
+      "nettstasjon": "0628",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1790425575000,
+      "utkoblingslutt": 1790438535000,
+      "utkoblingstart": 1790425575000
     }
   },
   {
