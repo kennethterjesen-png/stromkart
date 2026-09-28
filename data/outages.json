@@ -1,26 +1,26 @@
 [
   {
-    "id": "linja-outage-3446928",
+    "id": "linja-outage-3438972",
     "company": "Linja",
     "type": "outage",
-    "customers": 2,
-    "lat": 61.875158878441475,
-    "lng": 4.990078737490335,
-    "start": "28.9.2026, 12:54:00",
+    "customers": 99,
+    "lat": 62.5800614217124,
+    "lng": 6.9293680333503165,
+    "start": "28.9.2026, 21:00:00",
     "end": null,
-    "areaName": "BREMANGER / Linja Sør",
+    "areaName": "VESTNES / Nordvestnett",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3446928,
-      "CUSTOMER_WEB_TEXT": null,
+      "EVENTID": 3438972,
+      "CUSTOMER_WEB_TEXT": "FROSTAD - TOMRA - LANGSTEIN: På grunn av arbeid i høgspentnettet vert det ein straumstans natt til tirsdag i om lag 7 timar. Berørte kundar er varsla på SMS. ",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1790600040000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "BREMANGER",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 1,
-      "NUM_AB": 2
+      "STARTTIME": 1790629200000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "VESTNES",
+      "PURCHAREA_TXT": "Nordvestnett",
+      "NUM_NS": 7,
+      "NUM_AB": 99
     }
   },
   {
@@ -211,30 +211,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3438972",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.58016750812712,
-    "lng": 6.929536204114062,
-    "start": "28.9.2026, 21:00:00",
-    "end": null,
-    "areaName": "VESTNES / Nordvestnett",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3438972,
-      "CUSTOMER_WEB_TEXT": "FROSTAD - TOMRA - LANGSTEIN: På grunn av arbeid i høgspentnettet vert det ein straumstans natt til tirsdag i om lag 7 timar. Berørte kundar er varsla på SMS. ",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1790629200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Nordvestnett",
-      "MUNICIPAL_TXT": "VESTNES",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
