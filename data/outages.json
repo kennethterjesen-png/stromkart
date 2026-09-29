@@ -1,5 +1,51 @@
 [
   {
+    "id": "elvia-6923",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 18,
+    "lat": 59.91044576609229,
+    "lng": 10.740799801561968,
+    "start": "28.9.2026, 22:01:00",
+    "end": "29.9.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 1851",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6923,
+      "antallkunder": 18,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "1851",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1790654400000,
+      "utkoblingstart": 1790632860000
+    }
+  },
+  {
+    "id": "elvia-7622",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 60,
+    "lat": 59.92727998008032,
+    "lng": 10.767240948933221,
+    "start": "28.9.2026, 22:05:00",
+    "end": "29.9.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 2841",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7622,
+      "antallkunder": 60,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2841",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1790633295870,
+      "utkoblingslutt": 1790654400000,
+      "utkoblingstart": 1790633100000
+    }
+  },
+  {
     "id": "linja-outage-3438972",
     "company": "Linja",
     "type": "outage",
