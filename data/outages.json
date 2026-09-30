@@ -1,25 +1,71 @@
 [
   {
-    "id": "elvia-6970",
+    "id": "elvia-1440",
     "company": "Elvia",
     "type": "planned",
-    "customers": 2,
-    "lat": 59.92862973269096,
-    "lng": 10.752693201080858,
-    "start": "30.9.2026, 06:00:00",
-    "end": "30.9.2026, 18:00:00",
-    "areaName": "Oslo / Oslo / 1924",
+    "customers": 10,
+    "lat": 59.94822920646943,
+    "lng": 10.60089044792137,
+    "start": "30.9.2026, 22:05:00",
+    "end": "1.10.2026, 04:00:00",
+    "areaName": "Bærum / Østerås / B1391",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 6970,
-      "antallkunder": 2,
+      "OBJECTID": 1440,
+      "antallkunder": 10,
+      "avbruddstype": "Planned",
+      "kommune": "Bærum",
+      "nettstasjon": "B1391",
+      "poststed": "Østerås",
+      "strombruddoppdaget": 1790806476610,
+      "utkoblingslutt": 1790827200000,
+      "utkoblingstart": 1790805900000
+    }
+  },
+  {
+    "id": "elvia-6923",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 13,
+    "lat": 59.91044576609229,
+    "lng": 10.740799801561968,
+    "start": "30.9.2026, 22:01:00",
+    "end": "1.10.2026, 04:00:00",
+    "areaName": "Oslo / Oslo / 1851",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 6923,
+      "antallkunder": 13,
       "avbruddstype": "Planned",
       "kommune": "Oslo",
-      "nettstasjon": "1924",
+      "nettstasjon": "1851",
       "poststed": "Oslo",
       "strombruddoppdaget": null,
-      "utkoblingslutt": 1790791200000,
-      "utkoblingstart": 1790748000000
+      "utkoblingslutt": 1790827200000,
+      "utkoblingstart": 1790805660000
+    }
+  },
+  {
+    "id": "elvia-9959",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 15,
+    "lat": 59.94857461326416,
+    "lng": 10.599535110848157,
+    "start": "30.9.2026, 22:05:00",
+    "end": "1.10.2026, 04:00:00",
+    "areaName": "Bærum / Eiksmarka / B0939",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9959,
+      "antallkunder": 15,
+      "avbruddstype": "Planned",
+      "kommune": "Bærum",
+      "nettstasjon": "B0939",
+      "poststed": "Eiksmarka",
+      "strombruddoppdaget": 1790806476610,
+      "utkoblingslutt": 1790827200000,
+      "utkoblingstart": 1790805900000
     }
   },
   {
@@ -43,6 +89,29 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": null,
       "utkoblingstart": null
+    }
+  },
+  {
+    "id": "elvia-25393",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 45,
+    "lat": 59.997625147667485,
+    "lng": 11.087900492966266,
+    "start": "30.9.2026, 22:00:00",
+    "end": "1.10.2026, 04:00:00",
+    "areaName": "Lillestrøm / Leirsund / S0751",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 25393,
+      "antallkunder": 45,
+      "avbruddstype": "Planned",
+      "kommune": "Lillestrøm",
+      "nettstasjon": "S0751",
+      "poststed": "Leirsund",
+      "strombruddoppdaget": 1790805679543,
+      "utkoblingslutt": 1790827200000,
+      "utkoblingstart": 1790805600000
     }
   },
   {
@@ -334,30 +403,6 @@
     }
   },
   {
-    "id": "linja-planned-3445241",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.77137246521057,
-    "lng": 6.222306819991219,
-    "start": "30.9.2026, 21:30:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3445241,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gotevegen og Ulvesbakken onsdag 30.september fra kl. 23:30 til 01:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1790803800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3448037",
     "company": "Linja",
     "type": "planned",
@@ -502,24 +547,7 @@
     }
   },
   {
-    "id": "lnett-planned-11",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 28,
-    "lat": 58.96068118668973,
-    "lng": 5.716144195493732,
-    "start": "29.9.2026, 08:32:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 28",
-      "description": "Rettet\nStartet: 2026-09-29 08:32\nSluttid: 2026-09-29 12:00\nplanlagt strømstans",
-      "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-outage-21",
+    "id": "lnett-outage-1",
     "company": "Lnett",
     "type": "outage",
     "customers": 3,
