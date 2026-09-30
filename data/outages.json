@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 61.569411922400626,
-    "lng": 6.483490275044024,
-    "start": null,
-    "end": null,
-    "areaName": "Sunnfjord",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9965665,
-      "MUNICIPAL_TXT": "Sunnfjord",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1790715600000,
-      "TIMELIMIT": 1790740800000,
-      "NUM_AB": 32,
-      "CUSTOMER_WEB_TEXT": "6843 SKEI I JØLSTER; OSPENE,KJØSNESFJORDVEGEN,SKEI,VIKAVEGEN,SKEI BARNEHAGE,KOMMUNEHUS K.",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 1,
-      "LAST_UPDATED": 1790716369000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-254",
     "company": "Elvia",
     "type": "planned",
