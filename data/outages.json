@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-1440",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.94822920646943,
-    "lng": 10.60089044792137,
-    "start": "30.9.2026, 22:05:00",
-    "end": "1.10.2026, 04:00:00",
-    "areaName": "Bærum / Østerås / B1391",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 1440,
-      "antallkunder": 10,
-      "avbruddstype": "Planned",
-      "kommune": "Bærum",
-      "nettstasjon": "B1391",
-      "poststed": "Østerås",
-      "strombruddoppdaget": 1790806476610,
-      "utkoblingslutt": 1790827200000,
-      "utkoblingstart": 1790805900000
-    }
-  },
-  {
     "id": "elvia-6923",
     "company": "Elvia",
     "type": "planned",
@@ -46,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-9959",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 15,
-    "lat": 59.94857461326416,
-    "lng": 10.599535110848157,
-    "start": "30.9.2026, 22:05:00",
-    "end": "1.10.2026, 04:00:00",
-    "areaName": "Bærum / Eiksmarka / B0939",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 9959,
-      "antallkunder": 15,
-      "avbruddstype": "Planned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0939",
-      "poststed": "Eiksmarka",
-      "strombruddoppdaget": 1790806476610,
-      "utkoblingslutt": 1790827200000,
-      "utkoblingstart": 1790805900000
-    }
-  },
-  {
     "id": "elvia-10777",
     "company": "Elvia",
     "type": "planned",
@@ -89,29 +43,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": null,
       "utkoblingstart": null
-    }
-  },
-  {
-    "id": "elvia-25393",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 45,
-    "lat": 59.997625147667485,
-    "lng": 11.087900492966266,
-    "start": "30.9.2026, 22:00:00",
-    "end": "1.10.2026, 04:00:00",
-    "areaName": "Lillestrøm / Leirsund / S0751",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25393,
-      "antallkunder": 45,
-      "avbruddstype": "Planned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0751",
-      "poststed": "Leirsund",
-      "strombruddoppdaget": 1790805679543,
-      "utkoblingslutt": 1790827200000,
-      "utkoblingstart": 1790805600000
     }
   },
   {
