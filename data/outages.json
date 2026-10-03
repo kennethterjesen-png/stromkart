@@ -1,5 +1,60 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 60.145184524635155,
+    "lng": 5.3769245031727495,
+    "start": null,
+    "end": null,
+    "areaName": "Bjørnafjorden",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 9978351,
+      "MUNICIPAL_TXT": "Bjørnafjorden",
+      "TYPE_TXT": "Utkobling",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1791021600000,
+      "TIMELIMIT": 1791028800000,
+      "NUM_AB": 3,
+      "CUSTOMER_WEB_TEXT": null,
+      "GRIDLEVEL_TXT": "Lav",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1791021623000,
+      "SCHEDULED_SMS_DAYS_BEFORE": 3,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "elvia-7417",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 13,
+    "lat": 59.929629446331916,
+    "lng": 10.804278302975396,
+    "start": "2.10.2026, 11:43:05",
+    "end": "2.10.2026, 15:28:05",
+    "areaName": "Oslo / Oslo / 2548",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7417,
+      "antallkunder": 13,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "2548",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1790941385624,
+      "utkoblingslutt": 1790954885000,
+      "utkoblingstart": 1790941385624
+    }
+  },
+  {
     "id": "elvia-10777",
     "company": "Elvia",
     "type": "planned",
@@ -23,49 +78,27 @@
     }
   },
   {
-    "id": "elvia-22724",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 16,
-    "lat": 59.9271284639768,
-    "lng": 10.930831204495181,
-    "start": "2.10.2026, 19:49:49",
-    "end": "2.10.2026, 23:25:49",
-    "areaName": "Lørenskog / Lørenskog / L0083",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "id": "linja-outage-3457701",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 40,
+    "lat": 62.255164669320436,
+    "lng": 5.5691399815632,
+    "start": "3.10.2026, 06:58:00",
+    "end": null,
+    "areaName": "SANDE / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "OBJECTID": 22724,
-      "antallkunder": 16,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0083",
-      "poststed": "Lørenskog",
-      "strombruddoppdaget": 1790970589000,
-      "utkoblingslutt": 1790983549000,
-      "utkoblingstart": 1790970589000
-    }
-  },
-  {
-    "id": "elvia-24403",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 31,
-    "lat": 59.14424357683557,
-    "lng": 11.38585176856062,
-    "start": "3.10.2026, 04:40:30",
-    "end": "3.10.2026, 08:16:30",
-    "areaName": "Halden / Halden / Q0171",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24403,
-      "antallkunder": 31,
-      "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0171",
-      "poststed": "Halden",
-      "strombruddoppdaget": 1791002430000,
-      "utkoblingslutt": 1791015390000,
-      "utkoblingstart": 1791002430000
+      "EVENTID": 3457701,
+      "CUSTOMER_WEB_TEXT": "10:10 Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Rettetid kl. 13\r\nDet blir straumstans på Sandanger, Grøtbug og Hermetikken frå kl. 12 til kl.13 pga feilreting på Muren",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1791010680000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "SANDE",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 5,
+      "NUM_AB": 40
     }
   },
   {
@@ -88,30 +121,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "SANDE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3451509",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.98264777567814,
-    "lng": 5.135578553175551,
-    "start": "7.10.2026, 20:30:00",
-    "end": null,
-    "areaName": "KINN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3451509,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nedrevegen og Gartnarmarka fra onsdag 7. oktober kl. 22:30 til torsdag 8. oktober kl. 06:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1791405000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "KINN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -184,30 +193,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Nord",
       "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3451429",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.30199016817842,
-    "lng": 6.088977434257274,
-    "start": "6.10.2026, 07:00:00",
-    "end": null,
-    "areaName": "ØRSTA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3451429,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Myrevegen og Hamnevegen tirsdag 6. oktober fra kl. 09:00 til kl. 15:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1791270000000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "ØRSTA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -309,6 +294,30 @@
     }
   },
   {
+    "id": "linja-planned-3451509",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 61.98264777567814,
+    "lng": 5.135578553175551,
+    "start": "7.10.2026, 20:30:00",
+    "end": null,
+    "areaName": "KINN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3451509,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nedrevegen og Gartnarmarka fra onsdag 7. oktober kl. 22:30 til torsdag 8. oktober kl. 06:00",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1791405000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Sør",
+      "MUNICIPAL_TXT": "KINN",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
     "id": "linja-planned-3456845",
     "company": "Linja",
     "type": "planned",
@@ -325,9 +334,33 @@
       "STATE_TXT": "Godkjent",
       "STARTTIME": 1791356400000,
       "TYPE_TXT": "Utkobling",
-      "FLAG": 129,
+      "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "STRANDA",
+      "NUM_NS": 0,
+      "NUM_AB": 0
+    }
+  },
+  {
+    "id": "linja-planned-3451429",
+    "company": "Linja",
+    "type": "planned",
+    "customers": 0,
+    "lat": 62.30199016817842,
+    "lng": 6.088977434257274,
+    "start": "6.10.2026, 07:00:00",
+    "end": null,
+    "areaName": "ØRSTA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3451429,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Myrevegen og Hamnevegen tirsdag 6. oktober fra kl. 09:00 til kl. 15:00",
+      "STATE_TXT": "Godkjent",
+      "STARTTIME": 1791270000000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "PURCHAREA_TXT": "Linja Midt",
+      "MUNICIPAL_TXT": "ØRSTA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -426,6 +459,23 @@
       "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-outage-5",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 2023,
+    "lat": 58.99089962939814,
+    "lng": 5.787481421140525,
+    "start": "3.10.2026, 12:28:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 2023",
+      "description": "Driftsforstyrrelse\nStartet: 2026-10-03 12:28\nStrømbrudd",
+      "styleUrl": "#red"
     }
   },
   {
