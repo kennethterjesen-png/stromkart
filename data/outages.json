@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-7417",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.929629446331916,
-    "lng": 10.804278302975396,
-    "start": "2.10.2026, 11:43:05",
-    "end": "2.10.2026, 15:28:05",
-    "areaName": "Oslo / Oslo / 2548",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7417,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2548",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1790941385624,
-      "utkoblingslutt": 1790954885000,
-      "utkoblingstart": 1790941385624
-    }
-  },
-  {
     "id": "elvia-10777",
     "company": "Elvia",
     "type": "planned",
@@ -46,26 +23,26 @@
     }
   },
   {
-    "id": "elvia-22672",
+    "id": "elvia-30649",
     "company": "Elvia",
     "type": "planned",
-    "customers": 12,
-    "lat": 59.91911791982623,
-    "lng": 10.941456039264764,
-    "start": "3.10.2026, 14:35:04",
-    "end": "3.10.2026, 18:11:04",
-    "areaName": "Lørenskog / Lørenskog / L0014",
+    "customers": 1,
+    "lat": 59.366530203031395,
+    "lng": 11.469009835094095,
+    "start": "3.10.2026, 17:08:59",
+    "end": "3.10.2026, 20:44:59",
+    "areaName": "Rakkestad / Degernes / W203",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 22672,
-      "antallkunder": 12,
+      "OBJECTID": 30649,
+      "antallkunder": 1,
       "avbruddstype": "Unplanned",
-      "kommune": "Lørenskog",
-      "nettstasjon": "L0014",
-      "poststed": "Lørenskog",
-      "strombruddoppdaget": 1791038104000,
-      "utkoblingslutt": 1791051064000,
-      "utkoblingstart": 1791038104000
+      "kommune": "Rakkestad",
+      "nettstasjon": "W203",
+      "poststed": "Degernes",
+      "strombruddoppdaget": 1791047339000,
+      "utkoblingslutt": 1791060299000,
+      "utkoblingstart": 1791047339000
     }
   },
   {
@@ -429,23 +406,6 @@
     }
   },
   {
-    "id": "lnett-outage-9",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 2023,
-    "lat": 58.99089962939814,
-    "lng": 5.787481421140525,
-    "start": "3.10.2026, 16:28:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 2023",
-      "description": "Driftsforstyrrelse\nStartet: 2026-10-03 16:28\nNyt utfall. Vi forsøker å gjøre tiltak i nettet for å hindre nye utfall, men vi vet pr. nå ikke hva eller hvor feilen er.",
-      "styleUrl": "#red"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2954-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -608,6 +568,34 @@
       "TIL_DATO": 1791795600000,
       "LOGGTYPE": "Planlagt Lavspent",
       "STROMSTANSID": "V-2944-1",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-71106-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 31,
+    "lat": 59.777780635,
+    "lng": 10.915637155000013,
+    "start": "16.10.2026, 06:30:25",
+    "end": "16.10.2026, 12:00:25",
+    "areaName": "BRU",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1220721,
+      "REFNR": "P71106",
+      "SEKUNDÆRSTASJON": "BRU",
+      "AVGANG": "L21",
+      "CNT": 31,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1792132225000,
+      "TIL_DATO": 1792152025000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "STROMSTANSID": "V-71106-1",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
