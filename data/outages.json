@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.145184524635155,
-    "lng": 5.3769245031727495,
-    "start": null,
-    "end": null,
-    "areaName": "Bjørnafjorden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9978351,
-      "MUNICIPAL_TXT": "Bjørnafjorden",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1791021600000,
-      "TIMELIMIT": 1791028800000,
-      "NUM_AB": 3,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1791021623000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-7417",
     "company": "Elvia",
     "type": "planned",
@@ -78,27 +46,26 @@
     }
   },
   {
-    "id": "linja-outage-3457701",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 40,
-    "lat": 62.255164669320436,
-    "lng": 5.5691399815632,
-    "start": "3.10.2026, 06:58:00",
-    "end": null,
-    "areaName": "SANDE / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
+    "id": "elvia-22672",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.91911791982623,
+    "lng": 10.941456039264764,
+    "start": "3.10.2026, 14:35:04",
+    "end": "3.10.2026, 18:11:04",
+    "areaName": "Lørenskog / Lørenskog / L0014",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "EVENTID": 3457701,
-      "CUSTOMER_WEB_TEXT": "10:10 Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Rettetid kl. 13\r\nDet blir straumstans på Sandanger, Grøtbug og Hermetikken frå kl. 12 til kl.13 pga feilreting på Muren",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1791010680000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 129,
-      "MUNICIPAL_TXT": "SANDE",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 5,
-      "NUM_AB": 40
+      "OBJECTID": 22672,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Lørenskog",
+      "nettstasjon": "L0014",
+      "poststed": "Lørenskog",
+      "strombruddoppdaget": 1791038104000,
+      "utkoblingslutt": 1791051064000,
+      "utkoblingstart": 1791038104000
     }
   },
   {
@@ -462,19 +429,19 @@
     }
   },
   {
-    "id": "lnett-outage-5",
+    "id": "lnett-outage-9",
     "company": "Lnett",
     "type": "outage",
     "customers": 2023,
     "lat": 58.99089962939814,
     "lng": 5.787481421140525,
-    "start": "3.10.2026, 12:28:00",
+    "start": "3.10.2026, 16:28:00",
     "end": null,
     "areaName": "Driftsforstyrrelse",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 2023",
-      "description": "Driftsforstyrrelse\nStartet: 2026-10-03 12:28\nStrømbrudd",
+      "description": "Driftsforstyrrelse\nStartet: 2026-10-03 16:28\nNyt utfall. Vi forsøker å gjøre tiltak i nettet for å hindre nye utfall, men vi vet pr. nå ikke hva eller hvor feilen er.",
       "styleUrl": "#red"
     }
   },
