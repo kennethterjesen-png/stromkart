@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-30649",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.366530203031395,
-    "lng": 11.469009835094095,
-    "start": "3.10.2026, 17:08:59",
-    "end": "3.10.2026, 20:44:59",
-    "areaName": "Rakkestad / Degernes / W203",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 30649,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W203",
-      "poststed": "Degernes",
-      "strombruddoppdaget": 1791047339000,
-      "utkoblingslutt": 1791060299000,
-      "utkoblingstart": 1791047339000
-    }
-  },
-  {
     "id": "linja-planned-3451889",
     "company": "Linja",
     "type": "planned",
