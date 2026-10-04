@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-10777",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.66635605687173,
-    "lng": 10.75018530162384,
-    "start": null,
-    "end": null,
-    "areaName": "Ås / Ås / C0189",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10777,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ås",
-      "nettstasjon": "C0189",
-      "poststed": "Ås",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": null,
-      "utkoblingstart": null
-    }
-  },
-  {
     "id": "linja-planned-3451889",
     "company": "Linja",
     "type": "planned",
