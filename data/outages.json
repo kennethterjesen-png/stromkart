@@ -1,25 +1,48 @@
 [
   {
-    "id": "elvia-7190",
+    "id": "elvia-11185",
     "company": "Elvia",
     "type": "planned",
-    "customers": 5,
-    "lat": 59.877158683368634,
-    "lng": 10.760171170430109,
-    "start": "4.10.2026, 14:22:59",
-    "end": "4.10.2026, 17:58:59",
-    "areaName": "Oslo / Oslo / 2245",
+    "customers": 6,
+    "lat": 59.872642968817544,
+    "lng": 10.536934406379373,
+    "start": "4.10.2026, 16:41:30",
+    "end": "4.10.2026, 20:17:30",
+    "areaName": "Asker / Nesøya / D0241",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 7190,
-      "antallkunder": 5,
+      "OBJECTID": 11185,
+      "antallkunder": 6,
       "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2245",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1791123779000,
-      "utkoblingslutt": 1791136739000,
-      "utkoblingstart": 1791123779000
+      "kommune": "Asker",
+      "nettstasjon": "D0241",
+      "poststed": "Nesøya",
+      "strombruddoppdaget": 1791132090000,
+      "utkoblingslutt": 1791145050000,
+      "utkoblingstart": 1791132090000
+    }
+  },
+  {
+    "id": "elvia-24672",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 18,
+    "lat": 59.10035913976457,
+    "lng": 11.270142735791655,
+    "start": "4.10.2026, 17:48:54",
+    "end": "4.10.2026, 21:24:54",
+    "areaName": "Halden / Berg i østfold / Q0494",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24672,
+      "antallkunder": 18,
+      "avbruddstype": "Unplanned",
+      "kommune": "Halden",
+      "nettstasjon": "Q0494",
+      "poststed": "Berg i østfold",
+      "strombruddoppdaget": 1791136134000,
+      "utkoblingslutt": 1791149094000,
+      "utkoblingstart": 1791136134000
     }
   },
   {
@@ -35,7 +58,7 @@
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
       "EVENTID": 3458109,
-      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. \r\n14:10 Straumlaust mellom gangsøy og husevåg pga feil. Vi sender ut personell. Rettetid uviss.\r\n15:10 Vi har fått opplysningar om sannsynleg feilstad. Ferga er innstilt, Men den vil truleg gå ut seinare i kveld.\r\n17:30 Tytingvåg og Verpesvik vil truleg få tilbake straumen rundt kl. 18. Resterande uvisst. Litt avhengig av ferga. Dvs i kveld.",
+      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. \r\n14:10 Straumlaust mellom gangsøy og husevåg pga feil. Vi sender ut personell. Rettetid uviss.\r\n15:10 Vi har fått opplysningar om sannsynleg feilstad. Ferga er innstilt, Men den vil truleg gå ut seinare i kveld.\r\n17:30 Tytingvåg og Verpesvik vil truleg få tilbake straumen rundt kl. 18. Resterande uvisst. Litt avhengig av ferga. Dvs i kveld.\r\n20:30 Feilretting pågåg. Forventet rettetid ca kl. 2200",
       "STATE_TXT": "Pågående",
       "STARTTIME": 1791115440000,
       "TYPE_TXT": "Driftsforstyrrelse",
