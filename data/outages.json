@@ -78,29 +78,6 @@
     }
   },
   {
-    "id": "elvia-19364",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 20,
-    "lat": 60.68297608177217,
-    "lng": 10.592272620944925,
-    "start": "5.10.2026, 19:29:30",
-    "end": "5.10.2026, 23:05:30",
-    "areaName": "Vestre Toten / Reinsvoll / ENS10889",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 19364,
-      "antallkunder": 20,
-      "avbruddstype": "Unplanned",
-      "kommune": "Vestre Toten",
-      "nettstasjon": "ENS10889",
-      "poststed": "Reinsvoll",
-      "strombruddoppdaget": 1791228570000,
-      "utkoblingslutt": 1791241530000,
-      "utkoblingstart": 1791228570000
-    }
-  },
-  {
     "id": "elvia-25430",
     "company": "Elvia",
     "type": "planned",
@@ -144,6 +121,52 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1791198000000,
       "utkoblingstart": 1791183600000
+    }
+  },
+  {
+    "id": "elvia-27728",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 38,
+    "lat": 59.26996002012627,
+    "lng": 11.175510476840715,
+    "start": "5.10.2026, 00:21:37",
+    "end": "6.10.2026, 03:07:32",
+    "areaName": "Sarpsborg / Borgenhaugen / X0613",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27728,
+      "antallkunder": 38,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0613",
+      "poststed": "Borgenhaugen",
+      "strombruddoppdaget": 1791159697000,
+      "utkoblingslutt": 1791256052000,
+      "utkoblingstart": 1791159697000
+    }
+  },
+  {
+    "id": "elvia-27754",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 75,
+    "lat": 59.26789825256193,
+    "lng": 11.176616078392959,
+    "start": "5.10.2026, 00:21:37",
+    "end": "6.10.2026, 03:07:32",
+    "areaName": "Sarpsborg / Borgenhaugen / X0643",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 27754,
+      "antallkunder": 75,
+      "avbruddstype": "Unplanned",
+      "kommune": "Sarpsborg",
+      "nettstasjon": "X0643",
+      "poststed": "Borgenhaugen",
+      "strombruddoppdaget": 1791159697000,
+      "utkoblingslutt": 1791256052000,
+      "utkoblingstart": 1791159697000
     }
   },
   {
