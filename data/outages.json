@@ -96,29 +96,6 @@
     }
   },
   {
-    "id": "elvia-21543",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.85011010668576,
-    "lng": 11.216267343261,
-    "start": "9.10.2026, 13:02:39",
-    "end": "9.10.2026, 16:38:39",
-    "areaName": "Lillestrøm / Gan / F3320",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21543,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "F3320",
-      "poststed": "Gan",
-      "strombruddoppdaget": 1791550959000,
-      "utkoblingslutt": 1791563919000,
-      "utkoblingstart": 1791550959000
-    }
-  },
-  {
     "id": "fagne-4674933",
     "company": "Fagne",
     "type": "planned",
