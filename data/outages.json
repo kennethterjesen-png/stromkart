@@ -115,6 +115,30 @@
     }
   },
   {
+    "id": "linja-outage-3470809",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 82,
+    "lat": 62.00534128141774,
+    "lng": 5.844816198433751,
+    "start": "9.10.2026, 23:22:00",
+    "end": null,
+    "areaName": "VOLDA",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3470809,
+      "CUSTOMER_WEB_TEXT": "Feil i område Dalsfjorden. Mannskap på vei for feilsøking. ",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1791588120000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 129,
+      "MUNICIPAL_TXT": "VOLDA",
+      "PURCHAREA_TXT": null,
+      "NUM_NS": 9,
+      "NUM_AB": 82
+    }
+  },
+  {
     "id": "linja-planned-3459716",
     "company": "Linja",
     "type": "planned",
@@ -1051,6 +1075,23 @@
     }
   },
   {
+    "id": "lnett-outage-1",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 20,
+    "lat": 58.98128688401266,
+    "lng": 5.709918900296215,
+    "start": "9.10.2026, 23:45:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 20",
+      "description": "Driftsforstyrrelse\nStartet: 2026-10-09 23:45\n01:00 Montør har tatt strømmen for å utbedre feilen.\n23:45 Det er en lokal feil i strømnettet.",
+      "styleUrl": "#red"
+    }
+  },
+  {
     "id": "norgesnett-planned-V-71120-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1297,6 +1338,34 @@
       "TIL_DATO": 1792155600000,
       "LOGGTYPE": "Planlagt Lavspent",
       "STROMSTANSID": "V-2961-1",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-71123-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 23,
+    "lat": 60.52186252600001,
+    "lng": 5.013361859999975,
+    "start": "20.10.2026, 07:00:42",
+    "end": "20.10.2026, 10:00:42",
+    "areaName": "MERKESVIK",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1220805,
+      "REFNR": "P71123",
+      "SEKUNDÆRSTASJON": "MERKESVIK",
+      "AVGANG": "FAUSKANGER",
+      "CNT": 23,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1792479642000,
+      "TIL_DATO": 1792490442000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "STROMSTANSID": "V-71123-1",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
