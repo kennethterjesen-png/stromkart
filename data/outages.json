@@ -4,6 +4,38 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
+    "lat": 60.449487709412224,
+    "lng": 5.317918252599357,
+    "start": null,
+    "end": null,
+    "areaName": "Bergen",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 10013448,
+      "MUNICIPAL_TXT": "Bergen",
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1791645180000,
+      "TIMELIMIT": 1791655200000,
+      "NUM_AB": 10,
+      "CUSTOMER_WEB_TEXT": null,
+      "GRIDLEVEL_TXT": "Lav",
+      "REASON_TXT": null,
+      "NUM_NS": 0,
+      "LAST_UPDATED": 1791646829000,
+      "SCHEDULED_SMS_DAYS_BEFORE": -1,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 0,
+      "NUM_AB_REGAINED": 0,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
+    "id": "bkk-1",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
     "lat": 60.35587661793388,
     "lng": 5.366290408943418,
     "start": null,
@@ -32,7 +64,7 @@
     }
   },
   {
-    "id": "bkk-1",
+    "id": "bkk-2",
     "company": "BKK",
     "type": "outage",
     "customers": 0,
@@ -64,7 +96,7 @@
     }
   },
   {
-    "id": "bkk-2",
+    "id": "bkk-3",
     "company": "BKK",
     "type": "outage",
     "customers": 0,
@@ -96,26 +128,95 @@
     }
   },
   {
-    "id": "elvia-24769",
+    "id": "elvia-2768",
     "company": "Elvia",
     "type": "planned",
-    "customers": 2,
-    "lat": 58.9598816153715,
-    "lng": 11.595479637700496,
-    "start": "10.10.2026, 11:15:55",
-    "end": "10.10.2026, 14:51:55",
-    "areaName": "Halden / Kornsjø / Q0642",
+    "customers": 1,
+    "lat": 60.165961472078365,
+    "lng": 12.20540304630134,
+    "start": "10.10.2026, 14:01:10",
+    "end": "10.10.2026, 17:46:10",
+    "areaName": "Kongsvinger / Austmarka / ENS07705",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 24769,
-      "antallkunder": 2,
+      "OBJECTID": 2768,
+      "antallkunder": 1,
       "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0642",
-      "poststed": "Kornsjø",
-      "strombruddoppdaget": 1791630955000,
-      "utkoblingslutt": 1791643915000,
-      "utkoblingstart": 1791630955000
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS07705",
+      "poststed": "Austmarka",
+      "strombruddoppdaget": 1791640870844,
+      "utkoblingslutt": 1791654370000,
+      "utkoblingstart": 1791640870844
+    }
+  },
+  {
+    "id": "elvia-17252",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 60.16312805285781,
+    "lng": 12.184486259304666,
+    "start": "10.10.2026, 14:01:10",
+    "end": "10.10.2026, 17:46:10",
+    "areaName": "Kongsvinger / Kongsvinger / ENS07706",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17252,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS07706",
+      "poststed": "Kongsvinger",
+      "strombruddoppdaget": 1791640870844,
+      "utkoblingslutt": 1791654370000,
+      "utkoblingstart": 1791640870844
+    }
+  },
+  {
+    "id": "elvia-17253",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 19,
+    "lat": 60.18232077988554,
+    "lng": 12.157802490485578,
+    "start": "10.10.2026, 14:01:10",
+    "end": "10.10.2026, 17:46:10",
+    "areaName": "Kongsvinger / Kongsvinger / ENS07713",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 17253,
+      "antallkunder": 19,
+      "avbruddstype": "Unplanned",
+      "kommune": "Kongsvinger",
+      "nettstasjon": "ENS07713",
+      "poststed": "Kongsvinger",
+      "strombruddoppdaget": 1791640870844,
+      "utkoblingslutt": 1791654370000,
+      "utkoblingstart": 1791640870844
+    }
+  },
+  {
+    "id": "elvia-19490",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 60.83214625495668,
+    "lng": 11.67501790918404,
+    "start": "10.10.2026, 16:00:50",
+    "end": "10.10.2026, 19:36:50",
+    "areaName": "Elverum / Heradsbygd / ENS11063",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 19490,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Elverum",
+      "nettstasjon": "ENS11063",
+      "poststed": "Heradsbygd",
+      "strombruddoppdaget": 1791648050000,
+      "utkoblingslutt": 1791661010000,
+      "utkoblingstart": 1791648050000
     }
   },
   {
@@ -1071,23 +1172,6 @@
       "MUNICIPAL_TXT": "STRANDA",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-5",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 134,
-    "lat": 58.96366507119572,
-    "lng": 5.691849639787783,
-    "start": "10.10.2026, 08:00:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 134",
-      "description": "Planlagt strømstans\nStartet: 2026-10-10 08:00\nPlanlagt ferdig: 2026-10-10 15:00",
-      "styleUrl": "#yellow"
     }
   },
   {
