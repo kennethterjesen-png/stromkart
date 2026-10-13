@@ -4,38 +4,6 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.41778407787345,
-    "lng": 5.474178384838252,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 10020782,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1791896640000,
-      "TIMELIMIT": 1791907200000,
-      "NUM_AB": 42,
-      "CUSTOMER_WEB_TEXT": "5260 INDRE ARNA; ARHAUGEN\r\n5261 INDRE ARNA; VOLLAVEGEN\r\n5262 ARNATVEIT; ARNATVEITVEGEN,LANGEREKKJA,ARNATVEITLIA,STUAJORDET,OPPETVEITEN,STØLSVEGEN,HØLBEKKEN,NYLENDET,STRUTHAUGEN,EIKHAUGEN\r\n5267 ESPELAND; MOLDALIA",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 1,
-      "LAST_UPDATED": 1791904032000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 11,
-      "NUM_AB_REGAINED": 806,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
     "lat": 60.373238135031684,
     "lng": 5.361568750905486,
     "start": null,
@@ -87,65 +55,27 @@
     }
   },
   {
-    "id": "fagne-4712380",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 33,
-    "lat": 59.401443216878505,
-    "lng": 5.29615271125262,
-    "start": null,
-    "end": null,
-    "areaName": "HAUGESUND",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "HAUGESUND",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4711092",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 109,
-    "lat": 59.2909760888113,
-    "lng": 5.363461522884565,
-    "start": null,
-    "end": null,
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "linja-outage-3464357",
+    "id": "linja-outage-3451889",
     "company": "Linja",
     "type": "outage",
-    "customers": 8,
-    "lat": 62.0835048682188,
-    "lng": 6.8725834171280695,
-    "start": "13.10.2026, 14:00:00",
+    "customers": 226,
+    "lat": 62.261949697087644,
+    "lng": 5.572366182305703,
+    "start": "13.10.2026, 20:00:00",
     "end": null,
-    "areaName": "STRANDA / Linja Midt",
+    "areaName": "SANDE / Linja Midt",
     "sourceUrl": "https://www.linja.no/straumbrot",
     "raw": {
-      "EVENTID": 3464357,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bygda 1 tirsdag 13. oktober fra kl. 16:00 til 19:00",
+      "EVENTID": 3451889,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gjerdsvika fra tirsdag 13. oktober kl. 22:00 til onsdag 14. oktober kl. 06:00",
       "STATE_TXT": "Pågående",
-      "STARTTIME": 1791900000000,
+      "STARTTIME": 1791921600000,
       "TYPE_TXT": "Utkobling",
       "FLAG": 400,
-      "MUNICIPAL_TXT": "STRANDA",
+      "MUNICIPAL_TXT": "SANDE",
       "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 0,
-      "NUM_AB": 8
+      "NUM_NS": 17,
+      "NUM_AB": 226
     }
   },
   {
@@ -485,30 +415,6 @@
     }
   },
   {
-    "id": "linja-planned-3451889",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.26201699575368,
-    "lng": 5.572564123530502,
-    "start": "13.10.2026, 20:00:00",
-    "end": null,
-    "areaName": "SANDE / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3451889,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gjerdsvika fra tirsdag 13. oktober kl. 22:00 til onsdag 14. oktober kl. 06:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1791921600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "SANDE",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3465221",
     "company": "Linja",
     "type": "planned",
@@ -653,30 +559,6 @@
     }
   },
   {
-    "id": "linja-planned-3465113",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.03835056706308,
-    "lng": 6.9627277285471,
-    "start": "13.10.2026, 18:00:00",
-    "end": null,
-    "areaName": "STRANDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3465113,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Frøysa tirsdag 13. oktober fra kl. 20:00 til 23:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1791914400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 384,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3465181",
     "company": "Linja",
     "type": "planned",
@@ -766,23 +648,6 @@
     }
   },
   {
-    "id": "lnett-planned-13",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 19,
-    "lat": 58.82596543965135,
-    "lng": 5.75132093009617,
-    "start": "13.10.2026, 08:30:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 19",
-      "description": "Planlagt strømstans\nStartet: 2026-10-13 08:30\nPlanlagt ferdig: 2026-10-13 15:00\nPlanlagt strømstans.",
-      "styleUrl": "#yellow"
-    }
-  },
-  {
     "id": "lnett-planned-15",
     "company": "Lnett",
     "type": "planned",
@@ -795,8 +660,25 @@
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
       "name": "Berørte kunder: 25",
-      "description": "Planlagt strømstans\nStartet: 2026-10-13 08:00\nPlanlagt ferdig: 2026-10-13 14:00\nPlanlagt strømstans.",
-      "styleUrl": "#yellow"
+      "description": "Rettet\nStartet: 2026-10-13 08:00\nSluttid: 2026-10-13 14:00\nPlanlagt strømstans.",
+      "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-planned-17",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 19,
+    "lat": 58.82596543965135,
+    "lng": 5.75132093009617,
+    "start": "13.10.2026, 08:30:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 19",
+      "description": "Rettet\nStartet: 2026-10-13 08:30\nSluttid: 2026-10-13 15:00\nPlanlagt strømstans.",
+      "styleUrl": "#green"
     }
   },
   {
