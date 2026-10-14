@@ -55,29 +55,6 @@
     }
   },
   {
-    "id": "elvia-6268",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 83,
-    "lat": 59.94863852765932,
-    "lng": 10.704341705169034,
-    "start": "13.10.2026, 21:00:00",
-    "end": "14.10.2026, 02:49:00",
-    "areaName": "Oslo / Oslo / 0871",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6268,
-      "antallkunder": 83,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0871",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1791926713793,
-      "utkoblingslutt": 1791946140000,
-      "utkoblingstart": 1791925200000
-    }
-  },
-  {
     "id": "elvia-6751",
     "company": "Elvia",
     "type": "planned",
@@ -121,99 +98,6 @@
       "strombruddoppdaget": 1791929201917,
       "utkoblingslutt": 1791950400000,
       "utkoblingstart": 1791929100000
-    }
-  },
-  {
-    "id": "elvia-7799",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 42,
-    "lat": 59.90653932709569,
-    "lng": 10.853731460124804,
-    "start": "13.10.2026, 06:00:00",
-    "end": "15.10.2026, 12:00:00",
-    "areaName": "Oslo / Oslo / 3108",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 7799,
-      "antallkunder": 42,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "3108",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1791875025160,
-      "utkoblingslutt": 1792065600000,
-      "utkoblingstart": 1791871200000
-    }
-  },
-  {
-    "id": "elvia-8509",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 70,
-    "lat": 59.90820127767838,
-    "lng": 10.85451272395527,
-    "start": "13.10.2026, 06:00:00",
-    "end": "15.10.2026, 12:00:00",
-    "areaName": "Oslo / Oslo / 4255",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 8509,
-      "antallkunder": 70,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "4255",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1791875025160,
-      "utkoblingslutt": 1792065600000,
-      "utkoblingstart": 1791871200000
-    }
-  },
-  {
-    "id": "elvia-16321",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 19,
-    "lat": 60.45569299294468,
-    "lng": 12.059408007881148,
-    "start": "13.10.2026, 21:15:00",
-    "end": "14.10.2026, 04:00:00",
-    "areaName": "Grue / Kirkenær / ENS06319",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 16321,
-      "antallkunder": 19,
-      "avbruddstype": "Planned",
-      "kommune": "Grue",
-      "nettstasjon": "ENS06319",
-      "poststed": "Kirkenær",
-      "strombruddoppdaget": 1791926335180,
-      "utkoblingslutt": 1791950400000,
-      "utkoblingstart": 1791926100000
-    }
-  },
-  {
-    "id": "linja-outage-3451889",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 226,
-    "lat": 62.261949697087644,
-    "lng": 5.572366182305703,
-    "start": "13.10.2026, 20:00:00",
-    "end": null,
-    "areaName": "SANDE / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3451889,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gjerdsvika fra tirsdag 13. oktober kl. 22:00 til onsdag 14. oktober kl. 06:00",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1791921600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "SANDE",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 17,
-      "NUM_AB": 226
     }
   },
   {
@@ -404,30 +288,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ØRSTA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3470141",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.47283567630295,
-    "lng": 6.1836582110807194,
-    "start": "14.10.2026, 06:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3470141,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Fjelltun onsdag 14.oktober fra kl. 08:00 til 15:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1791957600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -649,30 +509,6 @@
     }
   },
   {
-    "id": "linja-planned-3465049",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.037690047476076,
-    "lng": 7.00092631321152,
-    "start": "14.10.2026, 06:30:00",
-    "end": null,
-    "areaName": "STRANDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3465049,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bjørdal onsdag 14. oktober fra kl. 08:30 til 11:30",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1791959400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3465077",
     "company": "Linja",
     "type": "planned",
@@ -716,30 +552,6 @@
       "FLAG": 384,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3465429",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.43872810152144,
-    "lng": 6.39294111354989,
-    "start": "14.10.2026, 06:30:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3465429,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i områdeTveraberget onsdag 14. oktober mellom kl. 08:30 og 08:45",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1791959400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
