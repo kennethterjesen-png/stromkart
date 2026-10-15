@@ -1,80 +1,25 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.18570768342976,
-    "lng": 5.471575965804272,
-    "start": null,
-    "end": null,
-    "areaName": "Bjørnafjorden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9998428,
-      "MUNICIPAL_TXT": "Bjørnafjorden",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1792015200000,
-      "TIMELIMIT": 1792036800000,
-      "NUM_AB": 38,
-      "CUSTOMER_WEB_TEXT": "5200 OS; ØYRO,BRUGATA",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1792015336000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 5,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-5986",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 362,
-    "lat": 59.87154930826423,
-    "lng": 10.812455759910137,
-    "start": "14.10.2026, 22:05:00",
-    "end": "15.10.2026, 04:30:00",
-    "areaName": "Oslo / Oslo / 0468",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5986,
-      "antallkunder": 362,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0468",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1792015529920,
-      "utkoblingslutt": 1792038600000,
-      "utkoblingstart": 1792015500000
-    }
-  },
-  {
-    "id": "elvia-15325",
+    "id": "elvia-1057",
     "company": "Elvia",
     "type": "planned",
     "customers": 1,
-    "lat": 60.796000487255554,
-    "lng": 11.084870993577166,
-    "start": "14.10.2026, 21:55:00",
-    "end": "15.10.2026, 02:00:00",
-    "areaName": "Hamar / Hamar / ENS04632",
+    "lat": 59.94933903421677,
+    "lng": 10.879069379937166,
+    "start": "15.10.2026, 04:49:58",
+    "end": "15.10.2026, 08:25:58",
+    "areaName": "Oslo / Oslo / 4805",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 15325,
+      "OBJECTID": 1057,
       "antallkunder": 1,
-      "avbruddstype": "Planned",
-      "kommune": "Hamar",
-      "nettstasjon": "ENS04632",
-      "poststed": "Hamar",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1792029600000,
-      "utkoblingstart": 1792014900000
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "4805",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1792039798000,
+      "utkoblingslutt": 1792052758000,
+      "utkoblingstart": 1792039798000
     }
   },
   {
@@ -318,30 +263,6 @@
     }
   },
   {
-    "id": "linja-planned-3465221",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.045342754037556,
-    "lng": 6.788663005274271,
-    "start": "15.10.2026, 06:30:00",
-    "end": null,
-    "areaName": "STRANDA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3465221,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Tronstad torsdag 15. oktober fra kl. 08:30 til 11:30",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1792045800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3465249",
     "company": "Linja",
     "type": "planned",
@@ -361,54 +282,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3469617",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.206584095721915,
-    "lng": 6.147309822936748,
-    "start": "15.10.2026, 07:00:00",
-    "end": null,
-    "areaName": "ØRSTA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3469617,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bjørkevegen, Nupen og Tømmerbakk torsdag 15.oktober fra kl. 09:00 til 16:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1792047600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "ØRSTA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3468581",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.358770822947264,
-    "lng": 6.2562899972248545,
-    "start": "15.10.2026, 07:00:00",
-    "end": null,
-    "areaName": "ØRSTA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3468581,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bergane torsdag 15. oktober fra kl. 09:00 til 15:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1792047600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Midt",
-      "MUNICIPAL_TXT": "ØRSTA",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -507,23 +380,6 @@
       "MUNICIPAL_TXT": "SYKKYLVEN",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-5",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 36,
-    "lat": 58.94151988850925,
-    "lng": 5.745151769794983,
-    "start": "14.10.2026, 22:05:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 36",
-      "description": "Planlagt strømstans\nStartet: 2026-10-14 22:05\nPlanlagt ferdig: 2026-10-15 01:00",
-      "styleUrl": "#yellow"
     }
   },
   {
