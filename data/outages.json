@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-27387",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 59.27152518079146,
-    "lng": 11.059077048282779,
-    "start": "17.10.2026, 00:06:03",
-    "end": "17.10.2026, 03:42:03",
-    "areaName": "Sarpsborg / Yven / X0189",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27387,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0189",
-      "poststed": "Yven",
-      "strombruddoppdaget": 1792195563000,
-      "utkoblingslutt": 1792208523000,
-      "utkoblingstart": 1792195563000
-    }
-  },
-  {
     "id": "linja-planned-3482693",
     "company": "Linja",
     "type": "planned",
