@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-17944",
+    "id": "elvia-13599",
     "company": "Elvia",
     "type": "planned",
-    "customers": 72,
-    "lat": 61.33016099298348,
-    "lng": 12.151063064393337,
-    "start": "17.10.2026, 10:52:20",
-    "end": "17.10.2026, 14:28:20",
-    "areaName": "Trysil / Trysil / ENS08841",
+    "customers": 31,
+    "lat": 60.646669141206544,
+    "lng": 10.925340523296631,
+    "start": "17.10.2026, 13:57:33",
+    "end": "17.10.2026, 17:33:33",
+    "areaName": "Østre Toten / Skreia / ENS02137",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 17944,
-      "antallkunder": 72,
+      "OBJECTID": 13599,
+      "antallkunder": 31,
       "avbruddstype": "Unplanned",
-      "kommune": "Trysil",
-      "nettstasjon": "ENS08841",
-      "poststed": "Trysil",
-      "strombruddoppdaget": 1792234340000,
-      "utkoblingslutt": 1792247300000,
-      "utkoblingstart": 1792234340000
+      "kommune": "Østre Toten",
+      "nettstasjon": "ENS02137",
+      "poststed": "Skreia",
+      "strombruddoppdaget": 1792245453000,
+      "utkoblingslutt": 1792258413000,
+      "utkoblingstart": 1792245453000
     }
   },
   {
@@ -695,23 +695,6 @@
     }
   },
   {
-    "id": "lnett-outage-9",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 266,
-    "lat": 58.88613155725856,
-    "lng": 5.670388980679527,
-    "start": "17.10.2026, 13:46:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 266",
-      "description": "Driftsforstyrrelse\nStartet: 2026-10-17 13:46\n13:46 Strømbrudd, feilsøking pågår.",
-      "styleUrl": "#red"
-    }
-  },
-  {
     "id": "norgesnett-planned-V-71160-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1098,6 +1081,62 @@
       "TIL_DATO": 1792503023000,
       "LOGGTYPE": "Planlagt Kobling",
       "STROMSTANSID": "V-71115-1",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2970-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 14,
+    "lat": 59.242890562000014,
+    "lng": 10.932906971000023,
+    "start": "22.10.2026, 07:00:47",
+    "end": "22.10.2026, 11:30:47",
+    "areaName": "GLUPPE",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1220963,
+      "REFNR": "PL2970",
+      "SEKUNDÆRSTASJON": "GLUPPE",
+      "AVGANG": "H1159",
+      "CNT": 14,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1792652447000,
+      "TIL_DATO": 1792668647000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "STROMSTANSID": "V-2970-1",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-planned-V-2972-1",
+    "company": "Norgesnett",
+    "type": "planned",
+    "customers": 13,
+    "lat": 59.73236662199997,
+    "lng": 10.595658168,
+    "start": "21.10.2026, 07:00:18",
+    "end": "21.10.2026, 13:00:18",
+    "areaName": "NYSTUEN",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1220964,
+      "REFNR": "PL2972",
+      "SEKUNDÆRSTASJON": "NYSTUEN",
+      "AVGANG": "L8",
+      "CNT": 13,
+      "STATUS": "Planlagt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1792566018000,
+      "TIL_DATO": 1792587618000,
+      "LOGGTYPE": "Planlagt Lavspent",
+      "STROMSTANSID": "V-2972-1",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
