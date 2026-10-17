@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-30640",
+    "id": "elvia-17944",
     "company": "Elvia",
     "type": "planned",
-    "customers": 15,
-    "lat": 59.43861078940831,
-    "lng": 11.32513519736356,
-    "start": "17.10.2026, 07:58:00",
-    "end": "17.10.2026, 11:34:00",
-    "areaName": "Rakkestad / Rakkestad / W194",
+    "customers": 72,
+    "lat": 61.33016099298348,
+    "lng": 12.151063064393337,
+    "start": "17.10.2026, 10:52:20",
+    "end": "17.10.2026, 14:28:20",
+    "areaName": "Trysil / Trysil / ENS08841",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 30640,
-      "antallkunder": 15,
+      "OBJECTID": 17944,
+      "antallkunder": 72,
       "avbruddstype": "Unplanned",
-      "kommune": "Rakkestad",
-      "nettstasjon": "W194",
-      "poststed": "Rakkestad",
-      "strombruddoppdaget": 1792223880000,
-      "utkoblingslutt": 1792236840000,
-      "utkoblingstart": 1792223880000
+      "kommune": "Trysil",
+      "nettstasjon": "ENS08841",
+      "poststed": "Trysil",
+      "strombruddoppdaget": 1792234340000,
+      "utkoblingslutt": 1792247300000,
+      "utkoblingstart": 1792234340000
     }
   },
   {
@@ -692,6 +692,23 @@
       "MUNICIPAL_TXT": "STRANDA",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-outage-9",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 266,
+    "lat": 58.88613155725856,
+    "lng": 5.670388980679527,
+    "start": "17.10.2026, 13:46:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 266",
+      "description": "Driftsforstyrrelse\nStartet: 2026-10-17 13:46\n13:46 Strømbrudd, feilsøking pågår.",
+      "styleUrl": "#red"
     }
   },
   {
