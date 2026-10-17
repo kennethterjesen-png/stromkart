@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 61.4429960978719,
-    "lng": 6.002950986422516,
-    "start": null,
-    "end": null,
-    "areaName": "Sunnfjord",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 10023342,
-      "MUNICIPAL_TXT": "Sunnfjord",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1792260000000,
-      "TIMELIMIT": 1792267200000,
-      "NUM_AB": 1,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1792260051000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-18382",
     "company": "Elvia",
     "type": "planned",
@@ -52,29 +20,6 @@
       "strombruddoppdaget": 1792260268000,
       "utkoblingslutt": 1792273228000,
       "utkoblingstart": 1792260268000
-    }
-  },
-  {
-    "id": "elvia-25482",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.990312580074765,
-    "lng": 11.054888039849255,
-    "start": "17.10.2026, 18:13:09",
-    "end": "17.10.2026, 21:49:09",
-    "areaName": "Lillestrøm / Leirsund / S0870",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25482,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0870",
-      "poststed": "Leirsund",
-      "strombruddoppdaget": 1792260789000,
-      "utkoblingslutt": 1792273749000,
-      "utkoblingstart": 1792260789000
     }
   },
   {
