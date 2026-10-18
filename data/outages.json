@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-507",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 29,
-    "lat": 59.93175265808537,
-    "lng": 10.806690982595482,
-    "start": "18.10.2026, 07:00:00",
-    "end": "18.10.2026, 15:00:00",
-    "areaName": "Oslo / Oslo / 2465",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 507,
-      "antallkunder": 29,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2465",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1792307038472,
-      "utkoblingslutt": 1792335600000,
-      "utkoblingstart": 1792306800000
-    }
-  },
-  {
-    "id": "elvia-1017",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.93013953991541,
-    "lng": 10.806805004401225,
-    "start": "18.10.2026, 07:00:00",
-    "end": "18.10.2026, 15:00:00",
-    "areaName": "Oslo / Oslo / 4590",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 1017,
-      "antallkunder": 13,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "4590",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1792307038472,
-      "utkoblingslutt": 1792335600000,
-      "utkoblingstart": 1792306800000
-    }
-  },
-  {
     "id": "linja-planned-3482693",
     "company": "Linja",
     "type": "planned",
