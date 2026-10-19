@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-5708",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.919827561950356,
-    "lng": 10.64900943571912,
-    "start": "19.10.2026, 06:00:00",
-    "end": "19.10.2026, 13:00:00",
-    "areaName": "Oslo / Oslo / 0057",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5708,
-      "antallkunder": 10,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0057",
-      "poststed": "Oslo",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1792414800000,
-      "utkoblingstart": 1792389600000
-    }
-  },
-  {
     "id": "elvia-7138",
     "company": "Elvia",
     "type": "planned",
@@ -46,58 +23,12 @@
     }
   },
   {
-    "id": "elvia-11159",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.81486945109279,
-    "lng": 10.446052789723526,
-    "start": "19.10.2026, 12:15:34",
-    "end": "19.10.2026, 15:51:34",
-    "areaName": "Asker / Asker / D0205",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11159,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Asker",
-      "nettstasjon": "D0205",
-      "poststed": "Asker",
-      "strombruddoppdaget": 1792412134000,
-      "utkoblingslutt": 1792425094000,
-      "utkoblingstart": 1792412134000
-    }
-  },
-  {
-    "id": "elvia-28281",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 82,
-    "lat": 59.25091885715701,
-    "lng": 10.742234699246655,
-    "start": "19.10.2026, 06:00:00",
-    "end": "19.10.2026, 13:00:00",
-    "areaName": "Fredrikstad / Engelsviken / X2205",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28281,
-      "antallkunder": 82,
-      "avbruddstype": "Planned",
-      "kommune": "Fredrikstad",
-      "nettstasjon": "X2205",
-      "poststed": "Engelsviken",
-      "strombruddoppdaget": 1792389733174,
-      "utkoblingslutt": 1792414800000,
-      "utkoblingstart": 1792389600000
-    }
-  },
-  {
     "id": "fagne-4721853",
     "company": "Fagne",
     "type": "planned",
-    "customers": 46,
-    "lat": 59.84342856207738,
-    "lng": 6.258564009043198,
+    "customers": 16,
+    "lat": 59.824852040804586,
+    "lng": 6.207953714389317,
     "start": null,
     "end": null,
     "areaName": "ETNE",
@@ -804,6 +735,23 @@
       "MUNICIPAL_TXT": "HARAM",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-1",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 41,
+    "lat": 58.93987516708499,
+    "lng": 5.743816928650017,
+    "start": "19.10.2026, 16:21:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 41",
+      "description": "Rettet\nStartet: 2026-10-19 16:21\nSluttid: 2026-10-19 16:21\nPlanlagt strømstans",
+      "styleUrl": "#green"
     }
   },
   {
