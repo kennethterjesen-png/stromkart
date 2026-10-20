@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-7581",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 59.891460728823695,
+    "lng": 10.775747463329592,
+    "start": "20.10.2026, 16:29:51",
+    "end": "20.10.2026, 20:05:51",
+    "areaName": "Oslo / Oslo / 2782",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7581,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "2782",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1792513791000,
+      "utkoblingslutt": 1792526751000,
+      "utkoblingstart": 1792513791000
+    }
+  },
+  {
     "id": "elvia-11845",
     "company": "Elvia",
     "type": "planned",
@@ -46,49 +69,26 @@
     }
   },
   {
-    "id": "elvia-23693",
+    "id": "elvia-23669",
     "company": "Elvia",
     "type": "planned",
-    "customers": 1,
-    "lat": 60.20973808818551,
-    "lng": 11.549236488820844,
-    "start": "20.10.2026, 17:10:28",
-    "end": "20.10.2026, 20:46:28",
-    "areaName": "Nes / Skogbygda / N7060",
+    "customers": 14,
+    "lat": 60.248295537588895,
+    "lng": 11.584913598752427,
+    "start": "20.10.2026, 20:28:22",
+    "end": "21.10.2026, 00:04:22",
+    "areaName": "Nes / Skogbygda / N7033",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 23693,
-      "antallkunder": 1,
+      "OBJECTID": 23669,
+      "antallkunder": 14,
       "avbruddstype": "Unplanned",
       "kommune": "Nes",
-      "nettstasjon": "N7060",
+      "nettstasjon": "N7033",
       "poststed": "Skogbygda",
-      "strombruddoppdaget": 1792516228000,
-      "utkoblingslutt": 1792529188000,
-      "utkoblingstart": 1792516228000
-    }
-  },
-  {
-    "id": "elvia-26668",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.567308675045126,
-    "lng": 10.652748680631793,
-    "start": "20.10.2026, 15:41:52",
-    "end": "20.10.2026, 19:17:52",
-    "areaName": "Vestby / Vestby / V0381",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 26668,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Vestby",
-      "nettstasjon": "V0381",
-      "poststed": "Vestby",
-      "strombruddoppdaget": 1792510912000,
-      "utkoblingslutt": 1792523872000,
-      "utkoblingstart": 1792510912000
+      "strombruddoppdaget": 1792528102000,
+      "utkoblingslutt": 1792541062000,
+      "utkoblingstart": 1792528102000
     }
   },
   {
