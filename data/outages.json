@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.392557866433215,
-    "lng": 5.318369493340051,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9997712,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1792440000000,
-      "TIMELIMIT": 1792465200000,
-      "NUM_AB": 58,
-      "CUSTOMER_WEB_TEXT": "5010 BERGEN; TEATERGATEN\r\n5011 BERGEN; JONSVOLLSGATEN,ENGEN,KALMARGATEN,SVERRES GATE\r\n5015 BERGEN; MAGNUS BARFOTS GATE",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1792440154000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 5,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-7138",
     "company": "Elvia",
     "type": "planned",
@@ -52,29 +20,6 @@
       "strombruddoppdaget": 1792391414000,
       "utkoblingslutt": 1792404374000,
       "utkoblingstart": 1792391414000
-    }
-  },
-  {
-    "id": "elvia-24708",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.12393584267736,
-    "lng": 11.368179828637118,
-    "start": "19.10.2026, 22:05:00",
-    "end": "20.10.2026, 04:00:00",
-    "areaName": "Halden / Halden / Q0560",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24708,
-      "antallkunder": 13,
-      "avbruddstype": "Planned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0560",
-      "poststed": "Halden",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1792468800000,
-      "utkoblingstart": 1792447500000
     }
   },
   {
