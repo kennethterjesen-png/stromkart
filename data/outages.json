@@ -1,56 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.35642433674313,
-    "lng": 5.367134181499141,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 9967685,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1792562400000,
-      "TIMELIMIT": 1792587600000,
-      "NUM_AB": 43,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1792562821000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "fagne-4729161",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 6,
-    "lat": 59.7628059335104,
-    "lng": 5.454593011712031,
-    "start": null,
-    "end": null,
-    "areaName": "STORD",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "STORD",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-planned-3484101",
     "company": "Linja",
     "type": "planned",
@@ -118,30 +67,6 @@
       "FLAG": 129,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "ØRSTA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3472404",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.47045862907414,
-    "lng": 6.163572683726955,
-    "start": "21.10.2026, 21:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3472404,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Klaus Nilsens gate fra onsdag 21. oktober kl. 23:00 til torsdag 22. oktober kl. 05:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1792616400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -483,30 +408,6 @@
     }
   },
   {
-    "id": "linja-planned-3484689",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 62.46919627895136,
-    "lng": 6.387796658946802,
-    "start": "21.10.2026, 21:00:00",
-    "end": null,
-    "areaName": "ÅLESUND / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3484689,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Bregnevegen / Brusdalsvegen  fra onsdag 21. oktober kl. 23:00 til torsdag 22. oktober kl. 05:00",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1792616400000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Nord",
-      "MUNICIPAL_TXT": "ÅLESUND",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3486728",
     "company": "Linja",
     "type": "planned",
@@ -603,23 +504,6 @@
       "name": "Berørte kunder: 8",
       "description": "Rettet\nStartet: 2026-10-21 08:30\nSluttid: 2026-10-21 11:00\nPlanlagt arbeid.",
       "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-outage-9",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 1,
-    "lat": 58.9206596351309,
-    "lng": 5.839497509034846,
-    "start": "21.10.2026, 18:30:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 1",
-      "description": "Driftsforstyrrelse\nStartet: 2026-10-21 18:30",
-      "styleUrl": "#red"
     }
   },
   {
