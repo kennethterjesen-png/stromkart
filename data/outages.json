@@ -1,60 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.63348288152736,
-    "lng": 4.994288510329917,
-    "start": null,
-    "end": null,
-    "areaName": "Alver",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 10052984,
-      "MUNICIPAL_TXT": "Alver",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1792711440000,
-      "TIMELIMIT": 1792722600000,
-      "NUM_AB": 837,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 41,
-      "LAST_UPDATED": 1792712762000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 115,
-      "NUM_AB_REGAINED": 3268,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "elvia-585",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 251,
-    "lat": 59.93148107140134,
-    "lng": 10.79728802197691,
-    "start": "22.10.2026, 23:29:18",
-    "end": "23.10.2026, 03:05:18",
-    "areaName": "Oslo / Oslo / 2866",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 585,
-      "antallkunder": 251,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "2866",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1792711758000,
-      "utkoblingslutt": 1792724718000,
-      "utkoblingstart": 1792711758000
-    }
-  },
-  {
     "id": "elvia-677",
     "company": "Elvia",
     "type": "planned",
@@ -98,52 +43,6 @@
       "strombruddoppdaget": 1792707225743,
       "utkoblingslutt": 1792729800000,
       "utkoblingstart": 1792706460000
-    }
-  },
-  {
-    "id": "elvia-4640",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 59.97848331649919,
-    "lng": 10.975645439863202,
-    "start": "13.10.2026, 22:01:00",
-    "end": "19.10.2026, 03:00:00",
-    "areaName": "Lillestrøm / Skjetten / S0909",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 4640,
-      "antallkunder": 3,
-      "avbruddstype": "Planned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0909",
-      "poststed": "Skjetten",
-      "strombruddoppdaget": 1792706919643,
-      "utkoblingslutt": 1792378800000,
-      "utkoblingstart": 1791928860000
-    }
-  },
-  {
-    "id": "elvia-4655",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.978526350292306,
-    "lng": 10.977488386808712,
-    "start": "13.10.2026, 22:01:00",
-    "end": "19.10.2026, 03:00:00",
-    "areaName": "Lillestrøm / Skjetten / S0953",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 4655,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0953",
-      "poststed": "Skjetten",
-      "strombruddoppdaget": 1792706919643,
-      "utkoblingslutt": 1792378800000,
-      "utkoblingstart": 1791928860000
     }
   },
   {
@@ -308,6 +207,29 @@
     }
   },
   {
+    "id": "elvia-22250",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 24,
+    "lat": 59.34585763652917,
+    "lng": 10.908837935762554,
+    "start": "22.10.2026, 21:00:00",
+    "end": "23.10.2026, 04:00:00",
+    "areaName": "Råde / Råde / J0104",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22250,
+      "antallkunder": 24,
+      "avbruddstype": "Planned",
+      "kommune": "Råde",
+      "nettstasjon": "J0104",
+      "poststed": "Råde",
+      "strombruddoppdaget": 1792702851122,
+      "utkoblingslutt": 1792728000000,
+      "utkoblingstart": 1792702800000
+    }
+  },
+  {
     "id": "elvia-24300",
     "company": "Elvia",
     "type": "planned",
@@ -354,29 +276,6 @@
     }
   },
   {
-    "id": "elvia-24532",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 17,
-    "lat": 59.12172361650758,
-    "lng": 11.385385818326771,
-    "start": "22.10.2026, 22:05:00",
-    "end": "23.10.2026, 04:00:00",
-    "areaName": "Halden / Halden / Q0316",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24532,
-      "antallkunder": 17,
-      "avbruddstype": "Planned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0316",
-      "poststed": "Halden",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1792728000000,
-      "utkoblingstart": 1792706700000
-    }
-  },
-  {
     "id": "elvia-25452",
     "company": "Elvia",
     "type": "planned",
@@ -397,52 +296,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1792724400000,
       "utkoblingstart": 1792706460000
-    }
-  },
-  {
-    "id": "elvia-25485",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 59.970230081091806,
-    "lng": 10.979120607889786,
-    "start": "22.10.2026, 22:17:30",
-    "end": "23.10.2026, 02:02:30",
-    "areaName": "Lillestrøm / Skjetten / S0873",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25485,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0873",
-      "poststed": "Skjetten",
-      "strombruddoppdaget": 1792707450662,
-      "utkoblingslutt": 1792720950000,
-      "utkoblingstart": 1792707450662
-    }
-  },
-  {
-    "id": "elvia-25492",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 59.976745008457755,
-    "lng": 10.979148007568375,
-    "start": "13.10.2026, 22:01:00",
-    "end": "19.10.2026, 03:00:00",
-    "areaName": "Lillestrøm / Skjetten / S0885",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 25492,
-      "antallkunder": 9,
-      "avbruddstype": "Planned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "S0885",
-      "poststed": "Skjetten",
-      "strombruddoppdaget": 1792706919643,
-      "utkoblingslutt": 1792378800000,
-      "utkoblingstart": 1791928860000
     }
   },
   {
@@ -469,74 +322,22 @@
     }
   },
   {
-    "id": "elvia-29416",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 60,
-    "lat": 59.58133075026294,
-    "lng": 11.158547179352333,
-    "start": "22.10.2026, 22:01:00",
-    "end": "23.10.2026, 04:00:00",
-    "areaName": "Indre Østfold / Askim / Z1241",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 29416,
-      "antallkunder": 60,
-      "avbruddstype": "Planned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "Z1241",
-      "poststed": "Askim",
-      "strombruddoppdaget": 1792706491400,
-      "utkoblingslutt": 1792728000000,
-      "utkoblingstart": 1792706460000
-    }
-  },
-  {
-    "id": "linja-outage-3484505",
-    "company": "Linja",
+    "id": "fagne-4734541",
+    "company": "Fagne",
     "type": "outage",
-    "customers": 681,
-    "lat": 62.03805033731204,
-    "lng": 5.360930733325013,
-    "start": "22.10.2026, 21:00:00",
+    "customers": 17,
+    "lat": 59.39898186978605,
+    "lng": 5.2867791234640045,
+    "start": null,
     "end": null,
-    "areaName": "STAD / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
+    "areaName": "HAUGESUND",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
-      "EVENTID": 3484505,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i Selje. Kunder som blir berørt er varsla på sms.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1792702800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "STAD",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 36,
-      "NUM_AB": 681
-    }
-  },
-  {
-    "id": "linja-outage-3486728",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 92,
-    "lat": 62.33756466673431,
-    "lng": 7.489337875621202,
-    "start": "22.10.2026, 22:30:00",
-    "end": null,
-    "areaName": "FJORD / Linja Nord",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3486728,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Grønning fredag 23.oktober fra kl. 00:30 til 05:00.",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1792708200000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "FJORD",
-      "PURCHAREA_TXT": "Linja Nord",
-      "NUM_NS": 8,
-      "NUM_AB": 92
+      "description": "",
+      "state": "Pågående",
+      "municipal": "HAUGESUND",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
