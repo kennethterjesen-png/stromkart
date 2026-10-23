@@ -1,69 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.64097833790607,
-    "lng": 5.053739605744788,
-    "start": null,
-    "end": null,
-    "areaName": "Alver",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 10052984,
-      "MUNICIPAL_TXT": "Alver",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1792711440000,
-      "TIMELIMIT": 1792760400000,
-      "NUM_AB": 5,
-      "CUSTOMER_WEB_TEXT": "Vi arbeider fremdeles med feilretting etter en omfattende feil i natt.",
-      "GRIDLEVEL_TXT": "Høy",
-      "REASON_TXT": null,
-      "NUM_NS": 1,
-      "LAST_UPDATED": 1792759100000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 193,
-      "NUM_AB_REGAINED": 4799,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.185410521923174,
-    "lng": 5.056205002791894,
-    "start": null,
-    "end": null,
-    "areaName": "Øygarden",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 10022750,
-      "MUNICIPAL_TXT": "Øygarden",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1792751400000,
-      "TIMELIMIT": 1792760400000,
-      "NUM_AB": 6,
-      "CUSTOMER_WEB_TEXT": "5379 STEINSLAND; BANDELEN",
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1792752242000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 2,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-10793",
     "company": "Elvia",
     "type": "planned",
@@ -87,6 +23,52 @@
     }
   },
   {
+    "id": "elvia-12067",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 60.479764089974,
+    "lng": 11.242423136309434,
+    "start": "23.10.2026, 12:25:51",
+    "end": "23.10.2026, 16:01:51",
+    "areaName": "Eidsvoll / Minnesund / E0534",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 12067,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Eidsvoll",
+      "nettstasjon": "E0534",
+      "poststed": "Minnesund",
+      "strombruddoppdaget": 1792758351000,
+      "utkoblingslutt": 1792771311000,
+      "utkoblingstart": 1792758351000
+    }
+  },
+  {
+    "id": "elvia-23776",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 18,
+    "lat": 59.80036301210165,
+    "lng": 10.816396786493138,
+    "start": "23.10.2026, 17:09:40",
+    "end": "23.10.2026, 20:45:40",
+    "areaName": "Nordre Follo / Sofiemyr / O0043",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 23776,
+      "antallkunder": 18,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nordre Follo",
+      "nettstasjon": "O0043",
+      "poststed": "Sofiemyr",
+      "strombruddoppdaget": 1792775380000,
+      "utkoblingslutt": 1792788340000,
+      "utkoblingstart": 1792775380000
+    }
+  },
+  {
     "id": "elvia-24507",
     "company": "Elvia",
     "type": "planned",
@@ -107,6 +89,29 @@
       "strombruddoppdaget": 1792696429000,
       "utkoblingslutt": 1792709389000,
       "utkoblingstart": 1792696429000
+    }
+  },
+  {
+    "id": "elvia-29283",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.60520973397557,
+    "lng": 11.1740329900087,
+    "start": "23.10.2026, 17:19:04",
+    "end": "23.10.2026, 20:55:04",
+    "areaName": "Indre Østfold / Askim / Z1071",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 29283,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "Z1071",
+      "poststed": "Askim",
+      "strombruddoppdaget": 1792775944000,
+      "utkoblingslutt": 1792788904000,
+      "utkoblingstart": 1792775944000
     }
   },
   {
