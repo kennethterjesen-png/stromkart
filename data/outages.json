@@ -23,29 +23,6 @@
     }
   },
   {
-    "id": "elvia-12067",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 1,
-    "lat": 60.479764089974,
-    "lng": 11.242423136309434,
-    "start": "23.10.2026, 12:25:51",
-    "end": "23.10.2026, 16:01:51",
-    "areaName": "Eidsvoll / Minnesund / E0534",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12067,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0534",
-      "poststed": "Minnesund",
-      "strombruddoppdaget": 1792758351000,
-      "utkoblingslutt": 1792771311000,
-      "utkoblingstart": 1792758351000
-    }
-  },
-  {
     "id": "elvia-14161",
     "company": "Elvia",
     "type": "planned",
@@ -66,29 +43,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1792922400000,
       "utkoblingstart": 1792855800000
-    }
-  },
-  {
-    "id": "elvia-24507",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 17,
-    "lat": 59.12420278887379,
-    "lng": 11.444379768642113,
-    "start": "22.10.2026, 19:13:49",
-    "end": "22.10.2026, 22:49:49",
-    "areaName": "Halden / Tistedal / Q0289",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24507,
-      "antallkunder": 17,
-      "avbruddstype": "Unplanned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0289",
-      "poststed": "Tistedal",
-      "strombruddoppdaget": 1792696429000,
-      "utkoblingslutt": 1792709389000,
-      "utkoblingstart": 1792696429000
     }
   },
   {
