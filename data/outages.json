@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-5990",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 17,
-    "lat": 59.84395711983875,
-    "lng": 10.815086554548346,
-    "start": "24.10.2026, 07:00:00",
-    "end": "24.10.2026, 14:00:00",
-    "areaName": "Oslo / Oslo / 0474",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5990,
-      "antallkunder": 17,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "0474",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1792825591730,
-      "utkoblingslutt": 1792850400000,
-      "utkoblingstart": 1792825200000
-    }
-  },
-  {
-    "id": "elvia-10793",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 259,
-    "lat": 59.66198622174594,
-    "lng": 10.794887783710951,
-    "start": "22.10.2026, 13:07:16",
-    "end": "22.10.2026, 16:43:16",
-    "areaName": "Ås / Ås / C0215",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 10793,
-      "antallkunder": 259,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ås",
-      "nettstasjon": "C0215",
-      "poststed": "Ås",
-      "strombruddoppdaget": 1792674436000,
-      "utkoblingslutt": 1792687396000,
-      "utkoblingstart": 1792674436000
-    }
-  },
-  {
     "id": "elvia-11035",
     "company": "Elvia",
     "type": "planned",
@@ -92,26 +46,26 @@
     }
   },
   {
-    "id": "elvia-22026",
+    "id": "elvia-14161",
     "company": "Elvia",
     "type": "planned",
-    "customers": 1,
-    "lat": 59.58562741337115,
-    "lng": 10.876034969783904,
-    "start": "24.10.2026, 13:52:35",
-    "end": "24.10.2026, 17:28:35",
-    "areaName": "Indre Østfold / Hobøl / I1039",
+    "customers": 16,
+    "lat": 61.118127481154545,
+    "lng": 10.462757995732394,
+    "start": "24.10.2026, 15:30:00",
+    "end": "25.10.2026, 10:00:00",
+    "areaName": "Lillehammer / Lillehammer / ENS02930",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 22026,
-      "antallkunder": 1,
-      "avbruddstype": "Unplanned",
-      "kommune": "Indre Østfold",
-      "nettstasjon": "I1039",
-      "poststed": "Hobøl",
-      "strombruddoppdaget": 1792849955000,
-      "utkoblingslutt": 1792862915000,
-      "utkoblingstart": 1792849955000
+      "OBJECTID": 14161,
+      "antallkunder": 16,
+      "avbruddstype": "Planned",
+      "kommune": "Lillehammer",
+      "nettstasjon": "ENS02930",
+      "poststed": "Lillehammer",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1792922400000,
+      "utkoblingstart": 1792855800000
     }
   },
   {
