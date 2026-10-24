@@ -1,37 +1,5 @@
 [
   {
-    "id": "bkk-0",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
-    "lat": 60.04344194762433,
-    "lng": 5.530098952328707,
-    "start": null,
-    "end": null,
-    "areaName": "Tysnes",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 10056373,
-      "MUNICIPAL_TXT": "Tysnes",
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1792868040000,
-      "TIMELIMIT": 1792879200000,
-      "NUM_AB": 1,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1792830790000,
-      "SCHEDULED_SMS_DAYS_BEFORE": -1,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
     "id": "elvia-5990",
     "company": "Elvia",
     "type": "planned",
@@ -78,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-11035",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 14,
+    "lat": 59.850341026191224,
+    "lng": 10.452334865323142,
+    "start": "24.10.2026, 13:18:47",
+    "end": "24.10.2026, 16:54:47",
+    "areaName": "Asker / Asker / D0053",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11035,
+      "antallkunder": 14,
+      "avbruddstype": "Unplanned",
+      "kommune": "Asker",
+      "nettstasjon": "D0053",
+      "poststed": "Asker",
+      "strombruddoppdaget": 1792847927000,
+      "utkoblingslutt": 1792860887000,
+      "utkoblingstart": 1792847927000
+    }
+  },
+  {
     "id": "elvia-12067",
     "company": "Elvia",
     "type": "planned",
@@ -98,6 +89,29 @@
       "strombruddoppdaget": 1792758351000,
       "utkoblingslutt": 1792771311000,
       "utkoblingstart": 1792758351000
+    }
+  },
+  {
+    "id": "elvia-22026",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.58562741337115,
+    "lng": 10.876034969783904,
+    "start": "24.10.2026, 13:52:35",
+    "end": "24.10.2026, 17:28:35",
+    "areaName": "Indre Østfold / Hobøl / I1039",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 22026,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "I1039",
+      "poststed": "Hobøl",
+      "strombruddoppdaget": 1792849955000,
+      "utkoblingslutt": 1792862915000,
+      "utkoblingstart": 1792849955000
     }
   },
   {
