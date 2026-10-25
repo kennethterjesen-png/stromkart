@@ -1,51 +1,5 @@
 [
   {
-    "id": "elvia-20824",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 3,
-    "lat": 60.61510363078316,
-    "lng": 11.227035258330652,
-    "start": "25.10.2026, 19:32:13",
-    "end": "25.10.2026, 23:17:13",
-    "areaName": "Stange / Tangen / ENS14108",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20824,
-      "antallkunder": 3,
-      "avbruddstype": "Unplanned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14108",
-      "poststed": "Tangen",
-      "strombruddoppdaget": 1792956733445,
-      "utkoblingslutt": 1792970233000,
-      "utkoblingstart": 1792956733445
-    }
-  },
-  {
-    "id": "elvia-20825",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.60491288487199,
-    "lng": 11.216874075715728,
-    "start": "25.10.2026, 19:32:13",
-    "end": "25.10.2026, 23:17:13",
-    "areaName": "Stange / Tangen / ENS14109",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20825,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14109",
-      "poststed": "Tangen",
-      "strombruddoppdaget": 1792956733445,
-      "utkoblingslutt": 1792970233000,
-      "utkoblingstart": 1792956733445
-    }
-  },
-  {
     "id": "elvia-20826",
     "company": "Elvia",
     "type": "planned",
@@ -63,29 +17,6 @@
       "kommune": "Stange",
       "nettstasjon": "ENS14110",
       "poststed": "Stange",
-      "strombruddoppdaget": 1792956733445,
-      "utkoblingslutt": 1792970233000,
-      "utkoblingstart": 1792956733445
-    }
-  },
-  {
-    "id": "elvia-20827",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 9,
-    "lat": 60.616146964790104,
-    "lng": 11.201838063277984,
-    "start": "25.10.2026, 19:32:13",
-    "end": "25.10.2026, 23:17:13",
-    "areaName": "Stange / Tangen / ENS14111",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20827,
-      "antallkunder": 9,
-      "avbruddstype": "Unplanned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14111",
-      "poststed": "Tangen",
       "strombruddoppdaget": 1792956733445,
       "utkoblingslutt": 1792970233000,
       "utkoblingstart": 1792956733445
@@ -207,29 +138,6 @@
     }
   },
   {
-    "id": "elvia-20918",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 11,
-    "lat": 60.62310270295752,
-    "lng": 11.217634489126914,
-    "start": "25.10.2026, 19:32:13",
-    "end": "25.10.2026, 23:17:13",
-    "areaName": "Stange / Tangen / ENS14210",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20918,
-      "antallkunder": 11,
-      "avbruddstype": "Unplanned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14210",
-      "poststed": "Tangen",
-      "strombruddoppdaget": 1792956733445,
-      "utkoblingslutt": 1792970233000,
-      "utkoblingstart": 1792956733445
-    }
-  },
-  {
     "id": "elvia-20935",
     "company": "Elvia",
     "type": "planned",
@@ -246,29 +154,6 @@
       "avbruddstype": "Unplanned",
       "kommune": "Stange",
       "nettstasjon": "ENS14234",
-      "poststed": "Tangen",
-      "strombruddoppdaget": 1792956733445,
-      "utkoblingslutt": 1792970233000,
-      "utkoblingstart": 1792956733445
-    }
-  },
-  {
-    "id": "elvia-20998",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 6,
-    "lat": 60.62098444974494,
-    "lng": 11.233015584761075,
-    "start": "25.10.2026, 19:32:13",
-    "end": "25.10.2026, 23:17:13",
-    "areaName": "Stange / Tangen / ENS14313",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 20998,
-      "antallkunder": 6,
-      "avbruddstype": "Unplanned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14313",
       "poststed": "Tangen",
       "strombruddoppdaget": 1792956733445,
       "utkoblingslutt": 1792970233000,
@@ -345,26 +230,26 @@
     }
   },
   {
-    "id": "elvia-21328",
+    "id": "elvia-29961",
     "company": "Elvia",
     "type": "planned",
-    "customers": 12,
-    "lat": 60.60513238721719,
-    "lng": 11.201172367599794,
-    "start": "25.10.2026, 19:32:13",
-    "end": "25.10.2026, 23:17:13",
-    "areaName": "Stange / Tangen / ENS14741",
+    "customers": 8,
+    "lat": 60.6146939617548,
+    "lng": 11.242550151814516,
+    "start": "25.10.2026, 21:33:02",
+    "end": "26.10.2026, 01:09:02",
+    "areaName": "Stange / Tangen / ENS13243",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 21328,
-      "antallkunder": 12,
+      "OBJECTID": 29961,
+      "antallkunder": 8,
       "avbruddstype": "Unplanned",
       "kommune": "Stange",
-      "nettstasjon": "ENS14741",
+      "nettstasjon": "ENS13243",
       "poststed": "Tangen",
-      "strombruddoppdaget": 1792956733445,
-      "utkoblingslutt": 1792970233000,
-      "utkoblingstart": 1792956733445
+      "strombruddoppdaget": 1792963982000,
+      "utkoblingslutt": 1792976942000,
+      "utkoblingstart": 1792963982000
     }
   },
   {
@@ -1109,6 +994,23 @@
       "MUNICIPAL_TXT": "HARAM",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-outage-3",
+    "company": "Lnett",
+    "type": "outage",
+    "customers": 18,
+    "lat": 58.90425661345248,
+    "lng": 5.65731933620815,
+    "start": "25.10.2026, 21:19:00",
+    "end": null,
+    "areaName": "Driftsforstyrrelse",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 18",
+      "description": "Driftsforstyrrelse\nStartet: 2026-10-25 21:19\nFeilsøking pågår. Det er avdejjet en kabelfeil. Denne blir utbedret.",
+      "styleUrl": "#red"
     }
   },
   {
