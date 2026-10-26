@@ -744,19 +744,19 @@
     }
   },
   {
-    "id": "lnett-outage-1",
+    "id": "lnett-outage-3",
     "company": "Lnett",
     "type": "outage",
-    "customers": 18,
-    "lat": 58.90425661345248,
-    "lng": 5.65731933620815,
-    "start": "25.10.2026, 21:19:00",
+    "customers": 14,
+    "lat": 58.94593366807521,
+    "lng": 5.601745199375266,
+    "start": "26.10.2026, 03:15:00",
     "end": null,
     "areaName": "Driftsforstyrrelse",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 18",
-      "description": "Driftsforstyrrelse\nStartet: 2026-10-25 21:19\nFeilsøking pågår. Det er avdejjet en kabelfeil. Denne blir utbedret.",
+      "name": "Berørte kunder: 14",
+      "description": "Driftsforstyrrelse\nStartet: 2026-10-26 03:15",
       "styleUrl": "#red"
     }
   },
