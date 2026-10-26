@@ -32,6 +32,29 @@
     }
   },
   {
+    "id": "elvia-2461",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 60.80277987029637,
+    "lng": 11.136368101799674,
+    "start": "26.10.2026, 21:00:00",
+    "end": "27.10.2026, 00:00:00",
+    "areaName": "Hamar / Ridabu / ENS04389",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 2461,
+      "antallkunder": 2,
+      "avbruddstype": "Planned",
+      "kommune": "Hamar",
+      "nettstasjon": "ENS04389",
+      "poststed": "Ridabu",
+      "strombruddoppdaget": 1793048426101,
+      "utkoblingslutt": 1793059200000,
+      "utkoblingstart": 1793048400000
+    }
+  },
+  {
     "id": "elvia-13302",
     "company": "Elvia",
     "type": "planned",
@@ -52,52 +75,6 @@
       "strombruddoppdaget": 1793022273000,
       "utkoblingslutt": 1793035233000,
       "utkoblingstart": 1793022273000
-    }
-  },
-  {
-    "id": "elvia-15886",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 10,
-    "lat": 61.07026103177122,
-    "lng": 10.578229565511036,
-    "start": "26.10.2026, 15:35:30",
-    "end": "26.10.2026, 19:11:30",
-    "areaName": "Ringsaker / Lismarka / ENS05560",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 15886,
-      "antallkunder": 10,
-      "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS05560",
-      "poststed": "Lismarka",
-      "strombruddoppdaget": 1793028930000,
-      "utkoblingslutt": 1793041890000,
-      "utkoblingstart": 1793028930000
-    }
-  },
-  {
-    "id": "elvia-27876",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 22,
-    "lat": 59.163408511297206,
-    "lng": 11.144448255654314,
-    "start": "26.10.2026, 15:21:27",
-    "end": "26.10.2026, 18:57:27",
-    "areaName": "Sarpsborg / Skjeberg / X0794",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 27876,
-      "antallkunder": 22,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0794",
-      "poststed": "Skjeberg",
-      "strombruddoppdaget": 1793028087000,
-      "utkoblingslutt": 1793041047000,
-      "utkoblingstart": 1793028087000
     }
   },
   {
@@ -835,6 +812,23 @@
       "name": "Berørte kunder: 65",
       "description": "Rettet\nStartet: 2026-10-26 08:31\nSluttid: 2026-10-26 10:41\nPlanlagt strømstans",
       "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-planned-11",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 134,
+    "lat": 58.96366507119572,
+    "lng": 5.691849639787783,
+    "start": "26.10.2026, 22:02:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 134",
+      "description": "Planlagt strømstans\nStartet: 2026-10-26 22:02\nPlanlagt ferdig: 2026-10-27 04:00",
+      "styleUrl": "#yellow"
     }
   },
   {
