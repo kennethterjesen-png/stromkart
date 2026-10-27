@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-6909",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 91,
-    "lat": 59.91382304826099,
-    "lng": 10.75227493859069,
-    "start": "26.10.2026, 23:01:00",
-    "end": "27.10.2026, 05:00:00",
-    "areaName": "Oslo / Oslo / 1833",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6909,
-      "antallkunder": 91,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "1833",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1793055646245,
-      "utkoblingslutt": 1793077200000,
-      "utkoblingstart": 1793055660000
-    }
-  },
-  {
     "id": "elvia-13302",
     "company": "Elvia",
     "type": "planned",
@@ -812,23 +789,6 @@
       "name": "Berørte kunder: 65",
       "description": "Rettet\nStartet: 2026-10-26 08:31\nSluttid: 2026-10-26 10:41\nPlanlagt strømstans",
       "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-9",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 134,
-    "lat": 58.96366507119572,
-    "lng": 5.691849639787783,
-    "start": "26.10.2026, 22:02:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 134",
-      "description": "Planlagt strømstans\nStartet: 2026-10-26 22:02\nPlanlagt ferdig: 2026-10-27 04:00",
-      "styleUrl": "#yellow"
     }
   },
   {
