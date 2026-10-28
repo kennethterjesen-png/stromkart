@@ -1,5 +1,51 @@
 [
   {
+    "id": "elvia-16240",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 60.07104065935476,
+    "lng": 11.793994548324724,
+    "start": "28.10.2026, 05:12:42",
+    "end": "28.10.2026, 08:48:42",
+    "areaName": "Nes / Disenå / ENS06201",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 16240,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Nes",
+      "nettstasjon": "ENS06201",
+      "poststed": "Disenå",
+      "strombruddoppdaget": 1793164362000,
+      "utkoblingslutt": 1793177322000,
+      "utkoblingstart": 1793164362000
+    }
+  },
+  {
+    "id": "elvia-28219",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.29006458439061,
+    "lng": 10.896306078425459,
+    "start": "28.10.2026, 04:53:07",
+    "end": "28.10.2026, 08:29:07",
+    "areaName": "Fredrikstad / Fredrikstad / X2135",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28219,
+      "antallkunder": 1,
+      "avbruddstype": "Unplanned",
+      "kommune": "Fredrikstad",
+      "nettstasjon": "X2135",
+      "poststed": "Fredrikstad",
+      "strombruddoppdaget": 1793163187000,
+      "utkoblingslutt": 1793176147000,
+      "utkoblingstart": 1793163187000
+    }
+  },
+  {
     "id": "linja-planned-3501337",
     "company": "Linja",
     "type": "planned",
