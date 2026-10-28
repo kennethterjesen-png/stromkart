@@ -4,38 +4,6 @@
     "company": "BKK",
     "type": "outage",
     "customers": 0,
-    "lat": 60.35385112788211,
-    "lng": 5.367160043853658,
-    "start": null,
-    "end": null,
-    "areaName": "Bergen",
-    "sourceUrl": "https://geonis.bkk.no/",
-    "raw": {
-      "EVENTID": 10054042,
-      "MUNICIPAL_TXT": "Bergen",
-      "TYPE_TXT": "Utkobling",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1793170800000,
-      "TIMELIMIT": 1793196000000,
-      "NUM_AB": 52,
-      "CUSTOMER_WEB_TEXT": null,
-      "GRIDLEVEL_TXT": "Lav",
-      "REASON_TXT": null,
-      "NUM_NS": 0,
-      "LAST_UPDATED": 1793205298000,
-      "SCHEDULED_SMS_DAYS_BEFORE": 3,
-      "AFFECTED_AB_OUT": null,
-      "NUM_NS_REGAINED": 0,
-      "NUM_AB_REGAINED": 0,
-      "SCHEDULED_SMS_INHABITANT_TEXT": null,
-      "ISSUESTATECHANGEEMAIL": null
-    }
-  },
-  {
-    "id": "bkk-1",
-    "company": "BKK",
-    "type": "outage",
-    "customers": 0,
     "lat": 60.417681039322545,
     "lng": 5.305221941125323,
     "start": null,
@@ -64,89 +32,43 @@
     }
   },
   {
-    "id": "elvia-6107",
+    "id": "elvia-9910",
     "company": "Elvia",
     "type": "planned",
     "customers": 14,
-    "lat": 59.95313037332936,
-    "lng": 10.644073404135112,
-    "start": "28.10.2026, 15:36:19",
-    "end": "28.10.2026, 19:12:19",
-    "areaName": "Oslo / Oslo / 0640",
+    "lat": 59.9203891476224,
+    "lng": 10.565673962840485,
+    "start": "28.10.2026, 19:47:57",
+    "end": "28.10.2026, 23:23:57",
+    "areaName": "Bærum / Haslum / B0858",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 6107,
+      "OBJECTID": 9910,
       "antallkunder": 14,
       "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0640",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1793201779000,
-      "utkoblingslutt": 1793214739000,
-      "utkoblingstart": 1793201779000
+      "kommune": "Bærum",
+      "nettstasjon": "B0858",
+      "poststed": "Haslum",
+      "strombruddoppdaget": 1793216877000,
+      "utkoblingslutt": 1793229837000,
+      "utkoblingstart": 1793216877000
     }
   },
   {
-    "id": "elvia-6756",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 44,
-    "lat": 59.9512978378894,
-    "lng": 10.868705101153894,
-    "start": "28.10.2026, 12:51:05",
-    "end": "28.10.2026, 16:27:05",
-    "areaName": "Oslo / Oslo / 1598",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6756,
-      "antallkunder": 44,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "1598",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1793191865000,
-      "utkoblingslutt": 1793204825000,
-      "utkoblingstart": 1793191865000
-    }
-  },
-  {
-    "id": "elvia-22450",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 5,
-    "lat": 59.991411080033814,
-    "lng": 11.37090693227213,
-    "start": "28.10.2026, 07:23:35",
-    "end": "28.10.2026, 10:59:35",
-    "areaName": "Lillestrøm / Blaker / K0348",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 22450,
-      "antallkunder": 5,
-      "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "K0348",
-      "poststed": "Blaker",
-      "strombruddoppdaget": 1793172215000,
-      "utkoblingslutt": 1793185175000,
-      "utkoblingstart": 1793172215000
-    }
-  },
-  {
-    "id": "fagne-4747904",
+    "id": "fagne-4748068",
     "company": "Fagne",
     "type": "outage",
-    "customers": 163,
-    "lat": 59.61127145252876,
-    "lng": 6.752714971672718,
+    "customers": 1,
+    "lat": 59.61617146369801,
+    "lng": 5.557994655910855,
     "start": null,
     "end": null,
-    "areaName": "SULDAL",
+    "areaName": "VINDAFJORD",
     "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
       "description": "",
       "state": "Pågående",
-      "municipal": "SULDAL",
+      "municipal": "VINDAFJORD",
       "typeTxt": "Driftsforstyrrelse",
       "issueStateChangeEmail": ""
     }
@@ -224,30 +146,6 @@
     }
   },
   {
-    "id": "linja-planned-3496225",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.937242019959086,
-    "lng": 5.11120694705473,
-    "start": "28.10.2026, 22:00:00",
-    "end": null,
-    "areaName": "KINN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3496225,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Gate 4 onsdag 28.oktober fra kl. 23:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1793224800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "KINN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3502073",
     "company": "Linja",
     "type": "planned",
@@ -315,30 +213,6 @@
       "FLAG": 400,
       "PURCHAREA_TXT": "Linja Midt",
       "MUNICIPAL_TXT": "STRANDA",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3496289",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.98267487009035,
-    "lng": 5.1354069883818685,
-    "start": "28.10.2026, 22:00:00",
-    "end": null,
-    "areaName": "KINN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3496289,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nedrevegen og Gartnarmarka onsdag 28.oktober fra kl. 23:00 til 23:15",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1793224800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "KINN",
       "NUM_NS": 0,
       "NUM_AB": 0
     }
@@ -797,23 +671,6 @@
       "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-13",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 3,
-    "lat": 58.97297586735868,
-    "lng": 5.735528198956273,
-    "start": "28.10.2026, 08:30:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 3",
-      "description": "Planlagt strømstans\nStartet: 2026-10-28 08:30\nPlanlagt ferdig: 2026-10-28 15:30\n11:20 Innkobling av strømmen er forsinket. Forventet innkoblet innen kl. 18:00, men det kan ta lengre tid.",
-      "styleUrl": "#yellow"
     }
   },
   {
