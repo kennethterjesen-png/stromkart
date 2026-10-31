@@ -23,30 +23,6 @@
     }
   },
   {
-    "id": "linja-outage-3513537",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 130,
-    "lat": 62.284215537795774,
-    "lng": 6.131474613075458,
-    "start": "30.10.2026, 20:21:00",
-    "end": null,
-    "areaName": "ØRSTA / Linja Midt",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3513537,
-      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi starter feilsøking. Rettetid er foreløpig ukjent",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1793391660000,
-      "TYPE_TXT": "Driftsforstyrrelse",
-      "FLAG": 144,
-      "MUNICIPAL_TXT": "ØRSTA",
-      "PURCHAREA_TXT": "Linja Midt",
-      "NUM_NS": 10,
-      "NUM_AB": 130
-    }
-  },
-  {
     "id": "linja-planned-3512781",
     "company": "Linja",
     "type": "planned",
@@ -716,23 +692,6 @@
       "MUNICIPAL_TXT": "BREMANGER",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-1",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 13,
-    "lat": 58.9706635742996,
-    "lng": 5.732947733749382,
-    "start": "29.10.2026, 07:00:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 13",
-      "description": "Rettet\nStartet: 2026-10-29 07:00\nSluttid: 2026-10-29 10:00\nPlanlagt strømstans",
-      "styleUrl": "#green"
     }
   },
   {
