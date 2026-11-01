@@ -1,25 +1,21 @@
 [
   {
-    "id": "elvia-23894",
-    "company": "Elvia",
+    "id": "fagne-4744181",
+    "company": "Fagne",
     "type": "planned",
-    "customers": 14,
-    "lat": 59.77614193024908,
-    "lng": 10.733849144451066,
-    "start": "1.11.2026, 15:08:38",
-    "end": "1.11.2026, 18:44:38",
-    "areaName": "Nordre Follo / Svartskog / O0193",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "customers": 1,
+    "lat": 59.392278183340395,
+    "lng": 5.329811806629552,
+    "start": "11.1.2026, 17:00:00",
+    "end": "11.1.2026, 21:00:00",
+    "areaName": "HAUGESUND",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
     "raw": {
-      "OBJECTID": 23894,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Nordre Follo",
-      "nettstasjon": "O0193",
-      "poststed": "Svartskog",
-      "strombruddoppdaget": 1793545718000,
-      "utkoblingslutt": 1793558678000,
-      "utkoblingstart": 1793545718000
+      "description": "",
+      "state": "Pågående",
+      "municipal": "HAUGESUND",
+      "typeTxt": "Utkobling",
+      "issueStateChangeEmail": ""
     }
   },
   {
