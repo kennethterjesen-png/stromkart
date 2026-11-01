@@ -1,24 +1,5 @@
 [
   {
-    "id": "fagne-4744181",
-    "company": "Fagne",
-    "type": "planned",
-    "customers": 1,
-    "lat": 59.392278183340395,
-    "lng": 5.329811806629552,
-    "start": "11.1.2026, 17:00:00",
-    "end": "11.1.2026, 21:00:00",
-    "areaName": "HAUGESUND",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "HAUGESUND",
-      "typeTxt": "Utkobling",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
     "id": "linja-planned-3512781",
     "company": "Linja",
     "type": "planned",
