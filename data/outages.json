@@ -1,5 +1,29 @@
 [
   {
+    "id": "linja-outage-3514249",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 354,
+    "lat": 62.2879674950558,
+    "lng": 6.142571130383821,
+    "start": "1.11.2026, 00:24:00",
+    "end": null,
+    "areaName": "ØRSTA / Linja Midt",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3514249,
+      "CUSTOMER_WEB_TEXT": "Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. \r\n\r\nVi jobber  med å finne feilen",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1793492640000,
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "FLAG": 144,
+      "MUNICIPAL_TXT": "ØRSTA",
+      "PURCHAREA_TXT": "Linja Midt",
+      "NUM_NS": 29,
+      "NUM_AB": 354
+    }
+  },
+  {
     "id": "linja-planned-3512781",
     "company": "Linja",
     "type": "planned",
