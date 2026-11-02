@@ -1,5 +1,37 @@
 [
   {
+    "id": "bkk-0",
+    "company": "BKK",
+    "type": "outage",
+    "customers": 0,
+    "lat": 61.065555516450644,
+    "lng": 5.605982508430994,
+    "start": null,
+    "end": null,
+    "areaName": "Høyanger",
+    "sourceUrl": "https://geonis.bkk.no/",
+    "raw": {
+      "EVENTID": 10082376,
+      "MUNICIPAL_TXT": "Høyanger",
+      "TYPE_TXT": "Driftsforstyrrelse",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1793590200000,
+      "TIMELIMIT": 1793601000000,
+      "NUM_AB": 158,
+      "CUSTOMER_WEB_TEXT": null,
+      "GRIDLEVEL_TXT": "Høy",
+      "REASON_TXT": null,
+      "NUM_NS": 15,
+      "LAST_UPDATED": 1793591743000,
+      "SCHEDULED_SMS_DAYS_BEFORE": -1,
+      "AFFECTED_AB_OUT": null,
+      "NUM_NS_REGAINED": 14,
+      "NUM_AB_REGAINED": 103,
+      "SCHEDULED_SMS_INHABITANT_TEXT": null,
+      "ISSUESTATECHANGEEMAIL": null
+    }
+  },
+  {
     "id": "linja-planned-3512781",
     "company": "Linja",
     "type": "planned",
