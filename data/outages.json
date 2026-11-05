@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-4175",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 2,
-    "lat": 59.809726623979735,
-    "lng": 10.8030389875922,
-    "start": "4.11.2026, 23:05:00",
-    "end": "5.11.2026, 05:00:00",
-    "areaName": "Nordre Follo / Kolbotn / O0131",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 4175,
-      "antallkunder": 2,
-      "avbruddstype": "Planned",
-      "kommune": "Nordre Follo",
-      "nettstasjon": "O0131",
-      "poststed": "Kolbotn",
-      "strombruddoppdaget": 1793833554732,
-      "utkoblingslutt": 1793854800000,
-      "utkoblingstart": 1793833500000
-    }
-  },
-  {
     "id": "elvia-6909",
     "company": "Elvia",
     "type": "planned",
@@ -98,29 +75,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1793786400000,
       "utkoblingstart": 1793777400000
-    }
-  },
-  {
-    "id": "elvia-28030",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 34,
-    "lat": 59.27867567539612,
-    "lng": 11.099405131485826,
-    "start": "4.11.2026, 22:42:52",
-    "end": "5.11.2026, 02:18:52",
-    "areaName": "Sarpsborg / Sarpsborg / X0987",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 28030,
-      "antallkunder": 34,
-      "avbruddstype": "Unplanned",
-      "kommune": "Sarpsborg",
-      "nettstasjon": "X0987",
-      "poststed": "Sarpsborg",
-      "strombruddoppdaget": 1793832172000,
-      "utkoblingslutt": 1793845132000,
-      "utkoblingstart": 1793832172000
     }
   },
   {
