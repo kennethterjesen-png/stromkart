@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "elvia-24181",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 12,
+    "lat": 59.637247849837046,
+    "lng": 10.650419167526188,
+    "start": "6.11.2026, 22:49:59",
+    "end": "7.11.2026, 02:25:59",
+    "areaName": "Frogn / Drøbak / P0516",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24181,
+      "antallkunder": 12,
+      "avbruddstype": "Unplanned",
+      "kommune": "Frogn",
+      "nettstasjon": "P0516",
+      "poststed": "Drøbak",
+      "strombruddoppdaget": 1794005399000,
+      "utkoblingslutt": 1794018359000,
+      "utkoblingstart": 1794005399000
+    }
+  },
+  {
     "id": "fagne-4768113",
     "company": "Fagne",
     "type": "outage",
@@ -738,7 +761,7 @@
     }
   },
   {
-    "id": "lnett-planned-9",
+    "id": "lnett-planned-1",
     "company": "Lnett",
     "type": "planned",
     "customers": 19,
