@@ -1,5 +1,28 @@
 [
   {
+    "id": "elvia-468",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 467,
+    "lat": 59.93378768070156,
+    "lng": 10.759516580711262,
+    "start": "7.11.2026, 22:30:00",
+    "end": "8.11.2026, 10:30:00",
+    "areaName": "Oslo / Oslo / 2203",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 468,
+      "antallkunder": 467,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "2203",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1794090622539,
+      "utkoblingslutt": 1794133800000,
+      "utkoblingstart": 1794090600000
+    }
+  },
+  {
     "id": "elvia-6909",
     "company": "Elvia",
     "type": "planned",
@@ -20,44 +43,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1793768400000,
       "utkoblingstart": 1793746860000
-    }
-  },
-  {
-    "id": "fagne-4768605",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 672,
-    "lat": 59.350676911514384,
-    "lng": 5.326034649880034,
-    "start": "11.7.2026, 19:01:00",
-    "end": "11.7.2026, 22:00:00",
-    "areaName": "KARMØY",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "KARMØY",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
-    }
-  },
-  {
-    "id": "fagne-4768453",
-    "company": "Fagne",
-    "type": "outage",
-    "customers": 10,
-    "lat": 59.354590075526254,
-    "lng": 6.1085335155111995,
-    "start": "11.7.2026, 16:58:00",
-    "end": "11.7.2026, 20:00:00",
-    "areaName": "SULDAL",
-    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
-    "raw": {
-      "description": "",
-      "state": "Pågående",
-      "municipal": "SULDAL",
-      "typeTxt": "Driftsforstyrrelse",
-      "issueStateChangeEmail": ""
     }
   },
   {
@@ -730,23 +715,6 @@
       "MUNICIPAL_TXT": "KINN",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-1",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 19,
-    "lat": 58.99465789495173,
-    "lng": 5.687201487050192,
-    "start": "6.11.2026, 08:30:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 19",
-      "description": "Rettet\nStartet: 2026-11-06 08:30\nSluttid: 2026-11-06 15:00\nplanlagt vedlikehold",
-      "styleUrl": "#green"
     }
   },
   {
