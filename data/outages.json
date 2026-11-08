@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-468",
+    "id": "elvia-1808",
     "company": "Elvia",
     "type": "planned",
-    "customers": 467,
-    "lat": 59.93378768070156,
-    "lng": 10.759516580711262,
-    "start": "7.11.2026, 22:30:00",
-    "end": "8.11.2026, 10:30:00",
-    "areaName": "Oslo / Oslo / 2203",
+    "customers": 4,
+    "lat": 59.87119298860238,
+    "lng": 10.483561317436495,
+    "start": "8.11.2026, 13:36:22",
+    "end": "8.11.2026, 17:21:22",
+    "areaName": "Asker / Billingstad / D0692",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 468,
-      "antallkunder": 467,
-      "avbruddstype": "Planned",
-      "kommune": "Oslo",
-      "nettstasjon": "2203",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1794090622539,
-      "utkoblingslutt": 1794133800000,
-      "utkoblingstart": 1794090600000
+      "OBJECTID": 1808,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Asker",
+      "nettstasjon": "D0692",
+      "poststed": "Billingstad",
+      "strombruddoppdaget": 1794144982543,
+      "utkoblingslutt": 1794158482000,
+      "utkoblingstart": 1794144982543
     }
   },
   {
@@ -43,29 +43,6 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1793768400000,
       "utkoblingstart": 1793746860000
-    }
-  },
-  {
-    "id": "elvia-24484",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 56,
-    "lat": 59.11691632016867,
-    "lng": 11.429700332330835,
-    "start": "8.11.2026, 08:00:00",
-    "end": "8.11.2026, 14:00:00",
-    "areaName": "Halden / Tistedal / Q0263",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 24484,
-      "antallkunder": 56,
-      "avbruddstype": "Planned",
-      "kommune": "Halden",
-      "nettstasjon": "Q0263",
-      "poststed": "Tistedal",
-      "strombruddoppdaget": 1794124996230,
-      "utkoblingslutt": 1794146400000,
-      "utkoblingstart": 1794124800000
     }
   },
   {
@@ -1127,34 +1104,6 @@
       "TIL_DATO": 1794310248000,
       "LOGGTYPE": "Planlagt Kobling",
       "STROMSTANSID": "V-71284-1",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "description": ""
-    }
-  },
-  {
-    "id": "norgesnett-outage-V-71227-1",
-    "company": "Norgesnett",
-    "type": "outage",
-    "customers": 165,
-    "lat": 60.489169722999975,
-    "lng": 5.131685670000024,
-    "start": "8.11.2026, 09:00:13",
-    "end": "8.11.2026, 12:00:13",
-    "areaName": "RAVNANGER",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1221096,
-      "REFNR": "P71227",
-      "SEKUNDÆRSTASJON": "RAVNANGER",
-      "AVGANG": "ÅSEBØ",
-      "CNT": 165,
-      "STATUS": "Påbegynt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1794128413000,
-      "TIL_DATO": 1794139213000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "STROMSTANSID": "V-71227-1",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
