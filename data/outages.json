@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "elvia-24484",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 56,
+    "lat": 59.11691632016867,
+    "lng": 11.429700332330835,
+    "start": "8.11.2026, 08:00:00",
+    "end": "8.11.2026, 14:00:00",
+    "areaName": "Halden / Tistedal / Q0263",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 24484,
+      "antallkunder": 56,
+      "avbruddstype": "Planned",
+      "kommune": "Halden",
+      "nettstasjon": "Q0263",
+      "poststed": "Tistedal",
+      "strombruddoppdaget": 1794124996230,
+      "utkoblingslutt": 1794146400000,
+      "utkoblingstart": 1794124800000
+    }
+  },
+  {
     "id": "linja-planned-3522125",
     "company": "Linja",
     "type": "planned",
@@ -718,34 +741,6 @@
     }
   },
   {
-    "id": "norgesnett-planned-V-71227-1",
-    "company": "Norgesnett",
-    "type": "planned",
-    "customers": 165,
-    "lat": 60.489169722999975,
-    "lng": 5.131685670000024,
-    "start": "8.11.2026, 09:00:13",
-    "end": "8.11.2026, 12:00:13",
-    "areaName": "RAVNANGER",
-    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
-    "raw": {
-      "OBJECTID": 1221096,
-      "REFNR": "P71227",
-      "SEKUNDÆRSTASJON": "RAVNANGER",
-      "AVGANG": "ÅSEBØ",
-      "CNT": 165,
-      "STATUS": "Planlagt",
-      "BESKRIVELSE": null,
-      "FRA_DATO": 1794128413000,
-      "TIL_DATO": 1794139213000,
-      "LOGGTYPE": "Planlagt Kobling",
-      "STROMSTANSID": "V-71227-1",
-      "SHAPE_AREA": null,
-      "SHAPE_LEN": null,
-      "description": ""
-    }
-  },
-  {
     "id": "norgesnett-planned-V-2997-1",
     "company": "Norgesnett",
     "type": "planned",
@@ -1132,6 +1127,34 @@
       "TIL_DATO": 1794310248000,
       "LOGGTYPE": "Planlagt Kobling",
       "STROMSTANSID": "V-71284-1",
+      "SHAPE_AREA": null,
+      "SHAPE_LEN": null,
+      "description": ""
+    }
+  },
+  {
+    "id": "norgesnett-outage-V-71227-1",
+    "company": "Norgesnett",
+    "type": "outage",
+    "customers": 165,
+    "lat": 60.489169722999975,
+    "lng": 5.131685670000024,
+    "start": "8.11.2026, 09:00:13",
+    "end": "8.11.2026, 12:00:13",
+    "areaName": "RAVNANGER",
+    "sourceUrl": "https://utility.arcgis.com/usrsvcs/servers/d76865927ade4b598be0004b14c5bc93/rest/services/DRS/Stromstans_public/MapServer",
+    "raw": {
+      "OBJECTID": 1221096,
+      "REFNR": "P71227",
+      "SEKUNDÆRSTASJON": "RAVNANGER",
+      "AVGANG": "ÅSEBØ",
+      "CNT": 165,
+      "STATUS": "Påbegynt",
+      "BESKRIVELSE": null,
+      "FRA_DATO": 1794128413000,
+      "TIL_DATO": 1794139213000,
+      "LOGGTYPE": "Planlagt Kobling",
+      "STROMSTANSID": "V-71227-1",
       "SHAPE_AREA": null,
       "SHAPE_LEN": null,
       "description": ""
