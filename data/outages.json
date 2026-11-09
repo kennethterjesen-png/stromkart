@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-6252",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 21,
-    "lat": 59.94251877482338,
-    "lng": 10.91968720090508,
-    "start": "8.11.2026, 19:54:36",
-    "end": "8.11.2026, 23:30:36",
-    "areaName": "Oslo / Oslo / 0851",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 6252,
-      "antallkunder": 21,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0851",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1794167676000,
-      "utkoblingslutt": 1794180636000,
-      "utkoblingstart": 1794167676000
-    }
-  },
-  {
     "id": "elvia-6909",
     "company": "Elvia",
     "type": "planned",
