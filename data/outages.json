@@ -1,5 +1,51 @@
 [
   {
+    "id": "elvia-5565",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 1,
+    "lat": 59.5885239834868,
+    "lng": 11.203717366007707,
+    "start": "9.11.2026, 23:01:00",
+    "end": "10.11.2026, 05:00:00",
+    "areaName": "Indre Østfold / Askim / Z1140",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 5565,
+      "antallkunder": 1,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "Z1140",
+      "poststed": "Askim",
+      "strombruddoppdaget": 1794265397577,
+      "utkoblingslutt": 1794286800000,
+      "utkoblingstart": 1794265260000
+    }
+  },
+  {
+    "id": "elvia-29329",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 59.58901584789954,
+    "lng": 11.195894432672569,
+    "start": "9.11.2026, 23:01:00",
+    "end": "10.11.2026, 05:00:00",
+    "areaName": "Indre Østfold / Askim / Z1136",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 29329,
+      "antallkunder": 4,
+      "avbruddstype": "Planned",
+      "kommune": "Indre Østfold",
+      "nettstasjon": "Z1136",
+      "poststed": "Askim",
+      "strombruddoppdaget": 1794265397577,
+      "utkoblingslutt": 1794286800000,
+      "utkoblingstart": 1794265260000
+    }
+  },
+  {
     "id": "linja-planned-3520133",
     "company": "Linja",
     "type": "planned",
