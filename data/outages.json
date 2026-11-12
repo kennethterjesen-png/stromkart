@@ -193,30 +193,6 @@
     }
   },
   {
-    "id": "linja-outage-3520825",
-    "company": "Linja",
-    "type": "outage",
-    "customers": 30,
-    "lat": 61.778760072315706,
-    "lng": 6.21502255939714,
-    "start": "11.11.2026, 21:30:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3520825,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i høyspentnettet blir det strømutkobling for kunder i område Nordstrandvegen onsdag 11.11 fra klokken 22:30 til torsdag 12.11 klokken 02:00",
-      "STATE_TXT": "Pågående",
-      "STARTTIME": 1794432600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "PURCHAREA_TXT": "Linja Sør",
-      "NUM_NS": 0,
-      "NUM_AB": 30
-    }
-  },
-  {
     "id": "linja-planned-3527928",
     "company": "Linja",
     "type": "planned",
@@ -622,6 +598,57 @@
       "MUNICIPAL_TXT": "ØRSTA",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-3",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 20,
+    "lat": 59.02540090701623,
+    "lng": 6.051086990305667,
+    "start": "11.11.2026, 08:59:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 20",
+      "description": "Rettet\nStartet: 2026-11-11 08:59\nSluttid: 2026-11-11 14:00\nPlanlagt strømstans",
+      "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-planned-5",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 23,
+    "lat": 58.94642422019249,
+    "lng": 5.6833056286731365,
+    "start": "11.11.2026, 08:58:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 23",
+      "description": "Rettet\nStartet: 2026-11-11 08:58\nSluttid: 2026-11-11 14:08\nPlanlagt strømstans",
+      "styleUrl": "#green"
+    }
+  },
+  {
+    "id": "lnett-planned-7",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 17,
+    "lat": 58.95802060239293,
+    "lng": 5.686863711280795,
+    "start": "11.11.2026, 08:58:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 17",
+      "description": "Rettet\nStartet: 2026-11-11 08:58\nSluttid: 2026-11-11 15:00\nPlanlagt strømstans",
+      "styleUrl": "#green"
     }
   },
   {
