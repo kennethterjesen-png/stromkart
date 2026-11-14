@@ -207,29 +207,6 @@
     }
   },
   {
-    "id": "elvia-21624",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 60.07581936503703,
-    "lng": 10.993849237015539,
-    "start": "13.11.2026, 18:12:33",
-    "end": "13.11.2026, 21:48:33",
-    "areaName": "Gjerdrum / Gjerdrum / G0246",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 21624,
-      "antallkunder": 13,
-      "avbruddstype": "Unplanned",
-      "kommune": "Gjerdrum",
-      "nettstasjon": "G0246",
-      "poststed": "Gjerdrum",
-      "strombruddoppdaget": 1794593553000,
-      "utkoblingslutt": 1794606513000,
-      "utkoblingstart": 1794593553000
-    }
-  },
-  {
     "id": "linja-planned-3530805",
     "company": "Linja",
     "type": "planned",
@@ -854,7 +831,7 @@
     }
   },
   {
-    "id": "lnett-planned-5",
+    "id": "lnett-planned-1",
     "company": "Lnett",
     "type": "planned",
     "customers": 39,
@@ -871,7 +848,7 @@
     }
   },
   {
-    "id": "lnett-planned-7",
+    "id": "lnett-planned-3",
     "company": "Lnett",
     "type": "planned",
     "customers": 1,
