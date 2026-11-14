@@ -1,25 +1,48 @@
 [
   {
-    "id": "elvia-20993",
+    "id": "elvia-10563",
     "company": "Elvia",
     "type": "planned",
-    "customers": 43,
-    "lat": 60.77368887947575,
-    "lng": 11.084409642493181,
-    "start": "14.11.2026, 14:27:05",
-    "end": "14.11.2026, 18:03:05",
-    "areaName": "Stange / Ottestad / ENS14308",
+    "customers": 14,
+    "lat": 59.90010146964705,
+    "lng": 10.590530500258456,
+    "start": "14.11.2026, 18:32:44",
+    "end": "14.11.2026, 22:08:44",
+    "areaName": "Bærum / Høvik / B1937",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 20993,
-      "antallkunder": 43,
+      "OBJECTID": 10563,
+      "antallkunder": 14,
       "avbruddstype": "Unplanned",
-      "kommune": "Stange",
-      "nettstasjon": "ENS14308",
-      "poststed": "Ottestad",
-      "strombruddoppdaget": 1794666425000,
-      "utkoblingslutt": 1794679385000,
-      "utkoblingstart": 1794666425000
+      "kommune": "Bærum",
+      "nettstasjon": "B1937",
+      "poststed": "Høvik",
+      "strombruddoppdaget": 1794681164000,
+      "utkoblingslutt": 1794694124000,
+      "utkoblingstart": 1794681164000
+    }
+  },
+  {
+    "id": "elvia-16843",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 7,
+    "lat": 60.73807647491479,
+    "lng": 11.84359019830527,
+    "start": "14.11.2026, 19:30:43",
+    "end": "14.11.2026, 23:06:43",
+    "areaName": "Våler / Braskereidfoss / ENS07120",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 16843,
+      "antallkunder": 7,
+      "avbruddstype": "Unplanned",
+      "kommune": "Våler",
+      "nettstasjon": "ENS07120",
+      "poststed": "Braskereidfoss",
+      "strombruddoppdaget": 1794684643000,
+      "utkoblingslutt": 1794697603000,
+      "utkoblingstart": 1794684643000
     }
   },
   {
