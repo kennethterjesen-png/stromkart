@@ -1,5 +1,51 @@
 [
   {
+    "id": "elvia-20993",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 43,
+    "lat": 60.77368887947575,
+    "lng": 11.084409642493181,
+    "start": "14.11.2026, 14:27:05",
+    "end": "14.11.2026, 18:03:05",
+    "areaName": "Stange / Ottestad / ENS14308",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 20993,
+      "antallkunder": 43,
+      "avbruddstype": "Unplanned",
+      "kommune": "Stange",
+      "nettstasjon": "ENS14308",
+      "poststed": "Ottestad",
+      "strombruddoppdaget": 1794666425000,
+      "utkoblingslutt": 1794679385000,
+      "utkoblingstart": 1794666425000
+    }
+  },
+  {
+    "id": "elvia-21667",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 5,
+    "lat": 60.0878728065856,
+    "lng": 11.100574815570607,
+    "start": "14.11.2026, 10:03:58",
+    "end": "14.11.2026, 13:39:58",
+    "areaName": "Gjerdrum / Gjerdrum / G0501",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 21667,
+      "antallkunder": 5,
+      "avbruddstype": "Unplanned",
+      "kommune": "Gjerdrum",
+      "nettstasjon": "G0501",
+      "poststed": "Gjerdrum",
+      "strombruddoppdaget": 1794650638000,
+      "utkoblingslutt": 1794663598000,
+      "utkoblingstart": 1794650638000
+    }
+  },
+  {
     "id": "linja-planned-3530805",
     "company": "Linja",
     "type": "planned",

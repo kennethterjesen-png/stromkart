@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-14T07:58:40.044Z",
-  "count": 40,
+  "updatedAt": "2026-11-14T14:53:16.757Z",
+  "count": 42,
   "providers": [
     {
       "name": "Elvia",
       "ok": true,
-      "count": 0,
-      "rawCount": 0,
+      "count": 2,
+      "rawCount": 2,
       "filteredOut": 0,
       "warning": false,
       "error": null
