@@ -1,48 +1,94 @@
 [
   {
-    "id": "elvia-10563",
+    "id": "elvia-6077",
     "company": "Elvia",
     "type": "planned",
-    "customers": 14,
-    "lat": 59.90010146964705,
-    "lng": 10.590530500258456,
-    "start": "14.11.2026, 18:32:44",
-    "end": "14.11.2026, 22:08:44",
-    "areaName": "Bærum / Høvik / B1937",
+    "customers": 332,
+    "lat": 59.911890606548695,
+    "lng": 10.76242313454555,
+    "start": "14.11.2026, 20:00:00",
+    "end": "15.11.2026, 11:00:00",
+    "areaName": "Oslo / Oslo / 0592",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 10563,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Bærum",
-      "nettstasjon": "B1937",
-      "poststed": "Høvik",
-      "strombruddoppdaget": 1794681164000,
-      "utkoblingslutt": 1794694124000,
-      "utkoblingstart": 1794681164000
+      "OBJECTID": 6077,
+      "antallkunder": 332,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "0592",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1794686689460,
+      "utkoblingslutt": 1794740400000,
+      "utkoblingstart": 1794686400000
     }
   },
   {
-    "id": "elvia-16843",
+    "id": "elvia-9745",
     "company": "Elvia",
     "type": "planned",
-    "customers": 7,
-    "lat": 60.73807647491479,
-    "lng": 11.84359019830527,
-    "start": "14.11.2026, 19:30:43",
-    "end": "14.11.2026, 23:06:43",
-    "areaName": "Våler / Braskereidfoss / ENS07120",
+    "customers": 14,
+    "lat": 59.892023921387874,
+    "lng": 10.573407772875356,
+    "start": "14.11.2026, 21:32:51",
+    "end": "15.11.2026, 01:08:51",
+    "areaName": "Bærum / Høvik / B0509",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 16843,
-      "antallkunder": 7,
+      "OBJECTID": 9745,
+      "antallkunder": 14,
       "avbruddstype": "Unplanned",
-      "kommune": "Våler",
-      "nettstasjon": "ENS07120",
-      "poststed": "Braskereidfoss",
-      "strombruddoppdaget": 1794684643000,
-      "utkoblingslutt": 1794697603000,
-      "utkoblingstart": 1794684643000
+      "kommune": "Bærum",
+      "nettstasjon": "B0509",
+      "poststed": "Høvik",
+      "strombruddoppdaget": 1794691971000,
+      "utkoblingslutt": 1794704931000,
+      "utkoblingstart": 1794691971000
+    }
+  },
+  {
+    "id": "elvia-19213",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 4,
+    "lat": 60.55633299921125,
+    "lng": 12.351730216403608,
+    "start": "14.11.2026, 23:21:45",
+    "end": "15.11.2026, 03:06:45",
+    "areaName": "Åsnes / Arneberg / ENS10659",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 19213,
+      "antallkunder": 4,
+      "avbruddstype": "Unplanned",
+      "kommune": "Åsnes",
+      "nettstasjon": "ENS10659",
+      "poststed": "Arneberg",
+      "strombruddoppdaget": 1794698505838,
+      "utkoblingslutt": 1794712005000,
+      "utkoblingstart": 1794698505838
+    }
+  },
+  {
+    "id": "elvia-19226",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 2,
+    "lat": 60.531918394245075,
+    "lng": 12.303326482595594,
+    "start": "14.11.2026, 23:21:45",
+    "end": "15.11.2026, 03:06:45",
+    "areaName": "Åsnes / Arneberg / ENS10680",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 19226,
+      "antallkunder": 2,
+      "avbruddstype": "Unplanned",
+      "kommune": "Åsnes",
+      "nettstasjon": "ENS10680",
+      "poststed": "Arneberg",
+      "strombruddoppdaget": 1794698505838,
+      "utkoblingslutt": 1794712005000,
+      "utkoblingstart": 1794698505838
     }
   },
   {
@@ -690,40 +736,6 @@
       "MUNICIPAL_TXT": "HAREID",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-1",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 39,
-    "lat": 59.01301351292902,
-    "lng": 5.582958384262783,
-    "start": "13.11.2026, 10:13:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 39",
-      "description": "Rettet\nStartet: 2026-11-13 10:13\nSluttid: 2026-11-13 11:12\nPlanlagt strømstans.",
-      "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-3",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 1,
-    "lat": 58.67330458381043,
-    "lng": 5.853176521394041,
-    "start": "13.11.2026, 07:56:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 1",
-      "description": "Rettet\nStartet: 2026-11-13 07:56\nSluttid: 2026-11-13 11:56\nPlanlagt strømstans.",
-      "styleUrl": "#green"
     }
   },
   {
