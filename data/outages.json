@@ -23,6 +23,76 @@
     }
   },
   {
+    "id": "elvia-8330",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 251,
+    "lat": 59.93763964927215,
+    "lng": 10.768870571929257,
+    "start": "17.11.2026, 23:05:00",
+    "end": "18.11.2026, 05:00:00",
+    "areaName": "Oslo / Oslo / 3985",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 8330,
+      "antallkunder": 251,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "3985",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1794957619954,
+      "utkoblingslutt": 1794978000000,
+      "utkoblingstart": 1794956700000
+    }
+  },
+  {
+    "id": "elvia-9120",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 10,
+    "lat": 59.939660749213296,
+    "lng": 10.697775775165658,
+    "start": "17.11.2026, 23:05:00",
+    "end": "18.11.2026, 05:00:00",
+    "areaName": "Oslo / Oslo / 5166",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 9120,
+      "antallkunder": 10,
+      "avbruddstype": "Planned",
+      "kommune": "Oslo",
+      "nettstasjon": "5166",
+      "poststed": "Oslo",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1794978000000,
+      "utkoblingstart": 1794956700000
+    }
+  },
+  {
+    "id": "linja-outage-3532553",
+    "company": "Linja",
+    "type": "outage",
+    "customers": 13,
+    "lat": 61.84132195921933,
+    "lng": 6.013999704967952,
+    "start": "18.11.2026, 01:00:00",
+    "end": null,
+    "areaName": "GLOPPEN / Linja Sør",
+    "sourceUrl": "https://www.linja.no/straumbrot",
+    "raw": {
+      "EVENTID": 3532553,
+      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hestenes onsdag 18.november fra kl. 02:00 til 06:00.",
+      "STATE_TXT": "Pågående",
+      "STARTTIME": 1794963600000,
+      "TYPE_TXT": "Utkobling",
+      "FLAG": 400,
+      "MUNICIPAL_TXT": "GLOPPEN",
+      "PURCHAREA_TXT": "Linja Sør",
+      "NUM_NS": 0,
+      "NUM_AB": 13
+    }
+  },
+  {
     "id": "linja-planned-3535776",
     "company": "Linja",
     "type": "planned",
@@ -575,54 +645,6 @@
     }
   },
   {
-    "id": "linja-planned-3534872",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.80631389082852,
-    "lng": 6.146123252757109,
-    "start": "17.11.2026, 22:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3534872,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Nesavegen og Nordstrandvegen tirsdag 17.november fra kl. 23:00 til 02:30.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1794952800000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
-    "id": "linja-planned-3532553",
-    "company": "Linja",
-    "type": "planned",
-    "customers": 0,
-    "lat": 61.84132195921933,
-    "lng": 6.013999704967952,
-    "start": "18.11.2026, 01:00:00",
-    "end": null,
-    "areaName": "GLOPPEN / Linja Sør",
-    "sourceUrl": "https://www.linja.no/straumbrot",
-    "raw": {
-      "EVENTID": 3532553,
-      "CUSTOMER_WEB_TEXT": "På grunn av arbeid i strømnettet blir det strømstans for kunder i område Hestenes onsdag 18.november fra kl. 02:00 til 06:00.",
-      "STATE_TXT": "Godkjent",
-      "STARTTIME": 1794963600000,
-      "TYPE_TXT": "Utkobling",
-      "FLAG": 400,
-      "PURCHAREA_TXT": "Linja Sør",
-      "MUNICIPAL_TXT": "GLOPPEN",
-      "NUM_NS": 0,
-      "NUM_AB": 0
-    }
-  },
-  {
     "id": "linja-planned-3532561",
     "company": "Linja",
     "type": "planned",
@@ -647,19 +669,19 @@
     }
   },
   {
-    "id": "lnett-planned-1",
+    "id": "lnett-planned-7",
     "company": "Lnett",
     "type": "planned",
-    "customers": 10,
-    "lat": 59.21481111754594,
-    "lng": 6.12112674725248,
-    "start": "16.11.2026, 08:18:00",
+    "customers": 122,
+    "lat": 59.276511182632966,
+    "lng": 5.985266574211172,
+    "start": "17.11.2026, 09:09:00",
     "end": null,
     "areaName": "Planlagt vedlikehold",
     "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
     "raw": {
-      "name": "Berørte kunder: 10",
-      "description": "Rettet\nStartet: 2026-11-16 08:18\nSluttid: 2026-11-16 08:56\nPlanlagt strømstans.",
+      "name": "Berørte kunder: 122",
+      "description": "Rettet\nStartet: 2026-11-17 09:09\nSluttid: 2026-11-17 14:58\nplanlagt strømstans",
       "styleUrl": "#green"
     }
   },
