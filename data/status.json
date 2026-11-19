@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-18T18:08:00.881Z",
+  "updatedAt": "2026-11-19T00:17:37.922Z",
   "count": 31,
   "providers": [
     {
@@ -42,8 +42,8 @@
     {
       "name": "Linja",
       "ok": true,
-      "count": 22,
-      "rawCount": 22,
+      "count": 23,
+      "rawCount": 23,
       "filteredOut": 0,
       "warning": false,
       "error": null
@@ -51,8 +51,8 @@
     {
       "name": "Lnett",
       "ok": true,
-      "count": 3,
-      "rawCount": 3,
+      "count": 2,
+      "rawCount": 2,
       "filteredOut": 0,
       "warning": false,
       "error": null
