@@ -1,5 +1,51 @@
 [
   {
+    "id": "elvia-7672",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 9,
+    "lat": 59.942514896257045,
+    "lng": 10.64417610415845,
+    "start": "22.11.2026, 08:03:20",
+    "end": "22.11.2026, 11:39:20",
+    "areaName": "Oslo / Oslo / 2902",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 7672,
+      "antallkunder": 9,
+      "avbruddstype": "Unplanned",
+      "kommune": "Oslo",
+      "nettstasjon": "2902",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1795334600000,
+      "utkoblingslutt": 1795347560000,
+      "utkoblingstart": 1795334600000
+    }
+  },
+  {
+    "id": "elvia-11123",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 24,
+    "lat": 59.79368789018973,
+    "lng": 10.446799910892624,
+    "start": "22.11.2026, 04:55:55",
+    "end": "22.11.2026, 08:31:55",
+    "areaName": "Asker / Heggedal / D0163",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 11123,
+      "antallkunder": 24,
+      "avbruddstype": "Unplanned",
+      "kommune": "Asker",
+      "nettstasjon": "D0163",
+      "poststed": "Heggedal",
+      "strombruddoppdaget": 1795323355000,
+      "utkoblingslutt": 1795336315000,
+      "utkoblingstart": 1795323355000
+    }
+  },
+  {
     "id": "linja-outage-3547760",
     "company": "Linja",
     "type": "outage",
@@ -448,7 +494,7 @@
       "STATE_TXT": "Godkjent",
       "STARTTIME": 1795521600000,
       "TYPE_TXT": "Utkobling",
-      "FLAG": 128,
+      "FLAG": 400,
       "PURCHAREA_TXT": "Linja Sør",
       "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
@@ -477,6 +523,23 @@
       "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-1",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 180,
+    "lat": 58.97087385501556,
+    "lng": 5.720972953257135,
+    "start": "22.11.2026, 09:03:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 180",
+      "description": "Planlagt strømstans\nStartet: 2026-11-22 09:03\nPlanlagt ferdig: 2026-11-22 16:00\nvarslet strømstans",
+      "styleUrl": "#yellow"
     }
   },
   {
