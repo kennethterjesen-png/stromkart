@@ -1,74 +1,5 @@
 [
   {
-    "id": "elvia-11955",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 40,
-    "lat": 60.24513606008841,
-    "lng": 11.211558159838258,
-    "start": "21.11.2026, 11:10:34",
-    "end": "21.11.2026, 14:55:34",
-    "areaName": "Eidsvoll / Dal / E0380",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11955,
-      "antallkunder": 40,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0380",
-      "poststed": "Dal",
-      "strombruddoppdaget": 1795259434755,
-      "utkoblingslutt": 1795272934000,
-      "utkoblingstart": 1795259434755
-    }
-  },
-  {
-    "id": "elvia-12015",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 88,
-    "lat": 60.24251849914787,
-    "lng": 11.207488069944358,
-    "start": "21.11.2026, 11:10:34",
-    "end": "21.11.2026, 14:55:34",
-    "areaName": "Eidsvoll / Dal / E0465",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12015,
-      "antallkunder": 88,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0465",
-      "poststed": "Dal",
-      "strombruddoppdaget": 1795259434755,
-      "utkoblingslutt": 1795272934000,
-      "utkoblingstart": 1795259434755
-    }
-  },
-  {
-    "id": "elvia-12142",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 14,
-    "lat": 60.244890925238145,
-    "lng": 11.20654012034641,
-    "start": "21.11.2026, 11:10:34",
-    "end": "21.11.2026, 14:55:34",
-    "areaName": "Eidsvoll / Dal / E0655",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 12142,
-      "antallkunder": 14,
-      "avbruddstype": "Unplanned",
-      "kommune": "Eidsvoll",
-      "nettstasjon": "E0655",
-      "poststed": "Dal",
-      "strombruddoppdaget": 1795259434755,
-      "utkoblingslutt": 1795272934000,
-      "utkoblingstart": 1795259434755
-    }
-  },
-  {
     "id": "linja-outage-3547760",
     "company": "Linja",
     "type": "outage",
@@ -546,40 +477,6 @@
       "MUNICIPAL_TXT": "GLOPPEN",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-planned-1",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 13,
-    "lat": 58.89216107630001,
-    "lng": 5.698620088810492,
-    "start": "19.11.2026, 23:29:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 13",
-      "description": "Rettet\nStartet: 2026-11-19 23:29\nSluttid: 2026-11-20 02:20\nPlanlagt strømstans",
-      "styleUrl": "#green"
-    }
-  },
-  {
-    "id": "lnett-planned-3",
-    "company": "Lnett",
-    "type": "planned",
-    "customers": 16,
-    "lat": 58.89191765971459,
-    "lng": 5.703186586077855,
-    "start": "19.11.2026, 23:02:00",
-    "end": null,
-    "areaName": "Planlagt vedlikehold",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 16",
-      "description": "Rettet\nStartet: 2026-11-19 23:02\nSluttid: 2026-11-20 03:55\nPlanlagt strømstans.",
-      "styleUrl": "#green"
     }
   },
   {
