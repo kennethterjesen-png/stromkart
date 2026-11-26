@@ -32,29 +32,6 @@
     }
   },
   {
-    "id": "elvia-1748",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 4,
-    "lat": 59.79455878516003,
-    "lng": 10.49346995449737,
-    "start": "26.11.2026, 07:00:00",
-    "end": "26.11.2026, 14:30:00",
-    "areaName": "Asker / Vollen / D0339",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 1748,
-      "antallkunder": 4,
-      "avbruddstype": "Planned",
-      "kommune": "Asker",
-      "nettstasjon": "D0339",
-      "poststed": "Vollen",
-      "strombruddoppdaget": 1795677000885,
-      "utkoblingslutt": 1795703400000,
-      "utkoblingstart": 1795676400000
-    }
-  },
-  {
     "id": "elvia-6418",
     "company": "Elvia",
     "type": "planned",
@@ -78,72 +55,95 @@
     }
   },
   {
-    "id": "elvia-9758",
+    "id": "elvia-12832",
     "company": "Elvia",
     "type": "planned",
-    "customers": 8,
-    "lat": 59.91939851247191,
-    "lng": 10.492886000522782,
-    "start": "26.11.2026, 08:00:00",
-    "end": "26.11.2026, 14:00:00",
-    "areaName": "Bærum / Rykkinn / B0541",
+    "customers": 42,
+    "lat": 60.81557069018797,
+    "lng": 10.671423023944458,
+    "start": "26.11.2026, 22:38:37",
+    "end": "27.11.2026, 02:14:37",
+    "areaName": "Gjøvik / Gjøvik / ENS00968",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 9758,
-      "antallkunder": 8,
-      "avbruddstype": "Planned",
-      "kommune": "Bærum",
-      "nettstasjon": "B0541",
-      "poststed": "Rykkinn",
-      "strombruddoppdaget": null,
-      "utkoblingslutt": 1795701600000,
-      "utkoblingstart": 1795680000000
+      "OBJECTID": 12832,
+      "antallkunder": 42,
+      "avbruddstype": "Unplanned",
+      "kommune": "Gjøvik",
+      "nettstasjon": "ENS00968",
+      "poststed": "Gjøvik",
+      "strombruddoppdaget": 1795732717000,
+      "utkoblingslutt": 1795745677000,
+      "utkoblingstart": 1795732717000
     }
   },
   {
-    "id": "elvia-11012",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 13,
-    "lat": 59.79556644585412,
-    "lng": 10.493783569934099,
-    "start": "26.11.2026, 07:00:00",
-    "end": "26.11.2026, 14:30:00",
-    "areaName": "Asker / Vollen / D0022",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 11012,
-      "antallkunder": 13,
-      "avbruddstype": "Planned",
-      "kommune": "Asker",
-      "nettstasjon": "D0022",
-      "poststed": "Vollen",
-      "strombruddoppdaget": 1795677000885,
-      "utkoblingslutt": 1795703400000,
-      "utkoblingstart": 1795676400000
-    }
-  },
-  {
-    "id": "elvia-22635",
+    "id": "elvia-21745",
     "company": "Elvia",
     "type": "planned",
     "customers": 6,
-    "lat": 60.02703267431206,
-    "lng": 11.068473578107266,
-    "start": "26.11.2026, 14:02:41",
-    "end": "26.11.2026, 17:38:41",
-    "areaName": "Lillestrøm / Frogner / K0648",
+    "lat": 60.47877538530034,
+    "lng": 11.014440806008487,
+    "start": "26.11.2026, 22:15:45",
+    "end": "27.11.2026, 01:51:45",
+    "areaName": "Hurdal / Hurdal / H0155",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 22635,
+      "OBJECTID": 21745,
       "antallkunder": 6,
       "avbruddstype": "Unplanned",
-      "kommune": "Lillestrøm",
-      "nettstasjon": "K0648",
-      "poststed": "Frogner",
-      "strombruddoppdaget": 1795701761000,
-      "utkoblingslutt": 1795714721000,
-      "utkoblingstart": 1795701761000
+      "kommune": "Hurdal",
+      "nettstasjon": "H0155",
+      "poststed": "Hurdal",
+      "strombruddoppdaget": 1795731345000,
+      "utkoblingslutt": 1795744305000,
+      "utkoblingstart": 1795731345000
+    }
+  },
+  {
+    "id": "elvia-26189",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 6,
+    "lat": 60.063638453083286,
+    "lng": 11.124549933768767,
+    "start": "26.11.2026, 22:10:17",
+    "end": "27.11.2026, 01:46:17",
+    "areaName": "Ullensaker / Kløfta / U2808",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 26189,
+      "antallkunder": 6,
+      "avbruddstype": "Unplanned",
+      "kommune": "Ullensaker",
+      "nettstasjon": "U2808",
+      "poststed": "Kløfta",
+      "strombruddoppdaget": 1795731017000,
+      "utkoblingslutt": 1795743977000,
+      "utkoblingstart": 1795731017000
+    }
+  },
+  {
+    "id": "elvia-28319",
+    "company": "Elvia",
+    "type": "planned",
+    "customers": 20,
+    "lat": 59.21599172590439,
+    "lng": 10.903600486222937,
+    "start": "26.11.2026, 23:05:00",
+    "end": "27.11.2026, 02:00:00",
+    "areaName": "Fredrikstad / Gressvik / X2247",
+    "sourceUrl": "https://www.elvia.no/strombruddskart/",
+    "raw": {
+      "OBJECTID": 28319,
+      "antallkunder": 20,
+      "avbruddstype": "Planned",
+      "kommune": "Fredrikstad",
+      "nettstasjon": "X2247",
+      "poststed": "Gressvik",
+      "strombruddoppdaget": null,
+      "utkoblingslutt": 1795744800000,
+      "utkoblingstart": 1795734300000
     }
   },
   {
@@ -1175,6 +1175,23 @@
       "MUNICIPAL_TXT": "GISKE",
       "NUM_NS": 0,
       "NUM_AB": 0
+    }
+  },
+  {
+    "id": "lnett-planned-7",
+    "company": "Lnett",
+    "type": "planned",
+    "customers": 41,
+    "lat": 58.890435080326135,
+    "lng": 5.6251719830004765,
+    "start": "26.11.2026, 23:11:00",
+    "end": null,
+    "areaName": "Planlagt vedlikehold",
+    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
+    "raw": {
+      "name": "Berørte kunder: 41",
+      "description": "Planlagt strømstans\nStartet: 2026-11-26 23:11\nPlanlagt ferdig: 2026-11-27 05:00",
+      "styleUrl": "#yellow"
     }
   },
   {
