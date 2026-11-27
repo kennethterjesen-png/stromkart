@@ -1,25 +1,25 @@
 [
   {
-    "id": "elvia-20172",
+    "id": "elvia-5816",
     "company": "Elvia",
     "type": "planned",
-    "customers": 77,
-    "lat": 61.14463866901182,
-    "lng": 10.697851468582282,
-    "start": "27.11.2026, 12:53:34",
-    "end": "27.11.2026, 16:29:34",
-    "areaName": "Ringsaker / Sjusjøen / ENS12112",
+    "customers": 8,
+    "lat": 59.84443802134045,
+    "lng": 10.846430957129261,
+    "start": "27.11.2026, 21:36:48",
+    "end": "28.11.2026, 01:12:48",
+    "areaName": "Oslo / Oslo / 0209",
     "sourceUrl": "https://www.elvia.no/strombruddskart/",
     "raw": {
-      "OBJECTID": 20172,
-      "antallkunder": 77,
+      "OBJECTID": 5816,
+      "antallkunder": 8,
       "avbruddstype": "Unplanned",
-      "kommune": "Ringsaker",
-      "nettstasjon": "ENS12112",
-      "poststed": "Sjusjøen",
-      "strombruddoppdaget": 1795784014000,
-      "utkoblingslutt": 1795796974000,
-      "utkoblingstart": 1795784014000
+      "kommune": "Oslo",
+      "nettstasjon": "0209",
+      "poststed": "Oslo",
+      "strombruddoppdaget": 1795815408000,
+      "utkoblingslutt": 1795828368000,
+      "utkoblingstart": 1795815408000
     }
   },
   {
@@ -931,40 +931,6 @@
       "MUNICIPAL_TXT": "SULA",
       "NUM_NS": 0,
       "NUM_AB": 0
-    }
-  },
-  {
-    "id": "lnett-outage-11",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 5,
-    "lat": 58.92594582767592,
-    "lng": 5.608068490648951,
-    "start": "27.11.2026, 12:42:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 5",
-      "description": "Driftsforstyrrelse\nStartet: 2026-11-27 12:42\n12:42 - utkobling på grunn av graveskade. Reparasjon vil ta noen timer.",
-      "styleUrl": "#red"
-    }
-  },
-  {
-    "id": "lnett-outage-13",
-    "company": "Lnett",
-    "type": "outage",
-    "customers": 6,
-    "lat": 58.819789915394615,
-    "lng": 5.668087686055314,
-    "start": "27.11.2026, 12:20:00",
-    "end": null,
-    "areaName": "Driftsforstyrrelse",
-    "sourceUrl": "https://www.lysenett.no/map/fullscreen-map.html",
-    "raw": {
-      "name": "Berørte kunder: 6",
-      "description": "Driftsforstyrrelse\nStartet: 2026-11-27 12:20\n12:40 - Strømmen forventes innkoblet innen kl 17:00.\n12:20 - Hasteutkobling på grunn av feil i nettstasjon.",
-      "styleUrl": "#red"
     }
   },
   {
