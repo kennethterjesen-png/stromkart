@@ -1,28 +1,5 @@
 [
   {
-    "id": "elvia-5816",
-    "company": "Elvia",
-    "type": "planned",
-    "customers": 8,
-    "lat": 59.84443802134045,
-    "lng": 10.846430957129261,
-    "start": "27.11.2026, 21:36:48",
-    "end": "28.11.2026, 01:12:48",
-    "areaName": "Oslo / Oslo / 0209",
-    "sourceUrl": "https://www.elvia.no/strombruddskart/",
-    "raw": {
-      "OBJECTID": 5816,
-      "antallkunder": 8,
-      "avbruddstype": "Unplanned",
-      "kommune": "Oslo",
-      "nettstasjon": "0209",
-      "poststed": "Oslo",
-      "strombruddoppdaget": 1795815408000,
-      "utkoblingslutt": 1795828368000,
-      "utkoblingstart": 1795815408000
-    }
-  },
-  {
     "id": "elvia-28897",
     "company": "Elvia",
     "type": "planned",
@@ -43,6 +20,44 @@
       "strombruddoppdaget": null,
       "utkoblingslutt": 1795942800000,
       "utkoblingstart": 1795777200000
+    }
+  },
+  {
+    "id": "fagne-4803453",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 2,
+    "lat": 59.264918674714934,
+    "lng": 5.188896006050848,
+    "start": null,
+    "end": null,
+    "areaName": "KARMØY",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "KARMØY",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
+    }
+  },
+  {
+    "id": "fagne-4803501",
+    "company": "Fagne",
+    "type": "outage",
+    "customers": 1,
+    "lat": 59.877988816360244,
+    "lng": 5.319233411513309,
+    "start": null,
+    "end": null,
+    "areaName": "FITJAR",
+    "sourceUrl": "https://fagne.no/stromstans-og-feil/stromstans/",
+    "raw": {
+      "description": "",
+      "state": "Pågående",
+      "municipal": "FITJAR",
+      "typeTxt": "Driftsforstyrrelse",
+      "issueStateChangeEmail": ""
     }
   },
   {
